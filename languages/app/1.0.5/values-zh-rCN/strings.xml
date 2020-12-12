@@ -1,0 +1,411 @@
+<resources>
+    <string name="leaf_note">言叶</string>
+    <string name="language">zh_CN</string>
+
+    <string name="search">搜索</string>
+    <string name="close">关闭</string>
+    <string name="clear">清理</string>
+    <string name="done">完成</string>
+    <string name="cancel">取消</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="failed">失败</string>
+    <string name="succeed">成功</string>
+    <string name="saved">已保存</string>
+    <string name="not_save">待保存</string>
+    <string name="confirm">确定</string>
+    <string name="send">发送</string>
+    <string name="edit">编辑</string>
+    <string name="message">消息</string>
+    <string name="redo">重做</string>
+    <string name="undo">撤销</string>
+    <string name="sort">排序</string>
+    <string name="sort_by_name">按名称排序</string>
+    <string name="sort_by_date">按日期排序</string>
+    <string name="sort_by_type">按类型排序</string>
+    <string name="help">帮助</string>
+    <string name="final_result">结果</string>
+    <string name="input_empty">请填写</string>
+    <string name="export">导出</string>
+    <string name="copy">复制</string>
+    <string name="copied">已复制</string>
+    <string name="exported">已导出</string>
+    <string name="rename">重命名</string>
+    <string name="move">移动</string>
+    <string name="apply">应用</string>
+    <string name="vip" translatable="false">VIP</string>
+
+    <string name="folder">目录</string>
+    <string name="failed_with">失败：%s</string>
+    <string name="create_folder">创建目录</string>
+    <string name="folder_same_name">已存在同名目录</string>
+    <string name="update_folder">修改目录</string>
+    <string name="folder_with">目录: %s</string>
+    <string name="last_update_with">最后更新: %s</string>
+    <string name="folder_not_empty">该目录不为空，确定删除？</string>
+    <string name="delete_still">仍然删除</string>
+    <string name="note">笔记</string>
+    <string name="picture">图片</string>
+    <string name="file_tree">文件树</string>
+    <string name="capture">拍照</string>
+    <string name="file">文件</string>
+    <string name="add_shortcut">添加快捷方式</string>
+    <string name="note_not_found_with">没有找到该笔记：%s</string>
+    <string name="share_by_text">分享文本</string>
+    <string name="share_by_html">分享 Html</string>
+    <string name="export_by_text">导出文本</string>
+    <string name="export_by_html">导出 Html</string>
+    <string name="export_by_pdf">打印 PDF</string>
+    <string name="failed_parse_not_info">解析笔记信息失败</string>
+    <string name="again_exit">再按一次退出</string>
+    <string name="select_folder_move_to">选择要移动到的目录</string>
+    <string name="share_app">分享应用</string>
+    <string name="expand_with">展开 &gt;</string>
+    <string name="fold_with">折叠 &lt;</string>
+
+    <string name="premium_free">永久免费版</string>
+    <string name="premium_premium">永久高级版</string>
+    <string name="premium_professional">永久专业版</string>
+    <string name="premium_premium_free_trail">高级免费试用版</string>
+    <string name="premium_professional_free_trail">专业免费试用版</string>
+    <string name="premium_center">会员中心</string>
+    <string name="premium_free_trail_with">开启 %d 天免费试用</string>
+    <string name="premium_free_trail_days_left"> 剩余%d天</string>
+    <string name="premium_select_tip">从下面的版本中选择一个并进行支付</string>
+    <string name="premium_become_premium">成为高级版本</string>
+    <string name="premium_become_professional">成为专业版本</string>
+    <string name="premium_rights">你将享有的权益</string>
+    <string name="premium_price">价格：%s</string>
+    <string name="premium_price_discount">价格：%1$s，原价：%2$s</string>
+    <string name="premium_payment_count">你共有%d个订单，点击查看详情</string>
+    <string name="premium_payment_list">订单列表</string>
+    <string name="premium_commit_payment">提交订单</string>
+    <string name="premium_serial_input_hint">在这里输入订单流水号</string>
+    <string name="premium_serial_input_length_tip">请检查流水号是否合法</string>
+    <string name="premium_serial_committed">订单已提交，请耐心等待订单处理结果，这可能需要一点时间。</string>
+    <string name="premium_serial_committing">订单提交中&#8230;</string>
+    <string name="premium_payway_with">支付方式：%s</string>
+    <string name="premium_order_number_with">订单编号：%s</string>
+    <string name="premium_serial_number_with">订单流水号：%s</string>
+    <string name="premium_owe_money_with">应付金额：%s</string>
+    <string name="premium_payment_status_check_passed">通过审核</string>
+    <string name="premium_payment_status_check_failed">审核失败</string>
+    <string name="premium_payment_status_commit_success">已提交</string>
+    <string name="premium_payment_status_done">已结单</string>
+    <string name="premium_premium_required">你需要成为高级版才能使用该功能！</string>
+    <string name="premium_professional_required">你需要成为专业版才能使用该功能！</string>
+    <string name="premium_free_rights"><![CDATA[
+    √ 所有基础功能<br/>
+    √ 2 种应用主题<br/>
+    √ 4 种编辑器主题<br/>
+    √ 4 种代码风格<br/>
+    × <del>导入/导出</del><br/>
+    × <del>快捷方式，输出 Html 和 PDF 等</del><br/>
+    × <del>WebDAV 同步</del><br/>
+    × <del>文件树浏览</del><br/>
+    × <del>桌面笔记小控件</del><br/>
+    × <del>新特性尝鲜</del>
+]]></string>
+    <string name="premium_premium_rights"><![CDATA[
+    √ 所有基础功能<br/>
+    √ 5 种应用主题<br/>
+    √ 13 种编辑器主题<br/>
+    √ 11 种代码风格<br/>
+    √ 导入/导出<br/>
+    √ 快捷方式，输出 Html 和 PDF 等<br/>
+    × <del>WebDAV 同步</del><br/>
+    × <del>文件树浏览</del><br/>
+    × <del>桌面笔记小控件</del><br/>
+    × <del>新特性尝鲜</del>
+]]></string>
+    <string name="premium_professional_rights"><![CDATA[
+    √ 所有基础功能<br/>
+    √ 8 种应用主题<br/>
+    √ 24 种编辑器主题<br/>
+    √ 28 种代码风格<br/>
+    √ 导入/导出<br/>
+    √ 快捷方式，输出 Html 和 PDF 等<br/>
+    √ WebDAV 同步<br/>
+    √ 文件树浏览<br/>
+    √ 桌面笔记小控件<br/>
+    √ 新特性尝鲜
+]]></string>
+    <string name="premium_free_trail_requirement">请求发送成功，会员功能需要几分钟生效，请耐心等待！</string>
+
+    <string name="pay_payway">选择支付方式</string>
+    <string name="pay_pay_by_wechat">通过微信支付</string>
+    <string name="pay_pay_by_alipay">通过支付宝支付</string>
+    <string name="pay_question_tip">支付遇到问题</string>
+    <string name="pay_wechat_title">通过微信支付</string>
+    <string name="pay_wechat_summary">微信扫一扫或点击\"去支付\"，然后从相册中选取二维码识别并转账\n转账后在本页面提交订单流水号即可</string>
+    <string name="pay_alipay_title">通过支付宝支付</string>
+    <string name="pay_alipay_summary">支付宝扫一扫或点击\"去支付\"并转账\n转账后在本页面提交订单流水号即可</string>
+    <string name="pay_to_pay">去支付</string>
+    <string name="pay_to_commit">提交订单流水号</string>
+    <string name="pay_qrcode_saved_to">二维码已经导出到%s</string>
+    <string name="pay_wechat_not_install">未安装微信</string>
+    <string name="pay_thanks">这个项目因为你的支持而能够不断更新、完善，非常感谢你的支持</string>
+    <string name="pay_launch_alipay_error">打开支付宝失败</string>
+
+    <string name="search_searching">搜索中&#8230;</string>
+    <string name="search_finish">搜索完毕</string>
+    <string name="search_hint">输入要搜索的内容</string>
+    <string name="search_empty_tip">没有找到要搜索的内容？换个词汇试试</string>
+
+    <string name="compose_note_saved">笔记已保存</string>
+    <string name="compose_default_note_name">未命名笔记</string>
+    <string name="compose_title_hint">请输入笔记的名称</string>
+    <string name="compose_content_hint">在这里写下自己想说的话&#8230;</string>
+    <string name="compose_chars">字符:</string>
+    <string name="compose_background_tips">应用切换到后台运行，笔记已保存到历史记录</string>
+    <string name="compose_editor_style">选择编辑器主题</string>
+    <string name="compose_preview">预览</string>
+    <string name="compose_math_input">输入 MathJax 表达式</string>
+    <string name="compose_row_col_input">输入表格的行/列数</string>
+    <string name="compose_row_number">行数</string>
+    <string name="compose_col_number">列数</string>
+    <string name="compose_link_input">输入链接</string>
+    <string name="compose_link_name">链接名称</string>
+    <string name="compose_link_address">链接地址</string>
+    <string name="compose_image_input">输入图片链接</string>
+    <string name="compose_image_name">图片链接</string>
+    <string name="compose_image_address">图片链接地址</string>
+    <string name="compose_image_options">选择图片来源</string>
+    <string name="compose_image_file_system">从相册选择</string>
+    <string name="compose_image_capture">拍摄照片</string>
+    <string name="compose_image_network">网络图片链接</string>
+    <string name="compose_note_setting">笔记设置</string>
+    <string name="compose_note_setting_style">编辑器主题</string>
+    <string name="compose_note_setting_code_style">代码风格</string>
+    <string name="compose_note_align_left">左对齐</string>
+    <string name="compose_note_align_right">右对齐</string>
+    <string name="compose_note_align_center">居中对齐</string>
+    <string name="compose_note_text_wrap">自动换行</string>
+    <string name="compose_note_text_size">字体大小</string>
+    <string name="compose_note_setting_style_sample" translatable="false"><![CDATA[<b>The Editor Style</b><br/>Thanks for using <b>LeafNote</b>, the <i>note</i> taking application. If you have any suggestions about this App, please contact me at <a href="mailto:shouhenng2015@gmail.com">shouheng2015@gmail.com<a/>. Thanks again and enjoy it!<bt/> <i>2020/11/15 21:00 by Developer</i>]]></string>
+    <string name="compose_note_setting_markdown_enabled">Markdown 已启用</string>
+    <string name="compose_note_setting_markdown_disabled">Markdown 已禁用</string>
+    <string name="compose_note_setting_category">添加到分类</string>
+    <string name="compose_note_setting_tags">添加标签</string>
+    <string name="compose_note_setting_info">信息</string>
+    <string name="compose_note_setting_history">历史记录</string>
+    <string name="compose_category_add">添加分类</string>
+    <string name="compose_category_added">已添加分类</string>
+    <string name="compose_tag_add">添加标签</string>
+    <string name="compose_tag_added">已添加标签</string>
+    <string name="compose_note_info_pattern">标题：%1$s\n标签：%2$s\n分类：%3$s\n创建日期：%4$s\n最后修改：%5$s</string>
+    <string name="compose_history_not_found">没有该笔记的历史记录</string>
+    <string name="compose_history_confirm">确定使用处理结果笔记内容（这会覆盖之前编辑的内容）？</string>
+    <string name="compose_create_file">创建文件</string>
+    <string name="compose_file_name_input">输入文件名 (包含拓展名)</string>
+    <string name="compose_file_extension_not_support">不支持这种拓展名的文件。\n\n提示：你可以在笔记的设置中修改支持的文件拓展名。</string>
+    <string name="compose_file_name_illegal">文件名包含非法字符。\n\n提示：你可以在笔记的设置中指定哪些字符为非法字符。</string>
+    <string name="compose_note_un_finish_title">继续编辑\"%s\"？\n\n提示：你可以从历史记录中恢复之前到之前的进度</string>
+    <string name="compose_not_support_type">不支持打开这种类型文件，你可以在\"设置-笔记-支持打开的文件拓展名\"中修改这一设定</string>
+
+    <string name="image_source_image_limit">图片的长和宽至少 %1$dpx 并且不小于 %2$dpx</string>
+
+    <string name="comn_load_executing">正在执行&#8230;</string>
+    <string name="comn_load_loading">数据加载中&#8230;</string>
+    <string name="comn_load_empty">数据为空 :)</string>
+    <string name="comn_crash_tips">发生了崩溃，抱歉！</string>
+
+    <string name="main_menu_item_timeline">时间线</string>
+    <string name="main_menu_item_category">分类</string>
+    <string name="main_menu_item_tag">标签</string>
+    <string name="main_menu_item_help">帮助反馈</string>
+    <string name="main_menu_item_setting">设置</string>
+
+    <string name="setting">设置</string>
+    <string name="set_personalization">个性化</string>
+    <string name="set_personalization_theme">应用主题</string>
+    <string name="set_personalization_theme_title">选择一个自己喜欢的主题</string>
+    <string name="set_personalization_theme_warm">曙光 · 橙</string>
+    <string name="set_personalization_theme_cold">活力 · 绿</string>
+    <string name="set_personalization_theme_dark">优雅 · 黑</string>
+    <string name="set_personalization_theme_purple">高贵 · 紫</string>
+    <string name="set_personalization_theme_pink">倾心 · 粉</string>
+    <string name="set_personalization_theme_dark_pink">优雅 · 黑 &amp; 倾心 · 粉</string>
+    <string name="set_code_style">代码主题</string>
+    <string name="set_about">关于</string>
+    <string name="set_about_app">关于应用</string>
+    <string name="set_privacy">隐私政策</string>
+    <string name="set_other">其他</string>
+    <string name="set_universal">通用</string>
+    <string name="set_find_me_in_app_store">应用主页</string>
+    <string name="set_find_me_in_app_store_sub">可以在该软件的主页中直接找到该软件的下载地址以获取正版应用。盗版猖獗，请支持和尊重开发者的工作！</string>
+    <string name="set_translate">Translate</string>
+    <string name="set_translate_sub">If you want to translate or improve your language, please visit our community page on Github for details.</string>
+    <string name="set_license">开源许可</string>
+    <string name="set_editor_style">编辑器主题</string>
+    <string name="set_use_pretty_time">使用美化的时间和日期</string>
+    <string name="set_note">笔记</string>
+    <string name="set_note_sub">笔记相关的设置</string>
+    <string name="set_export">导入/导出</string>
+    <string name="set_export_sub">导入/导出（备份）数据到外部存储</string>
+    <string name="set_note_extensions">笔记文件拓展名</string>
+    <string name="set_note_extensions_tip">添加笔记文件拓展名，多个拓展名之间以逗号(,)分开</string>
+    <string name="set_note_extensions_sub">使用了指定的拓展名的文件将被应用识别为笔记（笔记和文件在 UI 表现上有细微的区别）</string>
+    <string name="set_support_extensions">支持打开的文件拓展名</string>
+    <string name="set_support_extensions_tip">添加支持打开的文件拓展名，多个拓展名之间以逗号(,)分开</string>
+    <string name="set_support_extensions_sub">指定拓展名结尾的文件将会被以文本的形式读取</string>
+    <string name="set_illegal_charset">配置文件名的非法字符</string>
+    <string name="set_illegal_charset_sub">非法字符会导致文件创建失败或者同步到其他平台发生错误，配置非法字符可以对此进行校验并自动处理</string>
+    <string name="set_note_expand">使用展开的笔记列表视图</string>
+    <string name="set_note_expand_sub">打开之后将会使用展开的列表视图，否则使用缩略图</string>
+    <string name="set_sync">云同步</string>
+    <string name="set_sync_sub">通过 WebDAV 同步到其他平台</string>
+    <string name="set_sync_enable">启用自动同步</string>
+    <string name="set_sync_webdav_server">配置 WebDAV 服务器</string>
+    <string name="set_sync_webdav_server_host">WebDAV 服务器地址</string>
+    <string name="set_sync_webdav_server_account">账户</string>
+    <string name="set_sync_webdav_server_password">应用密码</string>
+    <string name="set_sync_webdav_server_please">请配置 WebDAV 信息</string>
+    <string name="set_sync_webdav_server_configured">已配置 WebDAV</string>
+    <string name="set_sync_webdav_server_not_config">还没有配置 WebDAV</string>
+    <string name="set_sync_webdav_server_connect_test">连接 WebDAV 测试配置</string>
+    <string name="set_sync_webdav_server_connect_test_message">言叶将在你的 WebDAV 服务器创建一个名为 \"Hello.txt\" 的文件来，你可以通过检查该文件是否存在来判断 WebDAV 是否配置成功！</string>
+    <string name="set_sync_interval">同步时间间隔</string>
+    <string name="set_sync_only_wifi">只在 Wi-Fi 环境下同步</string>
+    <string name="set_sync_last_time">上次同步时间</string>
+    <string name="set_sync_last_info">上次同步信息</string>
+    <string name="set_sync_num_with">%d 文件已同步</string>
+    <string name="set_sync_done">数据同步完成</string>
+    <string name="set_sync_done_with_error">数据同步完成，%d 文件冲突</string>
+    <string name="set_sync_interval_0">每 6 小时</string>
+    <string name="set_sync_interval_1">每 12 小时</string>
+    <string name="set_sync_interval_2">每天一次</string>
+    <string name="set_sync_interval_3">每隔三天</string>
+    <string name="set_sync_interval_4">每隔一周</string>
+    <string name="set_sync_interval_5">每半个月</string>
+    <string name="set_sync_interval_6">每一个月</string>
+    <string name="set_sync_interval_7">手动同步</string>
+
+    <string name="set_export_export">导出数据</string>
+    <string name="set_export_export_sub">导出到外部存储空间的数据不会在应用卸载的时候被删除。你也可以使用其他工具对导出目录进行同步来实现多端同步。</string>
+    <string name="set_export_import">导入数据</string>
+    <string name="set_export_import_sub">从外部存储空间导入数据</string>
+    <string name="set_export_time">上次导出时间</string>
+    <string name="set_export_path">导出路径</string>
+    <string name="set_export_export_done">数据导出完成</string>
+    <string name="set_export_export_num_with">%d 文件已导出</string>
+    <string name="set_export_import_num_with">%d 文件已导入</string>
+    <string name="set_export_export_done_with_error">数据导出完成，%d 文件冲突</string>
+    <string name="set_export_import_done_with_error">数据导入完成，%d 文件冲突</string>
+    <string name="set_export_import_done">数据导入完成</string>
+    <string name="set_export_executing">导入/导出任务进行中</string>
+    <string name="set_export_conflict_with">%d 文件冲突</string>
+
+    <string name="set_report_no_conflict">恭喜，没有发现文件冲突！</string>
+
+    <string name="set_conflict_resolve">处理文件冲突</string>
+    <string name="set_conflict_path_tips">冲突的可能原因：\n
+        1. 文件夹名称不合法（比如，包含非法字符等），建议修改文件夹名称并再次尝试；\n
+    2.客户端请求过于频繁，请暂停一会儿再同步并调整同步的时间间隔。</string>
+
+    <string name="about_app_section">简 · 介</string>
+    <string name="about_app_detail"><![CDATA[你好，感谢你使用「言叶」！<br/><br/>
+    言叶是一个丰富、强大的笔记应用，<b>连接手机、电脑和其他终端，为跨平台而设计</b>，同步之后的笔记无需任何改动可以在其他平台编辑和浏览。目前支持特性如下：<br/><br/>
+    * <b>丰富的语法</b>：丰富的 Markdown 语法、各种计算机语言语法高亮、MathJax 语法等；<br/>
+    * <b>支持图片</b>：支持拍照和选择图片，可直接在笔记中插入图片，使用相对目录结构，无需改动即可在其他平台预览；<br/>
+    * <b>为多端协作设计</b>：提供了 导入/导出 和 WebDAV 两种方式与其他平台进行数据交互；<br/>
+    * <b>文件管理规范</b>：设计了文件管理规范，你可以在其他平台、使用任何工具编辑笔记并与客户端同步；<br/>
+    * <b>文件浏览</b>：可以使用该软件浏览代码和打开各类文本；<br/>
+    * <b>与 Hexo 协作</b>：按照 Hexo 笔记格式进行标题、日期、分类和标签管理；<br/>
+    * <b>增强搜索功能</b>：可以在应用内搜索所有笔记的标题和内容，同时提供了搜索结果的高亮展示；<br/>
+    * <b>多层级目录结构</b>：完全基于文件系统管理笔记，简单易上手，没有引入任何概念；<br/>
+    * <b>算法优化</b>：提供多平台同步文件冲突处理机制，优化了文件同步机制和图片压缩等，更省流量；<br/>
+    * <b>全新设计</b>：全新的设计风格，支持 5+ 种应用主题、日间和夜间主题、24+ 种编辑器主题、28+ 代码主题，沉浸式体验，像素级设计；<br/>
+    * <b>特性支持</b>：充分利用安卓特性，支持添加笔记快捷方式，桌面快捷方式和桌面小控件等；<br/>
+    * <b>贴心工具</b>：时间线、桌面右侧目录结构快速预览和定位、自定义文字大小、导出和打印 PDF、Html、文本等；<br/>
+    * <b>高级防丢失</b>：草稿定时存储，意外退出自动保存，同步冲突处理机制，全方位保护你的作品。<br/><br/>
+    若你在使用时发现了不足之处，请按照我们提供的渠道进行<b>反馈</b>。我们希望和你一起来把这个应用做得更好！<br/>]]></string>
+    <string name="about_developer_section">开发者</string>
+    <string name="about_developer_name">王守恒</string>
+    <string name="about_developer_detail"><![CDATA[该应用的开发者和设计者]]></string>
+    <string name="about_other_apps">作者的作品</string>
+    <string name="about_other_marknote">马克笔记</string>
+    <string name="about_other_mobile_box">移动工具箱</string>
+    <string name="about_other_marknote_desc"><![CDATA[开源版本：一款快速、质感设计、功能丰富的 <b>Markdown</b> 开源笔记应用]]></string>
+    <string name="about_other_mobile_box_desc"><![CDATA[「移动工具箱」一个<b>丰富、强大</b>的工具合集应用。它可以帮助你提升生活和工作效率。]]></string>
+
+    <string name="feedback">问题反馈</string>
+    <string name="feedback_thank">反馈成功！\n感谢你的反馈和支持！</string>
+    <string name="feedback_content_hint">反馈内容（可输入400字）</string>
+    <string name="feedback_contact_hint">联系方式（可不填）</string>
+    <string name="feedback_type_improvement">功能优化</string>
+    <string name="feedback_type_bug">Bug/崩溃</string>
+    <string name="feedback_goto">去反馈</string>
+
+    <string name="timeline_empty_title">你还没有任何活动哦</string>
+    <string name="timeline_added">添加了</string>
+    <string name="timeline_updated">更新了</string>
+
+    <string name="category_empty_title">你还没有添加任何分类哦</string>
+    <string name="tag_empty_title">你还没有添加任何标签哦</string>
+
+    <string name="shortcut_add_long_name">创建笔记</string>
+    <string name="shortcut_add_short_name">创建</string>
+    <string name="shortcut_search_long_name">搜索笔记</string>
+    <string name="shortcut_search_short_name">搜索</string>
+    <string name="shortcut_capture_long_name">拍照</string>
+    <string name="shortcut_capture_short_name">拍照</string>
+
+    <string name="join_qq_user_group">用户QQ群:878285438</string>
+    <string name="donate">捐赠项目</string>
+    <string name="share_text">嗨，我发现了一个非常棒的笔记应用「言叶」，推荐给你！\n
+        言叶是一个丰富、强大的笔记应用，连接手机、电脑和其他终端，为跨平台而设计，同步之后的笔记无需任何改动可以在其他平台编辑和浏览。目前支持特性如下：\n\n
+    * 丰富的语法：丰富的 Markdown 语法、各种计算机语言语法高亮、MathJax 语法等；\n
+    * 支持图片：支持拍照和选择图片，可直接在笔记中插入图片，使用相对目录结构，无需改动即可在其他平台预览；\n
+    * 为多端协作设计：提供了 导入/导出 和 WebDAV 两种方式与其他平台进行数据交互；\n
+    * 文件管理规范：设计了文件管理规范，你可以在其他平台、使用任何工具编辑笔记并与客户端同步；\n
+    * 文件浏览：可以使用该软件浏览代码和打开各类文本；\n
+    * 与 Hexo 协作：按照 Hexo 笔记格式进行标题、日期、分类和标签管理；\n
+    * 增强搜索功能：可以在应用内搜索所有笔记的标题和内容，同时提供了搜索结果的高亮展示；\n
+    * 多层级目录结构：完全基于文件系统管理笔记，简单易上手，没有引入任何概念；\n
+    * 算法优化：提供多平台同步文件冲突处理机制，优化了文件同步机制和图片压缩等，更省流量；\n
+    * 全新设计：全新的设计风格，支持 5+ 种应用主题、日间和夜间主题、24+ 种编辑器主题、28+ 代码主题，沉浸式体验，像素级设计；\n
+    * 特性支持：充分利用安卓特性，支持添加笔记快捷方式，桌面快捷方式和桌面小控件等；\n
+    * 贴心工具：时间线、桌面右侧目录结构快速预览和定位、自定义文字大小、导出和打印 PDF、Html、文本等；\n
+    * 高级防丢失：草稿定时存储，意外退出自动保存，同步冲突处理机制，全方位保护你的作品。\n\n
+        详情参考链接：%s</string>
+
+    <string name="config_found_new_version">发现新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
+    <string name="config_to_upgrade">去升级</string>
+    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能继续使用 APP\n\n* 使用该软件的过程中，我们会向你请求「存储空间」权限，用来暂存应用崩溃日志和笔记等。</string>
+    <string name="config_privacy_accept">同意并使用</string>
+    <string name="config_privacy_reject_exit">拒绝并退出</string>
+
+    <string name="message_read">已读</string>
+    <string name="message_not_read">未读</string>
+    <string name="message_empty_tip">没有发现你的消息</string>
+
+    <string name="security_user_info_falsified">The system detected that the user info might be falsified illegally! We suggest you contact the developer to seek help!</string>
+
+    <string name="uix_error_gif">Gif 的长和宽至少 %1$dpx 并且不大于 %2$sM</string>
+
+    <string name="uix_copy_link">复制链接</string>
+    <string name="uix_crash_close">关闭</string>
+    <string name="uix_crash_copy_log">复制日志</string>
+    <string name="uix_crash_error_details">错误详情</string>
+    <string name="uix_crash_error_info">错误信息</string>
+    <string name="uix_crash_log">错误日志</string>
+    <string name="uix_crash_restart">重启应用</string>
+    <string name="uix_not_allow_gif">不允许选择 Gif</string>
+    <string name="uix_offline_sub_title">请检查网络连接并重新尝试</string>
+    <string name="uix_offline_title">网页打开失败</string>
+    <string name="uix_open_in_browser">在浏览器中打开</string>
+    <string name="uix_rating_cancel">取消</string>
+    <string name="uix_rating_confirm">确定</string>
+    <string name="uix_rating_dialog_title">为应用打分</string>
+    <string name="uix_rating_feedback_cancel">狠心拒绝</string>
+    <string name="uix_rating_feedback_confirm">去反馈</string>
+    <string name="uix_rating_feedback_content">你愿意为我们提供一些反馈来帮助我们优化应用吗？</string>
+    <string name="uix_rating_feedback_page_title">意见反馈</string>
+    <string name="uix_rating_feedback_title">很抱歉，没能让你满意</string>
+    <string name="uix_rating_market_cancel">狠心拒绝</string>
+    <string name="uix_rating_market_confirm">去评分</string>
+    <string name="uix_rating_market_content">你愿意到应用商店来评分来鼓励开发者吗？</string>
+    <string name="uix_rating_market_title">很高兴你喜欢我们的应用</string>
+    <string name="uix_retry">重试</string>
+</resources>
