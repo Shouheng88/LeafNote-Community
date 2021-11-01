@@ -305,7 +305,7 @@
 
     <string name="about_app_section">簡 · 介</string>
     <string name="about_app_detail"><![CDATA[你好，感謝你使用「言葉」！<br/><br/>
-    言葉是一個豐富、強大的筆記應用，<b>連接手機、電腦和其他終端，為跨平臺而設計</b>，同步之後的筆記無需任何改動可以在其他平臺編輯和流覽。目前支持特性如下：<br/><br/>
+    言葉是一個豐富、強大的筆記應用，<b>連接手機、電腦和其他終端，為跨平臺而設計</b>，同步之後的筆記無需任何改動可以在其他平臺編輯和流覽。目前支援功能如下：<br/><br/>
     * <b>豐富的語法</b>：豐富的 Markdown 語法、各種電腦語言語法高亮、MathJax 語法等；<br/>
     * <b>支持圖片</b>：支持拍照和選擇圖片，可直接在筆記中插入圖片，使用相對資料夾結構，無需改動即可在其他平臺預覽；<br/>
     * <b>為多端協作設計</b>：提供了 匯入/匯出 和 WebDAV 兩種方式與其他平臺進行資料交互；<br/>
@@ -318,8 +318,8 @@
     * <b>全新設計</b>：全新的設計風格，支持 5+ 種應用主題、日間和夜間主題、24+ 種編輯器主題、28+ 代碼主題，沉浸式體驗，像素級設計；<br/>
     * <b>特性支持</b>：充分利用安卓特性，支持增加筆記快捷方式，桌面快捷方式和桌面小控件等；<br/>
     * <b>貼心工具</b>：時間線、桌面右側資料夾結構快速預覽和定位、自定義文字大小、匯出和列印 PDF、Html、文字文件等；<br/>
-    * <b>高級防丟失</b>：草稿定時儲存空間，意外退出自動儲存，同步衝突處理機制，全方位保護你的作品。<br/><br/>
-    若你在使用時發現了不足之處，請按照我們提供的管道進行<b>回饋</b>。我們希望和你一起來把這個應用做得更好！<br/>]]></string>
+    * <b>高級防丟失</b>：草稿定時儲存，意外退出自動儲存，同步衝突處理機制，全方位保護你的作品。<br/><br/>
+    若你在使用時發現了不足之處，請按照我們提供的管道進行<b>回饋</b>。我們希望和你一起來把這個程式做得更好！<br/>]]></string>
     <string name="about_developer_section">開發者</string>
     <string name="about_developer_name">王守恆</string>
     <string name="about_developer_detail"><![CDATA[該應用的開發者和設計者]]></string>
@@ -354,7 +354,7 @@
     <string name="join_qq_user_group">用戶QQ群:878285438</string>
     <string name="donate">捐贈專案</string>
     <string name="share_text">嗨，我發現了一個非常棒的筆記應用「言葉」，推薦給你！\n
-         言葉是一個豐富、強大的筆記應用，連接手機、電腦和其他終端，為跨平臺而設計，同步之後的筆記無需任何改動可以在其他平臺編輯和流覽。目前支持特性如下：\n\n
+         言葉是一個豐富、強大的筆記應用，連接手機、電腦和其他終端，為跨平臺而設計，同步之後的筆記無需任何改動可以在其他平臺編輯和流覽。目前支援功能如下：\n\n
     * 豐富的語法：豐富的 Markdown 語法、各種電腦語言語法高亮、MathJax 語法等；\n
     * 支持圖片：支持拍照和選擇圖片，可直接在筆記中插入圖片，使用相對資料夾結構，無需改動即可在其他平臺預覽；\n
     * 為多端協作設計：提供了 匯入/匯出 和 WebDAV 兩種方式與其他平臺進行資料交互；\n
@@ -367,7 +367,7 @@
     * 全新設計：全新的設計風格，支持 5+ 種應用主題、日間和夜間主題、24+ 種編輯器主題、28+ 代碼主題，沉浸式體驗，像素級設計；\n
     * 特性支持：充分利用安卓特性，支持增加筆記快捷方式，桌面快捷方式和桌面小控件等；\n
     * 貼心工具：時間線、桌面右側資料夾結構快速預覽和定位、自定義文字大小、匯出和列印 PDF、Html、文字文件等；\n
-    * 高級防丟失：草稿定時儲存空間，意外退出自動儲存，同步衝突處理機制，全方位保護你的作品。\n\n
+    * 高級防丟失：草稿定時儲存，意外退出自動儲存，同步衝突處理機制，全方位保護你的作品。\n\n
         詳情參考鏈結：%s</string>
 
     <string name="config_found_new_version">發現新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
@@ -402,7 +402,7 @@
     <string name="uix_rating_feedback_confirm">去反饋</string>
     <string name="uix_rating_feedback_content">你（妳）願意為我們提供一些回饋來幫助我們改善應用程式嗎？</string>
     <string name="uix_rating_feedback_page_title">意見回饋</string>
-    <string name="uix_rating_feedback_title">很抱歉，沒能讓妳滿意</string>
+    <string name="uix_rating_feedback_title">很抱歉，沒能讓你（妳）滿意</string>
     <string name="uix_rating_market_cancel">狠心拒絕</string>
     <string name="uix_rating_market_confirm">去評分</string>
     <string name="uix_rating_market_content">你（妳）願意到應用商店來評分來鼓勵開發者嗎？</string>
