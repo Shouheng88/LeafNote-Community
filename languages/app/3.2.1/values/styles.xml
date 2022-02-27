@@ -1,0 +1,350 @@
+<resources>
+
+    <style name="Base.AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/warm_theme_primary</item>
+        <item name="colorPrimaryDark">@color/warm_theme_primary_dark</item>
+        <item name="colorAccent">@color/warm_theme_accent</item>
+        <item name="android:windowBackground">@color/warm_theme_background</item>
+        <item name="themed_foreground">@color/warm_theme_foreground</item>
+        <item name="themed_background">@color/warm_theme_background</item>
+        <item name="themed_text_color_primary">@color/light_theme_text_color</item>
+        <item name="themed_text_color_secondary">@color/light_theme_sub_text_color</item>
+        <item name="themed_image_tint_color">@color/light_theme_image_tint_color</item>
+        <item name="themed_divider_color">@color/warm_theme_divider</item>
+        <item name="themed_dialog_corner_radius">12dp</item>
+        <item name="themed_foreground_accent">@color/warm_theme_foreground_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Cold" parent="Base.AppTheme">
+        <item name="colorPrimary">@color/cold_theme_primary</item>
+        <item name="colorPrimaryDark">@color/cold_theme_primary_dark</item>
+        <item name="colorAccent">@color/cold_theme_accent</item>
+        <item name="android:windowBackground">@color/cold_theme_background</item>
+        <item name="themed_foreground">@color/cold_theme_foreground</item>
+        <item name="themed_background">@color/cold_theme_background</item>
+        <item name="themed_divider_color">@color/cold_theme_divider</item>
+        <item name="themed_foreground_accent">@color/cold_theme_foreground_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Purple" parent="Base.AppTheme">
+        <item name="colorPrimary">@color/purple_theme_primary</item>
+        <item name="colorPrimaryDark">@color/purple_theme_primary_dark</item>
+        <item name="colorAccent">@color/purple_theme_accent</item>
+        <item name="android:windowBackground">@color/purple_theme_background</item>
+        <item name="themed_foreground">@color/purple_theme_foreground</item>
+        <item name="themed_background">@color/purple_theme_background</item>
+        <item name="themed_divider_color">@color/purple_theme_divider</item>
+        <item name="themed_foreground_accent">@color/purple_theme_foreground_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Pink" parent="Base.AppTheme">
+        <item name="colorPrimary">@color/pink_theme_primary</item>
+        <item name="colorPrimaryDark">@color/pink_theme_primary_dark</item>
+        <item name="colorAccent">@color/pink_theme_accent</item>
+        <item name="android:windowBackground">@color/pink_theme_background</item>
+        <item name="themed_foreground">@color/pink_theme_foreground</item>
+        <item name="themed_background">@color/pink_theme_background</item>
+        <item name="themed_divider_color">@color/pink_theme_divider</item>
+        <item name="themed_foreground_accent">@color/pink_theme_foreground_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Dark" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/dark_theme_primary</item>
+        <item name="colorPrimaryDark">@color/dark_theme_primary_dark</item>
+        <item name="colorAccent">@color/dark_theme_accent</item>
+        <item name="android:windowBackground">@color/dark_theme_background</item>
+        <item name="themed_foreground">@color/dark_theme_foreground</item>
+        <item name="themed_background">@color/dark_theme_background</item>
+        <item name="themed_text_color_primary">@color/dark_theme_text_color</item>
+        <item name="themed_text_color_secondary">@color/dark_theme_sub_text_color</item>
+        <item name="themed_image_tint_color">@color/dark_theme_image_tint_color</item>
+        <item name="themed_divider_color">@color/dark_theme_divider</item>
+        <item name="themed_dialog_corner_radius">12dp</item>
+        <item name="themed_foreground_accent">@color/dark_theme_foreground_accent</item>
+    </style>
+
+    <style name="TakePhoto" parent="Base.AppTheme.Dark">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+    </style>
+
+    <style name="Base.AppTheme.Dark.Pink" parent="Base.AppTheme.Dark">
+        <item name="colorPrimary">@color/pink_theme_primary</item>
+        <item name="colorAccent">@color/pink_theme_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Christmas" parent="Base.AppTheme.Dark">
+        <item name="colorPrimary">@color/christmas_primary</item>
+        <item name="colorAccent">@color/christmas_primary</item>
+        <item name="colorPrimaryDark">@color/christmas_background</item>
+        <item name="android:windowBackground">@color/christmas_background</item>
+        <item name="themed_foreground">@color/christmas_foreground</item>
+        <item name="themed_background">@color/christmas_background</item>
+        <item name="themed_divider_color">@color/christmas_divider</item>
+        <item name="themed_foreground_accent">@color/christmas_foreground_accent</item>
+    </style>
+
+    <style name="Base.AppTheme.Capture" parent="Base.AppTheme">
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorAccent">@android:color/black</item>
+    </style>
+
+    <style name="AppTheme.Branded" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/cold_theme_background</item>
+        <item name="android:windowBackground">@drawable/branded_background</item>
+        <!--        <item name="android:windowTranslucentStatus">true</item>-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.AppBarOverlayDark" parent="@style/ThemeOverlay.AppCompat.Dark" />
+    <style name="AppTheme.PopupOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.PopupOverlayDark" parent="@style/ThemeOverlay.AppCompat.Dark" />
+
+    <style name="TransParentDialog" parent="Theme.AppCompat.DayNight.Dialog">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Image"/>
+    <style name="Image.Middle">
+        <item name="android:padding">4dp</item>
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+    </style>
+    <style name="Image.Rotate">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:tint">?attr/themed_image_tint_color</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+    <style name="Image.Rotate.Divider">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+    <style name="Image.Bottom">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:alpha">0.6</item>
+        <item name="android:tint">?attr/themed_image_tint_color</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">40dp</item>
+    </style>
+    <style name="Image.Viewer">
+        <item name="android:alpha">0.7</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:tint">?attr/themed_image_tint_color</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">40dp</item>
+    </style>
+
+    <style name="Button"/>
+    <style name="Button.MainMenu">
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="Button.BindOption">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="Editor"/>
+    <style name="Editor.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">?attr/themed_text_color_primary</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Editor.Content">
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">40dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textColor">?attr/themed_text_color_primary</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Editor.Option">
+        <item name="android:tint">?attr/themed_image_tint_color</item>
+        <item name="android:padding">3dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">30dp</item>
+    </style>
+
+    <style name="AppWidget"/>
+    <style name="AppWidget.Logo">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/ic_widget_icon_selector</item>
+        <item name="android:layout_width">44dp</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="AppWidget.Button">
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/ic_widget_icon_selector</item>
+        <item name="android:layout_marginStart">12dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">40dp</item>
+    </style>
+
+    <style name="AboutPage.Button">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+    </style>
+
+    <style name="Message"/>
+    <style name="Message.BottomText">
+        <item name="android:textColor">?attr/themed_text_color_secondary</item>
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="Message.ReadIcon">
+        <item name="android:layout_height">12dp</item>
+        <item name="android:layout_width">12dp</item>
+        <item name="android:tint">?attr/themed_image_tint_color</item>
+    </style>
+
+    <style name="PayWay"/>
+    <style name="PayWay.Icon">
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_width">44dp</item>
+    </style>
+    <style name="PayWay.Text">
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textColor">?attr/themed_text_color_primary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="PayWay.Tip">
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#F5F5F5</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="PayWay.Title">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="PayWay.QrCode">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">200dp</item>
+    </style>
+    <style name="PayWay.Summary">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="PayWay.Button">
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:minWidth">296dp</item>
+        <item name="android:background">@drawable/ic_pay_round_btn_tran</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@drawable/ic_pay_button</item>
+    </style>
+    <style name="PayWay.Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Login"/>
+    <style name="Login.Input">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColorHint">?attr/themed_text_color_secondary</item>
+        <item name="android:textColor">?attr/themed_text_color_primary</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:lines">1</item>
+    </style>
+    <style name="Login.Counter">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingStart">30dp</item>
+        <item name="android:paddingEnd">30dp</item>
+        <item name="android:minWidth">90dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/send</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Login.Divider">
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:background">?attr/themed_divider_color</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+    <style name="Login.Button">
+        <item name="android:padding">14dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>
