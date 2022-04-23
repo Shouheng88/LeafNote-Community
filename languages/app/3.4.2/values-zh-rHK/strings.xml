@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leaf_note">言葉</string>
+    <string name="language">zh_HK</string>
+
+    <string name="search">搜尋</string>
+    <string name="close">關閉</string>
+    <string name="clear">清除</string>
+    <string name="done">完成</string>
+    <string name="cancel">取消</string>
+    <string name="share">分享</string>
+    <string name="delete">刪除</string>
+    <string name="failed">失敗</string>
+    <string name="succeed">成功</string>
+    <string name="saved">已儲存</string>
+    <string name="not_save">尚未儲存</string>
+    <string name="confirm">確定</string>
+    <string name="send">傳送</string>
+    <string name="edit">編輯</string>
+    <string name="message">消息</string>
+    <string name="redo">重做</string>
+    <string name="undo">還原</string>
+    <string name="sort">排序</string>
+    <string name="sort_direction_asc">升序排列</string>
+    <string name="sort_by_name">按名稱排序</string>
+    <string name="sort_by_date">按日期排序</string>
+    <string name="sort_by_type">按類型排序</string>
+    <string name="help">協助</string>
+    <string name="final_result">結果</string>
+    <string name="input_empty">請填寫</string>
+    <string name="export">匯出</string>
+    <string name="copy">複製</string>
+    <string name="copied">已複製</string>
+    <string name="exported">已匯出</string>
+    <string name="exported_to">已匯出到: %s</string>
+    <string name="rename">重新命名</string>
+    <string name="move">移動</string>
+    <string name="apply">套用</string>
+    <string name="vip">VIP</string>
+    <string name="available_with">有效時間: %s</string>
+    <string name="saving">正在保存 &#8230;</string>
+    <string name="register">註冊賬號</string>
+    <string name="bind">綁定</string>
+    <string name="binding">正在綁定 &#8230;</string>
+    <string name="unbind">解绑</string>
+    <string name="next">下一步</string>
+    <string name="to_read">去閱讀</string>
+    <string name="get_it">知道了</string>
+
+    <string name="folder">資料夾</string>
+    <string name="failed_with">失敗：%s</string>
+    <string name="create_folder">建立資料夾</string>
+    <string name="folder_same_name">已存在同名稱資料夾</string>
+    <string name="update_folder">修改資料夾</string>
+    <string name="folder_with">資料夾: %s</string>
+    <string name="last_update_with">更新: %s</string>
+    <string name="folder_not_empty">該資料夾不是空的，確定刪除？</string>
+    <string name="delete_still">仍要刪除</string>
+    <string name="note">筆記</string>
+    <string name="picture">圖片</string>
+    <string name="file_tree">檔案樹</string>
+    <string name="capture">拍照</string>
+    <string name="file">檔案</string>
+    <string name="add_shortcut">增加快捷方式</string>
+    <string name="note_not_found_with">沒有找到該筆記：%s</string>
+    <string name="share_by_text">分享文字文件</string>
+    <string name="share_by_html">分享 Html</string>
+    <string name="share_by_image">分享圖片</string>
+    <string name="export_by_text">匯出文字文件</string>
+    <string name="export_by_html">匯出 Html</string>
+    <string name="export_by_pdf">列印 PDF</string>
+    <string name="export_by_image">導出圖片</string>
+    <string name="failed_parse_not_info">解析筆記資訊失敗</string>
+    <string name="again_exit">再按一次退出</string>
+    <string name="select_folder_move_to">選擇要移動到的資料夾</string>
+    <string name="share_app">分享應用程式</string>
+    <string name="expand_with">展開 &gt;</string>
+    <string name="fold_with">折疊 &lt;</string>
+    <string name="configured">已配置</string>
+    <string name="not_configured">未配置</string>
+    <string name="camera_unavailable">該設備的相機不可用</string>
+    <string name="created_time_with">創建日期：%s</string>
+    <string name="privilege_with">權限：%s</string>
+    <string name="account_with">賬號: %s</string>
+    <string name="new_version">新版本</string>
+    <string name="failed_to_open_file">文件打開失敗</string>
+    <string name="sync_job_started">開始同步</string>
+
+    <string name="login_title">賬號綁定</string>
+    <string name="login_account_hint">郵箱/手機號</string>
+    <string name="login_password_hint">密碼</string>
+    <string name="login_forget_password">忘記密碼</string>
+    <string name="login_error_account_empty">請輸入賬號</string>
+    <string name="login_error_account_illegal">賬號不合法</string>
+    <string name="login_error_password_empty">請輸入密碼</string>
+    <string name="login_error_password_simple">密碼太簡單</string>
+    <string name="register_code_hint">驗證碼</string>
+    <string name="register_password_again_hint">再次輸入密碼</string>
+    <string name="register_error_code_empty">請輸入驗證碼</string>
+    <string name="register_error_password_diff">兩次輸入的密碼不同</string>
+    <string name="register_signing_in">正在註冊 &#8230;</string>
+    <string name="code_send_succeed">驗證碼已發送</string>
+    <string name="code_sent_message">驗證碼已發送，請檢查你的郵箱/短信，驗證碼在 %d 分鐘內有效。若長時間沒有收到驗證碼，請確認是否被系統誤判為垃圾郵件。 </string>
+    <string name="login_account_bind_tip">賬號體系用來轉移你的會員權限到其他的設備</string>
+    <string name="login_bind_state">綁定狀態</string>
+    <string name="login_premium_transfer">轉移</string>
+    <string name="login_transfer_tip">確定與該設備交換用戶權限？</string>
+    <string name="login_premium_cancel_aux">撤銷輔助會員</string>
+    <string name="login_premium_set_aux">設為輔助會員</string>
+    <string name="login_premium_expire">你的 Token 已過期，如果想要繼續使用會員權限，你需要再次進行登錄。去登錄？ </string>
+    <string name="login_device_already_bind_with">該設備已綁定到賬號 %s。請解綁之後再嘗試。</string>
+    <string name="login_status">賬號: %1$s\n創建時間: %2$s\n登錄過期時間: %3$s</string>
+
+    <string name="note_sub_count">%1$2d目錄 %2$2d筆記 %3$2d圖片</string>
+
+    <string name="image_capture">拍照</string>
+    <string name="image_album">選擇圖片</string>
+    <string name="image_scan_document">文檔掃描</string>
+    <string name="image_crop">裁剪</string>
+    <string name="image_ocr">OCR</string>
+    <string name="image_rotate">旋轉</string>
+    <string name="image_filter">濾鏡</string>
+    <string name="image_ocr_to_be_continue">敬請期待 &#8230;</string>
+    <string name="image_back_tip">現在返回，已拍攝圖片將會清除，確認返回？ </string>
+    <string name="image_effect_binary">黑白</string>
+    <string name="image_effect_grey">灰度</string>
+    <string name="image_effect_linear_strength">增強</string>
+    <string name="image_effect_nostalgic">懷舊</string>
+    <string name="image_effect_melt">熔爐</string>
+    <string name="image_effect_freeze">冰凍</string>
+    <string name="image_effect_contrary">反色</string>
+    <string name="image_effect_comic_strip">連環畫</string>
+    <string name="image_effect_sculpture">雕刻</string>
+    <string name="image_effect_float_sculpture">浮雕</string>
+    <string name="image_effect_sketch">素描</string>
+    <string name="image_effect_blur">模糊</string>
+    <string name="image_effect_origin">原圖</string>
+    <string name="image_effect_round">​​圓形</string>
+    <string name="image_effect_round_corner">圓角</string>
+    <string name="image_effect_add_color">著色</string>
+    <string name="image_add_comment_hint">點擊添加描述 &#8230;</string>
+    <string name="image_add_comment_title">為圖片添加描述信息</string>
+    <string name="image_ocr_configure_first">你需要先配置 OCR API</string>
+    <string name="image_ocr_result">OCR 結果</string>
+    <string name="image_name_not_support">不支持這種拓展名的文件。 \n\n提示：你可以在圖片的設置中修改支持的文件拓展名。 </string>
+    <string name="image_compress_tips">基於現在的設置，你的圖片將會被壓縮。你可以在設置中關閉圖片壓縮選項。 </string>
+    <string name="image_compress_to_close">去關閉</string>
+
+    <string name="premium_free">永久免費版</string>
+    <string name="premium_premium">永久高級版</string>
+    <string name="premium_professional">永久專業版</string>
+    <string name="premium_professional_yearly">年度專業版</string>
+    <string name="premium_premium_free_trial">高級免費試用版</string>
+    <string name="premium_professional_free_trial">專業免費試用版</string>
+    <string name="premium_center">會員中心</string>
+    <string name="premium_free_trial_with">開啟 %d 天免費試用</string>
+    <string name="premium_free_trial_days_left"> 剩餘%d天</string>
+    <string name="premium_select_tip">從下面中選擇一個並進行支付</string>
+    <string name="premium_become_premium">成為高級版本</string>
+    <string name="premium_become_professional">成為專業版本</string>
+    <string name="premium_join">現在加入 &gt;</string>
+    <string name="premium_rights">你將享有的權益</string>
+    <string name="premium_price">價格：%s</string>
+    <string name="premium_price_discount">價格：%1$s，原價：%2$s</string>
+    <string name="premium_payment_count">你共有%d個訂單，點擊查看詳情</string>
+    <string name="premium_payment_list">訂單列表</string>
+    <string name="premium_commit_payment">提交訂單</string>
+    <string name="premium_serial_input_hint">在這裡輸入訂單流水號</string>
+    <string name="premium_serial_input_length_tip">請檢查流水號是否授權</string>
+    <string name="premium_serial_committed">訂單已提交，請耐心等待訂單處理結果，這可能需要一點時間。</string>
+    <string name="premium_serial_committing">訂單提交中&#8230;</string>
+    <string name="premium_payway_with">付款方式：%s</string>
+    <string name="premium_order_number_with">訂單編號：%s</string>
+    <string name="premium_serial_number_with">訂單流水號：%s</string>
+    <string name="premium_owe_money_with">應付金額：%s</string>
+    <string name="premium_free_trial">免費試用</string>
+    <string name="premium_about_details">關於購買</string>
+    <string name="premium_redeem_code">兌換碼</string>
+    <string name="premium_redeem_code_commit_title">提交你的禮品/兌換碼</string>
+    <string name="premium_redeem_code_commit_sub_title">請在這裡輸入你的禮品/兌換碼</string>
+    <string name="premium_payment_status_check_passed">通過審核</string>
+    <string name="premium_payment_status_check_failed">審核失敗</string>
+    <string name="premium_payment_status_commit_success">已提交</string>
+    <string name="premium_payment_status_done">已結單</string>
+    <string name="premium_premium_required">你需要成為高級版才能使用該功能！</string>
+    <string name="premium_professional_required">你需要成為專業版才能使用該功能！</string>
+    <string name="premium_privilege_basic">所有基礎功能</string>
+    <string name="premium_privilege_basic_desc">基礎功能：書寫、自動保存、Markdown 筆記預覽、代碼支持、MathJax 支持等</string>
+    <string name="premium_privilege_app_theme">應用主題</string>
+    <string name="premium_privilege_app_theme_desc">%d 種應用主題</string>
+    <string name="premium_privilege_editor_theme">編輯器主題</string>
+    <string name="premium_privilege_editor_theme_desc">%d 種編輯器主題</string>
+    <string name="premium_privilege_code_style">代碼風格</string>
+    <string name="premium_privilege_code_style_desc">%d 種代碼風格</string>
+    <string name="premium_privilege_export">導入 &amp; 導出</string>
+    <string name="premium_privilege_export_desc">通過導入和導出與外部存儲系統進行同步</string>
+    <string name="premium_privilege_sync">WebDAV 同步</string>
+    <string name="premium_privilege_sync_desc">通過 WebDAV 與電腦端進行同步</string>
+    <string name="premium_privilege_file_tree">文件樹瀏覽</string>
+    <string name="premium_privilege_file_tree_desc">以文件樹的形式瀏覽所有的筆記</string>
+    <string name="premium_privilege_appwidget">桌面筆記小控件</string>
+    <string name="premium_privilege_appwidget_desc">在手機主界面創建筆記列表小控件</string>
+    <string name="premium_privilege_pdf">導出 Html、PDF、圖片和 markdown 等</string>
+    <string name="premium_privilege_pdf_desc">打印 PDF、導出 Html、PDF、圖片和 markdown 等</string>
+    <string name="premium_privilege_image_filter">濾鏡效果</string>
+    <string name="premium_privilege_image_filter_sub">10+ 種濾鏡效果，圖片旋轉，自由裁剪，鏡像翻轉等</string>
+    <string name="premium_privilege_ocr">圖片 OCR</string>
+    <string name="premium_privilege_ocr_sub">可以在應用中使用第三方 OCR API</string>
+    <string name="premium_privilege_feature">添加快捷方式</string>
+    <string name="premium_privilege_feature_desc">在手機主界面添加快捷方式</string>
+    <string name="premium_privilege_more">更多特性</string>
+    <string name="premium_privilege_more_desc">將要開發的特性</string>
+    <string name="premium_privileges_unlock">你還不是 %s ，升級並解鎖全部的權限。 </string>
+    <string name="premium_privileges_unlocked">你已解鎖 %s</string>
+    <string name="premium_free_trial_requirement">請求發送成功，會員功能需要幾分鐘生效，請耐心等待！</string>
+
+    <string name="pay_payway">選擇支付方式</string>
+    <string name="pay_pay_by_google">谷歌支付</string>
+    <string name="pay_pay_by_wechat">通過微信支付</string>
+    <string name="pay_pay_by_alipay">通過支付寶支付</string>
+    <string name="pay_question_tip">支付遇到問題</string>
+    <string name="pay_wechat_title">通過微信支付</string>
+    <string name="pay_wechat_summary">微信掃一掃或點擊\"去支付\"，然後從相簿中選取 QR Code 辨識並轉帳\n轉帳後在本頁面提交訂單流水號即可</string>
+    <string name="pay_alipay_title">通過支付寶支付</string>
+    <string name="pay_alipay_summary">支付寶掃一掃或點擊\"去支付\"並轉帳\n轉帳後在本頁面提交訂單流水號即可</string>
+    <string name="pay_to_pay">去支付</string>
+    <string name="pay_to_commit">提交訂單流水號</string>
+    <string name="pay_qrcode_saved_to">QR Code 已經匯出到%s</string>
+    <string name="pay_wechat_not_install">未安裝微信</string>
+    <string name="pay_thanks">這個專案因為你的支持而能夠不斷更新、完善，非常感謝你的支持</string>
+    <string name="pay_launch_alipay_error">打開支付寶失敗</string>
+    <string name="pay_handling_purchase">訂單處理中，請稍等&#8230;</string>
+    <string name="pay_purchase_succeed">訂單處理完成！</string>
+
+    <string name="search_searching">搜尋中&#8230;</string>
+    <string name="search_finish">搜尋完畢</string>
+    <string name="search_hint">輸入要搜尋的內容</string>
+    <string name="search_empty_tip">沒有找到要搜尋的內容？換個詞彙試試</string>
+    <string name="search_setting">搜尋設定</string>
+    <string name="search_ignore_case">不區分大小寫</string>
+
+    <string name="compose_note_saved">筆記已儲存</string>
+    <string name="compose_default_note_name">未命名筆記</string>
+    <string name="compose_title_hint">請輸入筆記的名稱</string>
+    <string name="compose_content_hint">在這裡寫下自己想說的話&#8230;</string>
+    <string name="compose_chars">字元:</string>
+    <string name="compose_background_tips">應用切換到背景執行，筆記已儲存到歷史記錄</string>
+    <string name="compose_editor_style">選擇編輯器主題</string>
+    <string name="compose_preview">預覽</string>
+    <string name="compose_math_input">輸入 MathJax 運算式</string>
+    <string name="compose_row_col_input">輸入表格的行/列數</string>
+    <string name="compose_row_number">行數</string>
+    <string name="compose_col_number">列數</string>
+    <string name="compose_link_options">選擇鏈接 &#8230;</string>
+    <string name="compose_link_input">輸入鏈結</string>
+    <string name="compose_link_file">筆記鏈接</string>
+    <string name="compose_link_name">鏈結名稱</string>
+    <string name="compose_link_address">鏈結地址</string>
+    <string name="compose_image_input">輸入圖片鏈結</string>
+    <string name="compose_image_name">圖片鏈結</string>
+    <string name="compose_image_address">圖片鏈結地址</string>
+    <string name="compose_image_options">選擇圖片來源</string>
+    <string name="compose_image_file_system">從相簿選擇</string>
+    <string name="compose_image_capture">拍攝照片</string>
+    <string name="compose_image_network">網路圖片鏈結</string>
+    <string name="compose_image_inside">應用內圖片</string>
+    <string name="compose_note_setting">筆記設定</string>
+    <string name="compose_note_setting_style">編輯器主題</string>
+    <string name="compose_note_setting_code_style">代碼風格</string>
+    <string name="compose_note_align_left">左對齊</string>
+    <string name="compose_note_align_right">右對齊</string>
+    <string name="compose_note_align_center">居中對齊</string>
+    <string name="compose_note_text_wrap">代碼換行</string>
+    <string name="compose_note_text_size">字體大小</string>
+    <string name="compose_note_line_number">行號</string>
+    <string name="compose_note_button_order">底部按鈕排序</string>
+    <string name="compose_note_encoding">解碼方式</string>
+    <string name="compose_note_encoding_title">選擇讀取筆記時的編碼</string>
+    <string name="sort_divider_hidden_tip"><![CDATA[隱藏<small>（將按鈕拖動到下面可以隱藏）</small>]]></string>
+    <string name="compose_note_setting_style_sample"><![CDATA[<b>The Editor Style</b><br/>Thanks for using <b>LeafNote</b>, the <i>note</i> taking application. If you have any suggestions about this App, please contact me at <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com<a/>. Thanks again and enjoy it!<bt/> <i>2020/11/15 21:00 by Developer</i>]]></string>
+    <string name="compose_note_setting_markdown_enabled">Markdown 已啟用</string>
+    <string name="compose_note_setting_markdown_disabled">Markdown 已禁用</string>
+    <string name="compose_note_setting_category">增加到分類</string>
+    <string name="compose_note_setting_tags">增加標籤</string>
+    <string name="compose_note_setting_info">資訊</string>
+    <string name="compose_note_setting_history">歷史記錄</string>
+    <string name="compose_category_add">增加分類</string>
+    <string name="compose_category_updated">分類已更新</string>
+    <string name="compose_tag_add">增加標籤</string>
+    <string name="compose_tag_added">已增加標籤</string>
+    <string name="compose_note_info_title">標題</string>
+    <string name="compose_note_info_category">分類</string>
+    <string name="compose_note_info_tags">標籤</string>
+    <string name="compose_note_info_file_name">文件名</string>
+    <string name="compose_note_info_file_size">文件大小</string>
+    <string name="compose_note_info_length">長度</string>
+    <string name="compose_note_info_created">創建時間</string>
+    <string name="compose_note_info_updated">最後更新</string>
+    <string name="compose_note_info_path">存儲路徑</string>
+    <string name="compose_history_not_found">沒有該筆記的歷史記錄</string>
+    <string name="compose_history_confirm">確定使用處理結果筆記內容（這會覆蓋之前編輯的內容）？</string>
+    <string name="compose_create_file">創建檔案</string>
+    <string name="compose_file_name_input">輸入文件名 (包含副檔名)</string>
+    <string name="compose_file_extension_not_support">不支援這種副檔名的文件。\n\n提示：你（妳）可以在筆記的設定中修改支援的文件副檔名。</string>
+    <string name="compose_file_name_illegal">文件名包含非法字符。\n\n提示：妳可以在筆記的設定中指定哪些字符為非法字符。</string>
+    <string name="compose_note_un_finish_title">繼續編輯\"%s\"？</string>
+    <string name="compose_note_un_finish">繼續編輯未完成的筆記？</string>
+    <string name="compose_note_un_finish_recover_msg">為你找到該筆記的歷史記錄，從歷史記錄中恢復？\n\n提示：你也可以從筆記設置中進入歷史記錄</string>
+    <string name="compose_note_links">筆記鏈接</string>
+    <string name="compose_note_linking">引用</string>
+    <string name="compose_note_linking_empty">沒有被引用</string>
+    <string name="compose_note_structure">目錄結構</string>
+    <string name="compose_diff_merge">確定將“結果”替換為左側文本？ </string>
+    <string name="compose_note_auto_save">筆記自動保存</string>
+    <string name="compose_note_auto_save_job_channel_name">筆記自動保存通知</string>
+    <string name="compose_note_sync_job_channel_name">筆記同步通知</string>
+    <string name="compose_note_export_job_channel_name">筆記導入和導出通知</string>
+
+    <string name="image_source_image_limit">圖片的長和寬至少 %1$dpx 並且不小於 %2$dpx</string>
+
+    <string name="comn_load_executing">正在執行&#8230;</string>
+    <string name="comn_load_loading">資料加載中&#8230;</string>
+    <string name="comn_load_empty">資料為空 :)</string>
+    <string name="comn_crash_tips">發生了崩潰，抱歉！</string>
+
+    <string name="main_menu_item_message">我的消息</string>
+    <string name="main_menu_item_timeline">時間線</string>
+    <string name="main_menu_item_category">分類</string>
+    <string name="main_menu_item_tag">標籤</string>
+    <string name="main_menu_item_help">幫助回饋</string>
+    <string name="main_menu_item_explore">探索言葉</string>
+    <string name="main_menu_item_info">關於</string>
+    <string name="main_menu_item_setting">設定</string>
+    <string name="main_menu_item_sync">雲同步</string>
+    <string name="main_menu_item_share">分享應用</string>
+
+    <string name="setting">設定</string>
+    <string name="set_personalization">個性化</string>
+    <string name="set_display">顯示</string>
+    <string name="set_display_sub">主題、浮動按鈕、時間格式和語言等</string>
+    <string name="set_language">應用語言</string>
+    <string name="set_language_follow_system">跟隨系統</string>
+    <string name="set_theme">主題</string>
+    <string name="set_theme_theme">應用主題</string>
+    <string name="set_theme_title">選擇一個自己喜歡的主題</string>
+    <string name="set_theme_theme_warm">曙光 · 橙</string>
+    <string name="set_theme_theme_cold">活力 · 綠</string>
+    <string name="set_theme_theme_christmas">聖誕夜之夢</string>
+    <string name="set_theme_theme_lunar_new_year">喜迎春節主題</string>
+    <string name="set_theme_theme_dark">優雅 · 黑</string>
+    <string name="set_theme_theme_purple">高貴 · 紫</string>
+    <string name="set_theme_theme_pink">傾心 · 粉</string>
+    <string name="set_theme_theme_dark_pink">暗香 · 黑 &amp; 粉</string>
+    <string name="set_code_style">代碼主題</string>
+    <string name="set_fabs">主界面浮動按鈕</string>
+    <string name="set_about">關於</string>
+    <string name="set_about_app">關於應用程式</string>
+    <string name="set_privacy">隱私政策</string>
+    <string name="set_other">其他</string>
+    <string name="set_universal">通用</string>
+    <string name="set_find_me_in_app_store">應用程式首頁</string>
+    <string name="set_find_me_in_app_store_sub">可以在該軟體的首頁中直接找到該軟體的下載網站以取得正版應用。盜版猖獗，請支持和尊重開發者的工作！</string>
+    <string name="set_translate">翻譯</string>
+    <string name="set_translate_sub">如果你想要幫助「言葉」翻譯成為其他語言，請瀏覽我們的 GitHub repo 頁面或是傳送 Mail 給我了解更多。</string>
+    <string name="set_development">開發計劃</string>
+    <string name="set_development_sub">將要開發的功能和要修復的問題等</string>
+    <string name="set_license">開源許可</string>
+    <string name="set_editor_style">編輯器主題</string>
+    <string name="set_use_pretty_time">使用美化的時間和日期</string>
+    <string name="set_note">筆記</string>
+    <string name="set_note_sub">筆記相關的設定</string>
+    <string name="set_export">匯入/匯出</string>
+    <string name="set_export_sub">匯入/匯出（備份）資料到外部儲存空間</string>
+    <string name="set_note_file">筆記文件</string>
+    <string name="set_note_list">筆記列表</string>
+    <string name="set_note_yaml">默認使用 YAML</string>
+    <string name="set_note_yaml_sub">默認在筆記中使用 YAML 格式的文件頭。 YAML 用來添加標籤、分類和日期等信息。 </string>
+    <string name="set_note_extensions">筆記檔案副檔名</string>
+    <string name="set_note_extensions_tip">增加筆記檔案副檔名，多個副檔名之間以逗號(,)分開</string>
+    <string name="set_note_extensions_sub">使用了指定的副檔名的檔將被應用辨識為筆記（筆記和文件在 UI 表現上有細微的區別）</string>
+    <string name="set_support_extensions">支援打開的副檔名</string>
+    <string name="set_support_extensions_sub">指定副檔名結尾的檔將會被以文字文件的形式讀取</string>
+    <string name="set_extensions">支持的文件的拓展名</string>
+    <string name="set_extensions_sub">使用指定的拓展名的文件將會展示到筆記列表中</string>
+    <string name="set_illegal_charset">設定檔案名的非法字元</string>
+    <string name="set_illegal_charset_sub">非法字元會導致檔案建立失敗或者同步到其他平臺發生錯誤，配置非法字元可以對此進行校驗並自動處理</string>
+    <string name="set_note_show_date">顯示時間信息</string>
+    <string name="set_note_edit_directly">筆記選擇模式</string>
+    <string name="set_note_edit_directly_sub">當點擊筆記的時候直接跳轉到編輯頁面而不是預覽頁面</string>
+    <string name="set_note_auto_parsing_encoding">自動解析筆記編碼格式。你也可以在筆記設置對話框中手動修改筆記編碼格式。</string>
+    <string name="set_note_display_note_file_name">顯示文件名</string>
+    <string name="set_note_display_note_file_name_sub">在列表中展示文件名而不是筆記標題</string>
+    <string name="set_image">圖像</string>
+    <string name="set_image_sub">圖片/OCR/翻譯相關的設置</string>
+    <string name="set_image_extensions">圖片拓展名</string>
+    <string name="set_image_extensions_tip">添加圖片文件拓展名，多個拓展名之間使用 \",\" 分開</string>
+    <string name="set_image_extensions_sub">以圖片拓展名結尾的文件將會被視作圖片來處理</string>
+    <string name="set_image_ocr_source">設置 OCR API 數據源</string>
+    <string name="set_image_ocr_config">配置 OCR API 信息</string>
+    <string name="set_image_ocr_config_sub">配置 OCR API</string>
+    <string name="set_image_ocr_config_test">測試 OCR 配置</string>
+    <string name="set_image_ocr_source_request">第三方 OCR API 請求 &gt;</string>
+    <string name="set_image_ocr_source_request_sub"> 為了減少言葉服務器的維護成本並因此減少用戶使用成本，
+        現在，用戶只能在言葉中使用第三方OCR API。您可以從第三方API請求應用密鑰和機密，然後在言葉中使用它們。
+    要了解如何請求第三方API，可以訪問我們的“瀏覽”頁面。如果您知道言葉中未包含的任何OCR API平台，則可以在此處提出要求。
+    </string>
+    <string name="set_image_ocr_learn_to_configure">了解如何配置第三方 API &gt;</string>
+    <string name="set_camera">相機設定</string>
+    <string name="set_camera_type">相機類型</string>
+    <string name="set_camera_type_system">系統相機</string>
+    <string name="set_camera_type_build_in">應用內置相機</string>
+    <string name="set_camera_type_title">選擇相機類型</string>
+    <string name="set_note_display_image">顯示圖片</string>
+    <string name="set_note_display_image_sub">是否在筆記列表中顯示圖片</string>
+    <string name="set_note_display_image_folder">顯示圖片文件夾</string>
+    <string name="set_note_display_image_folder_sub">你可以通過這個配置隱藏系統創建的圖片文件夾，但是保留自己創建的圖片文件夾</string>
+    <string name="set_note_image_default_name">默認圖片目錄名稱</string>
+    <string name="set_note_display_image_tip">該配置需要重啟且重新加載數據之後生效</string>
+    <string name="set_note_image_compress">壓縮圖片</string>
+    <string name="set_note_image_compress_sub">設置是否自動壓縮筆記內的圖片</string>
+    <string name="set_sync">雲同步</string>
+    <string name="set_sync_universal">通用</string>
+    <string name="set_sync_sub">通過 WebDAV 同步到其他平臺</string>
+    <string name="set_sync_enable">定時同步</string>
+    <string name="set_sync_enable_sub">定時對整個文件目錄進行同步</string>
+    <string name="set_sync_webdav_server">配置 WebDAV 伺服器</string>
+    <string name="set_sync_webdav_server_host">WebDAV 伺服器地址</string>
+    <string name="set_sync_webdav_server_path">同步目錄</string>
+    <string name="set_sync_webdav_server_path_sub">言葉將會同步筆記到目錄：%s</string>
+    <string name="set_sync_webdav_server_account">帳戶</string>
+    <string name="set_sync_webdav_server_password">應用密碼</string>
+    <string name="set_sync_webdav_server_please">請配置 WebDAV 資訊</string>
+    <string name="set_sync_webdav_server_configured">已配置 WebDAV</string>
+    <string name="set_sync_webdav_server_not_config">還沒有配置 WebDAV</string>
+    <string name="set_sync_webdav_server_connect_test">連接 WebDAV 測試配置</string>
+    <string name="set_sync_webdav_server_connect_test_message">言葉將在你的 WebDAV 服務器創建一個名為 \"Hello.txt\" 的文件來，你可以通過檢查該文件是否存在來判斷 WebDAV 是否​​配置成功！ </string>
+    <string name="set_sync_delay">同步延時(毫秒)</string>
+    <string name="set_sync_delay_sub">發送同步請求的時候增加延時，主要用來防止因為請求過於頻繁而被雲服務器阻塞。 </string>
+    <string name="set_sync_interval_sub">全量同步時的自動同步時間間隔</string>
+    <string name="set_sync_interval">同步時間間隔</string>
+    <string name="set_sync_only_wifi">只在 Wi-Fi 環境下同步</string>
+    <string name="set_sync_now">執行同步</string>
+    <string name="set_sync_single">實時同步</string>
+    <string name="set_sync_single_sub">當文件內容被修改之後可以立即進行同步</string>
+    <string name="set_sync_info">同步信息</string>
+    <string name="set_sync_last_time">上次同步時間</string>
+    <string name="set_sync_last_info">上次同步資訊</string>
+    <string name="set_sync_num_with">%d 檔已同步</string>
+    <string name="set_sync_done">資料同步完成</string>
+    <string name="set_sync_done_with_error">資料同步完成，%d 檔失敗</string>
+    <string name="set_sync_interval_0">每 6 小時</string>
+    <string name="set_sync_interval_1">每 12 小時</string>
+    <string name="set_sync_interval_2">每天一次</string>
+    <string name="set_sync_interval_3">每隔三天</string>
+    <string name="set_sync_interval_4">每隔一周</string>
+    <string name="set_sync_interval_5">每半個月</string>
+    <string name="set_sync_interval_6">每一個月</string>
+    <string name="set_sync_interval_7">手動同步</string>
+    <string name="set_sync_immediately">同步</string>
+    <string name="set_sync_open_notification_tips">去打開通知以獲得更好的同步體驗？ </string>
+    <string name="set_sync_sync_state_hint">同步狀態提示</string>
+    <string name="set_sync_sync_state_hint_sub">如果筆記在本地做了修改但是沒有同步到服務器，將會在筆記列表顯示一個小的同步提示。 </string>
+
+    <string name="set_export_export">匯出資料</string>
+    <string name="set_export_export_sub">匯出到外部儲存空間空間的資料不會在應用卸載的時候被刪除。你也可以使用其他工具對匯出資料夾進行同步來實現多端同步。</string>
+    <string name="set_export_import">匯入資料</string>
+    <string name="set_export_import_sub">從外部儲存空間空間匯入資料</string>
+    <string name="set_export_time">上次匯出時間</string>
+    <string name="set_export_path">匯出路徑</string>
+    <string name="set_export_export_done">資料匯出完成</string>
+    <string name="set_export_export_num_with">%d 檔已匯出</string>
+    <string name="set_export_import_num_with">%d 檔已匯入</string>
+    <string name="set_export_export_done_with_error">資料匯出完成，%d 檔失敗</string>
+    <string name="set_export_import_done_with_error">資料匯入完成，%d 檔失敗</string>
+    <string name="set_export_import_done">資料匯入完成</string>
+    <string name="set_export_executing">匯入/匯出任務進行中</string>
+    <string name="set_export_conflict_with">%d 檔失敗</string>
+
+    <string name="set_report_no_conflict">恭喜，沒有發現檔失敗！</string>
+
+    <string name="set_conflict_resolve">處理檔衝突</string>
+    <string name="set_conflict_path_tips">失敗的可能原因：\n
+        1. 文件夾名稱不合法（比如，包含非法字符等），建議修改文件夾名稱並再次嘗試；\n
+    2.客戶端請求過於頻繁，請暫停一會兒再同步並調整同步的時間間隔。</string>
+
+    <string name="trash_box">垃圾箱</string>
+    <string name="trash_box_recover">恢復</string>
+    <string name="trash_box_delete">徹底刪除</string>
+    <string name="trash_box_recover_tip">確定從垃圾箱恢復該文件/目錄？</string>
+    <string name="trash_box_delete_tip">確定徹底刪除該文件/目錄？</string>
+    <string name="trash_box_empty">清空垃圾箱</string>
+    <string name="trash_box_empty_tip">確定清空垃圾箱？</string>
+
+    <string name="about_app_section">簡 · 介</string>
+    <string name="about_app_detail"><![CDATA[你好，感謝你使用「言葉」！ <br/><br/>
+
+言葉是一款通過云同步多端協作的私人 Markdown 和筆記軟件。基於 Material 風格設計，支持多種主題，功能強大，有顏值有實力。 <br/><br/>
+
+✨ <b>首先，言葉是一款筆記軟件。 </b><br/><br/>
+
+☆ 言葉提供了自動保存機制，絕不允許丟失。 <br/>
+☆ 言葉是真正屬於自己的筆記軟件：用戶可以通過云同步把筆記存儲到私有云盤。 <br/>
+☆ 言葉允許將筆記導出為 HTML、PDF、圖片和文本。 <br/>
+☆ 言葉提供了強大的搜索功能，允許關鍵字全局搜索和高亮。 <br/>
+☆ 言葉支持圖片筆記來記錄點滴生活，並提供了圖片裁剪、變換和處理程序。 <br/>
+☆ 言葉提供了桌面小控件、快捷方式等安卓特性。 <br/><br/>
+
+✨ <b>其次，言葉通過云同步實現多端協作。 </b><br/><br/>
+
+☆ 言葉支持 WebDAV 同步（後續會考慮支持其他網盤）。 <br/>
+☆ 言葉內置了同步衝突解決機制。 <br/>
+☆ 言葉基於相對路徑設計，無需圖床就可以在筆記中插入圖片。 <br/><br/>
+
+✨ <b>最後，言葉支持 Markdown 語法。 </b><br/><br/>
+
+☆ 言葉支持 Markdown 全部語法。 <br/>
+☆ 言葉支持 MathJax 數學公式。 <br/>
+☆ 言葉提供了多種代碼主題和編輯器主題。 <br/>
+☆ 言葉支持通過分類和標籤管理筆記。 <br/><br/>
+
+生命就是一種表達。我們希望通過優雅的設計與強大的功能，為用戶提供一個更好的筆記軟件。敬請期待~]]></string>
+    <string name="about_developer_section">開發者</string>
+    <string name="about_developer_name">訪問網站</string>
+    <string name="about_developer_detail"><![CDATA[該應用的開發者和設計者]]></string>
+    <string name="about_other_apps">作者的作品</string>
+
+    <string name="feedback">問題回饋</string>
+    <string name="feedback_thank">回饋成功！\n感謝你的回饋和支持！</string>
+    <string name="feedback_content_hint">回饋內容（可輸入400字）</string>
+    <string name="feedback_contact_hint">聯繫方式（可不填）</string>
+    <string name="feedback_type_hint">選擇反饋類型</string>
+    <string name="feedback_type_improvement">功能優化</string>
+    <string name="feedback_type_bug">Bug/崩潰</string>
+    <string name="feedback_goto">去回饋</string>
+
+    <string name="timeline_empty_title">你還沒有任何活動哦</string>
+    <string name="timeline_added">增加了</string>
+    <string name="timeline_updated">更新了</string>
+
+    <string name="category_empty_title">你還沒有增加任何分類哦</string>
+    <string name="tag_empty_title">你還沒有增加任何標籤哦</string>
+
+    <string name="shortcut_add_long_name">創建筆記</string>
+    <string name="shortcut_add_short_name">創建</string>
+    <string name="shortcut_search_long_name">搜尋筆記</string>
+    <string name="shortcut_search_short_name">搜尋</string>
+    <string name="shortcut_capture_long_name">拍照</string>
+    <string name="shortcut_capture_short_name">拍照</string>
+
+    <string name="join_qq_user_group">用戶QQ群:878285438</string>
+    <string name="donate">捐贈專案</string>
+    <string name="share_text">嗨，給你推荐一款通過云同步多端協作的私人 Markdown 和筆記軟件「言葉」！\n詳情鏈接：%s，快來試一下！</string>
+
+    <string name="config_found_new_version">發現新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
+    <string name="config_to_upgrade">去升級</string>
+    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能繼續使用 APP\n\n* 使用該軟體的過程中，我們會向你請求「儲存空間空間」許可權，用來暫存應用崩潰日誌和筆記等。</string>
+    <string name="config_privacy_accept">同意並使用</string>
+    <string name="config_privacy_reject_exit">拒絕並退出</string>
+
+    <string name="message_read">已讀</string>
+    <string name="message_not_read">未讀</string>
+    <string name="message_empty_tip">沒有發現你的消息</string>
+
+    <string name="enable">啟用</string>
+    <string name="main_note_root">根目錄</string>
+    <string name="main_note_all">全部筆記</string>
+    <string name="main_note_manage">管理筆記</string>
+    <string name="main_bottom_menu_long_click_drag">長按和拖拽可以對按鈕進行排序</string>
+    <string name="main_exit_app">退出應用</string>
+    <string name="about_app_solgon">一個強大 &amp; 美觀的筆記軟件</string>
+
+    <string name="tips">提示</string>
+    <string name="viewer_double_tap_show_tip">雙擊頁面展示底部工具欄</string>
+    <string name="main_open_external_message">創建一個筆記還是僅瀏覽？ </string>
+    <string name="main_open_external_browse_only">僅瀏覽</string>
+    <string name="main_open_external_create_note">創建筆記</string>
+
+    <string name="error_trail_already_in_use">您已使用過免費試用</string>
+
+    <string name="default_note_name">歡迎使用言葉！</string>
+</resources>
