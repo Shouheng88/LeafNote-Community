@@ -12,9 +12,17 @@
   - [应用升级文案](languages/server/upgrade.md)
   - [应用的欢迎文案](languages/server/welcome.md)
 
-## 2、对于当前应用的开发状态
+## 2、开发相关
+
+### 2.1 开发计划
 
 为了更好地与用户进行交流，我已将所有的需求同步到当前的 Github 的 projects 目录中。你可以阅读这个页面来获取该应用将要开发和正在开发的需求：[LeafNote Dev Logs](https://github.com/Shouheng88/LeafNote-Community/projects/1)。
+
+### 2.2 更新日志
+
+对于应用的更新日志，请浏览 [logs](logs) 目录。该目录下的更新日志是由 Git 日志自动生成。
+
+*如果你感兴趣的话，你也可以浏览 [autopackage](https://github.com/Shouheng88/autopackage) 这个代码仓库来了解言叶的打包脚本。*
 
 ## 感谢
 
