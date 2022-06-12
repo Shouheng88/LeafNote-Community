@@ -38,7 +38,7 @@
     <string name="apply">套用</string>
     <string name="vip">VIP</string>
     <string name="available_with">有效時間: %s</string>
-    <string name="saving">正在保存 &#8230;</string>
+    <string name="saving">正在儲存 &#8230;</string>
     <string name="register">註冊帳號</string>
     <string name="bind">綁定</string>
     <string name="binding">正在綁定 &#8230;</string>
@@ -48,7 +48,7 @@
     <string name="get_it">知道了</string>
     <string name="rate_app">為言葉評分</string>
 
-    <string name="create_note">新建筆記</string>
+    <string name="create_note">新增筆記</string>
     <string name="folder">資料夾</string>
     <string name="failed_with">失敗：%s</string>
     <string name="create_folder">建立資料夾</string>
@@ -140,9 +140,9 @@
     <string name="image_effect_round">​​圓形</string>
     <string name="image_effect_round_corner">圓角</string>
     <string name="image_effect_add_color">著色</string>
-    <string name="image_comment_add_hint">添加一些回憶把 &#8230;</string>
-    <string name="image_comment_add_title">添加一些回憶</string>
-    <string name="image_comment_post">發送</string>
+    <string name="image_comment_add_hint">增加一些回憶吧 &#8230;</string>
+    <string name="image_comment_add_title">增加一些回憶</string>
+    <string name="image_comment_post">發佈</string>
     <string name="image_ocr_configure_first">你需要先設定 OCR API</string>
     <string name="image_ocr_result">OCR 結果</string>
     <string name="image_name_not_support">不支援這種副檔名的文件。 \n\n提示：你可以在圖片的設定中修改支援的文件副檔名。 </string>
@@ -188,7 +188,7 @@
     <string name="premium_premium_required">你需要成為高級版才能使用該功能！</string>
     <string name="premium_professional_required">你需要成為專業版才能使用該功能！</string>
     <string name="premium_privilege_basic">所有基礎功能</string>
-    <string name="premium_privilege_basic_desc">基礎功能：書寫、自動保存、Markdown 筆記預覽、代碼支援、MathJax 支援等</string>
+    <string name="premium_privilege_basic_desc">基礎功能：書寫、自動儲存、Markdown 筆記預覽、代碼支援、MathJax 支援等</string>
     <string name="premium_privilege_app_theme">應用主題</string>
     <string name="premium_privilege_app_theme_desc">%d 種應用主題</string>
     <string name="premium_privilege_editor_theme">編輯器主題</string>
@@ -314,8 +314,8 @@
     <string name="compose_note_linking_empty">沒有被引用</string>
     <string name="compose_note_structure">目錄結構</string>
     <string name="compose_diff_merge">確定將“結果”替換為左側文字？ </string>
-    <string name="compose_note_auto_save">筆記自動保存</string>
-    <string name="compose_note_auto_save_job_channel_name">筆記自動保存通知</string>
+    <string name="compose_note_auto_save">筆記自動儲存</string>
+    <string name="compose_note_auto_save_job_channel_name">筆記自動儲存通知</string>
     <string name="compose_note_sync_job_channel_name">筆記同步通知</string>
     <string name="compose_note_export_job_channel_name">筆記匯入和匯出通知</string>
 
@@ -325,9 +325,9 @@
     <string name="comn_load_loading">資料載入中&#8230;</string>
     <string name="comn_load_empty">資料為空 :)</string>
     <string name="comn_crash_title">發生了崩潰，抱歉！</string>
-    <string name="comn_crash_tips"><![CDATA[您可以點擊【報告問題】來幫助我們解決這個問題！您還可以通過加入
+    <string name="comn_crash_tips"><![CDATA[您可以點擊【報告問題】來協助我們解決！您還可以透過加入
      <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a>、QQ 交流群 878285438，
-     或者發送郵件到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> 進行反饋。 ]]></string>
+     或者發送 mail 到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> 給予回饋。 ]]></string>
 
     <string name="main_menu_item_message">我的消息</string>
     <string name="main_menu_item_timeline">時間線</string>
@@ -364,9 +364,9 @@
     <string name="set_other">其他</string>
     <string name="set_universal">通用</string>
     <string name="set_find_me_in_app_store">應用程式首頁</string>
-    <string name="set_find_me_in_app_store_sub">該軟件的下載地址等信息</string>
+    <string name="set_find_me_in_app_store_sub">該軟體的下載網址等資訊</string>
     <string name="set_translate">翻譯</string>
-    <string name="set_translate_sub">幫助我們優化「言葉」的翻譯</string>
+    <string name="set_translate_sub">幫助我們最佳化「言葉」的翻譯</string>
     <string name="set_development">開發計劃</string>
     <string name="set_development_sub">將要開發的功能和要修復的問題等</string>
     <string name="set_license">開源許可</string>
@@ -387,14 +387,14 @@
     <string name="set_extensions">支援的文件的副檔名</string>
     <string name="set_extensions_sub">使用指定的副檔名的文件將會展示到筆記列表中</string>
     <string name="set_illegal_charset">設定檔案名稱的非法字元</string>
-    <string name="set_illegal_charset_sub">在遇到這裡配置的非法字符的時候，應用會自動幫您處理，以避免出現各種錯誤</string>
+    <string name="set_illegal_charset_sub">在遇到這裡設定的非法字元的時候，應用程式會自動幫您處理，以避免出現各種錯誤</string>
     <string name="set_note_show_date">顯示時間訊息</string>
     <string name="set_note_edit_directly">筆記選擇模式</string>
     <string name="set_note_edit_directly_sub">當點擊筆記的時候直接跳轉到編輯頁面</string>
     <string name="set_note_auto_parsing_encoding">自動分析筆記編碼格式。你也可以在筆記設定對話框中手動修改筆記編碼格式。</string>
     <string name="set_note_display_note_file_name">使用檔案名稱</string>
     <string name="set_note_display_note_file_name_sub">在列表中展示檔案名稱而不是筆記標題</string>
-    <string name="set_note_show_simplified_note_list">使用簡版列表</string>
+    <string name="set_note_show_simplified_note_list">使用簡易列表</string>
     <string name="set_image">圖片</string>
     <string name="set_image_sub">圖片/OCR/翻譯相關的設定</string>
     <string name="set_image_extensions">圖片副檔名</string>
@@ -494,9 +494,9 @@
 
     <string name="about_app_section">簡 · 介</string>
     <string name="about_app_detail"><![CDATA[你好，感謝你使用「言葉」！<br/><br/>
-言葉是一款通過云同步多端協作的私人 Markdown 和筆記軟件。基於 Material 風格設計，支持多種主題，功能強大。它提供了豐富的功能：<br/><br/>
-Markdown 全部語法、MathJax 數學公式、多種代碼主題和編輯器主題、分類和標籤管理筆記、WebDAV 同步、桌面小控件和快捷方式等安卓特性、圖片裁剪和處理程序、筆記導出為多種格式以及自動保存機制等。<br/><br/>
-我們希望通過優雅的設計與強大的功能，為用戶提供一個更好的筆記軟件。敬請期待~]]></string>
+言葉是一款通過雲端同步多端協作的私人 Markdown 和筆記軟體。基於 Material 風格設計，支持多種主題，功能強大。它提供了豐富的功能：<br/><br/>
+Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主題、分類和標籤管理筆記、WebDAV 同步、桌面小組件和捷徑等 Android 特性、圖片裁剪和處理程序、筆記匯出為多種格式以及自動儲存機制等。<br/><br/>
+我們希望通過優雅的設計與強大的功能，為用戶提供一個更好的筆記軟體。敬請期待~]]></string>
     <string name="about_developer_section">開發者</string>
     <string name="about_developer_name">瀏覽網站</string>
     <string name="about_developer_detail"><![CDATA[該應用的開發者和設計者]]></string>
@@ -521,15 +521,15 @@ Markdown 全部語法、MathJax 數學公式、多種代碼主題和編輯器主
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
 
-    <string name="social_telegram_group">電報群</string>
-    <string name="social_qq_group">QQ 群: %s</string>
-    <string name="social_email">郵箱: %s</string>
-    <string name="social_email_feedback_title">言葉問題反饋 | %s</string>
+    <string name="social_telegram_group">Telegram 群組</string>
+    <string name="social_qq_group">QQ 群組: %s</string>
+    <string name="social_email">E-Mail: %s</string>
+    <string name="social_email_feedback_title">言葉問題回饋 | %s</string>
     <string name="crash_email_title">言葉崩潰報告</string>
 
     <string name="image_film_replay">已播完，重播？ </string>
 
-    <string name="donate">捐贈專案</string>
+    <string name="donate">抖內</string>
     <string name="share_text">嗨，給你推薦一款通過雲同步多端協作的私人 Markdown 和筆記軟體「言葉」！\n詳情連結：%s，快來試一下！</string>
 
     <string name="config_found_new_version">發現新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
