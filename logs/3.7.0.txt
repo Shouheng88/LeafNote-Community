@@ -1,0 +1,19 @@
+publish 3.7.0
+fix: test google billing
+feat: add google billing limitation
+fix: slide span width
+feat: add comments
+feat: add app review cache
+fix: translation
+fix: pro version judgement
+fix: version unlock state and payway judgement
+fix: redeem code commit
+fix: filter payways by language
+fix: free trail pay way
+fix: background shine issue
+feat: premium page top decor
+feat: change image to webp
+feat: premium center page develop completed
+feat: premium center menu item
+feat: add complicated chinese translation
+fix: top decoration
