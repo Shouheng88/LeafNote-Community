@@ -328,7 +328,7 @@
     <string name="compose_file_name_illegal">檔案名稱包含非法字元。\n\n提示：妳可以在筆記的設定中指定哪些字元為非法字元。</string>
     <string name="compose_note_un_finish_title">繼續編輯\"%s\"？</string>
     <string name="compose_note_un_finish">繼續編輯未完成的筆記？</string>
-    <string name="compose_note_un_finish_recover_msg">為你找到該筆記的歷史記錄，從歷史記錄中恢復？\n\n提示：你也可以從筆記設定中進入歷史記錄</string>
+    <string name="compose_note_un_finish_recover_msg">為您找到該筆記的歷史記錄，從歷史記錄中恢復？\n\n提示：你也可以從筆記設定中進入歷史記錄</string>
     <string name="compose_note_links">筆記連結</string>
     <string name="compose_note_linking">引用</string>
     <string name="compose_note_linking_empty">沒有被引用</string>
@@ -500,7 +500,7 @@
     <string name="set_export_executing">匯入/匯出任務進行中</string>
     <string name="set_export_conflict_with">%d 檔案失敗</string>
 
-    <string name="set_report_no_conflict">恭喜，沒有發現檔案案衝突！</string>
+    <string name="set_report_no_conflict">恭喜，沒有發現檔案衝突！</string>
 
     <string name="set_conflict_resolve">處理檔案衝突</string>
     <string name="set_conflict_path_tips">失敗的可能原因：\n
@@ -552,7 +552,7 @@ Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主
 
     <string name="image_film_replay">已播完，重播？ </string>
 
-    <string name="donate">抖內</string>
+    <string name="donate">贊助</string>
     <string name="share_text">嗨，給你推薦一款通過雲同步多端協作的私人 Markdown 和筆記軟體「言葉」！\n詳情連結：%s，快來試一下！</string>
 
     <string name="config_found_new_version">發現新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
