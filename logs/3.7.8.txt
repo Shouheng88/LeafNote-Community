@@ -1,0 +1,12 @@
+publish 3.7.8
+feat: translations and icon
+feat: translations
+feat: completed custom css settings
+feat: custom css edit page
+feat: custom css setting dialog
+feat: custom css setting dialog
+feat: custom css default css
+feat: custom css ui logic
+Merge: a38e9ba c275b1b
+Merge pull request #60 from Shouheng88/feature-20220924
+Feature 20220924
