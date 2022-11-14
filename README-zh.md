@@ -20,7 +20,7 @@
 
 ### 2.2 更新日志
 
-对于应用的更新日志，请浏览 [logs](logs) 目录。该目录下的更新日志是由 Git 日志自动生成。
+对于应用的更新日志，请浏览 [log 文件](GITLOG.md) 目录。该更新日志是由 Git 日志自动生成。
 
 *如果你感兴趣的话，你也可以浏览 [autopackage](https://github.com/Shouheng88/autopackage) 这个代码仓库来了解言叶的打包脚本。*
 

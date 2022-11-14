@@ -20,7 +20,7 @@
 
 ### 2.2 更新日誌
 
-對於應用的更新日誌，請瀏覽 [logs](logs) 目錄。該目錄下的更新日誌是由 Git 日誌自動生成。
+對於應用的更新日誌，請瀏覽 [log 文件](GITLOG.md) 目錄。該更新日誌是由 Git 日誌自動生成。
 
 *如果你感興趣的話，你也可以瀏覽 [autopackage](https://github.com/Shouheng88/autopackage) 這個代碼 repo 來了解言葉的打包腳本。*
 

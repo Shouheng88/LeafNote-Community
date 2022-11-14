@@ -1,5 +1,0 @@
-publish 3.4.1
-publish 3.4.1
-publish 3.4.1
-publish 3.4.1
-feat: use 32 bit as default
