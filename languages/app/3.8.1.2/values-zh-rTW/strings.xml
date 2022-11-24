@@ -109,7 +109,7 @@
     <string name="login_account_bind_tip">帳號僅用來綁定你的會員權益</string>
     <string name="login_bind_state">綁定狀態</string>
     <string name="login_premium_transfer">轉移</string>
-    <string name="login_transfer_tip">確定與該設備交換用戶權限？</string>
+    <string name="login_transfer_tip">確定與該設備交換使用者權限？</string>
     <string name="login_premium_cancel_aux">撤銷輔助會員</string>
     <string name="login_premium_set_aux">設為輔助會員</string>
     <string name="login_premium_expire">你的 Token 已過期，如果想要繼續使用會員權限，你需要再次進行登錄。去登錄？ </string>
@@ -212,7 +212,7 @@
     <string name="premium_versions_sub_title">點擊條目選擇會員版本</string>
     <string name="premium_payway_title">選擇付款方式</string>
     <string name="premium_payway_sub_title">點擊條目選擇付款方式</string>
-    <string name="premium_review_title">用戶評價</string>
+    <string name="premium_review_title">使用者評價</string>
     <string name="premium_notice_title">注意事項</string>
     <string name="premium_bottom_notice">該軟體由開發者精心設計和開發 ♥ 歡迎使用</string>
     <string name="premium_locked">未解鎖</string>
@@ -231,8 +231,8 @@
     <string name="premium_error_payway_unavailable">付款方式無法使用</string>
     <string name="premium_error_version_unlocked">您已解鎖該版本</string>
     <string name="premium_error_version_not_selected">請先選擇一個會員版本</string>
-    <string name="premium_error_pawway_not_selected">請先選擇一種支付方式</string>
-    <string name="premium_error_google_billing_unavailable">谷歌支付不可用：可能由於谷歌支付的地域限制等原因。如有疑問，請聯繫開發者。</string>
+    <string name="premium_error_pawway_not_selected">請先選擇一種付款方式</string>
+    <string name="premium_error_google_billing_unavailable">Google Pay 無法使用：可能由於Google Pay 的地區限制等原因。如有疑問，請聯絡開發者。</string>
 
     <string name="pay_wechat_title_with_step">微信 (步驟: %s)</string>
     <string name="pay_alipay_title_with_step">支付寶 (步驟: %s)</string>
@@ -379,19 +379,19 @@
     <string name="set_theme_theme_pink">傾心 · 粉</string>
     <string name="set_theme_theme_dark_pink">暗香 · 黑 &amp; 粉</string>
     <string name="set_code_style">代碼主題</string>
-    <string name="set_custom_css">自定義 CSS</string>
-    <string name="set_custom_css_light_style">亮色樣式</string>
-    <string name="set_custom_css_dark_style">暗色樣式</string>
-    <string name="set_custom_css_default">默認 CSS</string>
-    <string name="set_custom_css_edit_light_style">編輯亮色 CSS</string>
-    <string name="set_custom_css_edit_dark_style">編輯暗色 CSS</string>
-    <string name="set_custom_css_rename">重命名</string>
+    <string name="set_custom_css">自訂 CSS</string>
+    <string name="set_custom_css_light_style">淺色樣式</string>
+    <string name="set_custom_css_dark_style">深色樣式</string>
+    <string name="set_custom_css_default">預設 CSS</string>
+    <string name="set_custom_css_edit_light_style">編輯淺色 CSS</string>
+    <string name="set_custom_css_edit_dark_style">編輯深色 CSS</string>
+    <string name="set_custom_css_rename">重新命名</string>
     <string name="set_custom_css_apply">使用</string>
     <string name="set_custom_css_in_use">· 使用中</string>
-    <string name="set_custom_css_count_limit_for_premium">你已經創建了 %d 個自定義 CSS</string>
-    <string name="set_custom_css_count_limit_for_none_premium">普通用戶只能創建 %1$d 個自定義 CSS；會員用戶可以創建 %2$d 個自定義 CSS．請升級之後解鎖更多自定義 CSS.</string>
-    <string name="set_custom_css_tip">提示：不要修改以 \'$\' 開頭的屬性（這些屬性用來跟隨用戶偏好）。 </string>
-    <string name="set_advanced">高級</string>
+    <string name="set_custom_css_count_limit_for_premium">你已經建立了 %d 個自訂 CSS</string>
+    <string name="set_custom_css_count_limit_for_none_premium">一般使用者只能建立 %1$d 個自訂 CSS；會員使用者可以建立 %2$d 個自訂 CSS．請升級之後解鎖更多自訂 CSS.</string>
+    <string name="set_custom_css_tip">提示：不要修改以 \'$\' 開頭的屬性（這些屬性用來跟隨使用者偏好設定）。 </string>
+    <string name="set_advanced">進階</string>
     <string name="set_about">關於</string>
     <string name="set_about_app">關於應用程式</string>
     <string name="set_privacy">隱私政策</string>
@@ -442,9 +442,9 @@
     <string name="set_image_ocr_config_sub">設定 OCR API</string>
     <string name="set_image_ocr_config_test">測試 OCR 設定</string>
     <string name="set_image_ocr_source_request">第三方 OCR API 請求 &gt;</string>
-    <string name="set_image_ocr_source_request_sub"> 為了減少言葉伺服器的維護成本並因此減少用戶使用成本，
-        現在，用戶只能在言葉中使用第三方OCR API。您可以從第三方API請求應用金鑰和機密，然後在言葉中使用它們。
-    要了解如何請求第三方API，可以瀏覽我們的“瀏覽”頁面。如果您知道言葉中未包含的任何OCR API平台，則可以在此處提出要求。
+    <string name="set_image_ocr_source_request_sub"> 為了減少言葉伺服器的維護成本並因此減少使用者使用成本，
+        現在，使用者只能在言葉中使用第三方 OCR API。您可以從第三方 API 請求應用金鑰和機密，然後在言葉中使用它們。
+    要了解如何請求第三方 API ，可以瀏覽我們的「瀏覽」頁面。如果您知道言葉中未包含的任何 OCR API 平台，則可以在此處提出要求。
     </string>
     <string name="set_image_ocr_learn_to_configure">了解如何設定第三方 API &gt;</string>
     <string name="set_camera">相機設定</string>
@@ -533,7 +533,7 @@
     <string name="about_app_detail"><![CDATA[你好，感謝你使用「言葉」！<br/><br/>
 言葉是一款通過雲端同步多端協作的私人 Markdown 和筆記軟體。基於 Material 風格設計，支持多種主題，功能強大。它提供了豐富的功能：<br/><br/>
 Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主題、分類和標籤管理筆記、WebDAV 同步、桌面小組件和捷徑等 Android 特性、圖片裁剪和處理程序、筆記匯出為多種格式以及自動儲存機制等。<br/><br/>
-我們希望通過優雅的設計與強大的功能，為用戶提供一個更好的筆記軟體。敬請期待~]]></string>
+我們希望通過優雅的設計與強大的功能，為使用者提供一個更好的筆記軟體。敬請期待~]]></string>
     <string name="about_developer_section">開發者</string>
     <string name="about_developer_name">瀏覽網站</string>
     <string name="about_developer_detail"><![CDATA[該應用的開發者和設計者]]></string>
