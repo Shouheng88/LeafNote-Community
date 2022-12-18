@@ -215,7 +215,7 @@
     <string name="premium_review_title">用户评价</string>
     <string name="premium_notice_title">注意事项</string>
     <string name="premium_bottom_notice">该软件由开发者精心设计和开发 ♥ 欢迎使用</string>
-    <string name="premium_locked">未解锁</string>
+    <string name="premium_locked_3">未解锁</string>
     <string name="premium_unlocked">已解锁</string>
     <string name="premium_payment_info_title">订单详情</string>
     <string name="premium_payment_info">最终价格: %1$s\n支付方式: %2$s</string>

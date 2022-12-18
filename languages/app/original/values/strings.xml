@@ -91,6 +91,7 @@
     <string name="name_already_in_use">Name existed!</string>
     <string name="print_not_support">This device does not support printing.</string>
     <string name="print_not_support_2">This device does not support printing.</string>
+    <string name="print_not_support_3">This device does not support printing.</string>
 
     <string name="login_title">Bind Account</string>
     <string name="login_account_hint">Email</string>
