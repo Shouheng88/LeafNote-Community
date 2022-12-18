@@ -91,6 +91,7 @@
     <string name="sync_job_started">開始同步</string>
     <string name="name_already_in_use">該名稱已存在</string>
     <string name="print_not_support">您的設備似乎不支持打印，請確認您的設備是否支持該功能再嘗試</string>
+    <string name="print_not_support_2">您的設備似乎不支持打印，請確認您的設備是否支持該功能再嘗試</string>
 
     <string name="login_title">帳號綁定</string>
     <string name="login_account_hint">信箱/手機號碼</string>
