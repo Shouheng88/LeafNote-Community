@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="feedback_types">
-        <item>@string/feedback_type_bug</item>
-        <item>@string/feedback_type_improvement</item>
-    </string-array>
-</resources>
