@@ -231,8 +231,8 @@
     <string name="premium_error_payway_unavailable">支付方式不可用</string>
     <string name="premium_error_version_unlocked">您已解锁该版本</string>
     <string name="premium_error_version_not_selected">请先选择一个会员版本</string>
-    <string name="premium_error_pawway_not_selected">请先选择一种支付方式</string>
-    <string name="premium_error_google_billing_unavailable">谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。</string>
+    <string name="premium_error_pawway_not_sele_1cted">请先选择一种支付方式</string>
+    <string name="premium_error_google_billin_2g_unavailable">谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。</string>
 
     <string name="pay_wechat_title_with_step">微信 (步骤: %s)</string>
     <string name="pay_alipay_title_with_step">支付宝 (步骤: %s)</string>
