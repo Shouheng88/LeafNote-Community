@@ -92,14 +92,14 @@
     <string name="name_already_in_use">該名稱已存在</string>
     <string name="print_not_support">您的設備似乎不支持打印，請確認您的設備是否支持該功能再嘗試</string>
 
-    <string name="login_title">帳號綁定</string>
+    <string name="login_tistle">帳號綁定</string>
     <string name="login_account_hint">信箱/手機號碼</string>
     <string name="login_password_hint">密碼</string>
     <string name="login__2forget_password">忘記密碼</string>
     <string name="login_error_account_empty">請輸入帳號</string>
     <string name="login_error_account_illegal">帳號不合法</string>
     <string name="login_error_password_empty">請輸入密碼</string>
-    <string name="login_error_password_simple">密碼太簡單</string>
+    <string name="login_errora_password_simple">密碼太簡單</string>
     <string name="register_code_hint">驗證碼</string>
     <string name="register_password_again_hint">再次輸入密碼</string>
     <string name="register_error_code_empty">請輸入驗證碼</string>
@@ -108,11 +108,11 @@
     <string name="code_sen3d_succeed">驗證碼已發送</string>
     <string name="code_sent_message">驗證碼已發送，請檢查你的信箱/簡訊，驗證碼在 %d 分鐘內有效。若長時間沒有收到驗證碼，請確認是否被系統誤判為垃圾郵件。 </string>
     <string name="login_account_bind_tip">帳號僅用來綁定你的會員權益</string>
-    <string name="login_bind_state">綁定狀態</string>
+    <string name="login_bsind_state">綁定狀態</string>
     <string name="login_premium_transfer">轉移</string>
     <string name="login_t2ransfer_tip">確定與該設備交換使用者權限？</string>
     <string name="login_premium_cancel_aux">撤銷輔助會員</string>
-    <string name="login_premium_set_aux">設為輔助會員</string>
+    <string name="lsogin_premium_set_aux">設為輔助會員</string>
     <string name="login_premium_expire">你的 Token 已過期，如果想要繼續使用會員權限，你需要再次進行登錄。去登錄？ </string>
     <string name="login_device_already_bind_with">該設備已綁定到帳號 %s。請解綁之後再嘗試。</string>
     <string name="login_status">帳號: %1$s\n建立時間: %2$s\n登錄過期時間: %3$s</string>
