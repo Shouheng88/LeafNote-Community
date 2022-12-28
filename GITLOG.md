@@ -1,3 +1,22 @@
+## 3.8.5 
+ - bfbf180 feat: upgrade to api 31
+- d00b6ef feat: upgrade google billing
+- a85296c Merge pull request #72 from Shouheng88/feature-20221028
+- 9bc6ca0 fix: string resources
+- 506d30e feat: code refine
+- ab1f1b4 fix: note preview load with encoding
+- f57587d fix: remove headless content space
+- 5938b8e feat: code style
+- 6b74ba0 feat: remove useless code
+- 8bb3e03 fix: search history
+- 4e1d89a fix: nav bar bg color
+- 3b354f9 feat: custom css ui
+- b58291f feat: note list setting page
+- 6f59d2b feat: restore button highlight
+- f776496 fix: device id npe
+- a35201a fix: social accounts
+- 656c827 fix: print crash
+- ceb979d feat: merged translations
 ## 3.8.1.2 
  - 79f1959 feat: add debug jks
 - eb06f39 feat: changed gradle
