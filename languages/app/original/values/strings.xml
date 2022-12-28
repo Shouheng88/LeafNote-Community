@@ -90,8 +90,6 @@
     <string name="sync_job_started">Sync started!</string>
     <string name="name_already_in_use">Name existed!</string>
     <string name="print_not_support">This device does not support printing.</string>
-    <string name="print_not_support_2">This device does not support printing.</string>
-    <string name="print_not_support_3">This device does not support printing.</string>
 
     <string name="login_title">Bind Account</string>
     <string name="login_account_hint">Email</string>
@@ -158,8 +156,8 @@
 
     <string name="premium_free">Free Version</string>
     <string name="premium_premium">Premium</string>
-    <string name="premium_professional">Pro</string>
-    <string name="premium_professional_yearly">Pro Yearly</string>
+    <string name="premium_professional">Lifetime Pro</string>
+    <string name="premium_professional_yearly">1 Year Pro</string>
     <string name="premium_premium_free_trial">Premium free trial</string>
     <string name="premium_professional_free_trial">Pro free trial</string>
     <string name="premium_center">Premium Center</string>

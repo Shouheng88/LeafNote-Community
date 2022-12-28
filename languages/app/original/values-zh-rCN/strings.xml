@@ -215,7 +215,7 @@
     <string name="premium_review_title">用户评价</string>
     <string name="premium_notice_title">注意事项</string>
     <string name="premium_bottom_notice">该软件由开发者精心设计和开发 ♥ 欢迎使用</string>
-    <string name="premium_locked_3">未解锁</string>
+    <string name="premium_locked">未解锁</string>
     <string name="premium_unlocked">已解锁</string>
     <string name="premium_payment_info_title">订单详情</string>
     <string name="premium_payment_info">最终价格: %1$s\n支付方式: %2$s</string>
@@ -231,8 +231,8 @@
     <string name="premium_error_payway_unavailable">支付方式不可用</string>
     <string name="premium_error_version_unlocked">您已解锁该版本</string>
     <string name="premium_error_version_not_selected">请先选择一个会员版本</string>
-    <string name="premium_error_pawway_not_sele_1cted">请先选择一种支付方式</string>
-    <string name="premium_error_google_billin_2g_unavailable">谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。</string>
+    <string name="premium_error_pawway_not_selected">请先选择一种支付方式</string>
+    <string name="premium_error_google_billing_unavailable">谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。</string>
 
     <string name="pay_wechat_title_with_step">微信 (步骤: %s)</string>
     <string name="pay_alipay_title_with_step">支付宝 (步骤: %s)</string>
