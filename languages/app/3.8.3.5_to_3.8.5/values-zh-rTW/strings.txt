@@ -1,0 +1,27 @@
+:name> login_title
+:text> 帳號綁定
+
+:name> login_forget_password
+:text> 忘記密碼
+
+:name> login_error_password_simple
+:text> 密碼太簡單
+
+:name> register_error_password_diff
+:text> 兩次輸入的密碼不同
+
+:name> code_send_succeed
+:text> 驗證碼已發送
+
+:name> login_bind_state
+:text> 綁定狀態
+
+:name> login_transfer_tip
+:text> 確定與該設備交換使用者權限？
+
+:name> login_premium_set_aux
+:text> 設為輔助會員
+
+:name> login_at_first_tips
+:text> 請先登錄
+

@@ -1,0 +1,6 @@
+:name> premium_professional
+:text> Lifetime Pro
+
+:name> premium_professional_yearly
+:text> 1 Year Pro
+

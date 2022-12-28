@@ -1,0 +1,9 @@
+:name> premium_locked
+:text> 未解锁
+
+:name> premium_error_pawway_not_selected
+:text> 请先选择一种支付方式
+
+:name> premium_error_google_billing_unavailable
+:text> 谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。
+
