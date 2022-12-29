@@ -1,3 +1,5 @@
+## 3.8.6 
+ - 9c4217c fix: billing issues
 ## 3.8.5 
  - bfbf180 feat: upgrade to api 31
 - d00b6ef feat: upgrade google billing
