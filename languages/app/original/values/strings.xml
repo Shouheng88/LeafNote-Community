@@ -300,6 +300,7 @@
     <string name="compose_note_align_center">Align center</string>
     <string name="compose_note_text_wrap">Code wrap</string>
     <string name="compose_note_text_size">Text size</string>
+    <string name="compose_note_paragraph_margin_bottom">Line Spacing</string>
     <string name="compose_note_line_number">Line number</string>
     <string name="compose_note_button_order">Sort bottom buttons</string>
     <string name="compose_note_encoding">Encoding</string>

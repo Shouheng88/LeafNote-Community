@@ -297,6 +297,7 @@
     <string name="compose_note_align_center">居中对齐</string>
     <string name="compose_note_text_wrap">代码换行</string>
     <string name="compose_note_text_size">字体大小</string>
+    <string name="compose_note_paragraph_margin_bottom">行间距</string>
     <string name="compose_note_line_number">行号</string>
     <string name="compose_note_button_order">底部按钮排序</string>
     <string name="compose_note_encoding">解码方式</string>
