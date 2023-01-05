@@ -1,3 +1,9 @@
+## 3.8.7 
+ - 675c214 fix: only show line spacing for edit mode
+- 6dfd5ff fix: vip shade color
+- 23cd715 feat: line spacing
+- af9fe1d fix: default ndk version
+- e7162db Merge pull request #73 from Shouheng88/feature-20221211
 ## 3.8.6 
  - 9c4217c fix: billing issues
 ## 3.8.5 
