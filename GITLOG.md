@@ -1,3 +1,5 @@
+## 3.8.8 
+ - 5ecf5e8 fix: default css issue
 ## 3.8.7 
  - 675c214 fix: only show line spacing for edit mode
 - 6dfd5ff fix: vip shade color
