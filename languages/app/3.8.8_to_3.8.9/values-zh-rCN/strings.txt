@@ -1,0 +1,27 @@
+:name> enabled
+:text> 已开启
+
+:name> disabled
+:text> 已关闭
+
+:name> dont_show_again
+:text> 不再显示
+
+:name> set_sync_open_notification_title
+:text> 开启通知
+
+:name> set_sync_open_notification_tips
+:text> 请打开以下通知以获得同步状态：\n 1. 应用通知：%1$s\n 2. %2$s：%3$s.
+
+:name> set_sync_to_enable_notification
+:text> 去开启通知
+
+:name> set_sync_without_notification
+:text> 直接开始同步
+
+:name> shortcut_failed_to_create
+:text> 快捷方式创建失败 :(
+
+:name> shortcut_failed_launcher_not_support
+:text> 抱歉！你的桌面似乎不支持创建快捷方式 :(
+

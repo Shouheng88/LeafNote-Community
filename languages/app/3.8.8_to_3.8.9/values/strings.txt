@@ -1,0 +1,27 @@
+:name> enabled
+:text> Enabled
+
+:name> disabled
+:text> Disabled
+
+:name> dont_show_again
+:text> Don\'t show again
+
+:name> set_sync_open_notification_title
+:text> Enable Notification
+
+:name> set_sync_open_notification_tips
+:text> Please enable below notifications to get sync status:\n 1. App notification: %1$s\n 2. %2$s: %3$s.
+
+:name> set_sync_to_enable_notification
+:text> To Enable Notification
+
+:name> set_sync_without_notification
+:text> Sync Directly
+
+:name> shortcut_failed_to_create
+:text> Failed to create shortcut :(
+
+:name> shortcut_failed_launcher_not_support
+:text> Sorry! It seems your launcher doesn\'t support this feature :(
+

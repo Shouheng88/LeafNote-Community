@@ -1,0 +1,6 @@
+:name> key_set_sync_notifications_open_tips_showed
+:text> ___sync_notifications_channel_open_tips_showed
+
+:name> key_dont_show_notification_enable_tip
+:text> __key_dont_show_notification_enable_tip
+
