@@ -48,6 +48,9 @@
     <string name="rate_app">Rate LeafNote</string>
     <string name="try_it">Try It</string>
     <string name="give_it_up">Give Up</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="dont_show_again">Don\'t show again</string>
 
     <string name="create_note">Create New Note</string>
     <string name="folder">Folder</string>
@@ -505,7 +508,10 @@
     <string name="set_sync_interval_6">Every month</string>
     <string name="set_sync_interval_7">Manual</string>
     <string name="set_sync_immediately">Sync</string>
-    <string name="set_sync_open_notification_tips">Open notifications for better user experience.</string>
+    <string name="set_sync_open_notification_title">Enable Notification</string>
+    <string name="set_sync_open_notification_tips">Please enable below notifications to get sync status:\n 1. App notification: %1$s\n 2. %2$s: %3$s.</string>
+    <string name="set_sync_to_enable_notification">To Enable Notification</string>
+    <string name="set_sync_without_notification">Sync Directly</string>
     <string name="set_sync_sync_state_hint">Sync State</string>
     <string name="set_sync_sync_state_hint_sub">If note modified locally but not synced, a small sync prompt will appear in note list.</string>
 
@@ -569,6 +575,8 @@ We hope to use elegant design and powerful functions to provide users with a bet
     <string name="shortcut_search_short_name">Search</string>
     <string name="shortcut_capture_long_name">Take a Photo</string>
     <string name="shortcut_capture_short_name">Capture</string>
+    <string name="shortcut_failed_to_create">Failed to create shortcut :(</string>
+    <string name="shortcut_failed_launcher_not_support">Sorry! It seems your launcher doesn\'t support this feature :(</string>
 
     <string name="social_telegram_group">Telegram</string>
     <string name="social_qq_group">QQ Group: %s</string>

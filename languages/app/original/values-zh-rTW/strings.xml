@@ -49,6 +49,9 @@
     <string name="rate_app">為言葉評分</string>
     <string name="try_it">試用</string>
     <string name="give_it_up">放棄</string>
+    <string name="enabled">已開啟</string>
+    <string name="disabled">已關閉</string>
+    <string name="dont_show_again">不再顯示</string>
 
     <string name="create_note">新增筆記</string>
     <string name="folder">資料夾</string>
@@ -498,7 +501,10 @@
     <string name="set_sync_interval_6">每一個月</string>
     <string name="set_sync_interval_7">手動同步</string>
     <string name="set_sync_immediately">同步</string>
-    <string name="set_sync_open_notification_tips">去打開通知以獲得更好的同步體驗？ </string>
+    <string name="set_sync_open_notification_title">開啟通知</string>
+    <string name="set_sync_open_notification_tips">請打開以下通知以獲得同步狀態：\n 1. 應用通知：%1$s\n 2. %2$s：%3$s.</string>
+    <string name="set_sync_to_enable_notification">去開啟通知</string>
+    <string name="set_sync_without_notification">直接開始同步</string>
     <string name="set_sync_sync_state_hint">同步狀態提示</string>
     <string name="set_sync_sync_state_hint_sub">如果筆記在本地做了修改但是沒有同步到伺服器，將會在筆記列表顯示一個小的同步提示。 </string>
 
@@ -560,6 +566,8 @@ Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主
     <string name="shortcut_search_short_name">搜尋</string>
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
+    <string name="shortcut_failed_to_create">快捷方式創建失敗 :(</string>
+    <string name="shortcut_failed_launcher_not_support">抱歉！你的桌面似乎不支持創建快捷方式 :(</string>
 
     <string name="social_telegram_group">Telegram 群組</string>
     <string name="social_qq_group">QQ 群組: %s</string>

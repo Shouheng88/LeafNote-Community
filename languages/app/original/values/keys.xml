@@ -68,5 +68,6 @@
     <string name="key_main_page_fab_sort_items" translatable="false">_________main_page_fab_sort_itemsssss</string>
     <string name="key_set_display_language" translatable="false">____keyyyyyyyy_set_display_language</string>
     <string name="key_set_default_image_dir_name" translatable="false">___the_default_image_directory_name</string>
-    <string name="key_set_sync_notifications_open_tips_showed" translatable="false">___sync_notifications_open_tips_showed</string>
+    <string name="key_set_sync_notifications_open_tips_showed" translatable="false">___sync_notifications_channel_open_tips_showed</string>
+    <string name="key_dont_show_notification_enable_tip" translatable="false">__key_dont_show_notification_enable_tip</string>
 </resources>
