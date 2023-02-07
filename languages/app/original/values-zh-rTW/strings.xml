@@ -93,7 +93,7 @@
     <string name="failed_to_open_file">文件打開失敗</string>
     <string name="sync_job_started">開始同步</string>
     <string name="name_already_in_use">該名稱已存在</string>
-    <string name="print_not_support">您的設備似乎不支持打印，請確認您的設備是否支持該功能再嘗試</string>
+    <string name="print_not_support">您的裝置似乎不支持列印，請確認您的裝置是否支援該功能再進行嘗試</string>
 
     <string name="login_title">帳號綁定</string>
     <string name="login_account_hint">信箱/手機號碼</string>
@@ -480,9 +480,9 @@
     <string name="set_sync_webdav_server_not_config">還沒有設定 WebDAV</string>
     <string name="set_sync_webdav_server_connect_test">連接 WebDAV 測試設定</string>
     <string name="set_sync_webdav_server_connect_test_message">言葉將在你的 WebDAV 伺服器建立一個名為 \"Hello.txt\" 的文件來，你可以通過檢查該文件是否存在來判斷 WebDAV 是否​​設定成功！ </string>
+    <string name="set_sync_interval">同步時間間隔</string>
     <string name="set_sync_delay">同步延時(毫秒)</string>
     <string name="set_sync_delay_sub">發送同步請求的時候增加延時，主要用來防止因為請求過於頻繁而被雲端伺服器阻塞。 </string>
-    <string name="set_sync_interval">同步時間間隔</string>
     <string name="set_sync_only_wifi">只在 Wi-Fi 環境下同步</string>
     <string name="set_sync_single">即時同步</string>
     <string name="set_sync_single_sub">文件內容被修改後立即同步</string>
@@ -502,7 +502,7 @@
     <string name="set_sync_interval_7">手動同步</string>
     <string name="set_sync_immediately">同步</string>
     <string name="set_sync_open_notification_title">開啟通知</string>
-    <string name="set_sync_open_notification_tips">請打開以下通知以獲得同步狀態：\n 1. 應用通知：%1$s\n 2. %2$s：%3$s.</string>
+    <string name="set_sync_open_notification_tips">請開啟以下通知權限以取得同步狀態：\n 1. 應用程式通知：%1$s\n 2. %2$s：%3$s.</string>
     <string name="set_sync_to_enable_notification">去開啟通知</string>
     <string name="set_sync_without_notification">直接開始同步</string>
     <string name="set_sync_sync_state_hint">同步狀態提示</string>
@@ -566,8 +566,8 @@ Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主
     <string name="shortcut_search_short_name">搜尋</string>
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
-    <string name="shortcut_failed_to_create">快捷方式創建失敗 :(</string>
-    <string name="shortcut_failed_launcher_not_support">抱歉！你的桌面似乎不支持創建快捷方式 :(</string>
+    <string name="shortcut_failed_to_create">小工具建立失敗 :(</string>
+    <string name="shortcut_failed_launcher_not_support">抱歉！你的桌面啟動器似乎不支援建立小工具 :(</string>
 
     <string name="social_telegram_group">Telegram 群組</string>
     <string name="social_qq_group">QQ 群組: %s</string>
