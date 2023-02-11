@@ -1,0 +1,6 @@
+:name> set_note_title
+:text> 使用標題輸入
+
+:name> set_note_title_sub
+:text> 在筆記編輯頁面啟用標題輸入框
+

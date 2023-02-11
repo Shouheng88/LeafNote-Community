@@ -1,0 +1,6 @@
+:name> set_note_title
+:text> 使用标题输入
+
+:name> set_note_title_sub
+:text> 在笔记编辑页面启用标题输入框
+

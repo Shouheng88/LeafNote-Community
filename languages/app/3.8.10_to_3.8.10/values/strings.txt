@@ -1,0 +1,6 @@
+:name> set_note_title
+:text> Enable title input
+
+:name> set_note_title_sub
+:text> Title input box will be used while editing note if enabled.
+

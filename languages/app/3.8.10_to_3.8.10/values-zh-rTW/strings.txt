@@ -1,0 +1,18 @@
+:name> print_not_support
+:text> 您的裝置似乎不支持列印，請確認您的裝置是否支援該功能再進行嘗試
+
+:name> set_note_title
+:text> 使用標題輸入
+
+:name> set_note_title_sub
+:text> 在筆記編輯頁面啟用標題輸入框
+
+:name> set_sync_open_notification_tips
+:text> 請開啟以下通知權限以取得同步狀態：\n 1. 應用程式通知：%1$s\n 2. %2$s：%3$s.
+
+:name> shortcut_failed_to_create
+:text> 小工具建立失敗 :(
+
+:name> shortcut_failed_launcher_not_support
+:text> 抱歉！你的桌面啟動器似乎不支援建立小工具 :(
+
