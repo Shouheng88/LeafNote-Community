@@ -418,6 +418,8 @@
     <string name="set_note_list">笔记列表</string>
     <string name="set_note_yaml">默认使用 YAML</string>
     <string name="set_note_yaml_sub">默认在笔记中使用 YAML 格式的文件头。YAML 用来添加标签、分类和日期等信息。</string>
+    <string name="set_note_title">使用标题输入</string>
+    <string name="set_note_title_sub">在笔记编辑页面启用标题输入框</string>
     <string name="set_note_extensions">笔记文件的拓展名</string>
     <string name="set_note_extensions_tip">添加拓展名，多个拓展名之间以逗号(,)分开</string>
     <string name="set_note_extensions_sub">使用指定拓展名的文件将被应用识别为笔记</string>

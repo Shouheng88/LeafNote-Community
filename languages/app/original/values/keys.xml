@@ -45,6 +45,7 @@
     <string name="key_set_extensions" translatable="false">__hps_extensions</string>
     <string name="key_set_illegal_charset" translatable="false">__hps_illegal_charset</string>
     <string name="key_set_note_use_yaml" translatable="false">_______didididididi_use_yaml_____</string>
+    <string name="key_set_note_use_input_title" translatable="false">_______didididididi_use_note_input_title_____</string>
     <string name="key_set_note_auto_note_encoding" translatable="false">__auto_parsing_note_encoding</string>
     <string name="key_set_note_show_date" translatable="false">__hps_note_show_last_modified_date</string>
     <string name="key_set_note_select_mode" translatable="false">______tge_note_select_modedddddddd</string>

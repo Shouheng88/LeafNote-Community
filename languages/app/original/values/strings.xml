@@ -426,6 +426,8 @@
     <string name="set_note_list">Note List</string>
     <string name="set_note_yaml">Enable YAML</string>
     <string name="set_note_yaml_sub">Use YAML in note BY DEFAULT. YAML is used to add category, tag, date etc in note.</string>
+    <string name="set_note_title">Enable title input</string>
+    <string name="set_note_title_sub">Title input box will be used while editing note if enabled.</string>
     <string name="set_note_extensions">Note Extensions</string>
     <string name="set_note_extensions_tip">Add extensions, split multiple extensions by \",\"</string>
     <string name="set_note_extensions_sub">Files with note extension will be recognized as note.</string>

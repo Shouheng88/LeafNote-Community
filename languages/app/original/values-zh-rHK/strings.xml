@@ -419,6 +419,8 @@
     <string name="set_note_list">筆記列表</string>
     <string name="set_note_yaml">預設使用 YAML</string>
     <string name="set_note_yaml_sub">預設在筆記中使用 YAML 格式的文件開頭。 YAML 用來增加標籤、分類和日期等訊息。 </string>
+    <string name="set_note_title">使用標題輸入</string>
+    <string name="set_note_title_sub">在筆記編輯頁面啟用標題輸入框</string>
     <string name="set_note_extensions">筆記檔案副檔名</string>
     <string name="set_note_extensions_tip">增加筆記檔案副檔名，多個副檔名之間以逗號（,）分開</string>
     <string name="set_note_extensions_sub">使用了指定的副檔名的檔將被應用辨識為筆記</string>

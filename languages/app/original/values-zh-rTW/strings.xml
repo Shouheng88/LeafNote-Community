@@ -419,6 +419,8 @@
     <string name="set_note_list">筆記列表</string>
     <string name="set_note_yaml">預設使用 YAML</string>
     <string name="set_note_yaml_sub">預設在筆記中使用 YAML 格式的文件開頭。 YAML 用來增加標籤、分類和日期等訊息。 </string>
+    <string name="set_note_title">使用標題輸入</string>
+    <string name="set_note_title_sub">在筆記編輯頁面啟用標題輸入框</string>
     <string name="set_note_extensions">筆記檔案副檔名</string>
     <string name="set_note_extensions_tip">增加筆記檔案副檔名，多個副檔名之間以逗號（,）分開</string>
     <string name="set_note_extensions_sub">使用了指定的副檔名的檔將被應用辨識為筆記</string>
@@ -480,9 +482,9 @@
     <string name="set_sync_webdav_server_not_config">還沒有設定 WebDAV</string>
     <string name="set_sync_webdav_server_connect_test">連接 WebDAV 測試設定</string>
     <string name="set_sync_webdav_server_connect_test_message">言葉將在你的 WebDAV 伺服器建立一個名為 \"Hello.txt\" 的文件來，你可以通過檢查該文件是否存在來判斷 WebDAV 是否​​設定成功！ </string>
-    <string name="set_sync_interval">同步時間間隔</string>
     <string name="set_sync_delay">同步延時(毫秒)</string>
     <string name="set_sync_delay_sub">發送同步請求的時候增加延時，主要用來防止因為請求過於頻繁而被雲端伺服器阻塞。 </string>
+    <string name="set_sync_interval">同步時間間隔</string>
     <string name="set_sync_only_wifi">只在 Wi-Fi 環境下同步</string>
     <string name="set_sync_single">即時同步</string>
     <string name="set_sync_single_sub">文件內容被修改後立即同步</string>
