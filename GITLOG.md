@@ -1,4 +1,20 @@
 ## 3.8.10 
+ - 3d67b44 feat: allow to disable title input
+- ee992ef feat: change tw language resources
+- fcc74f5 feat: remove useless resources
+- 2e57e11 rfct: rv decorations
+- a8c7b2b rfct: rv decoration
+- d85d0b1 rfct: rv methods change
+- 1440d91 feat: open xadapter source
+- 3094dd0 feat: version name change style
+- fb432e9 feat: version name change style
+- 2334b89 rfct: change sputils name
+- f6c3b79 feat: add db schema json
+- 3ef5024 feat: auto generate minor version and version code
+- 8c4369e rfct: remove usless resources
+- 54855fa fix: npe error
+- 94f8f65 fix: build error
+## 3.8.10 
  - 
 ## 3.8.9 
  - 9770e57 Merge pull request #83 from Shouheng88/feature-20230123
