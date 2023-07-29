@@ -1,0 +1,15 @@
+:name> about_app_homepage
+:text> Домашняя страница
+
+:name> about_app_license
+:text> Лицензия
+
+:name> about_app_privacy
+:text> Конфиденциальность
+
+:name> about_app_translate
+:text> Перевод
+
+:name> about_app_translate_sub
+:text> Если вы хотите перевести или улучшить свой язык, посетите нашу страницу сообщества на Github для получения подробной информации.
+

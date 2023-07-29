@@ -1,0 +1,48 @@
+:name> about_app_section
+:text> About
+
+:name> about_app_privacy
+:text> Privacy
+
+:name> about_app_homepage
+:text> Homepage
+
+:name> about_app_translate
+:text> Translate
+
+:name> about_app_translate_sub
+:text> Help us improve translation.
+
+:name> about_app_development
+:text> Development Plan
+
+:name> about_app_license
+:text> License
+
+:name> about_contact_us
+:text> Contact Us
+
+:name> about_social_telegram_group
+:text> Telegram
+
+:name> about_social_qq_group
+:text> QQ Group
+
+:name> about_social_email
+:text> Email
+
+:name> about_developer_section
+:text> Follow the Developer
+
+:name> about_developer_twitter
+:text> Twitter
+
+:name> about_developer_bilibili
+:text> BiliBili
+
+:name> about_developer_github
+:text> Github
+
+:name> about_developer_jike
+:text> Jike
+

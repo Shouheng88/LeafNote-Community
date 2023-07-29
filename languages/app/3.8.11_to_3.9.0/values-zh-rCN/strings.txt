@@ -1,0 +1,48 @@
+:name> about_app_section
+:text> 关于应用
+
+:name> about_app_privacy
+:text> 隐私政策
+
+:name> about_app_homepage
+:text> 应用主页
+
+:name> about_app_translate
+:text> 协助翻译
+
+:name> about_app_translate_sub
+:text> 帮助我们优化「言叶」的翻译
+
+:name> about_app_development
+:text> 开发计划
+
+:name> about_app_license
+:text> 开源许可
+
+:name> about_contact_us
+:text> 联系我们
+
+:name> about_social_telegram_group
+:text> 电报群
+
+:name> about_social_qq_group
+:text> QQ 群
+
+:name> about_social_email
+:text> 邮箱
+
+:name> about_developer_section
+:text> 关注开发者
+
+:name> about_developer_twitter
+:text> 推特
+
+:name> about_developer_bilibili
+:text> 哔哩哔哩
+
+:name> about_developer_github
+:text> Github
+
+:name> about_developer_jike
+:text> 即刻
+
