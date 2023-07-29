@@ -405,18 +405,8 @@
     <string name="set_custom_css_count_limit_for_none_premium">%1$d custom CSS for normal users; %2$d custom CSS for premium users. Please upgrade to unlock more custom CSS.</string>
     <string name="set_custom_css_tip">Tip: Don\'t change values start with \'$\' which are used for user preferences.</string>
     <string name="set_advanced">Advanced</string>
-    <string name="set_about">About</string>
-    <string name="set_about_app">Leaf Note</string>
-    <string name="set_privacy">Privacy</string>
     <string name="set_other">Other</string>
     <string name="set_universal">Universal</string>
-    <string name="set_find_me_in_app_store">Homepage</string>
-    <string name="set_find_me_in_app_store_sub">Download links and other useful info.</string>
-    <string name="set_translate">Translate</string>
-    <string name="set_translate_sub">Help us improve translation.</string>
-    <string name="set_development">Development</string>
-    <string name="set_development_sub">Features to develop and bugs to fix.</string>
-    <string name="set_license">License</string>
     <string name="set_editor_style">Editor Style</string>
     <string name="set_use_pretty_time">Use Pretty Time</string>
     <string name="set_note">Note</string>
@@ -548,15 +538,22 @@
     <string name="trash_box_empty">Empty trash box</string>
     <string name="trash_box_empty_tip">Sure to empty the trash box?</string>
 
-    <string name="about_app_section">Introduction</string>
-    <string name="about_app_detail"><![CDATA[Nice to meet you!<br/><br/>
-Leaf Note is a private Markdown and note-taking application for multi-platform
-collaboration via cloud sync. It\'s designed based on Material Design with powerful functions:<br/><br/>
-all Markdown grammars, MathJax, colorful themes, WebDAV sync, Appwidget, shortcut, image process, export and automatically saving etc.<br/><br/>
-We hope to use elegant design and powerful functions to provide users with a better note application. ]]></string>
-    <string name="about_developer_section">Developer</string>
-    <string name="about_developer_name">ShouHeng</string>
-    <string name="about_developer_detail"><![CDATA[The only developer and designer of Leaf Note.]]></string>
+    <string name="about_app_section">About</string>
+    <string name="about_app_privacy">Privacy</string>
+    <string name="about_app_homepage">Homepage</string>
+    <string name="about_app_translate">Translate</string>
+    <string name="about_app_translate_sub">Help us improve translation.</string>
+    <string name="about_app_development">Development Plan</string>
+    <string name="about_app_license">License</string>
+    <string name="about_contact_us">Contact Us</string>
+    <string name="about_social_telegram_group">Telegram</string>
+    <string name="about_social_qq_group">QQ Group</string>
+    <string name="about_social_email">Email</string>
+    <string name="about_developer_section">Follow the Developer</string>
+    <string name="about_developer_twitter">Twitter</string>
+    <string name="about_developer_bilibili">BiliBili</string>
+    <string name="about_developer_github">Github</string>
+    <string name="about_developer_jike">Jike</string>
     <string name="about_other_apps">Others</string>
 
     <string name="feedback">Feedback</string>

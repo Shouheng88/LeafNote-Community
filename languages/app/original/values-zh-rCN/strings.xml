@@ -397,18 +397,8 @@
     <string name="set_custom_css_count_limit_for_none_premium">普通用户只能创建 %1$d 个自定义 CSS；会员用户可以创建 %2$d 个自定义　CSS．请升级之后解锁更多自定义 CSS.</string>
     <string name="set_custom_css_tip">提示：不要修改以 \'$\' 开头的属性（这些属性用来跟随用户偏好）。</string>
     <string name="set_advanced">高级</string>
-    <string name="set_about">关于</string>
-    <string name="set_about_app">关于应用</string>
-    <string name="set_privacy">隐私政策</string>
     <string name="set_other">其他</string>
     <string name="set_universal">通用</string>
-    <string name="set_find_me_in_app_store">应用主页</string>
-    <string name="set_find_me_in_app_store_sub">该软件的下载地址等信息</string>
-    <string name="set_translate">协助翻译</string>
-    <string name="set_translate_sub">帮助我们优化「言叶」的翻译</string>
-    <string name="set_development">开发计划</string>
-    <string name="set_development_sub">将要开发的功能和要修复的问题等</string>
-    <string name="set_license">开源许可</string>
     <string name="set_editor_style">编辑器主题</string>
     <string name="set_use_pretty_time">美化时间和日期</string>
     <string name="set_note">笔记</string>
@@ -539,14 +529,22 @@
     <string name="trash_box_empty">清空垃圾箱</string>
     <string name="trash_box_empty_tip">确定清空垃圾箱？</string>
 
-    <string name="about_app_section">简 · 介</string>
-    <string name="about_app_detail"><![CDATA[你好，感谢你使用「言叶」！<br/><br/>
-言叶是一款通过云同步多端协作的私人 Markdown 和笔记软件。基于 Material 风格设计，支持多种主题，功能强大。它提供了丰富的功能：<br/><br/>
-Markdown 全部语法、MathJax 数学公式、多种代码主题和编辑器主题、分类和标签管理笔记、WebDAV 同步、桌面小控件和快捷方式等安卓特性、图片裁剪和处理程序、笔记导出为多种格式以及自动保存机制等。<br/><br/>
-我们希望通过优雅的设计与强大的功能，为用户提供一个更好的笔记软件。敬请期待~]]></string>
-    <string name="about_developer_section">开发者</string>
-    <string name="about_developer_name">开发者</string>
-    <string name="about_developer_detail"><![CDATA[该应用的开发者和设计者]]></string>
+    <string name="about_app_section">关于应用</string>
+    <string name="about_app_privacy">隐私政策</string>
+    <string name="about_app_homepage">应用主页</string>
+    <string name="about_app_translate">协助翻译</string>
+    <string name="about_app_translate_sub">帮助我们优化「言叶」的翻译</string>
+    <string name="about_app_development">开发计划</string>
+    <string name="about_app_license">开源许可</string>
+    <string name="about_contact_us">联系我们</string>
+    <string name="about_social_telegram_group">电报群</string>
+    <string name="about_social_qq_group">QQ 群</string>
+    <string name="about_social_email">邮箱</string>
+    <string name="about_developer_section">关注开发者</string>
+    <string name="about_developer_twitter">推特</string>
+    <string name="about_developer_bilibili">哔哩哔哩</string>
+    <string name="about_developer_github">Github</string>
+    <string name="about_developer_jike">即刻</string>
     <string name="about_other_apps">作者的作品</string>
 
     <string name="feedback">问题反馈</string>

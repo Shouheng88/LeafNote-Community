@@ -398,18 +398,8 @@
     <string name="set_custom_css_count_limit_for_none_premium">一般使用者只能建立 %1$d 個自訂 CSS；會員使用者可以建立 %2$d 個自訂 CSS．請升級之後解鎖更多自訂 CSS.</string>
     <string name="set_custom_css_tip">提示：不要修改以 \'$\' 開頭的屬性（這些屬性用來跟隨使用者偏好設定）。 </string>
     <string name="set_advanced">進階</string>
-    <string name="set_about">關於</string>
-    <string name="set_about_app">關於應用程式</string>
-    <string name="set_privacy">隱私政策</string>
     <string name="set_other">其他</string>
     <string name="set_universal">通用</string>
-    <string name="set_find_me_in_app_store">應用程式首頁</string>
-    <string name="set_find_me_in_app_store_sub">該軟體的下載網址等資訊</string>
-    <string name="set_translate">翻譯</string>
-    <string name="set_translate_sub">幫助我們最佳化「言葉」的翻譯</string>
-    <string name="set_development">開發計劃</string>
-    <string name="set_development_sub">將要開發的功能和要修復的問題等</string>
-    <string name="set_license">開源許可</string>
     <string name="set_editor_style">編輯器主題</string>
     <string name="set_use_pretty_time">使用美化的時間和日期</string>
     <string name="set_note">筆記</string>
@@ -540,14 +530,22 @@
     <string name="trash_box_empty">清空垃圾箱</string>
     <string name="trash_box_empty_tip">確定清空垃圾箱？</string>
 
-    <string name="about_app_section">簡 · 介</string>
-    <string name="about_app_detail"><![CDATA[你好，感謝你使用「言葉」！<br/><br/>
-言葉是一款通過雲端同步多端協作的私人 Markdown 和筆記軟體。基於 Material 風格設計，支持多種主題，功能強大。它提供了豐富的功能：<br/><br/>
-Markdown 全部語法、MathJax 數學公式、多種介面主題和編輯器主題、分類和標籤管理筆記、WebDAV 同步、桌面小組件和捷徑等 Android 特性、圖片裁剪和處理程序、筆記匯出為多種格式以及自動儲存機制等。<br/><br/>
-我們希望通過優雅的設計與強大的功能，為使用者提供一個更好的筆記軟體。敬請期待~]]></string>
-    <string name="about_developer_section">開發者</string>
-    <string name="about_developer_name">瀏覽網站</string>
-    <string name="about_developer_detail"><![CDATA[該應用的開發者和設計者]]></string>
+    <string name="about_app_section">關於應用</string>
+    <string name="about_app_privacy">隱私政策</string>
+    <string name="about_app_homepage">應用程式首頁</string>
+    <string name="about_app_translate">翻譯</string>
+    <string name="about_app_translate_sub">幫助我們最佳化「言葉」的翻譯</string>
+    <string name="about_app_development">開發計劃</string>
+    <string name="about_app_license">開源許可</string>
+    <string name="about_contact_us">聯系我們</string>
+    <string name="about_social_telegram_group">電報群</string>
+    <string name="about_social_qq_group">QQ 群</string>
+    <string name="about_social_email">郵箱</string>
+    <string name="about_developer_section">關註開發者</string>
+    <string name="about_developer_twitter">推特</string>
+    <string name="about_developer_bilibili">嗶哩嗶哩</string>
+    <string name="about_developer_github">Github</string>
+    <string name="about_developer_jike">即刻</string>
     <string name="about_other_apps">作者的其他作品</string>
 
     <string name="feedback">問題回饋</string>

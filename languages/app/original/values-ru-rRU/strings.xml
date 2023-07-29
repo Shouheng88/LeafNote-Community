@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_app_detail"><![CDATA[Приятно познакомиться!<br/><br/>
-    Leaf Note - приложение для создания заметок, соединяющее телефон и компьютер, разработанное для кроссплатформенности. Вы можете синхронизировать заметки между компьютером и телефоном. Сейчас поддерживается функция:<br/><br/>
-    * <b> Markdown</b>: поддержка Markdown, выделение программ на многих языках, MathJax и т. д .;<br/>
-    * <b>Изображение</b>: вы можете добавлять изображение из альбома, снимать и синхронизировать его с другой платформой без каких-либо изменений;<br/>
-    * <b>Корпоративный</b>: возможность корпоративного использования с другой платформой с помощью экспорта/импорта и облачной синхронизации;<br/>
-    * <b>Управление</b>: разработан на основе концепции файловой системы, поэтому вы можете синхронизировать, редактировать и просматривать изображения между компьютером и телефоном без каких-либо изменений;<br/>
-    * <b>Средство просмотра</b>: просматривайте заметки, журнал и другие программы в этом приложении, выделив;<br/>
-    * <b>Hexo</b>: использование способа Hexo для управления тегами заметок, категориями, датами, заголовками и т. д .;<br/>
-    * <b>Поиск</b>: поиск по заголовку и содержанию с выделением;<br/>
-    * <b>Папка</b>: полностью основана на файловой системе, никаких других концепций не используется, очень проста в использовании;<br/>
-    * <b>Алгоритм</b>: сравнение файлов и разрешение конфликтов в приложении, улучшенная логика синхронизации файлов и алгоритм сжатия изображений, сохранение дополнительных данных;<br/>
-    * <b>Дизайн</b>: новый материальный дизайн с 5+ темами приложений, дневной темой, 24+ стилями редактора, 28+ стилями кода;<br/>
-    * <b>Функция</b>: виджет приложения на рабочем столе, ярлыки заметок и другие специальные функции Android;<br/>
-    * <b>Инструменты</b>: временная шкала, дерево файлов, размер текста, экспорт и вывод текста в формате HTML, PDF и т. д .;<br/>
-    * <b>NO LOSS</b>: логика истории для автоматического сохранения заметки, конфликт файлов, подсказка о сохранении состояния для защиты ваших данных.<br/><br/>
-    Если вы обнаружите слабое место в нашем приложении, свяжитесь с нами напрямую. Мы хотим сделать это приложение лучше вместе с вами!<br/>]]></string>
     <string name="about_app_section">Введение</string>
     <string name="about_developer_detail">Единственный разработчик и дизайнер Leaf Note.</string>
     <string name="about_developer_name">Shouheng</string>
@@ -232,8 +216,6 @@
     <string name="search_searching">Поиск…</string>
     <string name="select_folder_move_to">Папку переместить в</string>
     <string name="send">Отправить</string>
-    <string name="set_about">Инфо</string>
-    <string name="set_about_app">Leaf Note</string>
     <string name="set_code_style">Стиль кода</string>
     <string name="set_conflict_path_tips">Может произойти сбой из-за неправильного имени файла (содержит недопустимые символы и т. д.), Измените имя файла и повторите попытку!</string>
     <string name="set_conflict_resolve">Разрешить конфликт</string>
@@ -254,11 +236,10 @@
     <string name="set_export_path">Путь экспорта</string>
     <string name="set_export_sub">Экспорт/импорт (резервное копирование) данных на внешнее хранилище</string>
     <string name="set_export_time">Время последнего экспорта</string>
-    <string name="set_find_me_in_app_store">Домашняя страница</string>
-    <string name="set_find_me_in_app_store_sub">Найдите ссылку для скачивания и другую полезную информацию на нашей домашней странице.</string>
+    <string name="about_app_homepage">Домашняя страница</string>
     <string name="set_illegal_charset">Настроить недопустимые символы</string>
     <string name="set_illegal_charset_sub">Недопустимые символы приведут к сбою при синхронизации с другими платформами. Настроенные здесь недопустимые символы будут обрабатываться приложением автоматически.</string>
-    <string name="set_license">Лицензия</string>
+    <string name="about_app_license">Лицензия</string>
     <string name="set_note">Заметка</string>
     <string name="set_note_extensions">Расширения заметки</string>
     <string name="set_note_extensions_sub">Файлы с заданными расширениями будут распознаваться как заметки. (Заметка имеет несколько разную производительность в Ui с другими файлами)</string>
@@ -275,7 +256,7 @@
     <string name="set_theme_theme_purple">Изящный фиолетовый</string>
     <string name="set_theme_title">Выберите одну тему</string>
     <string name="set_theme_theme_warm">Теплый апельсин</string>
-    <string name="set_privacy">Конфиденциальность</string>
+    <string name="about_app_privacy">Конфиденциальность</string>
     <string name="set_report_no_conflict">Поздравляю! Конфликтов не обнаружено!</string>
     <string name="set_support_extensions">Поддержка расширений</string>
     <string name="set_support_extensions_sub">Файлы с расширениями поддержки будут читаться и отображаться в виде текста.</string>
@@ -306,8 +287,8 @@
     <string name="set_sync_webdav_server_connect_test_message">LeafNote создаст файл с именем \"Hello.txt\" на вашем сервере WebDAV. Вы можете определить, успешна ли конфигурация WebDAV, проверив, существует ли файл!</string>
     <string name="set_sync_webdav_server_password">Пароль сервера</string>
     <string name="set_sync_webdav_server_please">Настройте WebDAV</string>
-    <string name="set_translate">Перевод</string>
-    <string name="set_translate_sub">Если вы хотите перевести или улучшить свой язык, посетите нашу страницу сообщества на Github для получения подробной информации.</string>
+    <string name="about_app_translate">Перевод</string>
+    <string name="about_app_translate_sub">Если вы хотите перевести или улучшить свой язык, посетите нашу страницу сообщества на Github для получения подробной информации.</string>
     <string name="set_universal">Универсальный</string>
     <string name="set_use_pretty_time">Использованое время</string>
     <string name="setting">Настройка</string>
