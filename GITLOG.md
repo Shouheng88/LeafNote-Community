@@ -1,3 +1,18 @@
+## 3.9.0 
+ - 0ccb128 feat: switch source script change
+- d210eb0 rfct: config constants
+- 458acd5 rfct: urls
+- c46a5b9 rfct: net apis
+- f7c6a6e rfct: constants
+- 27bfdd9 rfct: constants
+- b1c0a0a feat: env
+- c6be014 rfct: translaction page
+- a0dad05 rfct: about page
+- 0aa7b54 feat: packages version
+- 27fcf31 feat: close source
+- 5abcd0b Merge pull request #88 from Shouheng88/feature-20230208
+- 67f098d feat: change source switch
+- 91f7143 feat: add build time in app info
 ## 3.8.11 
  - 
 ## 3.8.11 
