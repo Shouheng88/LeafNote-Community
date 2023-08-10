@@ -1,0 +1,9 @@
+:name> premium_join
+:text> JOIN NOW
+
+:name> about_app_help
+:text> Help
+
+:name> about_app_feedback
+:text> Feedback
+

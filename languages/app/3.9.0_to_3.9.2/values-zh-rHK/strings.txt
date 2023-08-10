@@ -1,0 +1,9 @@
+:name> premium_join
+:text> 現在加入
+
+:name> about_app_help
+:text> 幫助文檔
+
+:name> about_app_feedback
+:text> 意見反饋
+

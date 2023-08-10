@@ -1,0 +1,3 @@
+:name> premium_join
+:text> Купить
+
