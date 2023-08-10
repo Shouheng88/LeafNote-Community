@@ -166,7 +166,7 @@
     <string name="premium_center">Premium Center</string>
     <string name="premium_free_trial_with">Start %d days free trial</string>
     <string name="premium_free_trial_days_left"> %d days left</string>
-    <string name="premium_join">JOIN NOW &gt;</string>
+    <string name="premium_join">JOIN NOW</string>
     <string name="premium_price">Price: %s</string>
     <string name="premium_price_discount">Price: %1$s, Discount: %2$s</string>
     <string name="premium_commit_payment">Commit Payment</string>
@@ -544,6 +544,8 @@
     <string name="about_app_translate">Translate</string>
     <string name="about_app_translate_sub">Help us improve translation.</string>
     <string name="about_app_development">Development Plan</string>
+    <string name="about_app_help">Help</string>
+    <string name="about_app_feedback">Feedback</string>
     <string name="about_app_license">License</string>
     <string name="about_contact_us">Contact Us</string>
     <string name="about_social_telegram_group">Telegram</string>

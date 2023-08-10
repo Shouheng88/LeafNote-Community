@@ -166,7 +166,7 @@
     <string name="premium_center">会员中心</string>
     <string name="premium_free_trial_with">开启 %d 天免费试用</string>
     <string name="premium_free_trial_days_left"> 剩余%d天</string>
-    <string name="premium_join">现在加入 &gt;</string>
+    <string name="premium_join">现在加入</string>
     <string name="premium_price">价格：%s</string>
     <string name="premium_price_discount">价格：%1$s，原价：%2$s</string>
     <string name="premium_commit_payment">提交订单</string>
@@ -535,6 +535,8 @@
     <string name="about_app_translate">协助翻译</string>
     <string name="about_app_translate_sub">帮助我们优化「言叶」的翻译</string>
     <string name="about_app_development">开发计划</string>
+    <string name="about_app_help">帮助文档</string>
+    <string name="about_app_feedback">意见反馈</string>
     <string name="about_app_license">开源许可</string>
     <string name="about_contact_us">联系我们</string>
     <string name="about_social_telegram_group">电报群</string>

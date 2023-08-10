@@ -176,7 +176,7 @@
     <string name="premium_professional_free_trial">Pro бесплатный триал</string>
     <string name="premium_professional_required">Чтобы продолжить, нужно стать профессионалом!</string>
     <string name="premium_rights">у вас будут:</string>
-    <string name="premium_join">Купить &gt;</string>
+    <string name="premium_join">Купить</string>
     <string name="premium_select_tip">Выберите одну версию для оплаты</string>
     <string name="premium_serial_committed">Серийный номер зафиксирован успешно, дождитесь результата, который может занять некоторое время.</string>
     <string name="premium_serial_committing">Серийное совершение …</string>
