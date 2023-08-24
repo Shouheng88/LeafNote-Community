@@ -569,7 +569,8 @@
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
     <string name="shortcut_failed_to_create">小工具建立失敗 :(</string>
-    <string name="shortcut_failed_launcher_not_support">抱歉！你的桌面啟動器似乎不支援建立小工具 :(</string>
+    <string name="shortcut_failed_launcher_not_support"><![CDATA[抱歉！桌面快捷方式創建失敗。這可能是因為你的設備不支持該特性或者沒給予應用該權限。<br/>
+        你可以嘗試打開設置的程序信息頁面，輕觸\"權限\"，將<b>創建桌面快捷方式</b>]]>設置為打開，並再次嘗試。 </string>
 
     <string name="social_telegram_group">Telegram 群組</string>
     <string name="social_qq_group">QQ 群組: %s</string>

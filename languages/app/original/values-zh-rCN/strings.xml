@@ -568,7 +568,8 @@
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
     <string name="shortcut_failed_to_create">快捷方式创建失败 :(</string>
-    <string name="shortcut_failed_launcher_not_support">抱歉！你的桌面似乎不支持创建快捷方式 :(</string>
+    <string name="shortcut_failed_launcher_not_support"><![CDATA[抱歉！桌面快捷方式创建失败。这可能是因为你的设备不支持该特性或者没给予应用该权限。<br/>
+        你可以尝试打开设置的程序信息页面，轻触\"权限\"，将<b>创建桌面快捷方式</b>]]>设置为打开，并再次尝试。</string>
 
     <string name="social_telegram_group">电报群</string>
     <string name="social_qq_group">QQ 群: %s</string>
