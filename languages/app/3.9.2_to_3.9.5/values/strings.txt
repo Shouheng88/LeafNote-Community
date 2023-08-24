@@ -1,0 +1,8 @@
+:name> premium_free_trial_days_left
+:text> %dd left
+
+:name> shortcut_failed_launcher_not_support
+:text> Oops! Failed to add the shortcut. This may be because your device does not support
+this feature or does not give the App the shortcut permission.<br/>
+Try this: open App Info in Settings page, tap \'Permissions\', grant <b>Create homescreen shortcuts</b> permission.
+
