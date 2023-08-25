@@ -354,7 +354,7 @@
     <string name="comn_load_loading">Data loading &#8230;</string>
     <string name="comn_load_empty">Empty :)</string>
     <string name="comn_crash_title">Sorry for Crash</string>
-    <string name="comn_crash_tips"><![CDATA[You could click [Report Issue] to help use fix it! You can also
+    <string name="comn_crash_tips"><![CDATA[You could click [Report Issue] to help us fix it! You can also
      join our <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> or send email to
      <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> to seek for help.]]></string>
 
