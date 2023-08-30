@@ -437,6 +437,7 @@
     <string name="set_note_hide_folders">Hide folders</string>
     <string name="set_note_hide_folders_sub">Don\'t display selected folders in note list.</string>
     <string name="set_note_folders_selection">Select folders</string>
+    <string name="set_file">File</string>
     <string name="set_image">Image</string>
     <string name="set_image_sub">Settings about image &amp; OCR etc</string>
     <string name="set_image_extensions">Image Extensions</string>
@@ -504,7 +505,7 @@
     <string name="set_sync_open_notification_tips">Please enable below notifications to get sync status:\n 1. App notification: %1$s\n 2. %2$s: %3$s.</string>
     <string name="set_sync_to_enable_notification">To Enable Notification</string>
     <string name="set_sync_without_notification">Sync Directly</string>
-    <string name="set_sync_sync_state_hint">Sync State</string>
+    <string name="set_sync_sync_state_hint">Show Sync State</string>
     <string name="set_sync_sync_state_hint_sub">If note modified locally but not synced, a small sync prompt will appear in note list.</string>
 
     <string name="set_export_export">Export</string>

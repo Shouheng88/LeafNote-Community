@@ -429,6 +429,7 @@
     <string name="set_note_hide_folders">隐藏某些目录</string>
     <string name="set_note_hide_folders_sub">被选中的目录不会展示到笔记列表</string>
     <string name="set_note_folders_selection">选择目录</string>
+    <string name="set_file">文件</string>
     <string name="set_image">图像</string>
     <string name="set_image_sub">图片/OCR/翻译相关的设置</string>
     <string name="set_image_extensions">图片拓展名</string>

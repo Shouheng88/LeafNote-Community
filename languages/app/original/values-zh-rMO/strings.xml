@@ -430,6 +430,7 @@
     <string name="set_note_hide_folders">隱藏某些目錄</string>
     <string name="set_note_hide_folders_sub">被選中的目錄不會展示到筆記列表</string>
     <string name="set_note_folders_selection">選擇目錄</string>
+    <string name="set_file">檔案</string>
     <string name="set_image">圖片</string>
     <string name="set_image_sub">圖片/OCR/翻譯相關的設定</string>
     <string name="set_image_extensions">圖片副檔名</string>
