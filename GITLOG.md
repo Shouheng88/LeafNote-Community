@@ -1,3 +1,45 @@
+## 3.9.7 
+ - 2ed05c1 fix: code review
+- 4d6118a fix: 對話框問題
+- 303b82f rfct: move ExtensionConfig.kt
+- da6874a rfct: move WorkStateManager
+- dbe1858 rfct: remove ImageHelper.kt
+- 9c23b3f fix: note manager locations
+- 0224be1 fix: file extension manager
+- 7cf345a fix: note file settings
+- ffabaa5 fix: note file settings
+- 661c737 fix: note setting grid title style
+- 079d7d7 fix: ViewerManager and EditorManager
+- 1cab207 fix: ViewerManager and EditorManager
+- d681bdc fix: ViewerManager
+- faa600f rfct: GridOptionItem
+- 31dddff rfct: GridOptionItem
+- 3f25b9d rfct: NoteListManager.kt
+- fd9d3b3 rfct: drawer manager
+- 589a409 rfct: homepage note list and drawer
+- baffb3f rfct: homepage
+- 34fc880 rfct: NoteRepo data load
+- 85ccaac rfct: NoteRepo.kt
+- 86e5f8f rfct: NoteCache.kt
+- 98a7069 rfct: FolderManager.kt
+- 3e9deb8 rfct: comment
+- 4c87e50 rfct: change manifest permissions
+- 4ee477c rfct: NoteRepo get note logic
+- 3717def rfct: work state
+- 2e07162 rfct: data load
+- c0f5bf0 rfct: utils
+- dbc55d0 rfct: 排序相关
+- 628433a rfct: DraftRepo.kt & Databases.kt
+- 242278b rfct: DraftRepo.kt & Databases.kt
+- f11111e rfct: NoteTag.kt
+- fb954e8 rfct: FileSystem.kt
+- b65a47a rfct: NoteTreeLoader
+- 5464110 rfct: AppDataLoader
+- 84b2cef rfct: FileBizUtils & FileType
+- b477665 rfct: removed category
+- 783826d rfct: AppLanguageManager
+- c30502f rfct: WorkStateManager
+- a5e8622 feat: env
 ## 3.9.2 
  - e7a8462 feat: quick edit tags in viewer mode
 - 9f5d42f fix: tags pick dialog issues
