@@ -1,0 +1,6 @@
+:name> set_file
+:text> File
+
+:name> set_sync_sync_state_hint
+:text> Show Sync State
+
