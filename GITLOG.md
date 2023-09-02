@@ -1,3 +1,23 @@
+## 3.9.8 
+ - f88f4a8 rfct: doc
+- 9e19be0 rfct: 笔记存储逻辑
+- 36e5555 rfct: 方法重命名
+- 2ce1408 rfct: 笔记标题从前置信息中的解析逻辑
+- 6a0abfb rfct: 标题录入数据库的展示逻辑
+- dd281c1 rfct: 代码格式微调
+- 440746d rfct: 前置信息文案修改
+- 2c74747 rfct: 笔记预览时的标题逻辑
+- ae4fea1 rfct: 代码风格
+- 0cd5e2c rfct: 获取笔记实例的构造方法收拢
+- b5e4eac rfct: 移除无用的分类方法
+- 7de7340 fix: 笔记说明赋值问题
+- a7a1cae rfct: 解析笔记标题的方法微调
+- 9bfb953 rfct: 读取文件方法兼容编码方式
+- 8f9029c rfct: 默认使用文件名而不是笔记名
+- fc87498 rfct: 笔记展示标题逻辑收拢
+- b6d1ef6 feat: env
+- df7b420 rfct: 从文件名获取笔记名的逻辑
+- ba27a58 Merge pull request #127 from Shouheng88/feature-note-2.9.7
 ## 3.9.7 
  - 2ed05c1 fix: code review
 - 4d6118a fix: 對話框問題
