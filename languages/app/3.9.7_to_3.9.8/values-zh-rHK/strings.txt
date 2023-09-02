@@ -1,0 +1,6 @@
+:name> set_note_yaml
+:text> 使用前置信息
+
+:name> set_note_yaml_sub
+:text> 前置信息是一種用於在 Markdown 中添加元數據的特殊語法格式
+

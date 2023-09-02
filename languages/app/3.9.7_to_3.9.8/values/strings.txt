@@ -1,0 +1,9 @@
+:name> set_note_yaml
+:text> Use Front Matter
+
+:name> set_note_yaml_sub
+:text> Front Matter is a special syntax format in Markdown used to add metadata to a document.
+
+:name> set_note_title
+:text> Use Title Input
+
