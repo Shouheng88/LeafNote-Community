@@ -407,8 +407,8 @@
     <string name="set_export">匯入 &amp; 匯出</string>
     <string name="set_export_sub">匯入 &amp; 匯出資料到外部儲存空間</string>
     <string name="set_note_list">筆記列表</string>
-    <string name="set_note_yaml">預設使用 YAML</string>
-    <string name="set_note_yaml_sub">預設在筆記中使用 YAML 格式的文件開頭。 YAML 用來增加標籤、分類和日期等訊息。 </string>
+    <string name="set_note_yaml">使用前置信息</string>
+    <string name="set_note_yaml_sub">前置信息是一種用於在 Markdown 中添加元數據的特殊語法格式</string>
     <string name="set_note_title">使用標題輸入</string>
     <string name="set_note_title_sub">在筆記編輯頁面啟用標題輸入框</string>
     <string name="set_note_extensions">筆記檔案副檔名</string>

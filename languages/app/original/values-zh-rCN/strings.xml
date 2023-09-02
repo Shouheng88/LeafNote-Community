@@ -406,8 +406,8 @@
     <string name="set_export">导入 &amp; 导出</string>
     <string name="set_export_sub">导入和导出数据到外部存储</string>
     <string name="set_note_list">笔记列表</string>
-    <string name="set_note_yaml">默认使用 YAML</string>
-    <string name="set_note_yaml_sub">默认在笔记中使用 YAML 格式的文件头。YAML 用来添加标签、分类和日期等信息。</string>
+    <string name="set_note_yaml">使用前置信息</string>
+    <string name="set_note_yaml_sub">前置信息是一种用于在 Markdown 中添加元数据的特殊语法格式</string>
     <string name="set_note_title">使用标题输入</string>
     <string name="set_note_title_sub">在笔记编辑页面启用标题输入框</string>
     <string name="set_note_extensions">笔记文件的拓展名</string>
