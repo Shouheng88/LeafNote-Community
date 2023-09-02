@@ -1,3 +1,8 @@
+## 3.9.9 
+ - 9c249ec fix: 编辑笔记名称的时候弹出软键盘
+- 467952e fix: 默认文件名时间戳格式
+- 2b05b3c fix: 首页涟漪效果
+- df256bd Merge pull request #131 from Shouheng88/feature-note-2.9.8
 ## 3.9.8 
  - f88f4a8 rfct: doc
 - 9e19be0 rfct: 笔记存储逻辑
