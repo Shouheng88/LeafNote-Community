@@ -1,0 +1,90 @@
+:name> final_result
+:text> This side will be used as final result.
+
+:name> ignore_it
+:text> Ignore
+
+:name> text_okay
+:text> Okay
+
+:name> premium_premium_required
+:text> Premium Required!
+
+:name> premium_premium_required_sub
+:text> You need to become a premium member to use this feature!
+
+:name> premium_premium_become
+:text> Become a Premium Member
+
+:name> premium_payment_trail_gift_content
+:text> YOU HAVE A GIFT FOR FREE TRAIL!
+
+:name> premium_payment_continue_help_tip
+:text> NEED ANY HELP?
+
+:name> pay_purchase_succeed
+:text> Purchase succeed!\nNow you are a premium member!
+
+:name> set_export_sub
+:text> This feature will be removed later.
+
+:name> set_sync_server
+:text> Server
+
+:name> set_sync_webdav_server
+:text> WebDAV Server
+
+:name> set_sync_webdav_server_path
+:text> Server Folder to Synchronize
+
+:name> set_sync_server_configured
+:text> Server configured
+
+:name> set_sync_server_not_config
+:text> Server not configured
+
+:name> set_sync_delay
+:text> Sync Delay Between Files
+
+:name> set_sync_only_wifi
+:text> Sync Only in Wi-Fi Mode
+
+:name> set_sync_open_notification_tips
+:text> Please enable notifications to obtain synchronization status.
+
+:name> set_sync_to_enable_notification
+:text> Enable Notification
+
+:name> sync_interrupted
+:text> Sync Interrupted by User
+
+:name> sync_version_upgrade_tip
+:text> 1. The new sync logic is not compatible with the old, so if you need to sync between multiple devices, please upgrade Apps on all devices to the latest version (4.0 and above).\n2. If it\'s first time you use the new sync logic, it might take a few time to complete.
+
+:name> sync_note_updated
+:text> Note Updated!
+
+:name> sync_note_remote_change_tip
+:text> The note has been updated remotely. Sync it to latest version?
+
+:name> sync_unable_to_handle_locally_yip
+:text> The failure is unable to be handled locally. This might occur due to a network or io error etc. You can try to sync again to resolve this failure.
+
+:name> sync_conflict_resolve_tip
+:text> The file has been modified locally and remotely. To resolve this failure by making a comparison?
+
+:name> set_report_no_conflict
+:text> Congrats, no failure found!
+
+:name> trash_box
+:text> Trash Box
+
+:name> trash_box_delete
+:text> Delete
+
+:name> image_film_replay
+:text> Replay?
+
+:name> config_privacy_accept_tips
+:text> You need to agree the %1$s to continue to use.
+

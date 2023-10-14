@@ -1,0 +1,72 @@
+:name> final_result
+:text> 當前一側的內容將作為最終結果
+
+:name> ignore_it
+:text> 忽略
+
+:name> text_okay
+:text> 好的
+
+:name> premium_premium_required
+:text> 僅限專業版
+
+:name> premium_premium_required_sub
+:text> 你需要成為專業版才能使用該功能！
+
+:name> premium_premium_become
+:text> 升級為尊貴會員
+
+:name> premium_payment_trail_gift_content
+:text> 你有一個免費試用待領取！
+
+:name> pay_purchase_succeed
+:text> 訂單處理完成！\n你現在是尊貴的會員了！
+
+:name> set_export_sub
+:text> 該功能即將下線
+
+:name> set_sync_server
+:text> 服務器
+
+:name> set_sync_webdav_server
+:text> WebDAV 伺服器
+
+:name> set_sync_webdav_server_path
+:text> 伺服器同步目錄
+
+:name> set_sync_server_configured
+:text> 已設定 WebDAV
+
+:name> set_sync_server_not_config
+:text> 還沒有設定 WebDAV
+
+:name> set_sync_delay
+:text> 兩個文件間同步延時
+
+:name> set_sync_open_notification_tips
+:text> 請開啟通知以獲取同步狀態信息
+
+:name> set_sync_to_enable_notification
+:text> 開啟通知
+
+:name> sync_interrupted
+:text> 同步服務被用戶中斷
+
+:name> sync_version_upgrade_tip
+:text> 1. 新的同步邏輯與老的邏輯不兼容，如果你需要在多個設備之間進行同步，請將多個設備的應用都升級到新版本（4.0 及以上）\n2. 第一次使用新的同步方式時可能會花費較多的時間。
+
+:name> sync_note_updated
+:text> 筆記已更新
+
+:name> sync_note_remote_change_tip
+:text> 該筆記當前落後於服務器版本，是否更新到最新版本？
+
+:name> sync_unable_to_handle_locally_yip
+:text> 該錯誤困難是網絡或者讀寫錯誤造成的，無法處理，你可以試試重試來解決該問題
+
+:name> sync_conflict_resolve_tip
+:text> 該文件在本地和遠程同時被修改，要通過對比來解決該錯誤嗎？
+
+:name> config_privacy_accept_tips
+:text> 你需要同意 %1$s 才能繼續使用 APP 哦。
+

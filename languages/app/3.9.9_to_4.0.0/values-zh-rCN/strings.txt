@@ -1,0 +1,72 @@
+:name> final_result
+:text> 当前一侧的内容将作为最终结果
+
+:name> ignore_it
+:text> 忽略
+
+:name> text_okay
+:text> 好的
+
+:name> premium_premium_required
+:text> 仅限专业版
+
+:name> premium_premium_required_sub
+:text> 你需要成为专业版才能使用该功能！
+
+:name> premium_premium_become
+:text> 升级为尊贵会员
+
+:name> premium_payment_trail_gift_content
+:text> 你有一个免费试用待领取！
+
+:name> pay_purchase_succeed
+:text> 订单处理完成！\n你现在是尊贵的会员了！
+
+:name> set_export_sub
+:text> 该功能即将下线
+
+:name> set_sync_server
+:text> 服务器
+
+:name> set_sync_webdav_server
+:text> WebDAV 服务器
+
+:name> set_sync_webdav_server_path
+:text> 服务器同步目录
+
+:name> set_sync_server_configured
+:text> 已配置 WebDAV
+
+:name> set_sync_server_not_config
+:text> 还没有配置 WebDAV
+
+:name> set_sync_delay
+:text> 两个文件间同步延时
+
+:name> set_sync_open_notification_tips
+:text> 请开启通知以获取同步状态信息
+
+:name> set_sync_to_enable_notification
+:text> 开启通知
+
+:name> sync_interrupted
+:text> 同步服务被用户中断
+
+:name> sync_version_upgrade_tip
+:text> 1. 新的同步逻辑与老的逻辑不兼容，如果你需要在多个设备之间进行同步，请将多个设备的应用都升级到新版本（4.0 及以上）\n2. 第一次使用新的同步方式时可能会花费较多的时间。
+
+:name> sync_note_updated
+:text> 笔记已更新
+
+:name> sync_note_remote_change_tip
+:text> 该笔记当前落后于服务器版本，是否更新到最新版本？
+
+:name> sync_unable_to_handle_locally_yip
+:text> 该错误困难是网络或者读写错误造成的，无法处理，你可以试试重试来解决该问题
+
+:name> sync_conflict_resolve_tip
+:text> 该文件在本地和远程同时被修改，要通过对比来解决该错误吗？
+
+:name> config_privacy_accept_tips
+:text> 你需要同意 %1$s 才能继续使用 APP 哦。
+

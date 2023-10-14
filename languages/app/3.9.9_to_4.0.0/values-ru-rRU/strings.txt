@@ -1,0 +1,6 @@
+:name> set_sync_server_configured
+:text> WebDAV настроен
+
+:name> set_sync_server_not_config
+:text> WebDAV не настроен
+
