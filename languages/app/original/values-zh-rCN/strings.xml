@@ -25,7 +25,7 @@
     <string name="sort_by_date">按日期排序</string>
     <string name="sort_by_type">按类型排序</string>
     <string name="help">帮助</string>
-    <string name="final_result">结果</string>
+    <string name="final_result">当前一侧的内容将作为最终结果</string>
     <string name="input_empty">请填写</string>
     <string name="export">导出</string>
     <string name="copy">复制</string>
@@ -51,6 +51,8 @@
     <string name="enabled">已开启</string>
     <string name="disabled">已关闭</string>
     <string name="dont_show_again">不再显示</string>
+    <string name="ignore_it">忽略</string>
+    <string name="text_okay">好的</string>
 
     <string name="create_note">新建笔记</string>
     <string name="folder">目录</string>
@@ -184,7 +186,9 @@
     <string name="premium_payment_status_check_failed">审核失败</string>
     <string name="premium_payment_status_commit_success">已提交</string>
     <string name="premium_payment_status_done">已结单</string>
-    <string name="premium_premium_required">你需要成为高级版才能使用该功能！</string>
+    <string name="premium_premium_required">仅限专业版</string>
+    <string name="premium_premium_required_sub">你需要成为专业版才能使用该功能！</string>
+    <string name="premium_premium_become">升级为尊贵会员</string>
     <string name="premium_professional_required">你需要成为专业版才能使用该功能！</string>
     <string name="premium_privilege_basic">所有基础功能</string>
     <string name="premium_privilege_app_theme">应用主题</string>
@@ -227,7 +231,7 @@
     <string name="premium_payment_continue_not_paid">并未支付</string>
     <string name="premium_payment_login_first">请先登录</string>
     <string name="premium_payment_login_first_content">账号仅用于绑定会员权益</string>
-    <string name="premium_payment_trail_gift_content">你有一个免费试用待领取 :)</string>
+    <string name="premium_payment_trail_gift_content">你有一个免费试用待领取！</string>
     <string name="premium_payment_continue_help_tip">是否需要帮助？</string>
     <string name="premium_payment_continue_help_content">如果你对会员和购买有任何疑问，请联系我们 :)</string>
     <string name="premium_payment_continue_help_required">请求帮助</string>
@@ -256,7 +260,7 @@
     <string name="pay_thanks">这个项目因为你的支持而能够不断更新、完善，非常感谢你的支持</string>
     <string name="pay_launch_alipay_error">打开支付宝失败</string>
     <string name="pay_handling_purchase">订单处理中，请稍等&#8230;</string>
-    <string name="pay_purchase_succeed">订单处理完成！</string>
+    <string name="pay_purchase_succeed">订单处理完成！\n你现在是尊贵的会员了！</string>
 
     <string name="search_searching">搜索中&#8230;</string>
     <string name="search_finish">搜索完毕</string>
@@ -404,7 +408,7 @@
     <string name="set_note">笔记</string>
     <string name="set_note_sub">笔记相关的设置</string>
     <string name="set_export">导入 &amp; 导出</string>
-    <string name="set_export_sub">导入和导出数据到外部存储</string>
+    <string name="set_export_sub">该功能即将下线</string>
     <string name="set_note_list">笔记列表</string>
     <string name="set_note_yaml">使用前置信息</string>
     <string name="set_note_yaml_sub">前置信息是一种用于在 Markdown 中添加元数据的特殊语法格式</string>
@@ -461,19 +465,19 @@
     <string name="set_sync_sub">通过 WebDAV 同步到其他平台</string>
     <string name="set_sync_enable">定时同步</string>
     <string name="set_sync_enable_sub">定时对整个文件目录进行同步</string>
-    <string name="set_sync_webdav_server">配置 WebDAV 服务器</string>
+    <string name="set_sync_server">服务器</string>
+    <string name="set_sync_webdav_server">WebDAV 服务器</string>
     <string name="set_sync_webdav_server_host">WebDAV 服务器地址</string>
-    <string name="set_sync_webdav_server_path">同步目录</string>
+    <string name="set_sync_webdav_server_path">服务器同步目录</string>
     <string name="set_sync_webdav_server_path_sub">言叶将会同步笔记到目录：%s</string>
     <string name="set_sync_webdav_server_account">账户</string>
     <string name="set_sync_webdav_server_password">应用密码</string>
     <string name="set_sync_webdav_server_please">请配置 WebDAV 信息</string>
-    <string name="set_sync_webdav_server_configured">已配置 WebDAV</string>
-    <string name="set_sync_webdav_server_not_config">还没有配置 WebDAV</string>
+    <string name="set_sync_server_configured">已配置 WebDAV</string>
+    <string name="set_sync_server_not_config">还没有配置 WebDAV</string>
     <string name="set_sync_webdav_server_connect_test">连接 WebDAV 测试配置</string>
-    <string name="set_sync_webdav_server_connect_test_message">言叶将在你的 WebDAV 服务器创建一个名为 \"Hello.txt\" 的文件来，你可以通过检查该文件是否存在来判断 WebDAV 是否配置成功！</string>
     <string name="set_sync_interval">同步时间间隔</string>
-    <string name="set_sync_delay">同步延时(毫秒)</string>
+    <string name="set_sync_delay">两个文件间同步延时</string>
     <string name="set_sync_delay_sub">发送同步请求的时候增加延时，主要用来防止因为请求过于频繁而被云服务器阻塞。</string>
     <string name="set_sync_only_wifi">只在 Wi-Fi 环境下同步</string>
     <string name="set_sync_single">实时同步</string>
@@ -494,11 +498,17 @@
     <string name="set_sync_interval_7">手动同步</string>
     <string name="set_sync_immediately">同步</string>
     <string name="set_sync_open_notification_title">开启通知</string>
-    <string name="set_sync_open_notification_tips">请打开以下通知以获得同步状态：\n 1. 应用通知：%1$s\n 2. %2$s：%3$s.</string>
-    <string name="set_sync_to_enable_notification">去开启通知</string>
+    <string name="set_sync_open_notification_tips">请开启通知以获取同步状态信息</string>
+    <string name="set_sync_to_enable_notification">开启通知</string>
     <string name="set_sync_without_notification">直接开始同步</string>
     <string name="set_sync_sync_state_hint">同步状态提示</string>
     <string name="set_sync_sync_state_hint_sub">如果笔记在本地做了修改但是没有同步到服务器，将会在笔记列表显示一个小的同步提示。</string>
+    <string name="sync_interrupted">同步服务被用户中断</string>
+    <string name="sync_version_upgrade_tip">1. 新的同步逻辑与老的逻辑不兼容，如果你需要在多个设备之间进行同步，请将多个设备的应用都升级到新版本（4.0 及以上）\n2. 第一次使用新的同步方式时可能会花费较多的时间。</string>
+    <string name="sync_note_updated">笔记已更新</string>
+    <string name="sync_note_remote_change_tip">该笔记当前落后于服务器版本，是否更新到最新版本？</string>
+    <string name="sync_unable_to_handle_locally_yip">该错误困难是网络或者读写错误造成的，无法处理，你可以试试重试来解决该问题</string>
+    <string name="sync_conflict_resolve_tip">该文件在本地和远程同时被修改，要通过对比来解决该错误吗？</string>
 
     <string name="set_export_export">导出数据</string>
     <string name="set_export_export_sub">导出数据到外部存储空间</string>
@@ -585,7 +595,7 @@
 
     <string name="config_found_new_version">发现新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
     <string name="config_to_upgrade">去升级</string>
-    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能继续使用 APP\n\n* 使用该软件的过程中，我们会向你请求「存储空间」权限，用来暂存应用崩溃日志和笔记等。</string>
+    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能继续使用 APP 哦。</string>
     <string name="config_privacy_accept">同意并使用</string>
     <string name="config_privacy_reject_exit">拒绝并退出</string>
 

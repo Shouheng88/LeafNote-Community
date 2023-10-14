@@ -31,11 +31,9 @@
     <string name="key_set_sync" translatable="false">key_set_sync</string>
     <string name="key_set_sync_server" translatable="false">key_set_sync_server</string>
     <string name="key_set_sync_test_server" translatable="false">key_set_sync_test_server</string>
-    <string name="key_set_sync_enable" translatable="false">key_set_sync_enable</string>
     <string name="key_set_sync_interval" translatable="false">key_set_sync_internal</string>
     <string name="key_set_sync_delay" translatable="false">__key_set_sync_Delay</string>
     <string name="key_set_sync_only_wifi" translatable="false">key_set_sync_only_wifi</string>
-    <string name="key_set_sync_single_sync_enable" translatable="false">______single_sync_enable</string>
     <string name="ket_set_sync_last_sync_time" translatable="false">___hoops_last_sync_time</string>
     <string name="key_set_sync_last_info" translatable="false">____hhhhhhh_last_sync_info</string>
     <string name="key_set_sync_root_path" translatable="false">___the_root_sync_path_____</string>

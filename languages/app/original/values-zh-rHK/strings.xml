@@ -26,7 +26,7 @@
     <string name="sort_by_date">按日期排序</string>
     <string name="sort_by_type">按類型排序</string>
     <string name="help">協助</string>
-    <string name="final_result">結果</string>
+    <string name="final_result">當前一側的內容將作為最終結果</string>
     <string name="input_empty">請填寫</string>
     <string name="export">匯出</string>
     <string name="copy">複製</string>
@@ -52,6 +52,8 @@
     <string name="enabled">已開啟</string>
     <string name="disabled">已關閉</string>
     <string name="dont_show_again">不再顯示</string>
+    <string name="ignore_it">忽略</string>
+    <string name="text_okay">好的</string>
 
     <string name="create_note">新增筆記</string>
     <string name="folder">資料夾</string>
@@ -185,7 +187,9 @@
     <string name="premium_payment_status_check_failed">審核失敗</string>
     <string name="premium_payment_status_commit_success">已提交</string>
     <string name="premium_payment_status_done">已結單</string>
-    <string name="premium_premium_required">你需要成為高級版才能使用該功能！</string>
+    <string name="premium_premium_required">僅限專業版</string>
+    <string name="premium_premium_required_sub">你需要成為專業版才能使用該功能！</string>
+    <string name="premium_premium_become">升級為尊貴會員</string>
     <string name="premium_professional_required">你需要成為專業版才能使用該功能！</string>
     <string name="premium_privilege_basic">所有基礎功能</string>
     <string name="premium_privilege_app_theme">應用主題</string>
@@ -228,7 +232,7 @@
     <string name="premium_payment_continue_not_paid">並未付款</string>
     <string name="premium_payment_login_first">請先登錄</string>
     <string name="premium_payment_login_first_content">帳號僅用於綁定會員權益</string>
-    <string name="premium_payment_trail_gift_content">你有一個免費試用待領取 :)</string>
+    <string name="premium_payment_trail_gift_content">你有一個免費試用待領取！</string>
     <string name="premium_payment_continue_help_tip">是否需要幫助？ </string>
     <string name="premium_payment_continue_help_content">如果你對會員和購買有任何疑問，請聯絡我們 :)</string>
     <string name="premium_payment_continue_help_required">請求幫助</string>
@@ -257,7 +261,7 @@
     <string name="pay_thanks">這個專案因為你的支持而能夠不斷更新、完善，非常感謝你的支持</string>
     <string name="pay_launch_alipay_error">打開支付寶失敗</string>
     <string name="pay_handling_purchase">訂單處理中，請稍等&#8230;</string>
-    <string name="pay_purchase_succeed">訂單處理完成！</string>
+    <string name="pay_purchase_succeed">訂單處理完成！\n你現在是尊貴的會員了！</string>
 
     <string name="search_searching">搜尋中&#8230;</string>
     <string name="search_finish">搜尋完畢</string>
@@ -405,7 +409,7 @@
     <string name="set_note">筆記</string>
     <string name="set_note_sub">筆記相關的設定</string>
     <string name="set_export">匯入 &amp; 匯出</string>
-    <string name="set_export_sub">匯入 &amp; 匯出資料到外部儲存空間</string>
+    <string name="set_export_sub">該功能即將下線</string>
     <string name="set_note_list">筆記列表</string>
     <string name="set_note_yaml">使用前置信息</string>
     <string name="set_note_yaml_sub">前置信息是一種用於在 Markdown 中添加元數據的特殊語法格式</string>
@@ -462,18 +466,18 @@
     <string name="set_sync_sub">通過 WebDAV 同步到其他平臺</string>
     <string name="set_sync_enable">定時同步</string>
     <string name="set_sync_enable_sub">定時對整個檔案目錄進行同步</string>
-    <string name="set_sync_webdav_server">設定 WebDAV 伺服器</string>
+    <string name="set_sync_server">服務器</string>
+    <string name="set_sync_webdav_server">WebDAV 伺服器</string>
     <string name="set_sync_webdav_server_host">WebDAV 伺服器地址</string>
-    <string name="set_sync_webdav_server_path">同步目錄</string>
+    <string name="set_sync_webdav_server_path">伺服器同步目錄</string>
     <string name="set_sync_webdav_server_path_sub">言葉將會同步筆記到目錄：%s</string>
     <string name="set_sync_webdav_server_account">帳戶</string>
     <string name="set_sync_webdav_server_password">應用密碼</string>
     <string name="set_sync_webdav_server_please">請設定 WebDAV 資訊</string>
-    <string name="set_sync_webdav_server_configured">已設定 WebDAV</string>
-    <string name="set_sync_webdav_server_not_config">還沒有設定 WebDAV</string>
+    <string name="set_sync_server_configured">已設定 WebDAV</string>
+    <string name="set_sync_server_not_config">還沒有設定 WebDAV</string>
     <string name="set_sync_webdav_server_connect_test">連接 WebDAV 測試設定</string>
-    <string name="set_sync_webdav_server_connect_test_message">言葉將在你的 WebDAV 伺服器建立一個名為 \"Hello.txt\" 的文件來，你可以通過檢查該文件是否存在來判斷 WebDAV 是否​​設定成功！ </string>
-    <string name="set_sync_delay">同步延時(毫秒)</string>
+    <string name="set_sync_delay">兩個文件間同步延時</string>
     <string name="set_sync_delay_sub">發送同步請求的時候增加延時，主要用來防止因為請求過於頻繁而被雲端伺服器阻塞。 </string>
     <string name="set_sync_interval">同步時間間隔</string>
     <string name="set_sync_only_wifi">只在 Wi-Fi 環境下同步</string>
@@ -495,11 +499,17 @@
     <string name="set_sync_interval_7">手動同步</string>
     <string name="set_sync_immediately">同步</string>
     <string name="set_sync_open_notification_title">開啟通知</string>
-    <string name="set_sync_open_notification_tips">請打開以下通知以獲得同步狀態：\n 1. 應用通知：%1$s\n 2. %2$s：%3$s.</string>
-    <string name="set_sync_to_enable_notification">去開啟通知</string>
+    <string name="set_sync_open_notification_tips">請開啟通知以獲取同步狀態信息</string>
+    <string name="set_sync_to_enable_notification">開啟通知</string>
     <string name="set_sync_without_notification">直接開始同步</string>
     <string name="set_sync_sync_state_hint">同步狀態提示</string>
     <string name="set_sync_sync_state_hint_sub">如果筆記在本地做了修改但是沒有同步到伺服器，將會在筆記列表顯示一個小的同步提示。 </string>
+    <string name="sync_interrupted">同步服務被用戶中斷</string>
+    <string name="sync_version_upgrade_tip">1. 新的同步邏輯與老的邏輯不兼容，如果你需要在多個設備之間進行同步，請將多個設備的應用都升級到新版本（4.0 及以上）\n2. 第一次使用新的同步方式時可能會花費較多的時間。</string>
+    <string name="sync_note_updated">筆記已更新</string>
+    <string name="sync_note_remote_change_tip">該筆記當前落後於服務器版本，是否更新到最新版本？</string>
+    <string name="sync_unable_to_handle_locally_yip">該錯誤困難是網絡或者讀寫錯誤造成的，無法處理，你可以試試重試來解決該問題</string>
+    <string name="sync_conflict_resolve_tip">該文件在本地和遠程同時被修改，要通過對比來解決該錯誤嗎？</string>
 
     <string name="set_export_export">匯出資料</string>
     <string name="set_export_export_sub">匯出資料到外部儲存空間</string>
@@ -586,7 +596,7 @@
 
     <string name="config_found_new_version">發現新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
     <string name="config_to_upgrade">去升級</string>
-    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能繼續使用 APP\n\n* 使用該軟體的過程中，我們會向你請求「儲存空間空間」許可權，用來暫存程式崩潰日誌和筆記等。</string>
+    <string name="config_privacy_accept_tips">你需要同意 %1$s 才能繼續使用 APP 哦。</string>
     <string name="config_privacy_accept">同意並使用</string>
     <string name="config_privacy_reject_exit">拒絕並退出</string>
 

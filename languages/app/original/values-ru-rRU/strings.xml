@@ -67,7 +67,6 @@
     <string name="compose_title_hint">Введите название заметки</string>
     <string name="config_found_new_version">Обнаружена более новая версия %1$s, обновить?\n\n%2$s</string>
     <string name="config_privacy_accept">Принять и продолжить</string>
-    <string name="config_privacy_accept_tips">Вы должны согласиться %1$s, чтобы продолжить использование\n\n* Мы будем запрашивать разрешение «Хранилище» для хранения журнала сбоев, экспортированных файлов и т. д. При использовании этого приложения.</string>
     <string name="config_privacy_reject_exit">Не согласен, выйти</string>
     <string name="config_to_upgrade">Улутшение</string>
     <string name="confirm">Ок</string>
@@ -234,7 +233,6 @@
     <string name="set_export_import_num_with">%d файлов импортировано</string>
     <string name="set_export_import_sub">Импорт из внешнего хранилища</string>
     <string name="set_export_path">Путь экспорта</string>
-    <string name="set_export_sub">Экспорт/импорт (резервное копирование) данных на внешнее хранилище</string>
     <string name="set_export_time">Время последнего экспорта</string>
     <string name="about_app_homepage">Домашняя страница</string>
     <string name="set_illegal_charset">Настроить недопустимые символы</string>
@@ -280,11 +278,10 @@
     <string name="set_sync_sub">Синхронизация с другой платформой по WebDAV</string>
     <string name="set_sync_webdav_server">Настроить сервер WebDAV</string>
     <string name="set_sync_webdav_server_account">Учетная запись сервера</string>
-    <string name="set_sync_webdav_server_configured">WebDAV настроен</string>
+    <string name="set_sync_server_configured">WebDAV настроен</string>
     <string name="set_sync_webdav_server_host">Хост сервера WebDAV</string>
-    <string name="set_sync_webdav_server_not_config">WebDAV не настроен</string>
+    <string name="set_sync_server_not_config">WebDAV не настроен</string>
     <string name="set_sync_webdav_server_connect_test">Протестируйте конфигурацию WebDAV</string>
-    <string name="set_sync_webdav_server_connect_test_message">LeafNote создаст файл с именем \"Hello.txt\" на вашем сервере WebDAV. Вы можете определить, успешна ли конфигурация WebDAV, проверив, существует ли файл!</string>
     <string name="set_sync_webdav_server_password">Пароль сервера</string>
     <string name="set_sync_webdav_server_please">Настройте WebDAV</string>
     <string name="about_app_translate">Перевод</string>

@@ -25,7 +25,7 @@
     <string name="sort_by_date">Date</string>
     <string name="sort_by_type">Type</string>
     <string name="help">Help</string>
-    <string name="final_result">Result</string>
+    <string name="final_result">This side will be used as final result.</string>
     <string name="input_empty">Please fill in</string>
     <string name="export">Export</string>
     <string name="copy">Copy</string>
@@ -51,6 +51,8 @@
     <string name="enabled">Enabled</string>
     <string name="disabled">Disabled</string>
     <string name="dont_show_again">Don\'t show again</string>
+    <string name="ignore_it">Ignore</string>
+    <string name="text_okay">Okay</string>
 
     <string name="create_note">Create New Note</string>
     <string name="folder">Folder</string>
@@ -184,7 +186,9 @@
     <string name="premium_payment_status_check_failed">Failed</string>
     <string name="premium_payment_status_commit_success">Committed</string>
     <string name="premium_payment_status_done">Done</string>
-    <string name="premium_premium_required">Premium required!</string>
+    <string name="premium_premium_required">Premium Required!</string>
+    <string name="premium_premium_required_sub">You need to become a premium member to use this feature!</string>
+    <string name="premium_premium_become">Become a Premium Member</string>
     <string name="premium_professional_required">Professional required!</string>
     <string name="premium_privilege_basic">Basic abilities</string>
     <string name="premium_privilege_app_theme">App theme</string>
@@ -227,8 +231,8 @@
     <string name="premium_payment_continue_not_paid">I Did\'t Pay</string>
     <string name="premium_payment_login_first">Please Login First</string>
     <string name="premium_payment_login_first_content">The account to create/login is only used to bind your premium info.</string>
-    <string name="premium_payment_trail_gift_content">YOU HAVE A GIFT FOR FREE TRAIL :)</string>
-    <string name="premium_payment_continue_help_tip">Do You Need Any Help?</string>
+    <string name="premium_payment_trail_gift_content">YOU HAVE A GIFT FOR FREE TRAIL!</string>
+    <string name="premium_payment_continue_help_tip">NEED ANY HELP?</string>
     <string name="premium_payment_continue_help_content">If you have any questions about the premium or the purchase flow. We\'d glad to help :)</string>
     <string name="premium_payment_continue_help_required">Help</string>
     <string name="premium_error_payway_unavailable">Pay way unavailable.</string>
@@ -259,7 +263,7 @@
     <string name="pay_thanks">Thanks to your support, the project is able to get better!</string>
     <string name="pay_launch_alipay_error">Filed to open AliPay</string>
     <string name="pay_handling_purchase">Handling purchase&#8230;</string>
-    <string name="pay_purchase_succeed">Purchase succeed! Now you are a premium member!</string>
+    <string name="pay_purchase_succeed">Purchase succeed!\nNow you are a premium member!</string>
 
     <string name="search_searching">Searching&#8230;</string>
     <string name="search_finish">Search completed</string>
@@ -412,7 +416,7 @@
     <string name="set_note">Note</string>
     <string name="set_note_sub">Settings about note</string>
     <string name="set_export">Export &amp; Import</string>
-    <string name="set_export_sub">Export &amp; import data to external storage</string>
+    <string name="set_export_sub">This feature will be removed later.</string>
     <string name="set_note_list">Note List</string>
     <string name="set_note_yaml">Use Front Matter</string>
     <string name="set_note_yaml_sub">Front Matter is a special syntax format in Markdown used to add metadata to a document.</string>
@@ -469,21 +473,22 @@
     <string name="set_sync_sub">Sync to other platform by WebDAV</string>
     <string name="set_sync_enable">Timely Sync</string>
     <string name="set_sync_enable_sub">Synchronize all notes timely.</string>
-    <string name="set_sync_webdav_server">Configure Server</string>
+
+    <string name="set_sync_server">Server</string>
+    <string name="set_sync_webdav_server">WebDAV Server</string>
     <string name="set_sync_webdav_server_host">WebDAV Server Host</string>
-    <string name="set_sync_webdav_server_path">Sync Folder</string>
+    <string name="set_sync_webdav_server_path">Server Folder to Synchronize</string>
     <string name="set_sync_webdav_server_path_sub">The directory on WebDAV server that LeafNote syncs to: %s</string>
     <string name="set_sync_webdav_server_account">Server Account</string>
     <string name="set_sync_webdav_server_password">Server Password</string>
     <string name="set_sync_webdav_server_please">Please configure WebDAV</string>
-    <string name="set_sync_webdav_server_configured">WebDAV configured</string>
-    <string name="set_sync_webdav_server_not_config">WebDAV not configured</string>
+    <string name="set_sync_server_configured">Server configured</string>
+    <string name="set_sync_server_not_config">Server not configured</string>
     <string name="set_sync_webdav_server_connect_test">Test Connection</string>
-    <string name="set_sync_webdav_server_connect_test_message">LeafNote will create a file named \"Hello.txt\" on your WebDAV server, you can check whether the configuration is valid by its existence!</string>
     <string name="set_sync_interval">Timely Sync Interval</string>
-    <string name="set_sync_delay">Sync Delay (Millis)</string>
+    <string name="set_sync_delay">Sync Delay Between Files</string>
     <string name="set_sync_delay_sub">Add delay while request to avoid blocking by remote server.</string>
-    <string name="set_sync_only_wifi">Sync Only on Wi-Fi State</string>
+    <string name="set_sync_only_wifi">Sync Only in Wi-Fi Mode</string>
     <string name="set_sync_single">Realtime Sync</string>
     <string name="set_sync_single_sub">Sync immediately after modified locally</string>
     <string name="set_sync_info">Sync Info</string>
@@ -502,11 +507,17 @@
     <string name="set_sync_interval_7">Manual</string>
     <string name="set_sync_immediately">Sync</string>
     <string name="set_sync_open_notification_title">Enable Notification</string>
-    <string name="set_sync_open_notification_tips">Please enable below notifications to get sync status:\n 1. App notification: %1$s\n 2. %2$s: %3$s.</string>
-    <string name="set_sync_to_enable_notification">To Enable Notification</string>
+    <string name="set_sync_open_notification_tips">Please enable notifications to obtain synchronization status.</string>
+    <string name="set_sync_to_enable_notification">Enable Notification</string>
     <string name="set_sync_without_notification">Sync Directly</string>
     <string name="set_sync_sync_state_hint">Show Sync State</string>
     <string name="set_sync_sync_state_hint_sub">If note modified locally but not synced, a small sync prompt will appear in note list.</string>
+    <string name="sync_interrupted">Sync Interrupted by User</string>
+    <string name="sync_version_upgrade_tip">1. The new sync logic is not compatible with the old, so if you need to sync between multiple devices, please upgrade Apps on all devices to the latest version (4.0 and above).\n2. If it\'s first time you use the new sync logic, it might take a few time to complete.</string>
+    <string name="sync_note_updated">Note Updated!</string>
+    <string name="sync_note_remote_change_tip">The note has been updated remotely. Sync it to latest version?</string>
+    <string name="sync_unable_to_handle_locally_yip">The failure is unable to be handled locally. This might occur due to a network or io error etc. You can try to sync again to resolve this failure.</string>
+    <string name="sync_conflict_resolve_tip">The file has been modified locally and remotely. To resolve this failure by making a comparison?</string>
 
     <string name="set_export_export">Export</string>
     <string name="set_export_export_sub">Export notes to external storage.</string>
@@ -523,7 +534,7 @@
     <string name="set_export_executing">Export or import task executing</string>
     <string name="set_export_conflict_with">%d files failed</string>
 
-    <string name="set_report_no_conflict">Congratulations, no failure found!</string>
+    <string name="set_report_no_conflict">Congrats, no failure found!</string>
 
     <string name="set_conflict_resolve">Resolve Failure</string>
     <string name="set_conflict_path_tips">Might failed due to:\n
@@ -531,9 +542,9 @@
         2.too much request: stop for a while and change the frequency of sync.
     </string>
 
-    <string name="trash_box">Trash box</string>
+    <string name="trash_box">Trash Box</string>
     <string name="trash_box_recover">Recover</string>
-    <string name="trash_box_delete">Delete completely</string>
+    <string name="trash_box_delete">Delete</string>
     <string name="trash_box_recover_tip">Sure to recover this file/directory from trash box?</string>
     <string name="trash_box_delete_tip">Sure to delete this file/directory completely from trash box?</string>
     <string name="trash_box_empty">Empty trash box</string>
@@ -588,14 +599,14 @@
     <string name="social_email_feedback_title">A feedback to LeafNote APP | %s</string>
     <string name="crash_email_title">Crash report for LeafNote APP</string>
 
-    <string name="image_film_replay">Finished, replay?</string>
+    <string name="image_film_replay">Replay?</string>
 
     <string name="donate">Donate</string>
     <string name="share_text">Hey, I found a private Markdown and note-taking application for multi-platform collaboration via cloud sync, LeafNote. See link for details: %s. Have a try!</string>
 
     <string name="config_found_new_version">Newer version %1$s found, upgrade?\n\n%2$s</string>
     <string name="config_to_upgrade">to Upgrade</string>
-    <string name="config_privacy_accept_tips">You need to agree %1$s to continue to use\n\n* We will ask for \"Storage\" permission to store crash log, exported files etc while using this App.</string>
+    <string name="config_privacy_accept_tips">You need to agree the %1$s to continue to use.</string>
     <string name="config_privacy_accept">Agree</string>
     <string name="config_privacy_reject_exit">Disagree</string>
 
