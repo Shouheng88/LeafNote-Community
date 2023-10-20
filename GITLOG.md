@@ -1,3 +1,5 @@
+## 4.0.2 
+ - 
 ## 4.0.1 
  - b5af8f21 fix: build issue on oversea version when enable resguard
 - 9b1ae527 Merge pull request #135 from Shouheng88/feature-note-4.0
