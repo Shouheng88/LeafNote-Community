@@ -231,7 +231,7 @@
     <string name="premium_payment_continue_not_paid">I Did\'t Pay</string>
     <string name="premium_payment_login_first">Please Login First</string>
     <string name="premium_payment_login_first_content">The account to create/login is only used to bind your premium info.</string>
-    <string name="premium_payment_trail_gift_content">YOU HAVE A GIFT FOR FREE TRAIL!</string>
+    <string name="premium_payment_trail_gift_content">You have a gift for free trail!</string>
     <string name="premium_payment_continue_help_tip">NEED ANY HELP?</string>
     <string name="premium_payment_continue_help_content">If you have any questions about the premium or the purchase flow. We\'d glad to help :)</string>
     <string name="premium_payment_continue_help_required">Help</string>
