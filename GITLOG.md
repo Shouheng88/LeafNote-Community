@@ -1,3 +1,22 @@
+## 4.0.3 
+ - f479d558 fix: toast message error
+- 4dd9de1e feat: rollback change to 4.0.0 temp
+- d98f996f feat: env
+- ffb90af7 feat: text underlined
+- 9e8f6559 feat: add a method to hide overscroll mode of recyclerview
+- ed6d00e5 feat: move edit text state listeners
+- 4704f466 feat: move glide state listener to ui library
+- fb371d47 feat: move positions of setting styles
+- 9ce690ed feat: string and charsequence colored methods
+- ab2bc252 feat: env
+- 5e8a184f feat: move search button to top right toolbar
+- 0ce32798 fix: code miss
+- e358f5c3 fix: empty view crash issue
+- c7865923 feat: add drawer activities sample
+- 60169a11 feat: gift dialog repeat mode
+- 591f8b47 feat: privacy policy dialog in info dialog style
+- bd82103d fix: use lottie empty view in note list
+- 9b1ae527 Merge pull request #135 from Shouheng88/feature-note-4.0
 ## 4.0.2 
  - 
 ## 4.0.1 
