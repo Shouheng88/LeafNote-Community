@@ -1,0 +1,3 @@
+:name> premium_payment_trail_gift_content
+:text> You have a gift for free trail!
+
