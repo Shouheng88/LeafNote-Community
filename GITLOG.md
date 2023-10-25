@@ -1,3 +1,7 @@
+## 4.0.4 
+ - 9efa4fe4 Merge branch 'master' into feature-note-4.0.1
+- 04568695 fix: issue of and res guard for firebase
+- b5af8f21 fix: build issue on oversea version when enable resguard
 ## 4.0.3 
  - f479d558 fix: toast message error
 - 4dd9de1e feat: rollback change to 4.0.0 temp
