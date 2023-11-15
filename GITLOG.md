@@ -1,3 +1,67 @@
+## 4.0.5 
+ - 91d9ff9c rfct: language translations
+- 3379ee57 rfct: show note count in homepage
+- 272565f7 rfct: premium restore difficulties guide
+- c1bbd1e9 rfct: show account info in premium page
+- 3cbbd75e rfct: premium require in viewer page
+- 3af7cc4b rfct: about page layout
+- 8f08f354 rfct: payway layout height
+- ab520ed1 rfct: premium page purchase flow dialog ui
+- e8b5829f rfct: premium page premium version selection logic
+- 7650fb32 rfct: premium page premium version selection logic
+- c71f273f rfct: premium page ui color
+- efd31563 rfct: empty view title text color
+- 375263fc rfct: premium purchase button shimmer effect
+- 77665f85 rfct: premium logo everywhere
+- 72f5d845 rfct: folder picker premium require logo
+- 9290b5e0 rfct: premium logo size
+- 52f36cad rfct: setting dialog premium requirements
+- b43cf8ec rfct: dialog code style
+- ad1aabdf rfct: setting dialog premium require logic
+- 6366810e rfct: export setting premium require logic
+- 0a9a4433 rfct: image setting premium require logic
+- 3d592b3a rfct: vip logo in fragment container
+- 4cb9db91 rfct: premium require dialog shimmer effect
+- 655cd89f rfct: custom css premium require logic
+- b2966e68 rfct: method name
+- 014140df rfct: code style page premium require logic
+- c723703e rfct: editor style page premium require logic
+- 4d27b77d rfct: themes page premium require logic
+- a8954162 rfct: setting class names
+- 3e2137a9 feat: remove export summary
+- 761d66f6 rfct: move theme and style settings from setting main page
+- a8f81ff1 fix: translation
+- e8bd3c17 fix: translation
+- 48a2651c feat: show premium requirement dialog
+- bd03502b rfct: vip shade of folder picker in homepage
+- 9398ba08 fix: privacy dialog not cancelable
+- b55ffc59 rfct: dialogs
+- 7cdd83b3 feat: add beian info to about page
+- a820227f fix: multi-languages modifications
+- ab890555 fix: multi-languages modifications
+- baca6013 fix: homepage menu languages
+- d8aa6d96 fix: folder switch text layout
+- c11a01a6 fix: drawer premium info layout
+- 4d16caa4 fix: language resource issue
+- a15a9969 feat: capitalize language resources
+- 41c878df fix: app multi-languages upper first case
+- fb392f91 fix: app name translation issues
+- 3e9740b7 fix: issues of languages
+- 0141c76a feat: add more to app language manager
+- 695ab345 fix: build issues
+- b950bbe2 feat: temp commit generated language resources
+- 2d6d2169 fix: small issues of translated resources
+- 9c42c774 feat: removed some language resources
+- de923624 fix: deleted russian language resources
+- 7ade6cdf fix: email issues of multi-language resources
+- 33d5ee45 feat: add multi-language resources
+- 8a9be1fc feat: little change to korean and japanese
+- 904a73a8 feat: add korean language
+- 44ab1aa3 feat: add japan language
+- 079aa96d feat: add japan language
+- 65f66ed9 feat: add translated resources
+- d494f63e Merge pull request #138 from Shouheng88/feature-note-4.0.1
+- 2b93acea feat: use utils library
 ## 4.0.4 
  - 9efa4fe4 Merge branch 'master' into feature-note-4.0.1
 - 04568695 fix: issue of and res guard for firebase
