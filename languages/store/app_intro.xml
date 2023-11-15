@@ -1,0 +1,507 @@
+<zh-CN>
+我们的初衷打造这样一款 Android 笔记软件：
+
+它以多层级形式读写文件目录，这样我们可以通过云同步在电脑和手机之间同步我们的笔记文件。只要有网络，我们可以在任何时间、任何地点，打开手机即可记录我们的想法。
+
+我们的数据只存储在设备和自己的云盘上面，这样我们的笔记将更加安全。
+
+它支持 Markdown 基础语法，又能渲染 MathJax 数学公式，并且提供多种主题和语法高亮。
+
+它能够帮助我们以相对路径的形式插入图片和引用其他笔记。这样，我们无需任何图床就可以在笔记中随心所欲地使用图片。
+
+它可以提供给我们多种管理自己的笔记的方式。除了多层级目录，还可以以标签的形式，打破目录限制，归类自己的笔记。
+
+它能够提供高效的搜索机制，可以在所有笔记文查找我们想要的关键字。
+
+图片即笔记。我们希望能够以图片+备注的形式快速记录自己当下发生的事情和我们的想法。
+
+为了整理图片，它还应该提供图片裁剪、变换和处理等功能。
+
+我们希望它能实时保存我们写入的内容...
+
+我们希望它能够将笔记导出为 HTML、文本、PDF 和图片... 
+
+我们希望它能够充分利用平台特性，提供一些个性化的功能，比如桌面小组件、快捷方式、通知栏按钮...
+
+我们还希望...
+
+于是，我们做了言叶。
+
+言叶是一款私密且安全的笔记软件，支持 Markdown 语法和云同步，不仅功能强大、流畅，外观也很优雅。
+
+工欲善其事，必先利其器。我们希望它可以帮助你更好地记录自己的想法。
+
+您现在就可以尝试它。
+
+不论您有任何意见和建议，您都可以随时向我们反馈。
+
+谢谢！
+</zh-CN>
+<en-US>
+Our original intention is to create such an Android note-taking software:
+
+It reads and writes file directories in a multi-level format, so that we can synchronize our note files between computers and mobile phones through cloud synchronization. As long as there is an Internet connection, we can turn on our mobile phones and record our thoughts at any time and anywhere.
+
+Our data is only stored on the device and our own cloud disk, so our notes will be more secure.
+
+It supports Markdown basic syntax, can render MathJax mathematical formulas, and provides a variety of themes and syntax highlighting.
+
+It can help us insert pictures and reference other notes in the form of relative paths. In this way, we can use pictures as we like in our notes without any picture bed.
+
+It can provide us with many ways to manage our notes. In addition to multi-level directories, you can also break directory restrictions and categorize your own notes in the form of tags.
+
+It can provide an efficient search mechanism and can find the keywords we want in all notes.
+
+Pictures are notes. We hope to be able to quickly record what is happening and our thoughts in the form of pictures + notes.
+
+In order to organize pictures, it should also provide functions such as picture cropping, transformation and processing.
+
+We want it to save what we write in real time...
+
+We want it to be able to export notes to HTML, text, PDF and images...
+
+We hope that it can make full use of platform features and provide some personalized functions, such as desktop widgets, shortcuts, notification bar buttons...
+
+We also hope...
+
+So, we made Leaf Note.
+
+Leaf Note is a private and secure note-taking software that supports Markdown syntax and cloud synchronization. It is not only powerful and smooth, but also has an elegant appearance.
+
+If a worker wants to do his job well, he must first sharpen his tools. We hope it helps you better record your thoughts.
+
+You can try it now.
+
+No matter you have any comments or suggestions, you can give us feedback at any time.
+
+Thanks!
+</en-US>
+<ja-JP>
+私たちの本来の目的は、次のような Android メモ作成ソフトウェアを作成することです。
+
+ファイル ディレクトリをマルチレベル形式で読み書きするため、クラウド同期を通じてコンピューターと携帯電話の間でメモ ファイルを同期できます。インターネット接続がある限り、いつでもどこでも携帯電話の電源を入れて自分の考えを記録することができます。
+
+データはデバイスと独自のクラウド ディスクにのみ保存されるため、メモの安全性が高まります。
+
+Markdown の基本構文をサポートし、MathJax の数式をレンダリングでき、さまざまなテーマと構文の強調表示を提供します。
+
+画像を挿入したり、相対パスの形式で他のメモを参照したりするのに役立ちます。このようにして、画像ベッドがなくても、ノートに好きなように画像を使用できます。
+
+メモを管理するためのさまざまな方法を提供します。マルチレベルのディレクトリに加えて、ディレクトリの制限を解除し、タグの形式で独自のメモを分類することもできます。
+
+効率的な検索メカニズムを提供し、すべてのメモから必要なキーワードを見つけることができます。
+
+写真はメモです。起こっていることや考えたことを写真 + メモの形ですぐに記録できるようにしたいと考えています。
+
+写真を整理するには、写真のトリミング、変形、加工などの機能も提供する必要があります。
+
+書いたものをリアルタイムで保存したいのですが...
+
+メモを HTML、テキスト、PDF、画像にエクスポートできるようにしたいと考えています...
+
+プラットフォームの機能を最大限に活用し、デスクトップ ウィジェット、ショートカット、通知バー ボタンなどのパーソナライズされた機能を提供できることを期待しています。
+
+私たちも願っています...
+
+それで、言の葉を作りました。
+
+言の葉 は、Markdown 構文とクラウド同期をサポートするプライベートで安全なメモ作成ソフトウェアで、強力でスムーズなだけでなく、エレガントな外観も備えています。
+
+労働者が仕事をうまくやりたいなら、まず道具を研ぐ必要があります。自分の考えをより良く記録するのに役立つことを願っています。
+
+今すぐお試しいただけます。
+
+コメントやご提案がありましたら、いつでもフィードバックをお寄せください。
+
+ありがとう！
+</ja-JP>
+<zh-TW>
+我們的初衷打造這樣一款 Android 筆記軟體：
+
+它以多層級形式讀寫檔案目錄，這樣我們可以透過雲端同步在電腦和手機之間同步我們的筆記檔案。只要有網絡，我們可以在任何時間、任何地點，打開手機即可記錄我們的想法。
+
+我們的資料只儲存在設備和自己的雲端碟上面，這樣我們的筆記就會更加安全。
+
+它支援Markdown 基礎語法，又能渲染 MathJax 數學公式，並且提供多種主題和語法高亮。
+
+它能夠幫助我們以相對路徑的形式插入圖片和引用其他筆記。這樣，我們無需任何圖床就可以在筆記中隨心所欲地使用圖片。
+
+它可以提供給我們多種管理自己的筆記的方式。除了多層目錄，還可以以標籤的形式，打破目錄限制，歸類自己的筆記。
+
+它能夠提供高效的搜尋機制，可以在所有筆記中找到我們想要的關鍵字。
+
+圖片即筆記。我們希望能夠以圖片+備註的形式快速記錄自己當下發生的事情和我們的想法。
+
+為了整理圖片，它還應該提供圖片裁剪、變換和處理等功能。
+
+我們希望它能即時保存我們寫入的內容...
+
+我們希望它能夠將筆記匯出為 HTML、文字、PDF 和圖片...
+
+我們希望它能夠充分利用平台特性，提供一些個人化的功能，例如桌面小組件、快捷方式、通知欄按鈕...
+
+我們還希望...
+
+於是，我們做了言葉。
+
+言葉是一款私密且安全的筆記軟體，支援 Markdown 語法和雲端同步，不僅功能強大、流暢，外觀也很優雅。
+
+工欲善其事，必先利其器。我們希望它可以幫助你更好地記錄自己的想法。
+
+您現在就可以嘗試它。
+
+不論您有任何意見和建議，您都可以隨時向我們回饋。
+
+謝謝！
+</zh-TW>
+<zh-TW>
+我們的初衷打造這樣一款Android 筆記軟體：
+
+它以多層級形式讀寫檔案目錄，這樣我們可以透過雲端同步在電腦和手機之間同步我們的筆記檔案。只要有網絡，我們可以在任何時間、任何地點，打開手機即可記錄我們的想法。
+
+我們的資料只儲存在設備和自己的雲端碟上面，這樣我們的筆記就會更加安全。
+
+它支援Markdown 基礎語法，又能渲染MathJax 數學公式，並且提供多種主題和語法高亮。
+
+它能夠幫助我們以相對路徑的形式插入圖片和引用其他筆記。這樣，我們無需任何圖床就可以在筆記中隨心所欲地使用圖片。
+
+它可以提供給我們多種管理自己的筆記的方式。除了多層目錄，還可以以標籤的形式，打破目錄限制，歸類自己的筆記。
+
+它能夠提供高效的搜尋機制，可以在所有筆記中找到我們想要的關鍵字。
+
+圖片即筆記。我們希望能夠以圖片+備註的形式快速記錄自己當下發生的事情和我們的想法。
+
+為了整理圖片，它還應該提供圖片裁剪、變換和處理等功能。
+
+我們希望它能即時保存我們寫入的內容...
+
+我們希望它能夠將筆記匯出為HTML、文字、PDF 和圖片...
+
+我們希望它能夠充分利用平台特性，提供一些個人化的功能，例如桌面小組件、快捷方式、通知欄按鈕...
+
+我們還希望...
+
+於是，我們做了言葉。
+
+言葉是一款私密且安全的筆記軟體，支援Markdown 語法和雲端同步，不僅功能強大、流暢，外觀也很優雅。
+
+工欲善其事，必先利其器。我們希望它可以幫助你更好地記錄自己的想法。
+
+您現在就可以嘗試它。
+
+不論您有任何意見和建議，您都可以隨時向我們回饋。
+
+謝謝！
+</zh-TW>
+<zh-TW>
+我們的初衷打造這樣一款 Android 筆記軟體：
+
+它以多層級形式讀寫檔案目錄，這樣我們可以透過雲端同步在電腦和手機之間同步我們的筆記檔案。只要有網絡，我們可以在任何時間、任何地點，打開手機即可記錄我們的想法。
+
+我們的資料只儲存在設備和自己的雲端碟上面，這樣我們的筆記就會更加安全。
+
+它支援Markdown 基礎語法，又能渲染 MathJax 數學公式，並且提供多種主題和語法高亮。
+
+它能夠幫助我們以相對路徑的形式插入圖片和引用其他筆記。這樣，我們無需任何圖床就可以在筆記中隨心所欲地使用圖片。
+
+它可以提供給我們多種管理自己的筆記的方式。除了多層目錄，還可以以標籤的形式，打破目錄限制，歸類自己的筆記。
+
+它能夠提供高效的搜尋機制，可以在所有筆記中找到我們想要的關鍵字。
+
+圖片即筆記。我們希望能夠以圖片+備註的形式快速記錄自己當下發生的事情和我們的想法。
+
+為了整理圖片，它還應該提供圖片裁剪、變換和處理等功能。
+
+我們希望它能即時保存我們寫入的內容...
+
+我們希望它能夠將筆記匯出為 HTML、文字、PDF 和圖片...
+
+我們希望它能夠充分利用平台特性，提供一些個人化的功能，例如桌面小組件、快捷方式、通知欄按鈕...
+
+我們還希望...
+
+於是，我們做了言葉。
+
+言葉是一款私密且安全的筆記軟體，支援Markdown 語法和雲端同步，不僅功能強大、流暢，外觀也很優雅。
+
+工欲善其事，必先利其器。我們希望它可以幫助你更好地記錄自己的想法。
+
+您現在就可以嘗試它。
+
+不論您有任何意見和建議，您都可以隨時向我們回饋。
+
+謝謝！
+</zh-TW>
+<ko-KR>
+우리의 원래 의도는 다음과 같은 Android 메모 작성 소프트웨어를 만드는 것입니다.
+
+다단계 형식으로 파일 디렉터리를 읽고 쓰므로 클라우드 동기화를 통해 컴퓨터와 휴대폰 간에 메모 파일을 동기화할 수 있습니다. 인터넷이 연결되어 있는 한, 우리는 언제 어디서나 휴대폰을 켜고 생각을 기록할 수 있습니다.
+
+우리의 데이터는 장치와 자체 클라우드 디스크에만 저장되므로 메모가 더욱 안전해집니다.
+
+Markdown 기본 구문을 지원하고 MathJax 수학 공식을 렌더링할 수 있으며 다양한 테마와 구문 강조 표시를 제공합니다.
+
+그림을 삽입하고 상대 경로 형태로 다른 메모를 참조하는 데 도움이 될 수 있습니다. 이런 식으로 우리는 그림 침대 없이도 우리 노트에 원하는 대로 그림을 사용할 수 있습니다.
+
+노트를 관리하는 다양한 방법을 제공할 수 있습니다. 다중 레벨 디렉터리 외에도 디렉터리 제한을 깨고 태그 형식으로 자신만의 메모를 분류할 수도 있습니다.
+
+효율적인 검색 메커니즘을 제공하고 모든 노트에서 원하는 키워드를 찾을 수 있습니다.
+
+사진은 메모입니다. 지금 일어나고 있는 일과 우리의 생각을 사진+메모의 형태로 빠르게 기록할 수 있기를 바랍니다.
+
+사진을 정리하기 위해서는 사진 자르기, 변환, 처리 등의 기능도 제공해야 합니다.
+
+실시간으로 작성한 내용을 저장하고 싶습니다.
+
+우리는 노트를 HTML, 텍스트, PDF 및 이미지로 내보낼 수 있기를 원합니다...
+
+플랫폼 기능을 최대한 활용하고 데스크톱 위젯, 바로가기, 알림 표시줄 버튼과 같은 일부 개인화된 기능을 제공할 수 있기를 바랍니다.
+
+우리도 바랍니다...
+
+그래서 우리는 Leaf Note를 만들었습니다.
+
+Leaf Note는 Markdown 구문과 클라우드 동기화를 지원하는 안전한 개인용 메모 작성 소프트웨어로, 강력하고 부드러울 뿐만 아니라 우아한 외관도 갖추고 있습니다.
+
+일꾼이 일을 잘하고 싶다면 먼저 도구를 갈고 닦아야 합니다. 여러분의 생각을 더 잘 기록하는 데 도움이 되기를 바랍니다.
+
+지금 시도해 볼 수 있습니다.
+
+의견이나 제안 사항이 있으시면 언제든지 피드백을 보내주실 수 있습니다.
+
+감사해요!
+</ko-KR>
+<de-DE>
+Unsere ursprüngliche Absicht war es, eine solche Android-Notizsoftware zu entwickeln:
+
+Es liest und schreibt Dateiverzeichnisse in einem mehrstufigen Format, sodass wir unsere Notizdateien zwischen Computern und Mobiltelefonen durch Cloud-Synchronisierung synchronisieren können. Solange eine Internetverbindung besteht, können wir jederzeit und überall unsere Mobiltelefone einschalten und unsere Gedanken aufzeichnen.
+
+Unsere Daten werden nur auf dem Gerät und unserer eigenen Cloud-Festplatte gespeichert, sodass unsere Notizen sicherer sind.
+
+Es unterstützt die grundlegende Markdown-Syntax, kann mathematische MathJax-Formeln rendern und bietet eine Vielzahl von Themen und Syntaxhervorhebungen.
+
+Es kann uns helfen, Bilder einzufügen und andere Notizen in Form relativer Pfade zu referenzieren. Auf diese Weise können wir Bilder nach Belieben in unseren Notizen verwenden, ohne dass ein Bilderbett erforderlich ist.
+
+Es bietet uns viele Möglichkeiten, unsere Notizen zu verwalten. Zusätzlich zu mehrstufigen Verzeichnissen können Sie auch Verzeichnisbeschränkungen aufheben und Ihre eigenen Notizen in Form von Tags kategorisieren.
+
+Es kann einen effizienten Suchmechanismus bereitstellen und die gewünschten Schlüsselwörter in allen Notizen finden.
+
+Bilder sind Notizen. Wir hoffen, das Geschehen und unsere Gedanken schnell in Form von Bildern + Notizen festhalten zu können.
+
+Um Bilder zu organisieren, sollte es auch Funktionen wie Bildzuschnitt, -transformation und -bearbeitung bereitstellen.
+
+Wir möchten, dass das, was wir schreiben, in Echtzeit gespeichert wird ...
+
+Wir möchten, dass Notizen in HTML, Text, PDF und Bilder exportiert werden können ...
+
+Wir hoffen, dass die Plattformfunktionen voll ausgenutzt werden und einige personalisierte Funktionen wie Desktop-Widgets, Verknüpfungen, Schaltflächen in der Benachrichtigungsleiste usw. bereitgestellt werden.
+
+Wir hoffen auch...
+
+Also haben wir Leaf Note gemacht.
+
+Leaf Note ist eine private und sichere Notizensoftware, die Markdown-Syntax und Cloud-Synchronisierung unterstützt. Sie ist nicht nur leistungsstark und reibungslos, sondern sieht auch elegant aus.
+
+Wenn ein Arbeiter seine Arbeit gut machen will, muss er zuerst seine Werkzeuge schärfen. Wir hoffen, dass es Ihnen hilft, Ihre Gedanken besser aufzuzeichnen.
+
+Sie können es jetzt ausprobieren.
+
+Unabhängig davon, ob Sie Kommentare oder Vorschläge haben, können Sie uns jederzeit Feedback geben.
+
+Danke!
+</de-DE>
+<es-ES>
+Nuestra intención original es crear un software de toma de notas para Android:
+
+Lee y escribe directorios de archivos en un formato multinivel, para que podamos sincronizar nuestros archivos de notas entre computadoras y teléfonos móviles a través de la sincronización en la nube. Siempre que haya conexión a Internet, podemos encender nuestros teléfonos móviles y registrar nuestros pensamientos en cualquier momento y en cualquier lugar.
+
+Nuestros datos sólo se almacenan en el dispositivo y en nuestro propio disco en la nube, por lo que nuestras notas estarán más seguras.
+
+Admite la sintaxis básica de Markdown, puede representar fórmulas matemáticas de MathJax y proporciona una variedad de temas y resaltado de sintaxis.
+
+Puede ayudarnos a insertar imágenes y hacer referencia a otras notas en forma de rutas relativas. De esta forma, podremos utilizar las imágenes como queramos en nuestras notas sin ningún marco de imágenes.
+
+Puede proporcionarnos muchas formas de gestionar nuestras notas. Además de los directorios de varios niveles, también puede romper las restricciones de los directorios y categorizar sus propias notas en forma de etiquetas.
+
+Puede proporcionar un mecanismo de búsqueda eficiente y puede encontrar las palabras clave que queremos en todas las notas.
+
+Las imágenes son notas. Esperamos poder registrar rápidamente lo que está sucediendo y nuestros pensamientos en forma de imágenes + notas.
+
+Para organizar imágenes, también debe proporcionar funciones como recorte, transformación y procesamiento de imágenes.
+
+Queremos que guarde lo que escribimos en tiempo real...
+
+Queremos que pueda exportar notas a HTML, texto, PDF e imágenes...
+
+Esperamos que pueda aprovechar al máximo las características de la plataforma y proporcionar algunas funciones personalizadas, como widgets de escritorio, accesos directos, botones de la barra de notificaciones...
+
+También esperamos...
+
+Entonces creamos a Leaf Note.
+
+Leaf Note es un software para tomar notas privado y seguro que admite la sintaxis Markdown y la sincronización en la nube. No solo es potente y fluido, sino que también tiene una apariencia elegante.
+
+Si un trabajador quiere hacer bien su trabajo, primero debe afilar sus herramientas. Esperamos que le ayude a registrar mejor sus pensamientos.
+
+Puedes probarlo ahora.
+
+No importa si tiene algún comentario o sugerencia, puede enviarnos su opinión en cualquier momento.
+
+¡Gracias!
+</es-ES>
+<pt-PT>
+Nossa intenção original é criar um software de anotações para Android:
+
+Ele lê e grava diretórios de arquivos em formato multinível, para que possamos sincronizar nossos arquivos de notas entre computadores e telefones celulares por meio da sincronização na nuvem. Desde que haja uma ligação à Internet, podemos ligar os nossos telemóveis e registar os nossos pensamentos a qualquer hora e em qualquer lugar.
+
+Nossos dados são armazenados apenas no dispositivo e em nosso próprio disco na nuvem, portanto nossas anotações ficarão mais seguras.
+
+Ele suporta sintaxe básica Markdown, pode renderizar fórmulas matemáticas MathJax e fornece uma variedade de temas e realce de sintaxe.
+
+Pode nos ajudar a inserir imagens e fazer referência a outras notas na forma de caminhos relativos. Dessa forma, podemos usar as imagens que quisermos em nossas anotações, sem qualquer base de imagens.
+
+Ele pode nos fornecer muitas maneiras de gerenciar nossas anotações. Além dos diretórios multinível, você também pode quebrar as restrições do diretório e categorizar suas próprias notas na forma de tags.
+
+Ele pode fornecer um mecanismo de pesquisa eficiente e encontrar as palavras-chave que desejamos em todas as notas.
+
+As imagens são notas. Esperamos poder registrar rapidamente o que está acontecendo e nossos pensamentos na forma de imagens + notas.
+
+Para organizar as imagens, também deve fornecer funções como corte, transformação e processamento de imagens.
+
+Queremos que salve o que escrevemos em tempo real...
+
+Queremos que ele seja capaz de exportar notas para HTML, texto, PDF e imagens...
+
+Esperamos que ele possa aproveitar ao máximo os recursos da plataforma e fornecer algumas funções personalizadas, como widgets de desktop, atalhos, botões da barra de notificação...
+
+Esperamos também...
+
+Então, fizemos Leaf Note.
+
+Leaf Note é um software de anotações privado e seguro que suporta sintaxe Markdown e sincronização em nuvem. Ele não é apenas poderoso e suave, mas também tem uma aparência elegante.
+
+Se um trabalhador quiser fazer bem o seu trabalho, ele deve primeiro afiar as suas ferramentas. Esperamos que ajude você a registrar melhor seus pensamentos.
+
+Você pode tentar agora.
+
+Não importa se você tem comentários ou sugestões, você pode nos dar feedback a qualquer momento.
+
+Obrigado!
+</pt-PT>
+<fr-FR>
+Notre intention initiale est de créer un tel logiciel de prise de notes Android :
+
+Il lit et écrit des répertoires de fichiers dans un format multi-niveau, afin que nous puissions synchroniser nos fichiers de notes entre ordinateurs et téléphones mobiles via la synchronisation cloud. Tant qu’il y a une connexion Internet, nous pouvons allumer nos téléphones portables et enregistrer nos pensées à tout moment et n’importe où.
+
+Nos données ne sont stockées que sur l'appareil et sur notre propre disque cloud, nos notes seront donc plus sécurisées.
+
+Il prend en charge la syntaxe de base Markdown, peut restituer les formules mathématiques MathJax et fournit une variété de thèmes et de coloration syntaxique.
+
+Cela peut nous aider à insérer des images et à référencer d'autres notes sous forme de chemins relatifs. De cette façon, nous pouvons utiliser les images comme bon nous semble dans nos notes sans aucun lit d'images.
+
+Il peut nous offrir de nombreuses façons de gérer nos notes. En plus des répertoires à plusieurs niveaux, vous pouvez également briser les restrictions de répertoire et classer vos propres notes sous forme de balises.
+
+Il peut fournir un mécanisme de recherche efficace et trouver les mots-clés souhaités dans toutes les notes.
+
+Les images sont des notes. Nous espérons pouvoir enregistrer rapidement ce qui se passe et nos pensées sous forme d'images + notes.
+
+Afin d'organiser les images, il doit également fournir des fonctions telles que le recadrage, la transformation et le traitement des images.
+
+Nous voulons qu'il sauvegarde ce que nous écrivons en temps réel...
+
+Nous voulons qu'il puisse exporter des notes au format HTML, texte, PDF et images...
+
+Nous espérons qu'il pourra exploiter pleinement les fonctionnalités de la plateforme et fournir des fonctions personnalisées, telles que des widgets de bureau, des raccourcis, des boutons de la barre de notification...
+
+Nous espérons également...
+
+Nous avons donc créé Leaf Note.
+
+Leaf Note est un logiciel de prise de notes privé et sécurisé qui prend en charge la syntaxe Markdown et la synchronisation cloud. Il est non seulement puissant et fluide, mais a également une apparence élégante.
+
+Si un ouvrier veut bien faire son travail, il doit d’abord affûter ses outils. Nous espérons que cela vous aidera à mieux enregistrer vos pensées.
+
+Vous pouvez l'essayer maintenant.
+
+Peu importe vos commentaires ou suggestions, vous pouvez nous faire part de vos commentaires à tout moment.
+
+Merci!
+</fr-FR>
+<it-IT>
+La nostra intenzione originale è quella di creare un software per prendere appunti su Android:
+
+Legge e scrive directory di file in formato multilivello, in modo da poter sincronizzare i nostri file di note tra computer e telefoni cellulari tramite la sincronizzazione cloud. Finché c’è una connessione Internet, possiamo accendere i nostri cellulari e registrare i nostri pensieri in qualsiasi momento e ovunque.
+
+I nostri dati vengono archiviati solo sul dispositivo e sul nostro disco cloud, quindi le nostre note saranno più sicure.
+
+Supporta la sintassi di base di Markdown, può eseguire il rendering delle formule matematiche di MathJax e fornisce una varietà di temi ed evidenziazione della sintassi.
+
+Può aiutarci a inserire immagini e fare riferimento ad altre note sotto forma di percorsi relativi. In questo modo possiamo utilizzare le immagini a nostro piacimento nei nostri appunti senza alcuna base per le immagini.
+
+Può fornirci molti modi per gestire le nostre note. Oltre alle directory multilivello, puoi anche interrompere le restrizioni delle directory e classificare le tue note sotto forma di tag.
+
+Può fornire un meccanismo di ricerca efficiente e può trovare le parole chiave che desideriamo in tutte le note.
+
+Le immagini sono appunti. Speriamo di poter registrare rapidamente ciò che sta accadendo e i nostri pensieri sotto forma di immagini + note.
+
+Per organizzare le immagini, dovrebbe anche fornire funzioni come il ritaglio, la trasformazione e l'elaborazione delle immagini.
+
+Vogliamo che salvi ciò che scriviamo in tempo reale...
+
+Vogliamo che sia in grado di esportare note in HTML, testo, PDF e immagini...
+
+Ci auguriamo che possa sfruttare appieno le funzionalità della piattaforma e fornire alcune funzioni personalizzate, come widget del desktop, scorciatoie, pulsanti della barra di notifica...
+
+Speriamo anche...
+
+Quindi abbiamo creato Leaf Note.
+
+Leaf Note è un software per prendere appunti privato e sicuro che supporta la sintassi Markdown e la sincronizzazione cloud. Non è solo potente e fluido, ma ha anche un aspetto elegante.
+
+Se un lavoratore vuole fare bene il suo lavoro, deve prima affinare i suoi strumenti. Ci auguriamo che ti aiuti a registrare meglio i tuoi pensieri.
+
+Puoi provarlo adesso.
+
+Non importa se hai commenti o suggerimenti, puoi fornirci feedback in qualsiasi momento.
+
+Grazie!
+</it-IT>
+<ru-RU>
+Наша первоначальная цель — создать такое программное обеспечение для создания заметок на Android:
+
+Он читает и записывает каталоги файлов в многоуровневом формате, поэтому мы можем синхронизировать файлы заметок между компьютерами и мобильными телефонами посредством облачной синхронизации. Пока есть подключение к Интернету, мы можем включать мобильные телефоны и записывать свои мысли в любое время и в любом месте.
+
+Наши данные хранятся только на устройстве и на нашем собственном облачном диске, поэтому наши заметки будут в большей безопасности.
+
+Он поддерживает базовый синтаксис Markdown, может отображать математические формулы MathJax и предоставляет различные темы и подсветку синтаксиса.
+
+Это может помочь нам вставлять изображения и ссылаться на другие заметки в виде относительных путей. Таким образом, мы можем использовать картинки в наших заметках по своему усмотрению, без каких-либо изображений.
+
+Он может предоставить нам множество способов управления нашими заметками. Помимо многоуровневых каталогов, вы также можете нарушать ограничения каталогов и классифицировать свои собственные заметки в виде тегов.
+
+Он может обеспечить эффективный механизм поиска и находить нужные ключевые слова во всех заметках.
+
+Картинки — это заметки. Надеемся, что сможем быстро записывать происходящее и свои мысли в виде картинок+заметок.
+
+Для организации изображений он также должен предоставлять такие функции, как обрезка, преобразование и обработка изображений.
+
+Мы хотим, чтобы то, что мы пишем, сохранялось в реальном времени...
+
+Мы хотим, чтобы он мог экспортировать заметки в HTML, текст, PDF и изображения...
+
+Мы надеемся, что он сможет в полной мере использовать возможности платформы и предоставить некоторые персонализированные функции, такие как виджеты рабочего стола, ярлыки, кнопки панели уведомлений...
+
+Мы также надеемся...
+
+Итак, мы сделали Янье.
+
+Leaf Note — это частное и безопасное программное обеспечение для создания заметок, которое поддерживает синтаксис Markdown и облачную синхронизацию. Оно не только мощное и плавное, но и имеет элегантный внешний вид.
+
+Если рабочий хочет хорошо выполнять свою работу, он должен сначала заточить свои инструменты. Мы надеемся, что это поможет вам лучше записывать свои мысли.
+
+Вы можете попробовать это сейчас.
+
+Независимо от того, есть ли у вас какие-либо комментарии или предложения, вы можете оставить нам отзыв в любое время.
+
+Спасибо!
+</ru-RU>
