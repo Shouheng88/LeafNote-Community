@@ -1,0 +1,1764 @@
+:name> leaf_note
+:text> Leaf Note
+
+:name> language
+:text> es_ES
+
+:name> search
+:text> Buscar
+
+:name> close
+:text> Cierre
+
+:name> clear
+:text> Limpiar
+
+:name> done
+:text> Finalizar
+
+:name> cancel
+:text> Cancelar
+
+:name> share
+:text> Compartir
+
+:name> delete
+:text> Borrar
+
+:name> failed
+:text> Fallar
+
+:name> succeed
+:text> Éxito
+
+:name> saved
+:text> Salvado
+
+:name> not_save
+:text> Ser salvado
+
+:name> confirm
+:text> Seguro
+
+:name> send
+:text> Enviar
+
+:name> edit
+:text> Editar
+
+:name> message
+:text> Información
+
+:name> redo
+:text> Rehacer
+
+:name> undo
+:text> Cancelar
+
+:name> sort
+:text> Clasificar
+
+:name> sort_direction_asc
+:text> Ascendente
+
+:name> sort_by_name
+:text> Ordenar por nombre
+
+:name> sort_by_date
+:text> Ordenar por fecha
+
+:name> sort_by_type
+:text> Ordenar por tipo
+
+:name> help
+:text> Ayuda
+
+:name> final_result
+:text> El contenido de la página actual se utilizará como resultado final.
+
+:name> input_empty
+:text> Por favor complete
+
+:name> export
+:text> Exportar
+
+:name> copy
+:text> Copiar
+
+:name> copied
+:text> Copiado
+
+:name> exported
+:text> Exportado
+
+:name> exported_to
+:text> Exportado a: %s
+
+:name> rename
+:text> Doble denominación
+
+:name> move
+:text> Mover
+
+:name> apply
+:text> Solicitud
+
+:name> available_with
+:text> Tiempo válido: %s
+
+:name> saving
+:text> Ahorro
+…
+
+:name> register
+:text> Registrar una cuenta
+
+:name> bind
+:text> Vinculante
+
+:name> binding
+:text> Vinculante
+…
+
+:name> unbind
+:text> Desagregar
+
+:name> next
+:text> Próximo paso
+
+:name> to_read
+:text> Ve a leer
+
+:name> get_it
+:text> Sabía
+
+:name> rate_app
+:text> Califica a Leaf Note
+
+:name> try_it
+:text> Probar
+
+:name> give_it_up
+:text> Abandonar
+
+:name> enabled
+:text> Encendido
+
+:name> disabled
+:text> Cerrado
+
+:name> dont_show_again
+:text> No mostrar de nuevo
+
+:name> ignore_it
+:text> Descuido
+
+:name> text_okay
+:text> DE ACUERDO
+
+:name> create_note
+:text> Crear nueva nota
+
+:name> folder
+:text> Tabla de contenido
+
+:name> failed_with
+:text> Fallo: %s
+
+:name> create_folder
+:text> Crear un directorio
+
+:name> folder_same_name
+:text> Ya existe un directorio con el mismo nombre.
+
+:name> update_folder
+:text> Modificar directorio
+
+:name> folder_with
+:text> Directorio: %s
+
+:name> last_update_with
+:text> Actualización: %s
+
+:name> folder_not_empty
+:text> Este directorio no está vacío. ¿Estás seguro de que deseas eliminarlo?
+
+:name> delete_still
+:text> Eliminar de todos modos
+
+:name> note
+:text> Notas
+
+:name> picture
+:text> Imagen
+
+:name> file_tree
+:text> Árbol de archivos
+
+:name> capture
+:text> Fotografía
+
+:name> file
+:text> Documento
+
+:name> add_shortcut
+:text> Añadir atajo
+
+:name> note_not_found_with
+:text> La nota no fue encontrada: %s
+
+:name> share_by_text
+:text> Compartir texto
+
+:name> share_by_html
+:text> CompartirHtml
+
+:name> share_by_image
+:text> Compartir fotos
+
+:name> export_by_text
+:text> Exportar texto
+
+:name> export_by_html
+:text> Exportar HTML
+
+:name> export_by_pdf
+:text> Imprimir PDF
+
+:name> export_by_image
+:text> Exportar imágenes
+
+:name> failed_parse_not_info
+:text> No se pudo analizar la información de la nota
+
+:name> again_exit
+:text> Presione nuevamente para salir
+
+:name> select_folder_move_to
+:text> Seleccione el directorio al que desea desplazarse
+
+:name> share_app
+:text> Compartir aplicación
+
+:name> expand_with
+:text> Expandir
+>
+
+:name> fold_with
+:text> Contraer
+<
+
+:name> configured
+:text> Configurado
+
+:name> not_configured
+:text> No configurado
+
+:name> camera_unavailable
+:text> La cámara del dispositivo no está disponible.
+
+:name> created_time_with
+:text> Fecha de creación: %s
+
+:name> privilege_with
+:text> Permisos: %s
+
+:name> account_with
+:text> Cuenta: %s
+
+:name> new_version
+:text> Nueva versión
+
+:name> failed_to_open_file
+:text> Error al abrir el archivo
+
+:name> sync_job_started
+:text> Iniciar sincronización
+
+:name> name_already_in_use
+:text> El nombre ya existe
+
+:name> print_not_support
+:text> Parece que su dispositivo no admite la impresión. Confirme si su dispositivo admite esta función e inténtelo de nuevo.
+
+:name> login_title
+:text> Vinculación de cuenta
+
+:name> login_account_hint
+:text> Correo electrónico/Número de teléfono móvil
+
+:name> login_password_hint
+:text> Contraseña
+
+:name> login_forget_password
+:text> Olvida la contraseña
+
+:name> login_error_account_empty
+:text> Por favor ingrese el nombre de usuario
+
+:name> login_error_account_illegal
+:text> La cuenta es ilegal.
+
+:name> login_error_password_empty
+:text> Por favor, ingrese contraseña
+
+:name> login_error_password_simple
+:text> La contraseña es demasiado simple
+
+:name> register_code_hint
+:text> Código de verificación
+
+:name> register_password_again_hint
+:text> Ingrese de nuevo la contraseña
+
+:name> register_error_code_empty
+:text> Por favor ingrese el código de verificación
+
+:name> register_error_password_diff
+:text> Las contraseñas ingresadas dos veces son diferentes
+
+:name> register_signing_in
+:text> Registrándose
+…
+
+:name> code_send_succeed
+:text> Código de verificacion enviado
+
+:name> code_sent_message
+:text> El código de verificación ha sido enviado. Revise su correo electrónico/mensaje de texto. El código de verificación es válido dentro de %d minutos. Si no recibe el código de verificación durante un tiempo prolongado, confirme si el sistema consideró erróneamente el correo electrónico como spam.
+
+:name> login_account_bind_tip
+:text> La cuenta sólo se utiliza para vincular sus derechos de membresía.
+
+:name> login_bind_state
+:text> Estado vinculante
+
+:name> login_premium_transfer
+:text> Transferir
+
+:name> login_transfer_tip
+:text> ¿Está seguro de que desea intercambiar derechos de usuario con este dispositivo?
+
+:name> login_premium_cancel_aux
+:text> Cancelar membresía auxiliar
+
+:name> login_premium_set_aux
+:text> Conviértete en miembro asociado
+
+:name> login_premium_expire
+:text> Su token ha caducado. Si desea continuar usando sus privilegios de membresía, debe iniciar sesión nuevamente. ¿Ir a iniciar sesión?
+
+:name> login_device_already_bind_with
+:text> El dispositivo ha sido vinculado a la cuenta %s. Desvincula e inténtalo de nuevo.
+
+:name> login_status
+:text> Cuenta: %1$s\nHora de creación: %2$s\nHora de vencimiento del inicio de sesión: %3$s
+
+:name> login_at_first_tips
+:text> Por favor ingresa primero
+
+:name> login_unbind_success_message
+:text> ¡Desvinculación exitosa! \nPuedes iniciar sesión nuevamente para disfrutar de tus beneficios :)
+
+:name> note_sub_count
+:text> %1$2d Directorio %2$2d Notas %3$2d Imágenes
+
+:name> image_capture
+:text> Fotografía
+
+:name> image_album
+:text> Imagen
+
+:name> image_scan_document
+:text> Escaneo de documentos
+
+:name> image_crop
+:text> Cultivo
+
+:name> image_ocr
+:text> LOC
+
+:name> image_rotate
+:text> Girar
+
+:name> image_filter
+:text> Filtrar
+
+:name> image_ocr_to_be_continue
+:text> Manténganse al tanto
+…
+
+:name> image_back_tip
+:text> Regresa ahora. Las fotografías tomadas se borrarán. ¿Estás seguro de regresar?
+
+:name> image_effect_binary
+:text> En blanco y negro
+
+:name> image_effect_grey
+:text> Escala de grises
+
+:name> image_effect_linear_strength
+:text> Mejorar
+
+:name> image_effect_nostalgic
+:text> Nostalgia
+
+:name> image_effect_melt
+:text> Horno
+
+:name> image_effect_freeze
+:text> Congelado
+
+:name> image_effect_contrary
+:text> Color inverso
+
+:name> image_effect_comic_strip
+:text> Tira cómica
+
+:name> image_effect_sculpture
+:text> Escultura
+
+:name> image_effect_float_sculpture
+:text> Alivio
+
+:name> image_effect_sketch
+:text> Bosquejo
+
+:name> image_effect_blur
+:text> Impreciso
+
+:name> image_effect_origin
+:text> Imagen original
+
+:name> image_effect_round
+:text> Redondo
+
+:name> image_effect_round_corner
+:text> Esquinas redondeadas
+
+:name> image_effect_add_color
+:text> Colorante
+
+:name> image_comment_add_hint
+:text> Añade algunos recuerdos
+…
+
+:name> image_comment_add_title
+:text> Agregar información de descripción a las imágenes.
+
+:name> image_comment_post
+:text> Enviar
+
+:name> image_ocr_configure_first
+:text> Primero debe configurar la API de OCR
+
+:name> image_ocr_result
+:text> Resultados del reconocimiento óptico de caracteres
+
+:name> image_name_not_support
+:text> Los archivos con esta extensión no son compatibles. \n\nConsejo: Puede modificar las extensiones de archivo admitidas en la configuración de la imagen.
+
+:name> image_compress_tips
+:text> Según la configuración actual, sus imágenes se comprimirán. Puede desactivar las opciones de compresión de imágenes en la configuración.
+
+:name> image_compress_to_close
+:text> Ir a cerrar
+
+:name> premium_free
+:text> Versión gratuita permanente
+
+:name> premium_premium
+:text> Edición Premium Permanente
+
+:name> premium_professional
+:text> Edición Profesional Permanente
+
+:name> premium_professional_yearly
+:text> Edición Pro Anual
+
+:name> premium_premium_free_trial
+:text> Prueba gratuita premium
+
+:name> premium_professional_free_trial
+:text> Prueba gratuita profesional
+
+:name> premium_center
+:text> Centro de miembros
+
+:name> premium_free_trial_with
+:text> Iniciar prueba gratuita de %d días
+
+:name> premium_free_trial_days_left
+:text> %dd restante
+
+:name> premium_join
+:text> Únete ahora
+
+:name> premium_price
+:text> Precios: %s
+
+:name> premium_price_discount
+:text> Precio: %1$s, precio original: %2$s
+
+:name> premium_commit_payment
+:text> Orden de envio
+
+:name> premium_serial_input_hint
+:text> Introduzca aquí el número de serie del pedido
+
+:name> premium_serial_input_length_tip
+:text> Por favor verifique si el número de serie es legal
+
+:name> premium_serial_committed
+:text> El pedido ha sido enviado. Espere pacientemente el resultado del procesamiento del pedido, lo que puede tardar un poco.
+
+:name> premium_serial_committing
+:text> El pedido se está enviando
+…
+
+:name> premium_payway_with
+:text> Métodos de pago: %s
+
+:name> premium_order_number_with
+:text> Número de pedido: %s
+
+:name> premium_serial_number_with
+:text> Número de serie del pedido: %s
+
+:name> premium_owe_money_with
+:text> Importe adeudado: %s
+
+:name> premium_redeem_code_commit_title
+:text> Envíe su código de regalo/canje
+
+:name> premium_redeem_code_commit_sub_title
+:text> Por favor ingrese su código de regalo/canje aquí
+
+:name> premium_payment_status_check_passed
+:text> Aprobado
+
+:name> premium_payment_status_check_failed
+:text> Fallo de auditoría
+
+:name> premium_payment_status_commit_success
+:text> Enviado
+
+:name> premium_payment_status_done
+:text> Orden cerrada
+
+:name> premium_premium_required
+:text> Solo versión Pro
+
+:name> premium_premium_required_sub
+:text> ¡Necesitas ser Pro para usar esta función!
+
+:name> premium_premium_become
+:text> Actualizar a miembro VIP
+
+:name> premium_professional_required
+:text> ¡Necesitas ser Pro para usar esta función!
+
+:name> premium_privilege_basic
+:text> Todas las funciones básicas
+
+:name> premium_privilege_app_theme
+:text> Aplicar tema
+
+:name> premium_privilege_editor_theme
+:text> Tema del editor
+
+:name> premium_privilege_code_style
+:text> Estilo de codificación
+
+:name> premium_privilege_export
+:text> Importar
+&
+exportar
+
+:name> premium_privilege_sync
+:text> Sincronización WebDAV
+
+:name> premium_privilege_file_tree
+:text> Exploración del árbol de archivos
+
+:name> premium_privilege_appwidget
+:text> Widget de notas de escritorio
+
+:name> premium_privilege_pdf
+:text> Exportar HTML, PDF, imágenes, rebajas, etc.
+
+:name> premium_privilege_image_filter
+:text> Efecto de filtro
+
+:name> premium_privilege_image_filter_sub
+:text> Más de 10 efectos de filtro, rotación de imágenes, recorte libre, inversión de espejo, etc.
+
+:name> premium_privilege_ocr
+:text> OCR de imagen
+
+:name> premium_privilege_ocr_sub
+:text> Puede utilizar API de OCR de terceros en la aplicación
+
+:name> premium_privilege_feature
+:text> Añadir atajo
+
+:name> premium_privilege_more
+:text> Más características
+
+:name> premium_free_trial_requirement
+:text> La solicitud se envió correctamente. La función de membresía tardará unos minutos en surtir efecto. ¡Espere pacientemente!
+
+:name> premium_restore
+:text> Reanudar compra
+
+:name> premium_payway_freetrail
+:text> Prueba gratis
+
+:name> premium_payway_google
+:text> Tienda de Google
+
+:name> premium_payway_wechat
+:text> WeChat
+
+:name> premium_payway_alipay
+:text> AliPay
+
+:name> premium_payway_serial
+:text> Enviar número de pedido
+
+:name> premium_payway_redeem
+:text> Canjear código
+
+:name> premium_privileges_title
+:text> Beneficios para miembros
+
+:name> premium_privileges_sub_title
+:text> Actualice a esta versión para desbloquear los beneficios correspondientes
+
+:name> premium_versions_title
+:text> Elija la versión de membresía
+
+:name> premium_versions_sub_title
+:text> Haga clic en la entrada para seleccionar la versión de membresía
+
+:name> premium_payway_title
+:text> Seleccione método de pago
+
+:name> premium_payway_sub_title
+:text> Haga clic en el artículo para seleccionar el método de pago
+
+:name> premium_review_title
+:text> Opiniones de los usuarios
+
+:name> premium_notice_title
+:text> Precauciones
+
+:name> premium_bottom_notice
+:text> Este software está cuidadosamente diseñado y desarrollado por desarrolladores♥ Bienvenido a usarlo
+
+:name> premium_locked
+:text> No desbloqueado
+
+:name> premium_unlocked
+:text> Desbloqueado
+
+:name> premium_payment_info_title
+:text> Detalles del pedido
+
+:name> premium_payment_info
+:text> Precio final: %1$s\nMétodo de pago: %2$s
+
+:name> premium_payment_continue_title
+:text> Continuar proceso de pago
+
+:name> premium_payment_continue_content
+:text> ¿Ya pagó exitosamente? Ahora siga los siguientes pasos para enviar su número de pedido :)
+
+:name> premium_payment_continue_not_paid
+:text> No pagado
+
+:name> premium_payment_login_first
+:text> Por favor ingresa primero
+
+:name> premium_payment_login_first_content
+:text> La cuenta solo se utiliza para vincular los derechos de membresía para que pueda utilizar estos derechos en cualquier plataforma.
+
+:name> premium_payment_trail_gift_content
+:text> ¡Tienes una prueba gratuita para reclamar!
+
+:name> premium_payment_continue_help_tip
+:text> ¿Necesitas ayuda?
+
+:name> premium_payment_continue_help_content
+:text> Si tiene alguna pregunta sobre la membresía y la compra, contáctenos :)
+
+:name> premium_payment_continue_help_required
+:text> Pedir ayuda
+
+:name> premium_error_payway_unavailable
+:text> Método de pago no disponible
+
+:name> premium_error_version_unlocked
+:text> Has desbloqueado esta versión.
+
+:name> premium_error_version_not_selected
+:text> Seleccione primero una versión de membresía
+
+:name> premium_error_pawway_not_selected
+:text> Por favor seleccione primero un método de pago
+
+:name> premium_error_google_billing_unavailable
+:text> Google Pay no está disponible: Puede deberse a restricciones geográficas de Google Pay y otros motivos. Si tiene alguna pregunta, comuníquese con el desarrollador.
+
+:name> premium_account_state_not_logged_in
+:text> Sin iniciar sesión
+
+:name> premium_account_state_not_logged_in_tip
+:text> Por favor inicia sesión para reanudar la compra
+
+:name> premium_account_restore_guide_message
+:text> Puede restaurar su compra iniciando sesión. Si encuentra algún problema, comuníquese con nosotros para resolverlo.
+
+:name> pay_wechat_title_with_step
+:text> WeChat (paso: %s)
+
+:name> pay_alipay_title_with_step
+:text> AliPay (paso: %s)
+
+:name> pay_already_paid
+:text> Pago completado
+>
+
+:name> pay_return_to_pay
+:text> Volver para continuar con el pago
+>
+
+:name> pay_commit_serial_hint
+:text> Envíe su número de pedido de Alipay/WeChat. Si necesita ayuda por favor envíe un correo electrónico a: <a href="mailto:shouheng2020@gmail.com"> shouheng2020@gmail.com 。
+
+:name> pay_wechat_summary
+:text> 1. Escanee el código QR o haga clic en "Ir a Pagar" y luego seleccione el código QR del álbum para escanear;<br/> 2. Una vez completado el pago, regrese a esta página para enviar el número de pedido.
+
+:name> pay_to_pay
+:text> Pagar
+
+:name> pay_to_commit
+:text> Enviar número de serie del pedido
+
+:name> pay_qrcode_saved_to
+:text> El código QR ha sido exportado a %s
+
+:name> pay_wechat_not_install
+:text> WeChat no está instalado
+
+:name> pay_thanks
+:text> Este proyecto puede actualizarse y mejorarse continuamente gracias a su apoyo. Muchas gracias por su apoyo.
+
+:name> pay_launch_alipay_error
+:text> No se pudo abrir Alipay
+
+:name> pay_handling_purchase
+:text> El pedido se está procesando, por favor espera
+…
+
+:name> pay_purchase_succeed
+:text> ¡Procesamiento del pedido completado! \n¡Ahora eres un miembro distinguido!
+
+:name> search_searching
+:text> Buscando
+…
+
+:name> search_finish
+:text> Búsqueda completada
+
+:name> search_hint
+:text> Ingresa lo que deseas buscar
+
+:name> search_empty_tip
+:text> ¿No encontraste lo que buscabas? Intenta cambiar el vocabulario.
+
+:name> search_setting
+:text> Configuración de búsqueda
+
+:name> search_ignore_case
+:text> No entre mayúsculas y minúsculas
+
+:name> search_on_given_folder
+:text> Especificar directorio de búsqueda
+
+:name> search_history
+:text> Buscar Historia
+
+:name> compose_note_saved
+:text> Nota guardada
+
+:name> compose_default_note_name
+:text> Nota sin título
+
+:name> compose_title_hint
+:text> Por favor ingresa el nombre de la nota
+
+:name> compose_content_hint
+:text> Escribe aquí lo que quieras decir
+…
+
+:name> compose_chars
+:text> Personaje:
+
+:name> compose_background_tips
+:text> La aplicación pasa a segundo plano y la nota se guarda en el historial.
+
+:name> compose_editor_style
+:text> Elige un tema de editor
+
+:name> compose_preview
+:text> Avance
+
+:name> compose_math_input
+:text> Ingrese una expresión MathJax
+
+:name> compose_row_col_input
+:text> Ingrese el número de filas/columnas de la tabla
+
+:name> compose_row_number
+:text> Número de líneas
+
+:name> compose_col_number
+:text> Número de columnas
+
+:name> compose_link_options
+:text> Seleccionar enlace
+…
+
+:name> compose_link_input
+:text> Ingresar enlace
+
+:name> compose_link_file
+:text> Enlace de nota
+
+:name> compose_link_name
+:text> Nombre del enlace
+
+:name> compose_link_address
+:text> Dirección del enlace
+
+:name> compose_image_input
+:text> Ingrese el enlace de la imagen
+
+:name> compose_image_name
+:text> Enlace de imágen
+
+:name> compose_image_address
+:text> Dirección del enlace de la imagen
+
+:name> compose_image_options
+:text> Seleccionar fuente de imagen
+
+:name> compose_image_file_system
+:text> Seleccionar del álbum
+
+:name> compose_image_capture
+:text> Tomando fotos
+
+:name> compose_image_network
+:text> Enlace de imagen de Internet
+
+:name> compose_image_inside
+:text> Imágenes en la aplicación
+
+:name> compose_note_setting
+:text> Configuración de notas
+
+:name> compose_note_setting_style
+:text> Tema del editor
+
+:name> compose_note_setting_code_style
+:text> Estilo de codificación
+
+:name> compose_note_align_left
+:text> Alineado a la izquierda
+
+:name> compose_note_align_right
+:text> Alinear a la derecha
+
+:name> compose_note_align_center
+:text> Alineación central
+
+:name> compose_note_text_wrap
+:text> Ajuste de código
+
+:name> compose_note_text_size
+:text> Tamaño de fuente
+
+:name> compose_note_paragraph_margin_bottom
+:text> Espaciado entre líneas
+
+:name> compose_note_line_number
+:text> Número de línea
+
+:name> compose_note_button_order
+:text> Clasificación del botón inferior
+
+:name> compose_note_encoding
+:text> Método de decodificación
+
+:name> compose_note_encoding_title
+:text> Elija la codificación al leer notas
+
+:name> sort_divider_hidden_tip
+:text> esconder<small>(Arrastra el botón de abajo para ocultarlo)
+
+:name> compose_note_setting_markdown_enabled
+:text> La reducción está habilitada
+
+:name> compose_note_setting_markdown_disabled
+:text> La reducción de precios está deshabilitada
+
+:name> compose_note_setting_category
+:text> Añadir a categoría
+
+:name> compose_note_setting_tags
+:text> Añadir etiqueta
+
+:name> compose_note_setting_info
+:text> Detalles
+
+:name> compose_note_setting_history
+:text> Registro de historia
+
+:name> compose_category_add
+:text> Añadir categoría
+
+:name> compose_category_updated
+:text> Las categorías han sido actualizadas.
+
+:name> compose_tag_add
+:text> Añadir etiqueta
+
+:name> compose_tag_added
+:text> Etiqueta actualizada
+
+:name> compose_note_info_title
+:text> Título
+
+:name> compose_note_info_category
+:text> Clasificación
+
+:name> compose_note_info_tags
+:text> Etiqueta
+
+:name> compose_note_info_file_name
+:text> Nombre del archivo
+
+:name> compose_note_info_file_size
+:text> Tamaño del archivo
+
+:name> compose_note_info_length
+:text> Longitud
+
+:name> compose_note_info_created
+:text> Tiempo de creación
+
+:name> compose_note_info_updated
+:text> Última actualización
+
+:name> compose_note_info_path
+:text> Ruta de almacenamiento
+
+:name> compose_history_not_found
+:text> No hay historial para esta nota.
+
+:name> compose_history_confirm
+:text> ¿Está seguro de que desea utilizar el contenido de la nota del resultado del procesamiento (esto sobrescribirá el contenido editado previamente)?
+
+:name> compose_create_file
+:text> Crear un archivo
+
+:name> compose_file_name_input
+:text> Ingrese el nombre del archivo (incluida la extensión)
+
+:name> compose_file_extension_not_support
+:text> Los archivos con esta extensión no son compatibles. \n\nConsejo: Puede modificar las extensiones de archivo admitidas en la configuración de notas.
+
+:name> compose_file_name_illegal
+:text> El nombre del archivo contiene caracteres ilegales. \n\nConsejo: Puede especificar qué caracteres son ilegales en la configuración de notas.
+
+:name> compose_note_un_finish_title
+:text> ¿Continuar editando \"%s\"?
+
+:name> compose_note_un_finish
+:text> ¿Continuar editando notas sin terminar?
+
+:name> compose_note_un_finish_recover_msg
+:text> Encuentra el historial de esta nota por ti, ¿restaurar desde el historial? \n\nConsejo: También puedes ingresar al historial desde la configuración de notas
+
+:name> compose_note_links
+:text> Enlace de nota
+
+:name> compose_note_linking
+:text> Cita
+
+:name> compose_note_linking_empty
+:text> No citado
+
+:name> compose_note_structure
+:text> Estructura de directorios
+
+:name> compose_diff_merge
+:text> ¿Está seguro de que desea reemplazar \"resultado\" con el texto de la izquierda?
+
+:name> compose_note_auto_save
+:text> Las notas se guardan automáticamente
+
+:name> compose_note_auto_save_job_channel_name
+:text> Nota notificación de guardado automático
+
+:name> compose_note_sync_job_channel_name
+:text> Notificación de sincronización de notas
+
+:name> compose_note_export_job_channel_name
+:text> Notificaciones de importación y exportación de notas
+
+:name> image_source_image_limit
+:text> El largo y ancho de la imagen deben ser al menos %1$dpx y no menos de %2$dpx
+
+:name> comn_load_executing
+:text> Ejecutando
+…
+
+:name> comn_load_loading
+:text> Cargando
+…
+
+:name> comn_load_empty
+:text> Los datos están vacíos :)
+
+:name> comn_crash_title
+:text> ¡Perdón por el accidente!
+
+:name> comn_crash_tips
+:text> ¡Puedes hacer clic en [Reportar un problema
+] para ayudarnos a resolver este problema! También puedes dar tu opinión uniéndote a <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> o enviando un correo electrónico a <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a>.
+
+:name> main_menu_item_message
+:text> Mi mensaje
+
+:name> main_menu_item_timeline
+:text> Línea de tiempo
+
+:name> main_menu_item_category
+:text> Clasificación
+
+:name> main_menu_item_tag
+:text> Etiqueta
+
+:name> main_menu_item_help
+:text> Comentarios de ayuda
+
+:name> main_menu_item_explore
+:text> Explorar Leaf Note
+
+:name> main_menu_item_info
+:text> Acerca de
+
+:name> main_menu_item_setting
+:text> Configuración
+
+:name> main_menu_item_sync
+:text> Sincronización en la nube
+
+:name> main_menu_item_share
+:text> Compartir aplicación
+
+:name> setting
+:text> Configuración
+
+:name> set_personalization
+:text> Personalizar
+
+:name> set_display
+:text> Espectáculo
+
+:name> set_display_sub
+:text> Tema, botón flotante, formato de hora e idioma, etc.
+
+:name> set_language
+:text> Idioma de aplicación
+
+:name> set_language_follow_system
+:text> Sigue el sistema
+
+:name> set_theme_and_style
+:text> Estilo del tema
+
+:name> set_theme
+:text> Tema
+
+:name> set_theme_theme
+:text> Aplicar tema
+
+:name> set_theme_title
+:text> Elige un tema
+
+:name> set_theme_theme_warm
+:text> Amanecer · Naranja
+
+:name> set_theme_theme_cold
+:text> Vitalidad · Verde
+
+:name> set_theme_theme_christmas
+:text> Sueño de la noche de Navidad
+
+:name> set_theme_theme_lunar_new_year
+:text> Tema de feliz año nuevo chino
+
+:name> set_theme_theme_dark
+:text> Elegante · negro
+
+:name> set_theme_theme_purple
+:text> Noble·Púrpura
+
+:name> set_theme_theme_pink
+:text> Admirar·Polvo
+
+:name> set_theme_theme_dark_pink
+:text> Fragancia oscura · negro
+&
+rosa
+
+:name> set_code_style
+:text> Tema de código
+
+:name> set_custom_css
+:text> CSS personalizado
+
+:name> set_custom_css_light_style
+:text> Estilo brillante
+
+:name> set_custom_css_dark_style
+:text> Estilo oscuro
+
+:name> set_custom_css_default
+:text> CSS predeterminado
+
+:name> set_custom_css_edit_light_style
+:text> Editar CSS para el tema del día
+
+:name> set_custom_css_edit_dark_style
+:text> Editar CSS para el tema nocturno
+
+:name> set_custom_css_rename
+:text> Doble denominación
+
+:name> set_custom_css_apply
+:text> Permitir
+
+:name> set_custom_css_in_use
+:text> · Usando
+
+:name> set_custom_css_count_limit_for_premium
+:text> Has creado %d CSS personalizado
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> Los usuarios normales solo pueden crear %1$d CSS personalizado; los usuarios miembros pueden crear %2$d CSS personalizado. Actualice para desbloquear más CSS personalizado.
+
+:name> set_custom_css_tip
+:text> Consejo: No modifique las propiedades que comiencen con \'$\' (estas propiedades se utilizan para seguir las preferencias del usuario).
+
+:name> set_advanced
+:text> Avanzado
+
+:name> set_other
+:text> Otro
+
+:name> set_universal
+:text> Universal
+
+:name> set_editor_style
+:text> Tema del editor
+
+:name> set_use_pretty_time
+:text> Embellecer hora y fecha
+
+:name> set_note
+:text> Notas
+
+:name> set_note_sub
+:text> Configuraciones relacionadas con notas
+
+:name> set_export
+:text> Importar
+&
+exportar
+
+:name> set_export_sub
+:text> Esta función estará fuera de línea pronto
+
+:name> set_note_list
+:text> Lista de notas
+
+:name> set_note_yaml
+:text> Usar información de prefijo
+
+:name> set_note_yaml_sub
+:text> El preámbulo es un formato de sintaxis especial que se utiliza para agregar metadatos en Markdown.
+
+:name> set_note_title
+:text> Usar entrada de título
+
+:name> set_note_title_sub
+:text> Habilitar el cuadro de entrada de título en la página de edición de notas
+
+:name> set_note_extensions
+:text> Extensión de archivo de nota
+
+:name> set_note_extensions_tip
+:text> Agregue extensiones, separe varias extensiones con comas (,)
+
+:name> set_note_extensions_sub
+:text> Los archivos con la extensión especificada serán reconocidos como notas por la aplicación.
+
+:name> set_support_extensions
+:text> Extensión de archivo de texto
+
+:name> set_support_extensions_sub
+:text> Los archivos con la extensión especificada se leerán y mostrarán como texto
+
+:name> set_extensions
+:text> Extensiones de archivo compatibles
+
+:name> set_extensions_sub
+:text> Los archivos con la extensión especificada se mostrarán en la lista de notas.
+
+:name> set_illegal_charset
+:text> Caracteres ilegales en el nombre del archivo de configuración
+
+:name> set_illegal_charset_sub
+:text> Cuando encuentre caracteres ilegales configurados aquí, la aplicación los manejará automáticamente para evitar varios errores.
+
+:name> set_note_show_date
+:text> Mostrar información de tiempo
+
+:name> set_note_edit_directly
+:text> Modo de selección de notas
+
+:name> set_note_edit_directly_sub
+:text> Cuando haces clic en una nota, saltarás directamente a la página de edición.
+
+:name> set_note_auto_parsing_encoding
+:text> Analiza automáticamente el formato de codificación de notas. También puede modificar manualmente el formato de codificación de la nota en el cuadro de diálogo de configuración de la nota.
+
+:name> set_note_display_note_file_name
+:text> Usar nombre de archivo
+
+:name> set_note_display_note_file_name_sub
+:text> Mostrar nombres de archivos en lugar de títulos de notas en listas
+
+:name> set_note_show_simplified_note_list
+:text> Utilice una lista sencilla
+
+:name> set_note_hide_folders
+:text> Ocultar algunos directorios
+
+:name> set_note_hide_folders_sub
+:text> El directorio seleccionado no se mostrará en la lista de notas.
+
+:name> set_note_folders_selection
+:text> Seleccionar directorio
+
+:name> set_file
+:text> Documento
+
+:name> set_image
+:text> Imagen
+
+:name> set_image_sub
+:text> Imágenes, cámaras y OCR
+
+:name> set_image_extensions
+:text> Extensión de imagen
+
+:name> set_image_extensions_tip
+:text> Agregue extensiones de archivo de imagen, use \",\" para separar varias extensiones
+
+:name> set_image_extensions_sub
+:text> Los archivos que terminen con una extensión de imagen se tratarán como imágenes.
+
+:name> set_image_ocr_source
+:text> Configurar la fuente de datos de la API de OCR
+
+:name> set_image_ocr_config
+:text> Configurar la información de la API de OCR
+
+:name> set_image_ocr_config_sub
+:text> Configurar la API de OCR
+
+:name> set_image_ocr_config_test
+:text> Probar la configuración de OCR
+
+:name> set_image_ocr_source_request
+:text> Solicitud de API de OCR de terceros
+>
+
+:name> set_image_ocr_source_request_sub
+:text> Para reducir el costo de mantenimiento del servidor Leaf Note y, por lo tanto, el costo del usuario, ahora los usuarios solo pueden usar la API de OCR de terceros en Leaf Note. Puede solicitar claves y secretos de aplicaciones de API de terceros y luego usarlos en Leaf Note. Para saber cómo solicitar API de terceros, puede visitar nuestra página \"Explorar Leaf Note\". Si conoce alguna plataforma API de OCR que no esté incluida en Leaf Note, puede solicitarla aquí.
+
+:name> set_image_ocr_learn_to_configure
+:text> Aprenda a configurar API de terceros
+>
+
+:name> set_camera
+:text> Ajustes de la cámara
+
+:name> set_camera_type
+:text> Tipo de cámara
+
+:name> set_camera_type_system
+:text> Cámara del sistema
+
+:name> set_camera_type_build_in
+:text> Cámara en la aplicación
+
+:name> set_camera_type_title
+:text> Seleccione el tipo de cámara
+
+:name> set_note_display_image
+:text> Mostrar imagen
+
+:name> set_note_display_image_sub
+:text> Si mostrar imágenes en la lista de notas
+
+:name> set_note_image_default_name
+:text> Nombre del directorio de imágenes predeterminado
+
+:name> set_note_display_image_tip
+:text> Es necesario reiniciar esta configuración y los datos se recargarán para que surtan efecto.
+
+:name> set_note_image_compress
+:text> Comprimir imágenes
+
+:name> set_note_image_compress_sub
+:text> Establecer si se comprimirán automáticamente las imágenes en las notas
+
+:name> set_sync
+:text> Sincronización en la nube
+
+:name> set_sync_universal
+:text> Universal
+
+:name> set_sync_sub
+:text> Sincronización con otras plataformas a través de WebDAV
+
+:name> set_sync_enable
+:text> Sincronización de tiempo
+
+:name> set_sync_enable_sub
+:text> Sincronice periódicamente todo el directorio de archivos
+
+:name> set_sync_server
+:text> Servidor
+
+:name> set_sync_webdav_server
+:text> Servidor WebDAV
+
+:name> set_sync_webdav_server_host
+:text> Dirección del servidor WebDAV
+
+:name> set_sync_webdav_server_path
+:text> Directorio de sincronización del servidor
+
+:name> set_sync_webdav_server_path_sub
+:text> Leaf Note sincronizará las notas con el directorio: %s
+
+:name> set_sync_webdav_server_account
+:text> Cuenta
+
+:name> set_sync_webdav_server_password
+:text> Contraseña de la aplicación
+
+:name> set_sync_webdav_server_please
+:text> Por favor configure la información de WebDAV
+
+:name> set_sync_server_configured
+:text> WebDAV configurado
+
+:name> set_sync_server_not_config
+:text> WebDAV aún no se ha configurado
+
+:name> set_sync_webdav_server_connect_test
+:text> Conéctese a la configuración de prueba WebDAV
+
+:name> set_sync_interval
+:text> Intervalo de sincronización
+
+:name> set_sync_delay
+:text> Retraso de sincronización entre dos archivos
+
+:name> set_sync_delay_sub
+:text> Agregar un retraso al enviar solicitudes de sincronización se utiliza principalmente para evitar que el servidor en la nube lo bloquee debido a solicitudes demasiado frecuentes.
+
+:name> set_sync_only_wifi
+:text> Sincronización solo a través de Wi-Fi
+
+:name> set_sync_single
+:text> Sincronización en tiempo real
+
+:name> set_sync_single_sub
+:text> Sincronizar inmediatamente después de modificar el contenido del archivo
+
+:name> set_sync_info
+:text> Información de sincronización
+
+:name> set_sync_last_time
+:text> Hora de la última sincronización
+
+:name> set_sync_last_info
+:text> Última información sincronizada
+
+:name> set_sync_num_with
+:text> Se han sincronizado %d archivos
+
+:name> set_sync_done
+:text> Sincronización de datos completada
+
+:name> set_sync_done_with_error
+:text> Sincronización de datos completada, el archivo %d falló
+
+:name> set_sync_interval_0
+:text> Cada 6 horas
+
+:name> set_sync_interval_1
+:text> Cada 12 horas
+
+:name> set_sync_interval_2
+:text> Una vez al día
+
+:name> set_sync_interval_3
+:text> Cada tres días
+
+:name> set_sync_interval_4
+:text> Cualquier otra semana
+
+:name> set_sync_interval_5
+:text> Cada medio mes
+
+:name> set_sync_interval_6
+:text> Cada mes
+
+:name> set_sync_interval_7
+:text> Sincronización manual
+
+:name> set_sync_immediately
+:text> Sincronizar
+
+:name> set_sync_open_notification_title
+:text> Activar las notificaciones
+
+:name> set_sync_open_notification_tips
+:text> Active las notificaciones para obtener información sobre el estado de sincronización.
+
+:name> set_sync_to_enable_notification
+:text> Activar las notificaciones
+
+:name> set_sync_without_notification
+:text> Comience a sincronizar directamente
+
+:name> set_sync_sync_state_hint
+:text> Aviso de estado de sincronización
+
+:name> set_sync_sync_state_hint_sub
+:text> Si una nota se modifica localmente pero no se ha sincronizado con el servidor, se mostrará un pequeño mensaje de sincronización en la lista de notas.
+
+:name> sync_interrupted
+:text> El servicio de sincronización fue interrumpido por el usuario
+
+:name> sync_version_upgrade_tip
+:text> 1. La nueva lógica de sincronización es incompatible con la lógica anterior. Si necesita sincronizar entre varios dispositivos, actualice las aplicaciones de varios dispositivos a la nueva versión (4.0 y superior)\n2. La primera vez que utilice la nueva lógica de sincronización El método puede llevar más tiempo.
+
+:name> sync_note_updated
+:text> La nota ha sido actualizada.
+
+:name> sync_note_remote_change_tip
+:text> Esta nota actualmente está atrasada en la versión del servidor. ¿Quieres actualizar a la última versión?
+
+:name> sync_unable_to_handle_locally_yip
+:text> Este error es causado por errores de red o de lectura y escritura y no se puede manejar. Puede intentar nuevamente para resolver el problema.
+
+:name> sync_conflict_resolve_tip
+:text> El archivo fue modificado tanto local como remotamente ¿Quieres resolver este error mediante comparación?
+
+:name> set_export_export
+:text> Exportar datos
+
+:name> set_export_export_sub
+:text> Exportar datos a almacenamiento externo
+
+:name> set_export_import
+:text> Datos de importacion
+
+:name> set_export_import_sub
+:text> Importar datos desde almacenamiento externo
+
+:name> set_export_time
+:text> Hora de la última exportación
+
+:name> set_export_path
+:text> Ruta de exportación
+
+:name> set_export_export_done
+:text> Exportación de datos completada
+
+:name> set_export_export_num_with
+:text> %d archivo ha sido exportado
+
+:name> set_export_import_num_with
+:text> %d archivo ha sido importado
+
+:name> set_export_export_done_with_error
+:text> Exportación de datos completada, el archivo %d falló
+
+:name> set_export_import_done_with_error
+:text> Importación de datos completada, archivo %d fallido
+
+:name> set_export_import_done
+:text> Importación de datos completada
+
+:name> set_export_executing
+:text> Tarea de importación/exportación en curso
+
+:name> set_export_conflict_with
+:text> %d archivo falló
+
+:name> set_report_no_conflict
+:text> ¡Felicitaciones, no se encontró ningún archivo fallido!
+
+:name> set_conflict_resolve
+:text> Procesando archivos fallidos
+
+:name> set_conflict_path_tips
+:text> Posibles razones del error:\n1. El nombre de la carpeta es ilegal (por ejemplo, contiene caracteres ilegales, etc.). Se recomienda modificar el nombre de la carpeta e intentarlo nuevamente;\n2. El cliente solicita con demasiada frecuencia, haga una pausa por un tiempo antes de sincronizar y ajuste el intervalo de tiempo de sincronización.
+
+:name> trash_box
+:text> Bote de basura
+
+:name> trash_box_recover
+:text> Recuperar
+
+:name> trash_box_delete
+:text> Eliminar completamente
+
+:name> trash_box_recover_tip
+:text> ¿Está seguro de que desea restaurar este archivo/directorio desde la Papelera?
+
+:name> trash_box_delete_tip
+:text> ¿Está seguro de que desea eliminar completamente este archivo/directorio?
+
+:name> trash_box_empty
+:text> Papelera vacía
+
+:name> trash_box_empty_tip
+:text> ¿Estás seguro de que quieres vaciar la papelera?
+
+:name> about_app_section
+:text> Acerca de la aplicación
+
+:name> about_app_privacy
+:text> Política de privacidad
+
+:name> about_app_homepage
+:text> Página de inicio de la aplicación
+
+:name> about_app_translate
+:text> Ayudar con la traducción.
+
+:name> about_app_translate_sub
+:text> Ayúdanos a optimizar la traducción de \"Leaf Note\"
+
+:name> about_app_development
+:text> Plan de Desarrollo
+
+:name> about_app_help
+:text> Documentación de ayuda
+
+:name> about_app_feedback
+:text> Comentario
+
+:name> about_app_license
+:text> Licencia de código abierto
+
+:name> about_contact_us
+:text> Contáctenos
+
+:name> about_social_telegram_group
+:text> Telegram
+
+:name> about_social_qq_group
+:text> QQ
+
+:name> about_social_email
+:text> Email
+
+:name> about_developer_section
+:text> Seguir a los desarrolladores
+
+:name> about_developer_twitter
+:text> Twitter
+
+:name> about_developer_bilibili
+:text> BiliBili
+
+:name> about_developer_github
+:text> GitHub
+
+:name> about_developer_jike
+:text> Jike
+
+:name> about_other_apps
+:text> Obras del autor
+
+:name> feedback
+:text> Comentario
+
+:name> feedback_thank
+:text> ¡Comentarios exitosos! \n¡Gracias por sus comentarios y apoyo!
+
+:name> feedback_content_hint
+:text> Contenido de comentarios (puede ingresar 400 palabras)
+
+:name> feedback_contact_hint
+:text> Información de contacto (opcional)
+
+:name> feedback_type_hint
+:text> Seleccionar tipo de comentarios
+
+:name> feedback_type_improvement
+:text> Optimización de funciones
+
+:name> feedback_type_bug
+:text> Error/fallo
+
+:name> feedback_goto
+:text> Ir a comentarios
+
+:name> category_empty_title
+:text> Aún no has agregado ninguna categoría
+
+:name> tag_empty_title
+:text> Aún no has agregado ninguna etiqueta
+
+:name> shortcut_add_long_name
+:text> Crear una nota
+
+:name> shortcut_add_short_name
+:text> Nuevo
+
+:name> shortcut_search_long_name
+:text> Notas de búsqueda
+
+:name> shortcut_search_short_name
+:text> Buscar
+
+:name> shortcut_capture_long_name
+:text> Fotografía
+
+:name> shortcut_capture_short_name
+:text> Fotografía
+
+:name> shortcut_failed_to_create
+:text> Falló la creación del acceso directo :(
+
+:name> shortcut_failed_launcher_not_support
+:text> ¡Sentir lástima! Error al crear un acceso directo en el escritorio. Esto puede deberse a que su dispositivo no admite esta función o no le da permiso a la aplicación.<br/> Puede intentar abrir la página de configuración de información del programa, tocar &quot;Permisos&quot;, configurar <b>Crear acceso directo en el escritorio</b> en Activado y volver a intentarlo.
+
+:name> social_telegram_group
+:text> Telegram
+
+:name> social_qq_group
+:text> Grupo QQ: %s
+
+:name> social_email
+:text> E-mail: %s
+
+:name> social_email_feedback_title
+:text> Comentarios sobre el problema de Leaf Note | %s
+
+:name> crash_email_title
+:text> Informe de accidente de Leaf Note
+
+:name> image_film_replay
+:text> Ya jugaste, ¿repetir?
+
+:name> donate
+:text> Donar artículos
+
+:name> share_text
+:text> Hola, me gustaría recomendarte un software privado de Markdown y toma de notas \"Leaf Note\" que permite la colaboración entre múltiples dispositivos a través de la sincronización en la nube. \nEnlace de detalles: %s, ¡ven y pruébalo!
+
+:name> config_found_new_version
+:text> Se encontró una nueva versión %1$s. ¿Quieres actualizar a la nueva versión? \n\n%2$s
+
+:name> config_to_upgrade
+:text> Ir a actualizar
+
+:name> config_privacy_accept_tips
+:text> Debes aceptar %1$s para continuar usando la APLICACIÓN.
+
+:name> config_privacy_accept
+:text> Aceptar y utilizar
+
+:name> config_privacy_reject_exit
+:text> Rechazar y salir
+
+:name> message_read
+:text> Han leído
+
+:name> message_not_read
+:text> No leído
+
+:name> message_empty_tip
+:text> No se encontró ningún mensaje tuyo
+
+:name> enable
+:text> Permitir
+
+:name> main_note_root
+:text> Raíz
+
+:name> main_note_all
+:text> Todo
+
+:name> main_note_manage
+:text> Administrar notas
+
+:name> main_bottom_menu_long_click_drag
+:text> Mantenga presionado y arrastre para ordenar los botones
+
+:name> main_exit_app
+:text> Salir de la aplicación
+
+:name> about_app_solgon
+:text> Un potente
+&
+hermoso software para tomar notas
+
+:name> tips
+:text> Pista
+
+:name> viewer_double_tap_show_tip
+:text> Haga doble clic en la página para mostrar la barra de herramientas inferior
+
+:name> main_open_external_message
+:text> ¿Crear una nota o simplemente navegar?
+
+:name> main_open_external_browse_only
+:text> Sólo navegar
+
+:name> main_open_external_create_note
+:text> Crear una nota
+
+:name> error_trail_already_in_use
+:text> Ya has utilizado la prueba gratuita
+
+:name> default_note_name
+:text> ¡Bienvenido a Leaf Note!
+

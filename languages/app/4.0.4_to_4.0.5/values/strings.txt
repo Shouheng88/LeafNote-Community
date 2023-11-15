@@ -1,0 +1,100 @@
+:name> login_premium_expire
+:text> Your token expired. If you want to continue to use premium abilities, you need to login. Login again now?
+
+:name> note_sub_count
+:text> %1$2d Folders %2$2d Notes %3$2d Images
+
+:name> premium_payway_alipay
+:text> AliPay
+
+:name> premium_bottom_notice
+:text> Developed with passion and love ♥
+
+:name> premium_payment_login_first_content
+:text> The account is only used to bind membership rights so that you can use these rights on any platform.
+
+:name> premium_error_google_billing_unavailable
+:text> Billing unavailable: due to google billing limitation or some reason. Please contact the developer if you need help.
+
+:name> premium_account_state_not_logged_in
+:text> Not Logged
+
+:name> premium_account_state_not_logged_in_tip
+:text> Please login to restore purchase.
+
+:name> premium_account_restore_guide_message
+:text> You can restore purchase by logging in. No matter what difficulties you encounter, please contact me to solve it.
+
+:name> pay_already_paid
+:text> Already paid
+>
+
+:name> pay_return_to_pay
+:text> Return to Pay
+>
+
+:name> pay_commit_serial_hint
+:text> Please copy serial from AliPay/WeChat and paste here to complete the purchase flow. Send email to <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> if you need any help.
+
+:name> pay_wechat_summary
+:text> 1. Scan the QrCode or click \"To Pay\" and select QrCode from album.<br/>2. After transfer money, commit your payment serial here.
+
+:name> search_empty_tip
+:text> No result found? You could try another word!
+
+:name> compose_note_setting_style_sample
+:text> <b>The Editor Style</b><br/>Thanks for using <b>LeafNote</b>, the <i>note</i> taking application. If you have any suggestions about this App, please contact me at <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com<a/>. Thanks and please enjoy it!<br/> <i>2020/11/15 21:00 by Developer</i>
+
+:name> comn_crash_tips
+:text> You could click [Report Issue
+] to help us fix it! You can also join our <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> or send email to <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> to seek for help.
+
+:name> set_language_russian
+:text> Русский (AI)
+
+:name> set_language_german
+:text> Deutsch (AI)
+
+:name> set_language_spanish
+:text> Español (AI)
+
+:name> set_language_french
+:text> Français (AI)
+
+:name> set_language_italian
+:text> Italiano (AI)
+
+:name> set_language_japanese
+:text> 日本語 (AI)
+
+:name> set_language_korean
+:text> 한국인 (AI)
+
+:name> set_language_portuguese
+:text> Português (AI)
+
+:name> set_theme_and_style
+:text> Theme
+&
+Style
+
+:name> set_image_sub
+:text> Image, camera
+&
+OCR
+
+:name> set_image_ocr_source_request_sub
+:text> Note: In order to reduce the maintenance cost of LeafNote server and therefore to reduce user usage costs, now the user can only user third-party OCR API in the LeafNote. You can request App key and secret from third-part API and then use them in LeafNote. To learn how to request third-part API, you can visit our \"Explore\" page. If you know any OCR API platform that not included in LeafNote, you can put forward a request to developer.
+
+:name> set_conflict_path_tips
+:text> Might failed due to:\n 1.illegal file name (contains illegal chars etc): change the file name and try again.\n2.too much request: stop for a while and change the frequency of sync.
+
+:name> about_social_qq_group
+:text> QQ
+
+:name> shortcut_failed_launcher_not_support
+:text> Oops! Failed to add the shortcut. This may be because your device does not support this feature or does not give the App the shortcut permission.<br/>Try this: open App Info in Settings page, tap \'Permissions\', grant <b>Create home screen shortcuts</b> permission.
+
+:name> config_to_upgrade
+:text> To Upgrade
+

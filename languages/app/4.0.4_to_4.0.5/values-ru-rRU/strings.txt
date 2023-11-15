@@ -1,0 +1,1596 @@
+:name> language
+:text> ru_RU
+
+:name> close
+:text> Закрытие
+
+:name> clear
+:text> Убирать
+
+:name> done
+:text> Заканчивать
+
+:name> cancel
+:text> Отмена
+
+:name> share
+:text> Делиться
+
+:name> failed
+:text> Неудача
+
+:name> succeed
+:text> Успех
+
+:name> not_save
+:text> Чтобы быть спасенным
+
+:name> confirm
+:text> Конечно
+
+:name> send
+:text> Отправлять
+
+:name> edit
+:text> Редактировать
+
+:name> message
+:text> Информация
+
+:name> redo
+:text> Повторить
+
+:name> undo
+:text> Отмена
+
+:name> sort
+:text> Сортировать
+
+:name> sort_direction_asc
+:text> Восходящий
+
+:name> sort_by_name
+:text> Сортировать по имени
+
+:name> sort_by_date
+:text> Сортировать по дате
+
+:name> sort_by_type
+:text> Сортировать по типу
+
+:name> final_result
+:text> Содержимое текущей стороны будет использоваться в качестве окончательного результата.
+
+:name> input_empty
+:text> Пожалуйста заполните
+
+:name> exported_to
+:text> Экспортировано в: %s
+
+:name> rename
+:text> Двойное наименование
+
+:name> move
+:text> Двигаться
+
+:name> apply
+:text> Приложение
+
+:name> available_with
+:text> Время действия: %s
+
+:name> register
+:text> Зарегистрировать аккаунт
+
+:name> bind
+:text> Обязательность
+
+:name> binding
+:text> Связывание
+…
+
+:name> unbind
+:text> Разделять
+
+:name> next
+:text> Следующий шаг
+
+:name> to_read
+:text> Иди читай
+
+:name> get_it
+:text> Знал
+
+:name> rate_app
+:text> Оцените Ян Йе
+
+:name> try_it
+:text> Проверять
+
+:name> give_it_up
+:text> Сдаться
+
+:name> enabled
+:text> Включенный
+
+:name> disabled
+:text> Закрыто
+
+:name> dont_show_again
+:text> Не показывай снова
+
+:name> ignore_it
+:text> Пренебрегать
+
+:name> text_okay
+:text> ХОРОШО
+
+:name> create_note
+:text> Создать новую заметку
+
+:name> folder
+:text> Оглавление
+
+:name> create_folder
+:text> Создать каталог
+
+:name> folder_same_name
+:text> Каталог с таким именем уже существует
+
+:name> update_folder
+:text> Изменить каталог
+
+:name> folder_with
+:text> Каталог: %s
+
+:name> last_update_with
+:text> Обновление: %s
+
+:name> folder_not_empty
+:text> Этот каталог не пуст. Вы уверены, что хотите его удалить?
+
+:name> delete_still
+:text> Все равно удалить
+
+:name> note
+:text> Примечания
+
+:name> picture
+:text> Картина
+
+:name> file_tree
+:text> Дерево файлов
+
+:name> capture
+:text> Фотография
+
+:name> file
+:text> Документ
+
+:name> add_shortcut
+:text> Добавьте ярлык
+
+:name> share_by_html
+:text> ПоделитьсяHtml
+
+:name> share_by_image
+:text> Делиться фотографиями
+
+:name> export_by_text
+:text> Экспортировать текст
+
+:name> export_by_html
+:text> ЭкспортHtml
+
+:name> export_by_image
+:text> Экспорт изображений
+
+:name> again_exit
+:text> Нажмите еще раз, чтобы выйти
+
+:name> select_folder_move_to
+:text> Выберите каталог для перехода
+
+:name> expand_with
+:text> Развернуть
+>
+
+:name> fold_with
+:text> Свернуть
+<
+
+:name> configured
+:text> Настроен
+
+:name> not_configured
+:text> Не настроено
+
+:name> camera_unavailable
+:text> Камера устройства недоступна
+
+:name> created_time_with
+:text> Дата создания: %s
+
+:name> privilege_with
+:text> Разрешения: %s
+
+:name> account_with
+:text> Счета: %s
+
+:name> new_version
+:text> Новая версия
+
+:name> failed_to_open_file
+:text> Открытие файла не удалось
+
+:name> sync_job_started
+:text> Начать синхронизацию
+
+:name> name_already_in_use
+:text> Имя уже существует
+
+:name> print_not_support
+:text> Похоже, ваше устройство не поддерживает печать. Убедитесь, что ваше устройство поддерживает эту функцию, и повторите попытку.
+
+:name> login_title
+:text> Привязка аккаунта
+
+:name> login_account_hint
+:text> Электронная почта/номер мобильного телефона
+
+:name> login_password_hint
+:text> Пароль
+
+:name> login_forget_password
+:text> Забыть пароль
+
+:name> login_error_account_empty
+:text> Пожалуйста, введите имя пользователя
+
+:name> login_error_account_illegal
+:text> Аккаунт незаконен
+
+:name> login_error_password_empty
+:text> Пожалуйста введите пароль
+
+:name> login_error_password_simple
+:text> Пароль слишком простой
+
+:name> register_code_hint
+:text> Проверочный код
+
+:name> register_password_again_hint
+:text> Введите пароль еще раз
+
+:name> register_error_code_empty
+:text> Пожалуйста, введите код подтверждения
+
+:name> register_error_password_diff
+:text> Пароли, введенные дважды, разные
+
+:name> register_signing_in
+:text> Регистрация
+…
+
+:name> code_send_succeed
+:text> Код подтверждения отправлен
+
+:name> code_sent_message
+:text> Код подтверждения отправлен, проверьте свою электронную почту/текстовое сообщение. Код подтверждения действителен в течение %d минут. Если вы не получаете код подтверждения в течение длительного времени, подтвердите, было ли письмо ошибочно расценено системой как спам.
+
+:name> login_account_bind_tip
+:text> Учетная запись используется только для привязки ваших прав членства.
+
+:name> login_bind_state
+:text> Статус привязки
+
+:name> login_premium_transfer
+:text> Передача
+
+:name> login_transfer_tip
+:text> Вы уверены, что хотите обменять права пользователя на этом устройстве?
+
+:name> login_premium_cancel_aux
+:text> Отменить вспомогательное членство
+
+:name> login_premium_set_aux
+:text> Стать ассоциированным членом
+
+:name> login_premium_expire
+:text> Срок действия вашего токена истек. Если вы хотите продолжить использовать свои членские привилегии, вам необходимо снова войти в систему. Перейти для входа в систему?
+
+:name> login_device_already_bind_with
+:text> Устройство привязано к учетной записи %s. Пожалуйста, отмените привязку и повторите попытку.
+
+:name> login_status
+:text> Учетная запись: %1$s\nВремя создания: %2$s\nСрок действия входа: %3$s
+
+:name> login_at_first_tips
+:text> Пожалуйста, войдите сначала
+
+:name> login_unbind_success_message
+:text> Отвязка прошла успешно! \nВы можете войти снова, чтобы воспользоваться преимуществами :)
+
+:name> note_sub_count
+:text> %1$2d Каталог %2$2d Примечания %3$2d Изображения
+
+:name> image_capture
+:text> Фотография
+
+:name> image_album
+:text> Картина
+
+:name> image_scan_document
+:text> Сканирование документов
+
+:name> image_ocr
+:text> Оптическое распознавание текста
+
+:name> image_rotate
+:text> Вращать
+
+:name> image_ocr_to_be_continue
+:text> Следите за обновлениями
+…
+
+:name> image_back_tip
+:text> Вернитесь сейчас. Сделанные фотографии будут удалены. Вы уверены, что вернетесь?
+
+:name> image_effect_binary
+:text> Черное и белое
+
+:name> image_effect_grey
+:text> Оттенки серого
+
+:name> image_effect_linear_strength
+:text> Усиливать
+
+:name> image_effect_melt
+:text> Печь
+
+:name> image_effect_freeze
+:text> Замороженный
+
+:name> image_effect_contrary
+:text> Обратный цвет
+
+:name> image_effect_float_sculpture
+:text> Облегчение
+
+:name> image_effect_blur
+:text> Нечеткий
+
+:name> image_effect_origin
+:text> Исходное изображение
+
+:name> image_effect_round_corner
+:text> Закругленные углы
+
+:name> image_effect_add_color
+:text> Раскраска
+
+:name> image_comment_add_hint
+:text> Добавьте немного воспоминаний
+…
+
+:name> image_comment_add_title
+:text> Добавьте описание к изображениям
+
+:name> image_comment_post
+:text> Отправлять
+
+:name> image_ocr_configure_first
+:text> Сначала вам необходимо настроить API OCR
+
+:name> image_ocr_result
+:text> Результаты оптического распознавания символов
+
+:name> image_name_not_support
+:text> Файлы с этим расширением не поддерживаются. \n\nСовет: вы можете изменить поддерживаемые расширения файлов в настройках изображения.
+
+:name> image_compress_tips
+:text> В соответствии с текущими настройками ваши изображения будут сжаты. Вы можете отключить параметры сжатия изображений в настройках.
+
+:name> image_compress_to_close
+:text> Перейти, чтобы закрыть
+
+:name> premium_free
+:text> Постоянная бесплатная версия
+
+:name> premium_premium
+:text> Постоянная премиум-версия
+
+:name> premium_professional
+:text> Постоянное профессиональное издание
+
+:name> premium_professional_yearly
+:text> Годовое профессиональное издание
+
+:name> premium_premium_free_trial
+:text> Премиум-бесплатная пробная версия
+
+:name> premium_professional_free_trial
+:text> Профессиональная бесплатная пробная версия
+
+:name> premium_center
+:text> Центр участников
+
+:name> premium_free_trial_with
+:text> Начать бесплатную пробную версию на %d день
+
+:name> premium_free_trial_days_left
+:text> Осталось %dd
+
+:name> premium_join
+:text> Присоединяйся сейчас
+
+:name> premium_price
+:text> Цены: %s
+
+:name> premium_price_discount
+:text> Цена: %1$s, первоначальная цена: %2$s
+
+:name> premium_commit_payment
+:text> Подтвердить заказ
+
+:name> premium_serial_input_hint
+:text> Введите здесь серийный номер заказа
+
+:name> premium_serial_input_length_tip
+:text> Пожалуйста, проверьте, является ли серийный номер законным.
+
+:name> premium_serial_committed
+:text> Заказ отправлен, пожалуйста, терпеливо дождитесь результата обработки заказа, это может занять некоторое время.
+
+:name> premium_serial_committing
+:text> Заказ отправляется
+…
+
+:name> premium_payway_with
+:text> Способы оплаты: %s
+
+:name> premium_order_number_with
+:text> Номер заказа: %s
+
+:name> premium_serial_number_with
+:text> Серийный номер заказа: %s
+
+:name> premium_owe_money_with
+:text> Сумма к оплате: %s
+
+:name> premium_redeem_code_commit_title
+:text> Отправьте свой подарочный/код активации
+
+:name> premium_redeem_code_commit_sub_title
+:text> Пожалуйста, введите здесь свой подарочный/код активации.
+
+:name> premium_payment_status_check_passed
+:text> Одобренный
+
+:name> premium_payment_status_check_failed
+:text> Ошибка аудита
+
+:name> premium_payment_status_commit_success
+:text> Поданный
+
+:name> premium_payment_status_done
+:text> Закрытый ордер
+
+:name> premium_premium_required
+:text> Только про версия
+
+:name> premium_premium_required_sub
+:text> Вам нужно быть профессионалом, чтобы использовать эту функцию!
+
+:name> premium_premium_become
+:text> Повысьте статус до VIP-члена
+
+:name> premium_professional_required
+:text> Вам нужно быть профессионалом, чтобы использовать эту функцию!
+
+:name> premium_privilege_basic
+:text> Все основные функции
+
+:name> premium_privilege_app_theme
+:text> Применить тему
+
+:name> premium_privilege_editor_theme
+:text> Редактор темы
+
+:name> premium_privilege_code_style
+:text> Стиль кодирования
+
+:name> premium_privilege_export
+:text> Импорт и экспорт
+
+:name> premium_privilege_sync
+:text> Синхронизация через WebDAV
+
+:name> premium_privilege_file_tree
+:text> Просмотр дерева файлов
+
+:name> premium_privilege_appwidget
+:text> Виджет заметок на рабочем столе
+
+:name> premium_privilege_pdf
+:text> Экспорт HTML, PDF, изображений, уценок и т. д.
+
+:name> premium_privilege_image_filter
+:text> Эффект фильтра
+
+:name> premium_privilege_image_filter_sub
+:text> Более 10 эффектов фильтров, поворот изображения, свободное кадрирование, зеркальное отражение и т. д.
+
+:name> premium_privilege_ocr
+:text> Распознавание изображений
+
+:name> premium_privilege_ocr_sub
+:text> Можно использовать сторонний API OCR в приложении.
+
+:name> premium_privilege_feature
+:text> Добавьте ярлык
+
+:name> premium_free_trial_requirement
+:text> Запрос успешно отправлен. Функция членства вступит в силу через несколько минут. Подождите терпеливо!
+
+:name> premium_restore
+:text> Возобновить покупку
+
+:name> premium_payway_freetrail
+:text> Бесплатная пробная версия
+
+:name> premium_payway_google
+:text> Магазин Google
+
+:name> premium_payway_wechat
+:text> WeChat
+
+:name> premium_payway_alipay
+:text> AliPay
+
+:name> premium_payway_serial
+:text> Отправьте номер заказа
+
+:name> premium_payway_redeem
+:text> Активировать код
+
+:name> premium_privileges_title
+:text> Преимущества для участников
+
+:name> premium_privileges_sub_title
+:text> Обновите эту версию, чтобы разблокировать соответствующие преимущества.
+
+:name> premium_versions_title
+:text> Выберите версию членства
+
+:name> premium_versions_sub_title
+:text> Нажмите на запись, чтобы выбрать версию членства
+
+:name> premium_payway_title
+:text> Выберите метод оплаты
+
+:name> premium_payway_sub_title
+:text> Нажмите на товар, чтобы выбрать способ оплаты
+
+:name> premium_review_title
+:text> Отзывы Пользователей
+
+:name> premium_notice_title
+:text> Меры предосторожности
+
+:name> premium_bottom_notice
+:text> Это программное обеспечение тщательно спроектировано и разработано разработчиками♥ Добро пожаловать к использованию
+
+:name> premium_locked
+:text> Не разблокировано
+
+:name> premium_unlocked
+:text> Разблокировано
+
+:name> premium_payment_info_title
+:text> Информация для заказа
+
+:name> premium_payment_info
+:text> Окончательная цена: %1$s\nСпособ оплаты: %2$s
+
+:name> premium_payment_continue_title
+:text> Продолжить процесс оплаты
+
+:name> premium_payment_continue_content
+:text> Уже успешно оплатили? Теперь, пожалуйста, выполните следующие шаги, чтобы отправить номер заказа :)
+
+:name> premium_payment_continue_not_paid
+:text> Не выплачивается
+
+:name> premium_payment_login_first
+:text> Пожалуйста, войдите сначала
+
+:name> premium_payment_login_first_content
+:text> Учетная запись используется только для привязки прав членства, чтобы вы могли использовать эти права на любой платформе.
+
+:name> premium_payment_trail_gift_content
+:text> У вас есть бесплатная пробная версия!
+
+:name> premium_payment_continue_help_tip
+:text> Нужна помощь?
+
+:name> premium_payment_continue_help_content
+:text> Если у вас есть какие-либо вопросы о членстве и покупке, пожалуйста, свяжитесь с нами :)
+
+:name> premium_payment_continue_help_required
+:text> Попросить помощи
+
+:name> premium_error_payway_unavailable
+:text> Способ оплаты недоступен
+
+:name> premium_error_version_unlocked
+:text> Вы разблокировали эту версию
+
+:name> premium_error_version_not_selected
+:text> Пожалуйста, сначала выберите версию членства
+
+:name> premium_error_pawway_not_selected
+:text> Пожалуйста, сначала выберите способ оплаты
+
+:name> premium_error_google_billing_unavailable
+:text> Google Pay недоступен. Это может быть связано с географическими ограничениями Google Pay и другими причинами. Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с разработчиком.
+
+:name> premium_account_state_not_logged_in
+:text> Не вошел
+
+:name> premium_account_state_not_logged_in_tip
+:text> Пожалуйста, войдите, чтобы возобновить покупку
+
+:name> premium_account_restore_guide_message
+:text> Вы можете восстановить покупку, войдя в систему. Если у вас возникнут какие-либо проблемы, пожалуйста, свяжитесь с нами, чтобы решить их.
+
+:name> pay_wechat_title_with_step
+:text> WeChat (шаг: %s)
+
+:name> pay_alipay_title_with_step
+:text> AliPay (шаг: %s)
+
+:name> pay_already_paid
+:text> Платеж завершен
+>
+
+:name> pay_return_to_pay
+:text> Вернитесь, чтобы продолжить оплату
+>
+
+:name> pay_commit_serial_hint
+:text> Пожалуйста, отправьте свой номер заказа Alipay/WeChat. Если вам нужна помощь, отправьте электронное письмо по адресу: <a href="mailto:shouheng2020@gmail.com"> shouheng2020@gmail.com 。
+
+:name> pay_wechat_summary
+:text> 1. Отсканируйте QR-код или нажмите «Перейти к оплате», а затем выберите QR-код из альбома для сканирования;<br/> 2. После завершения оплаты вернитесь на эту страницу, чтобы сообщить номер заказа.
+
+:name> pay_to_pay
+:text> Платить
+
+:name> pay_to_commit
+:text> Отправьте серийный номер заказа
+
+:name> pay_qrcode_saved_to
+:text> QR-код экспортирован в %s.
+
+:name> pay_thanks
+:text> Этот проект может постоянно обновляться и улучшаться благодаря вашей поддержке. Большое спасибо за вашу поддержку.
+
+:name> pay_launch_alipay_error
+:text> Не удалось открыть Alipay
+
+:name> pay_handling_purchase
+:text> Заказ обрабатывается, подождите
+…
+
+:name> pay_purchase_succeed
+:text> Обработка заказа завершена! \nТеперь вы уважаемый участник!
+
+:name> search_searching
+:text> Идет поиск
+…
+
+:name> search_hint
+:text> Введите то, что вы хотите найти
+
+:name> search_empty_tip
+:text> Не нашли то, что искали? Попробуйте изменить словарный запас
+
+:name> search_setting
+:text> Настройки поиска
+
+:name> search_ignore_case
+:text> Нечувствительный к регистру
+
+:name> search_on_given_folder
+:text> Укажите каталог поиска
+
+:name> search_history
+:text> История поиска
+
+:name> compose_note_saved
+:text> Заметка сохранена.
+
+:name> compose_default_note_name
+:text> Заметка без названия
+
+:name> compose_title_hint
+:text> Пожалуйста, введите название заметки
+
+:name> compose_content_hint
+:text> Напишите здесь то, что вы хотите сказать
+…
+
+:name> compose_chars
+:text> Характер:
+
+:name> compose_background_tips
+:text> Приложение перейдет в фоновый режим, а заметка сохранится в истории.
+
+:name> compose_editor_style
+:text> Выберите тему редактора
+
+:name> compose_preview
+:text> Предварительный просмотр
+
+:name> compose_math_input
+:text> Введите выражение MathJax
+
+:name> compose_row_col_input
+:text> Введите количество строк/столбцов таблицы
+
+:name> compose_row_number
+:text> Количество строк
+
+:name> compose_col_number
+:text> Число столбцов
+
+:name> compose_link_options
+:text> Выберите ссылку
+…
+
+:name> compose_link_file
+:text> Ссылка на заметку
+
+:name> compose_image_name
+:text> Ссылка на изображение
+
+:name> compose_image_capture
+:text> Фотосъемка
+
+:name> compose_image_network
+:text> Ссылка на картинку в интернете
+
+:name> compose_image_inside
+:text> Изображения в приложении
+
+:name> compose_note_setting
+:text> Настройки заметок
+
+:name> compose_note_setting_style
+:text> Редактор темы
+
+:name> compose_note_setting_code_style
+:text> Стиль кодирования
+
+:name> compose_note_align_left
+:text> Выравнивание по левому краю
+
+:name> compose_note_align_right
+:text> Выровнять по правому краю
+
+:name> compose_note_align_center
+:text> Выравнивание по центру
+
+:name> compose_note_text_wrap
+:text> Перенос кода
+
+:name> compose_note_text_size
+:text> Размер шрифта
+
+:name> compose_note_paragraph_margin_bottom
+:text> Межстрочный интервал
+
+:name> compose_note_line_number
+:text> Номер строки
+
+:name> compose_note_button_order
+:text> Нижняя кнопка сортировки
+
+:name> compose_note_encoding
+:text> Метод декодирования
+
+:name> compose_note_encoding_title
+:text> Выбирайте кодировку при чтении заметок
+
+:name> sort_divider_hidden_tip
+:text> скрывать <small>(Перетащите кнопку ниже, чтобы скрыть ее)
+
+:name> compose_note_setting_markdown_enabled
+:text> Уценка включена
+
+:name> compose_note_setting_markdown_disabled
+:text> Маркдаун отключен
+
+:name> compose_note_setting_tags
+:text> Добавить метку
+
+:name> compose_note_setting_info
+:text> Detalhes
+
+:name> compose_note_setting_history
+:text> Запись истории
+
+:name> compose_category_updated
+:text> Категории обновлены
+
+:name> compose_tag_add
+:text> Добавить метку
+
+:name> compose_tag_added
+:text> Ярлык обновлен.
+
+:name> compose_note_info_title
+:text> Заголовок
+
+:name> compose_note_info_category
+:text> Классификация
+
+:name> compose_note_info_tags
+:text> Этикетка
+
+:name> compose_note_info_file_name
+:text> Имя файла
+
+:name> compose_note_info_file_size
+:text> Размер файла
+
+:name> compose_note_info_length
+:text> Длина
+
+:name> compose_note_info_created
+:text> Время создания
+
+:name> compose_note_info_updated
+:text> Последнее обновление
+
+:name> compose_note_info_path
+:text> Путь хранения
+
+:name> compose_history_not_found
+:text> Для этой заметки нет истории
+
+:name> compose_history_confirm
+:text> Вы уверены, что хотите использовать содержимое примечания к результату обработки (при этом будет перезаписано ранее отредактированное содержимое)?
+
+:name> compose_file_name_input
+:text> Введите имя файла (включая расширение)
+
+:name> compose_file_extension_not_support
+:text> Файлы с этим расширением не поддерживаются. \n\nСовет: вы можете изменить поддерживаемые расширения файлов в настройках заметки.
+
+:name> compose_file_name_illegal
+:text> Имя файла содержит недопустимые символы. \n\nСовет: вы можете указать, какие символы являются недопустимыми, в настройках заметки.
+
+:name> compose_note_un_finish_title
+:text> Продолжить редактирование \"%s\"?
+
+:name> compose_note_un_finish
+:text> Продолжать редактировать незавершенные заметки?
+
+:name> compose_note_un_finish_recover_msg
+:text> Найти вам историю этой заметки, восстановить из истории? \n\nСовет: вы также можете войти в историю из настроек заметки.
+
+:name> compose_note_links
+:text> Ссылка на заметку
+
+:name> compose_note_linking
+:text> Цитировать
+
+:name> compose_note_linking_empty
+:text> Не цитируется
+
+:name> compose_note_structure
+:text> Структура каталогов
+
+:name> compose_diff_merge
+:text> Вы уверены, что хотите заменить слово «результат» текстом слева?
+
+:name> compose_note_auto_save
+:text> Заметки сохраняются автоматически
+
+:name> compose_note_auto_save_job_channel_name
+:text> Примечание. Уведомление об автоматическом сохранении
+
+:name> compose_note_sync_job_channel_name
+:text> Уведомление о синхронизации заметок
+
+:name> compose_note_export_job_channel_name
+:text> Обратите внимание на уведомления об импорте и экспорте
+
+:name> image_source_image_limit
+:text> Длина и ширина изображения должны быть не менее %1$dpx и не менее %2$dpx.
+
+:name> comn_load_executing
+:text> Выполнение
+…
+
+:name> comn_load_loading
+:text> Загрузка
+…
+
+:name> comn_load_empty
+:text> Данные пусты :)
+
+:name> comn_crash_title
+:text> Извините за аварию!
+
+:name> comn_crash_tips
+:text> Вы можете нажать [Сообщить о проблеме
+], чтобы помочь нам решить эту проблему! Вы также можете оставить отзыв, присоединившись к <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> или отправив электронное письмо на адрес <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a>.
+
+:name> main_menu_item_message
+:text> Мое сообщение
+
+:name> main_menu_item_timeline
+:text> Лента новостей
+
+:name> main_menu_item_category
+:text> Классификация
+
+:name> main_menu_item_tag
+:text> Этикетка
+
+:name> main_menu_item_help
+:text> Помощь обратная связь
+
+:name> main_menu_item_explore
+:text> Откройте для себя направление Янье
+
+:name> main_menu_item_info
+:text> О приложении
+
+:name> main_menu_item_setting
+:text> Настраивать
+
+:name> main_menu_item_sync
+:text> Облачная синхронизация
+
+:name> main_menu_item_share
+:text> Поделиться приложением
+
+:name> setting
+:text> Настраивать
+
+:name> set_personalization
+:text> Персонализировать
+
+:name> set_display
+:text> Показывать
+
+:name> set_display_sub
+:text> Тема, плавающая кнопка, формат времени и язык и т. д.
+
+:name> set_language
+:text> Язык приложения
+
+:name> set_language_follow_system
+:text> Следуйте системе
+
+:name> set_theme_and_style
+:text> Стиль темы
+
+:name> set_theme
+:text> Тема
+
+:name> set_theme_theme
+:text> Применить тему
+
+:name> set_theme_title
+:text> Выберите тему
+
+:name> set_theme_theme_warm
+:text> Рассвет · Оранжевый
+
+:name> set_theme_theme_cold
+:text> Жизненная сила · Зеленый
+
+:name> set_theme_theme_christmas
+:text> Рождественский ночной сон
+
+:name> set_theme_theme_lunar_new_year
+:text> Тема счастливого китайского Нового года
+
+:name> set_theme_theme_dark
+:text> Элегантный · черный
+
+:name> set_theme_theme_purple
+:text> Благородный · Фиолетовый
+
+:name> set_theme_theme_pink
+:text> Восхищаться·Порошок
+
+:name> set_theme_theme_dark_pink
+:text> Темный аромат · черный и розовый
+
+:name> set_code_style
+:text> Тема кода
+
+:name> set_custom_css
+:text> Пользовательские CSS
+
+:name> set_custom_css_light_style
+:text> Яркий стиль
+
+:name> set_custom_css_dark_style
+:text> Темный стиль
+
+:name> set_custom_css_default
+:text> CSS по умолчанию
+
+:name> set_custom_css_edit_light_style
+:text> Редактировать CSS для дневной темы
+
+:name> set_custom_css_edit_dark_style
+:text> Редактировать CSS для ночной темы
+
+:name> set_custom_css_rename
+:text> Двойное наименование
+
+:name> set_custom_css_apply
+:text> Давать возможность
+
+:name> set_custom_css_in_use
+:text> · С использованием
+
+:name> set_custom_css_count_limit_for_premium
+:text> Вы создали %d собственный CSS.
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> Обычные пользователи могут создавать только %1$d собственный CSS; пользователи-члены могут создавать %2$d собственный CSS. Пожалуйста, обновите версию, чтобы разблокировать больше пользовательских CSS.
+
+:name> set_custom_css_tip
+:text> Совет: Не изменяйте свойства, начинающиеся с \'$\' (эти свойства используются для соответствия предпочтениям пользователя).
+
+:name> set_advanced
+:text> Передовой
+
+:name> set_other
+:text> Другой
+
+:name> set_editor_style
+:text> Редактор темы
+
+:name> set_use_pretty_time
+:text> Украсьте время и дату
+
+:name> set_note
+:text> Примечания
+
+:name> set_note_sub
+:text> Настройки, связанные с заметками
+
+:name> set_export
+:text> Импорт и экспорт
+
+:name> set_export_sub
+:text> Эта функция скоро будет отключена
+
+:name> set_note_list
+:text> Список заметок
+
+:name> set_note_yaml
+:text> Использовать информацию префикса
+
+:name> set_note_yaml_sub
+:text> Преамбула — это специальный формат синтаксиса, используемый для добавления метаданных в Markdown.
+
+:name> set_note_title
+:text> Использовать ввод названия
+
+:name> set_note_title_sub
+:text> Включить поле ввода заголовка на странице редактирования заметки
+
+:name> set_note_extensions
+:text> Расширение файла заметки
+
+:name> set_note_extensions_tip
+:text> Добавьте расширения, разделите несколько расширений запятыми (,)
+
+:name> set_note_extensions_sub
+:text> Файлы с указанным расширением будут распознаваться приложением как заметки.
+
+:name> set_support_extensions
+:text> Расширение текстового файла
+
+:name> set_support_extensions_sub
+:text> Файлы с указанным расширением будут читаться и отображаться в виде текста.
+
+:name> set_extensions
+:text> Поддерживаемые расширения файлов
+
+:name> set_extensions_sub
+:text> Файлы с указанным расширением будут отображаться в списке заметок.
+
+:name> set_illegal_charset
+:text> Недопустимые символы в имени файла конфигурации.
+
+:name> set_illegal_charset_sub
+:text> При обнаружении недопустимых символов, настроенных здесь, приложение автоматически обработает это, чтобы вы могли избежать различных ошибок.
+
+:name> set_note_show_date
+:text> Показать информацию о времени
+
+:name> set_note_edit_directly
+:text> Режим выбора нот
+
+:name> set_note_edit_directly_sub
+:text> Щелкнув по заметке, вы перейдете прямо на страницу редактирования.
+
+:name> set_note_auto_parsing_encoding
+:text> Автоматический анализ формата кодировки заметок. Вы также можете вручную изменить формат кодировки заметки в диалоговом окне настроек заметки.
+
+:name> set_note_display_note_file_name
+:text> Использовать имя файла
+
+:name> set_note_display_note_file_name_sub
+:text> Показывать имена файлов вместо названий заметок в списках
+
+:name> set_note_show_simplified_note_list
+:text> Используйте простой список
+
+:name> set_note_hide_folders
+:text> Скрыть некоторые каталоги
+
+:name> set_note_hide_folders_sub
+:text> Выбранный каталог не будет отображаться в списке заметок.
+
+:name> set_note_folders_selection
+:text> Выберите каталог
+
+:name> set_file
+:text> Документ
+
+:name> set_image_sub
+:text> Картинки, камеры и OCR
+
+:name> set_image_extensions
+:text> Расширение изображения
+
+:name> set_image_extensions_tip
+:text> Добавьте расширения файлов изображений. Используйте \",\" для разделения нескольких расширений.
+
+:name> set_image_extensions_sub
+:text> Файлы, заканчивающиеся расширением изображения, будут считаться изображениями.
+
+:name> set_image_ocr_source
+:text> Настройка источника данных OCR API
+
+:name> set_image_ocr_config
+:text> Настройка информации API OCR
+
+:name> set_image_ocr_config_sub
+:text> Настройка API оптического распознавания символов
+
+:name> set_image_ocr_config_test
+:text> Тестовая конфигурация оптического распознавания символов
+
+:name> set_image_ocr_source_request
+:text> Запрос стороннего API OCR
+>
+
+:name> set_image_ocr_source_request_sub
+:text> Чтобы снизить затраты на обслуживание сервера Leaf Note и, следовательно, затраты на пользователей, теперь пользователи могут использовать только сторонний API OCR в Leaf Note. Вы можете запросить ключи и секреты приложения у сторонних API, а затем использовать их в Leaf Note. Чтобы узнать, как запрашивать сторонние API, посетите нашу страницу «Изучите Leaf Note». Если вам известны какие-либо платформы API OCR, которые не включены в Leaf Note, вы можете запросить их здесь.
+
+:name> set_image_ocr_learn_to_configure
+:text> Узнайте, как настроить сторонние API
+>
+
+:name> set_camera
+:text> Настройки камеры
+
+:name> set_camera_type
+:text> Тип камеры
+
+:name> set_camera_type_system
+:text> Системная камера
+
+:name> set_camera_type_build_in
+:text> Камера в приложении
+
+:name> set_camera_type_title
+:text> Выберите тип камеры
+
+:name> set_note_display_image
+:text> Отображать изображение
+
+:name> set_note_display_image_sub
+:text> Отображать ли изображения в списке заметок
+
+:name> set_note_image_default_name
+:text> Имя каталога изображений по умолчанию
+
+:name> set_note_display_image_tip
+:text> Эту конфигурацию необходимо перезапустить, и данные будут перезагружены, чтобы они вступили в силу.
+
+:name> set_note_image_compress
+:text> Сжатие изображений
+
+:name> set_note_image_compress_sub
+:text> Установите, следует ли автоматически сжимать изображения в заметках.
+
+:name> set_sync
+:text> Облачная синхронизация
+
+:name> set_sync_universal
+:text> Универсальный
+
+:name> set_sync_sub
+:text> Синхронизация с другими платформами через WebDAV.
+
+:name> set_sync_enable
+:text> Синхронизация времени
+
+:name> set_sync_enable_sub
+:text> Регулярно синхронизируйте всю файловую директорию
+
+:name> set_sync_server
+:text> Сервер
+
+:name> set_sync_webdav_server
+:text> WebDAV-сервер
+
+:name> set_sync_webdav_server_host
+:text> Адрес сервера WebDAV
+
+:name> set_sync_webdav_server_path
+:text> Каталог синхронизации сервера
+
+:name> set_sync_webdav_server_path_sub
+:text> Янье синхронизирует заметки с каталогом: %s
+
+:name> set_sync_webdav_server_account
+:text> Счет
+
+:name> set_sync_webdav_server_password
+:text> Пароль приложения
+
+:name> set_sync_webdav_server_please
+:text> Пожалуйста, настройте информацию WebDAV
+
+:name> set_sync_server_not_config
+:text> WebDAV еще не настроен
+
+:name> set_sync_webdav_server_connect_test
+:text> Подключитесь к тестовой конфигурации WebDAV
+
+:name> set_sync_delay
+:text> Задержка синхронизации между двумя файлами
+
+:name> set_sync_delay_sub
+:text> Добавление задержки при отправке запросов на синхронизацию в основном используется для предотвращения блокировки облачным сервером из-за слишком частых запросов.
+
+:name> set_sync_only_wifi
+:text> Синхронизировать только через Wi-Fi
+
+:name> set_sync_single
+:text> Синхронизация в реальном времени
+
+:name> set_sync_single_sub
+:text> Синхронизировать сразу после изменения содержимого файла.
+
+:name> set_sync_info
+:text> Информация о синхронизации
+
+:name> set_sync_last_info
+:text> Последняя синхронизированная информация
+
+:name> set_sync_done
+:text> Синхронизация данных завершена
+
+:name> set_sync_done_with_error
+:text> Синхронизация данных завершена, файл %d не выполнен.
+
+:name> set_sync_interval_2
+:text> Один раз в день
+
+:name> set_sync_interval_3
+:text> Каждые три дня
+
+:name> set_sync_interval_4
+:text> Каждую последующую неделю
+
+:name> set_sync_interval_7
+:text> Ручная синхронизация
+
+:name> set_sync_immediately
+:text> Синхронизировать
+
+:name> set_sync_open_notification_title
+:text> Включить уведомления
+
+:name> set_sync_open_notification_tips
+:text> Пожалуйста, включите уведомления, чтобы получать информацию о состоянии синхронизации.
+
+:name> set_sync_to_enable_notification
+:text> Включить уведомления
+
+:name> set_sync_without_notification
+:text> Начать синхронизацию напрямую
+
+:name> set_sync_sync_state_hint
+:text> Подсказка о статусе синхронизации
+
+:name> set_sync_sync_state_hint_sub
+:text> Если заметка изменена локально, но не синхронизирована с сервером, в списке заметок отобразится небольшой запрос на синхронизацию.
+
+:name> sync_interrupted
+:text> Служба синхронизации была прервана пользователем
+
+:name> sync_version_upgrade_tip
+:text> 1. Новая логика синхронизации несовместима со старой логикой. Если вам необходимо синхронизировать между несколькими устройствами, обновите приложения нескольких устройств до новой версии (4.0 и выше)\n2. При первом использовании новой синхронизации метод может занять больше времени.
+
+:name> sync_note_updated
+:text> Примечание обновлено
+
+:name> sync_note_remote_change_tip
+:text> Эта заметка в настоящее время отстает от версии сервера. Хотите обновиться до последней версии?
+
+:name> sync_unable_to_handle_locally_yip
+:text> Эта ошибка вызвана ошибками сети или чтения и записи и не может быть устранена. Чтобы решить проблему, попробуйте еще раз.
+
+:name> sync_conflict_resolve_tip
+:text> Файл был изменен локально и удаленно. Хотите устранить эту ошибку путем сравнения?
+
+:name> set_export_export
+:text> Экспорт данных
+
+:name> set_export_export_sub
+:text> Экспорт данных во внешнее хранилище
+
+:name> set_export_import
+:text> Импортировать данные
+
+:name> set_export_import_sub
+:text> Импортировать данные из внешнего хранилища
+
+:name> set_export_export_done
+:text> Экспорт данных завершен
+
+:name> set_export_export_num_with
+:text> Файл %d был экспортирован
+
+:name> set_export_import_num_with
+:text> Файл %d был импортирован
+
+:name> set_export_export_done_with_error
+:text> Экспорт данных завершен, файл %d не выполнен.
+
+:name> set_export_import_done_with_error
+:text> Импорт данных завершен, файл %d не выполнен.
+
+:name> set_export_import_done
+:text> Импорт данных завершен.
+
+:name> set_export_executing
+:text> Задача импорта/экспорта выполняется
+
+:name> set_export_conflict_with
+:text> %d файл не выполнен
+
+:name> set_report_no_conflict
+:text> Поздравляем, ни один файл не найден!
+
+:name> set_conflict_resolve
+:text> Обработка неудачных файлов
+
+:name> set_conflict_path_tips
+:text> Возможные причины сбоя:\n1.Недопустимое имя папки (например, содержит недопустимые символы и т. д.).Рекомендуется изменить имя папки и повторить попытку;\n2.Клиент запрашивает слишком часто, пожалуйста, сделайте паузу на некоторое время. перед синхронизацией и отрегулируйте интервал синхронизации.
+
+:name> trash_box
+:text> Мусорное ведро
+
+:name> trash_box_recover
+:text> Восстанавливаться
+
+:name> trash_box_delete
+:text> Удалить полностью
+
+:name> trash_box_recover_tip
+:text> Вы уверены, что хотите восстановить этот файл/каталог из корзины?
+
+:name> trash_box_delete_tip
+:text> Вы уверены, что хотите полностью удалить этот файл/каталог?
+
+:name> trash_box_empty
+:text> Очистить корзину
+
+:name> trash_box_empty_tip
+:text> Вы уверены, что хотите очистить корзину?
+
+:name> about_app_section
+:text> О приложении
+
+:name> about_app_privacy
+:text> Политика конфиденциальности
+
+:name> about_app_homepage
+:text> Домашняя страница приложения
+
+:name> about_app_translate
+:text> Помогите с переводом
+
+:name> about_app_translate_sub
+:text> Помогите нам оптимизировать перевод «Leaf Note»
+
+:name> about_app_development
+:text> План развития
+
+:name> about_app_help
+:text> Справочная документация
+
+:name> about_app_feedback
+:text> Обратная связь
+
+:name> about_app_license
+:text> Лицензия с открытым исходным кодом
+
+:name> about_contact_us
+:text> Связаться с нами
+
+:name> about_social_telegram_group
+:text> Telegram
+
+:name> about_social_qq_group
+:text> QQ
+
+:name> about_social_email
+:text> Email
+
+:name> about_developer_section
+:text> Следите за разработчиками
+
+:name> about_developer_twitter
+:text> Twitter
+
+:name> about_developer_bilibili
+:text> BiliBili
+
+:name> about_developer_github
+:text> Github
+
+:name> about_developer_jike
+:text> Jike
+
+:name> about_other_apps
+:text> Авторские работы
+
+:name> feedback_thank
+:text> Обратная связь успешна! \nСпасибо за ваши отзывы и поддержку!
+
+:name> feedback_content_hint
+:text> Содержание отзыва (можно ввести 400 слов)
+
+:name> feedback_contact_hint
+:text> Контактная информация (необязательно)
+
+:name> feedback_type_hint
+:text> Выберите тип отзыва
+
+:name> feedback_type_improvement
+:text> Оптимизация функции
+
+:name> feedback_goto
+:text> Перейти к отзыву
+
+:name> category_empty_title
+:text> Вы еще не добавили ни одной категории
+
+:name> tag_empty_title
+:text> Вы еще не добавили ни одного тега
+
+:name> shortcut_add_short_name
+:text> Новый
+
+:name> shortcut_search_long_name
+:text> Поиск заметок
+
+:name> shortcut_capture_long_name
+:text> Фотография
+
+:name> shortcut_capture_short_name
+:text> Фотография
+
+:name> shortcut_failed_to_create
+:text> Не удалось создать ярлык :(
+
+:name> shortcut_failed_launcher_not_support
+:text> Пожалейте! Не удалось создать ярлык на рабочем столе. Это может быть связано с тем, что ваше устройство не поддерживает эту функцию или не дает разрешения приложению.<br/> Вы можете попытаться открыть страницу настроек с информацией о программе, нажать «Разрешения», установить для <b>параметра «Создать ярлык на рабочем столе</b> » значение «Вкл.» и повторить попытку.
+
+:name> social_telegram_group
+:text> Telegram
+
+:name> social_qq_group
+:text> Группа QQ: %s
+
+:name> social_email
+:text> E-mail: %s
+
+:name> social_email_feedback_title
+:text> Отзыв о проблеме с Янье | %s
+
+:name> crash_email_title
+:text> Отчет о катастрофе Янье
+
+:name> image_film_replay
+:text> Уже играли, переиграть?
+
+:name> donate
+:text> Пожертвовать предметы
+
+:name> share_text
+:text> Привет, я хотел бы порекомендовать вам частное программное обеспечение для Markdown и создания заметок «Leaf Note», которое обеспечивает совместную работу нескольких устройств посредством облачной синхронизации! \nСсылка на подробную информацию: %s, приходите и попробуйте!
+
+:name> config_found_new_version
+:text> Обнаружена новая версия %1$s. Хотите обновиться до новой версии? \n\n%2$s
+
+:name> config_to_upgrade
+:text> Перейти к обновлению
+
+:name> config_privacy_accept_tips
+:text> Вам необходимо согласиться с %1$s, чтобы продолжить использование приложения.
+
+:name> config_privacy_accept
+:text> Согласитесь и пользуйтесь
+
+:name> config_privacy_reject_exit
+:text> Отклонить и выйти
+
+:name> message_read
+:text> Прочитал
+
+:name> message_empty_tip
+:text> Ни одного сообщения от вас не найдено
+
+:name> enable
+:text> Давать возможность
+
+:name> main_note_root
+:text> Корень
+
+:name> main_note_all
+:text> Все
+
+:name> main_note_manage
+:text> Управление заметками
+
+:name> main_bottom_menu_long_click_drag
+:text> Длительное нажатие и перетаскивание для сортировки кнопок
+
+:name> main_exit_app
+:text> Выйти из приложения
+
+:name> about_app_solgon
+:text> Мощное и красивое программное обеспечение для создания заметок
+
+:name> tips
+:text> Намекать
+
+:name> viewer_double_tap_show_tip
+:text> Дважды щелкните страницу, чтобы отобразить нижнюю панель инструментов.
+
+:name> main_open_external_message
+:text> Создать заметку или просто просмотреть?
+
+:name> main_open_external_browse_only
+:text> Только просмотр
+
+:name> main_open_external_create_note
+:text> Создать заметку
+
+:name> error_trail_already_in_use
+:text> Вы уже использовали бесплатную пробную версию
+
+:name> default_note_name
+:text> Добро пожаловать в Leaf Note!
+

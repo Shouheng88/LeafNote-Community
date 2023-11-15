@@ -1,0 +1,1765 @@
+:name> leaf_note
+:text> 言の葉
+
+:name> language
+:text> ja_JP
+
+:name> search
+:text> 検索けんさく
+
+:name> close
+:text> 閉じる
+
+:name> clear
+:text> クリーンアップ
+
+:name> done
+:text> 完了
+
+:name> cancel
+:text> キャンセル
+
+:name> share
+:text> 分かち合う
+
+:name> delete
+:text> 消去
+
+:name> failed
+:text> に失敗
+
+:name> succeed
+:text> 成功
+
+:name> saved
+:text> 保存済み
+
+:name> not_save
+:text> 保存する
+
+:name> confirm
+:text> を選択して、
+
+:name> send
+:text> 送信
+
+:name> edit
+:text> 編集
+
+:name> message
+:text> メッセージ
+
+:name> redo
+:text> やり直す
+
+:name> undo
+:text> 元に戻す
+
+:name> sort
+:text> 選別
+
+:name> sort_direction_asc
+:text> 昇順配列
+
+:name> sort_by_name
+:text> 名前でソート
+
+:name> sort_by_date
+:text> 日付でソート
+
+:name> sort_by_type
+:text> タイプでソート
+
+:name> help
+:text> ヘルプ
+
+:name> final_result
+:text> 現在の片側のコンテンツが最終結果として表示されます
+
+:name> input_empty
+:text> 記入してください
+
+:name> export
+:text> 輸出
+
+:name> copy
+:text> レプリケーション
+
+:name> copied
+:text> コピー済み
+
+:name> exported
+:text> エクスポート済み
+
+:name> exported_to
+:text> エクスポート先:%s
+
+:name> rename
+:text> 名前を変更
+
+:name> move
+:text> 移動
+
+:name> apply
+:text> 使用
+
+:name> available_with
+:text> 有効時間:%s
+
+:name> saving
+:text> 保存中
+…
+
+:name> register
+:text> アカウントの登録
+
+:name> bind
+:text> バインド
+
+:name> binding
+:text> バインド中
+…
+
+:name> unbind
+:text> ひもを解く
+
+:name> next
+:text> 次のステップ
+
+:name> to_read
+:text> 読みに行く
+
+:name> get_it
+:text> わかりました
+
+:name> rate_app
+:text> 言の葉に点数をつける
+
+:name> try_it
+:text> 試用
+
+:name> give_it_up
+:text> あきらめる
+
+:name> enabled
+:text> オープン
+
+:name> disabled
+:text> 閉じる
+
+:name> dont_show_again
+:text> 表示しない
+
+:name> ignore_it
+:text> 無視する
+
+:name> text_okay
+:text> はい
+
+:name> create_note
+:text> 新しいメモ
+
+:name> folder
+:text> ディレクトリ
+
+:name> failed_with
+:text> 失敗: %s
+
+:name> create_folder
+:text> ディレクトリの作成
+
+:name> folder_same_name
+:text> 同じディレクトリが既に存在します
+
+:name> update_folder
+:text> ディレクトリの変更
+
+:name> folder_with
+:text> ディレクトリ: %s
+
+:name> last_update_with
+:text> 更新: %s
+
+:name> folder_not_empty
+:text> ディレクトリは空ではありません。削除しますか？
+
+:name> delete_still
+:text> まだ削除
+
+:name> note
+:text> ノート冊
+
+:name> picture
+:text> 画像
+
+:name> file_tree
+:text> ファイルツリー
+
+:name> capture
+:text> 写真を撮る
+
+:name> file
+:text> ファイル
+
+:name> add_shortcut
+:text> ショートカットの追加
+
+:name> note_not_found_with
+:text> ノートが見つかりませんでした: %s
+
+:name> share_by_text
+:text> テキストの共有
+
+:name> share_by_html
+:text> Htmlを共有
+
+:name> share_by_image
+:text> 画像を共有
+
+:name> export_by_text
+:text> テキストのエクスポート
+
+:name> export_by_html
+:text> Htmlのエクスポート
+
+:name> export_by_pdf
+:text> PDFを印刷
+
+:name> export_by_image
+:text> 画像のエクスポート
+
+:name> failed_parse_not_info
+:text> メモ情報の解析に失敗しました
+
+:name> again_exit
+:text> もう一度押すと終了
+
+:name> select_folder_move_to
+:text> 移動するディレクトリの選択
+
+:name> share_app
+:text> 共有アプリケーション
+
+:name> expand_with
+:text> 展開
+>
+
+:name> fold_with
+:text> 折りたたみ
+<
+
+:name> configured
+:text> 設定済み
+
+:name> not_configured
+:text> 構成されていません
+
+:name> camera_unavailable
+:text> このデバイスのカメラは使用できません
+
+:name> created_time_with
+:text> 作成日: %s
+
+:name> privilege_with
+:text> 権限: %s
+
+:name> account_with
+:text> アカウント: %s
+
+:name> new_version
+:text> 新しいバージョン
+
+:name> failed_to_open_file
+:text> ファイルのオープンに失敗しました
+
+:name> sync_job_started
+:text> 同期の開始
+
+:name> name_already_in_use
+:text> 名前は既に存在します
+
+:name> print_not_support
+:text> あなたのデバイスは印刷をサポートしていないようです。デバイスがこの機能をサポートしているかどうかを確認してから試してください
+
+:name> login_title
+:text> アカウントのバインド
+
+:name> login_account_hint
+:text> メールアドレス/携帯番号
+
+:name> login_password_hint
+:text> パスワード
+
+:name> login_forget_password
+:text> パスワードを忘れる
+
+:name> login_error_account_empty
+:text> アカウントを入力してください
+
+:name> login_error_account_illegal
+:text> アカウントが不正です
+
+:name> login_error_password_empty
+:text> パスワードを入力してください
+
+:name> login_error_password_simple
+:text> パスワードが簡単すぎる
+
+:name> register_code_hint
+:text> 認証コード
+
+:name> register_password_again_hint
+:text> パスワードを再入力
+
+:name> register_error_code_empty
+:text> 認証コードを入力してください
+
+:name> register_error_password_diff
+:text> 2回入力したパスワードが異なる
+
+:name> register_signing_in
+:text> 登録中
+…
+
+:name> code_send_succeed
+:text> 認証コードが送信されました
+
+:name> code_sent_message
+:text> 認証コードが送信されました。あなたのメール/メールをチェックしてください。認証コードは%d分以内に有効です。検証コードが長時間受信されていない場合は、システムによって迷惑メールと誤判定されていないか確認してください。
+
+:name> login_account_bind_tip
+:text> アカウントはあなたの会員権をバインドするためだけに使用されます
+
+:name> login_bind_state
+:text> バインドステータス
+
+:name> login_premium_transfer
+:text> トランスファ
+
+:name> login_transfer_tip
+:text> デバイスとユーザー権限を交換しますか？
+
+:name> login_premium_cancel_aux
+:text> 補助会員の取り消し
+
+:name> login_premium_set_aux
+:text> 補助会員にする
+
+:name> login_premium_expire
+:text> あなたのTokenは期限切れで、会員権限を使い続けるには、再度ログインする必要があります。ログインしますか？
+
+:name> login_device_already_bind_with
+:text> デバイスはアカウント %s にバインドされています。縛られてから試してください。
+
+:name> login_status
+:text> アカウント: %1$s\n作成時間: %2$s\nログイン有効期限: %3$s
+
+:name> login_at_first_tips
+:text> 先にログインしてください
+
+:name> login_unbind_success_message
+:text> 解縛成功！\n権益を享受するために再度ログインすることができます :)
+
+:name> note_sub_count
+:text> %1$2d ディレクトリ %2$2d メモ %3$2d 画像
+
+:name> image_capture
+:text> 写真
+
+:name> image_album
+:text> 画像を選択
+
+:name> image_scan_document
+:text> ドキュメントのスキャン
+
+:name> image_crop
+:text> トリミング
+
+:name> image_ocr
+:text> OCR
+
+:name> image_rotate
+:text> 回転
+
+:name> image_filter
+:text> フィルタリング
+
+:name> image_ocr_to_be_continue
+:text> お楽しみに
+…
+
+:name> image_back_tip
+:text> 今戻って、撮影した画像は消去され、戻ってくることを確認しますか？
+
+:name> image_effect_binary
+:text> 白黒
+
+:name> image_effect_grey
+:text> グレースケール
+
+:name> image_effect_linear_strength
+:text> エンハンスメント
+
+:name> image_effect_nostalgic
+:text> 懐旧
+
+:name> image_effect_melt
+:text> ようゆうろ
+
+:name> image_effect_freeze
+:text> 凍る
+
+:name> image_effect_contrary
+:text> はんしょく
+
+:name> image_effect_comic_strip
+:text> 絵本
+
+:name> image_effect_sculpture
+:text> ちょうこく
+
+:name> image_effect_float_sculpture
+:text> エンボス
+
+:name> image_effect_sketch
+:text> スケッチ
+
+:name> image_effect_blur
+:text> ファジィ
+
+:name> image_effect_origin
+:text> 原図
+
+:name> image_effect_round
+:text> 円形
+
+:name> image_effect_round_corner
+:text> フィレット
+
+:name> image_effect_add_color
+:text> ちゃくしょく
+
+:name> image_comment_add_hint
+:text> 思い出を追加しよう
+…
+
+:name> image_comment_add_title
+:text> 画像に説明情報を追加する
+
+:name> image_comment_post
+:text> 送信
+
+:name> image_ocr_configure_first
+:text> OCR APIを設定する必要があります
+
+:name> image_ocr_result
+:text> OCR結果
+
+:name> image_name_not_support
+:text> この拡張名のファイルはサポートされていません。\n\nヒント：画像の設定でサポートされているファイル拡張名を変更できます。
+
+:name> image_compress_tips
+:text> 現在の設定に基づいて、あなたの画像は圧縮されます。設定で画像圧縮オプションをオフにすることができます。
+
+:name> image_compress_to_close
+:text> オフにする
+
+:name> premium_free
+:text> 永久無料版
+
+:name> premium_premium
+:text> 永続的なアドバンスト・エディション
+
+:name> premium_professional
+:text> 永続的なプロフェッショナル
+
+:name> premium_professional_yearly
+:text> 年度専門版
+
+:name> premium_premium_free_trial
+:text> プレミアム無料トライアル版
+
+:name> premium_professional_free_trial
+:text> プロフェッショナル無料トライアル版
+
+:name> premium_center
+:text> 会員センター
+
+:name> premium_free_trial_with
+:text> %d 日間の無料トライアルを開始
+
+:name> premium_free_trial_days_left
+:text> 残り %d 日
+
+:name> premium_join
+:text> 今すぐ参加
+
+:name> premium_price
+:text> 価格: %s
+
+:name> premium_price_discount
+:text> 価格: %1$s、原価: %2$s
+
+:name> premium_commit_payment
+:text> 発注の発行
+
+:name> premium_serial_input_hint
+:text> ここに注文フロー番号を入力してください
+
+:name> premium_serial_input_length_tip
+:text> フローナンバーが合法かどうかを確認してください
+
+:name> premium_serial_committed
+:text> 注文はすでに送信されています。注文処理の結果を辛抱強く待ってください。これには少し時間がかかるかもしれません。
+
+:name> premium_serial_committing
+:text> 注文書発行中
+…
+
+:name> premium_payway_with
+:text> 支払い方法：%s
+
+:name> premium_order_number_with
+:text> オーダー番号: %s
+
+:name> premium_serial_number_with
+:text> オーダーフロー番号：%s
+
+:name> premium_owe_money_with
+:text> 支払金額: %s
+
+:name> premium_redeem_code_commit_title
+:text> プレゼント/両替コードを提出してください
+
+:name> premium_redeem_code_commit_sub_title
+:text> ここにプレゼント/両替コードを入力してください
+
+:name> premium_payment_status_check_passed
+:text> レビューを通過
+
+:name> premium_payment_status_check_failed
+:text> レビューに失敗しました
+
+:name> premium_payment_status_commit_success
+:text> 送信済み
+
+:name> premium_payment_status_done
+:text> 請求済
+
+:name> premium_premium_required
+:text> プロフェッショナルのみ
+
+:name> premium_premium_required_sub
+:text> この機能を使用するには、専門版になる必要があります！
+
+:name> premium_premium_become
+:text> 尊い会員に格上げする
+
+:name> premium_professional_required
+:text> この機能を使用するには、専門版になる必要があります！
+
+:name> premium_privilege_basic
+:text> すべての基本機能
+
+:name> premium_privilege_app_theme
+:text> トピックの適用
+
+:name> premium_privilege_editor_theme
+:text> エディタテーマ
+
+:name> premium_privilege_code_style
+:text> コードスタイル
+
+:name> premium_privilege_export
+:text> インポート
+&
+エクスポート
+
+:name> premium_privilege_sync
+:text> WebDAV同期
+
+:name> premium_privilege_file_tree
+:text> ファイルツリーの参照
+
+:name> premium_privilege_appwidget
+:text> デスクトップノートのギズモ
+
+:name> premium_privilege_pdf
+:text> Html、PDF、画像、markdownなどのエクスポート
+
+:name> premium_privilege_image_filter
+:text> フィルタ効果
+
+:name> premium_privilege_image_filter_sub
+:text> 10+ 種類のフィルタ効果、画像回転、自由裁断、ミラー反転など
+
+:name> premium_privilege_ocr
+:text> 画像OCR
+
+:name> premium_privilege_ocr_sub
+:text> サードパーティ製OCR APIはアプリケーションで使用できます
+
+:name> premium_privilege_feature
+:text> ショートカットの追加
+
+:name> premium_privilege_more
+:text> その他の機能
+
+:name> premium_free_trial_requirement
+:text> 送信に成功し、会員機能の有効化に数分かかりますので、お待ちください！
+
+:name> premium_restore
+:text> 購入の再開
+
+:name> premium_payway_freetrail
+:text> 無料トライアル
+
+:name> premium_payway_google
+:text> グーグルストア
+
+:name> premium_payway_wechat
+:text> WeChat
+
+:name> premium_payway_alipay
+:text> AliPay
+
+:name> premium_payway_serial
+:text> 発注番号の発行
+
+:name> premium_payway_redeem
+:text> へんかんコード
+
+:name> premium_privileges_title
+:text> 会員権
+
+:name> premium_privileges_sub_title
+:text> バージョンにアップグレードして適切な権益をロック解除する
+
+:name> premium_versions_title
+:text> 会員バージョンの選択
+
+:name> premium_versions_sub_title
+:text> エントリをクリックしてメンバーバージョンを選択
+
+:name> premium_payway_title
+:text> 支払い方法の選択
+
+:name> premium_payway_sub_title
+:text> エントリをクリックして支払い方法を選択
+
+:name> premium_review_title
+:text> ユーザ評価
+
+:name> premium_notice_title
+:text> 注意事項
+
+:name> premium_bottom_notice
+:text> 開発者が設計・開発したソフトウェア♥ ようこそ
+
+:name> premium_locked
+:text> ロック解除されていません
+
+:name> premium_unlocked
+:text> ロック解除済み
+
+:name> premium_payment_info_title
+:text> 注文の詳細
+
+:name> premium_payment_info
+:text> 最終価格: %1$s\n支払い方法: %2$s
+
+:name> premium_payment_continue_title
+:text> 支払いプロセスの継続
+
+:name> premium_payment_continue_content
+:text> 支払いは成功しましたか。次の手順で注文番号を送信してください：）
+
+:name> premium_payment_continue_not_paid
+:text> 支払いなし
+
+:name> premium_payment_login_first
+:text> 先にログインしてください
+
+:name> premium_payment_login_first_content
+:text> このアカウントは、メンバーシップの権利をバインドするためにのみ使用され、これらの権利をどのプラットフォームでも使用できるようになります。
+
+:name> premium_payment_trail_gift_content
+:text> あなたは無料の試用があります！
+
+:name> premium_payment_continue_help_tip
+:text> ヘルプは必要ですか？
+
+:name> premium_payment_continue_help_content
+:text> 会員や購入に疑問がある場合は、お問い合わせください：）
+
+:name> premium_payment_continue_help_required
+:text> ヘルプのリクエスト
+
+:name> premium_error_payway_unavailable
+:text> 支払い方法が使用できません
+
+:name> premium_error_version_unlocked
+:text> バージョンをロック解除しました
+
+:name> premium_error_version_not_selected
+:text> まず会員バージョンを選択してください
+
+:name> premium_error_pawway_not_selected
+:text> まず支払い方法を選択してください
+
+:name> premium_error_google_billing_unavailable
+:text> グーグルペイは利用できない：グーグルペイの地域規制などが原因の可能性がある。質問があれば、開発者に連絡してください。
+
+:name> premium_account_state_not_logged_in
+:text> ログインしていない
+
+:name> premium_account_state_not_logged_in_tip
+:text> 購入を再開するにはログインしてください
+
+:name> premium_account_restore_guide_message
+:text> ログインすると購入を復元できます。問題が発生した場合は、解決するために弊社までご連絡ください。
+
+:name> pay_wechat_title_with_step
+:text> WeChat（手順：%s）
+
+:name> pay_alipay_title_with_step
+:text> AliPay（手順：%s）
+
+:name> pay_already_paid
+:text> 支払い完了
+>
+
+:name> pay_return_to_pay
+:text> 継続支払いを戻す
+>
+
+:name> pay_commit_serial_hint
+:text> Alipay/WeChat 注文番号を送信してください。サポートが必要な場合は、<a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> まで電子メールを送信してください。)
+
+:name> pay_wechat_summary
+:text> 1. QR コードをスキャンするか、「支払いに進む」をクリックして、アルバムから QR コードを選択してスキャンします。<br/>2. 支払いが完了したら、このページに戻って注文番号を送信してください。
+
+:name> pay_to_pay
+:text> 支払いに行く
+
+:name> pay_to_commit
+:text> 発注フロー番号の発行
+
+:name> pay_qrcode_saved_to
+:text> QRコードは %s にエクスポートされました
+
+:name> pay_wechat_not_install
+:text> ウィチャットがインストールされていません
+
+:name> pay_thanks
+:text> このプロジェクトはあなたのサポートのおかげで更新、改善を続けることができ、あなたのサポートに感謝しています。
+
+:name> pay_launch_alipay_error
+:text> 支付宝のオープンに失敗しました
+
+:name> pay_handling_purchase
+:text> 注文処理中、少々お待ちください
+…
+
+:name> pay_purchase_succeed
+:text> オーダー処理完了！\nあなたは今尊い会員です！
+
+:name> search_searching
+:text> 検索中
+…
+
+:name> search_finish
+:text> 検索完了
+
+:name> search_hint
+:text> 検索するコンテンツを入力
+
+:name> search_empty_tip
+:text> 探しているものが見つかりませんでしたか? 語彙を変えてみる
+
+:name> search_setting
+:text> 検索設定
+
+:name> search_ignore_case
+:text> 大文字と小文字を区別しない
+
+:name> search_on_given_folder
+:text> 検索ディレクトリの指定
+
+:name> search_history
+:text> 検索履歴
+
+:name> compose_note_saved
+:text> メモは保存されています
+
+:name> compose_default_note_name
+:text> 名前なしノート
+
+:name> compose_title_hint
+:text> メモの名前を入力してください
+
+:name> compose_content_hint
+:text> ここに自分の言いたいことを書きます
+…
+
+:name> compose_chars
+:text> 文字:
+
+:name> compose_background_tips
+:text> アプリケーションはバックグラウンド実行に切り替えられ、メモは履歴に保存されました
+
+:name> compose_editor_style
+:text> エディタテーマの選択
+
+:name> compose_preview
+:text> プレビュー
+
+:name> compose_math_input
+:text> MathJax式の入力
+
+:name> compose_row_col_input
+:text> 表の行/列の数を入力
+
+:name> compose_row_number
+:text> 行の数
+
+:name> compose_col_number
+:text> 列数
+
+:name> compose_link_options
+:text> リンクの選択
+…
+
+:name> compose_link_input
+:text> リンクを入力
+
+:name> compose_link_file
+:text> ノート・リンク
+
+:name> compose_link_name
+:text> リンク名
+
+:name> compose_link_address
+:text> リンクアドレス
+
+:name> compose_image_input
+:text> 画像リンクを入力
+
+:name> compose_image_name
+:text> 画像リンク
+
+:name> compose_image_address
+:text> 画像リンクアドレス
+
+:name> compose_image_options
+:text> 画像ソースの選択
+
+:name> compose_image_file_system
+:text> アルバムから選択
+
+:name> compose_image_capture
+:text> 写真を撮る
+
+:name> compose_image_network
+:text> Web画像リンク
+
+:name> compose_image_inside
+:text> アプリケーション内の画像
+
+:name> compose_note_setting
+:text> メモの設定
+
+:name> compose_note_setting_style
+:text> エディタテーマ
+
+:name> compose_note_setting_code_style
+:text> コードスタイル
+
+:name> compose_note_align_left
+:text> 左揃え
+
+:name> compose_note_align_right
+:text> 右揃え
+
+:name> compose_note_align_center
+:text> 中央揃え
+
+:name> compose_note_text_wrap
+:text> コード改行
+
+:name> compose_note_text_size
+:text> フォントサイズ
+
+:name> compose_note_paragraph_margin_bottom
+:text> 行の間隔
+
+:name> compose_note_line_number
+:text> 行番号
+
+:name> compose_note_button_order
+:text> 下ボタンのソート
+
+:name> compose_note_encoding
+:text> 復号方式
+
+:name> compose_note_encoding_title
+:text> ノートを読み込むときのコードを選択
+
+:name> sort_divider_hidden_tip
+:text> 隠し＜small＞（ボタンを下にドラッグして隠すことができる）</small>
+
+:name> compose_note_setting_markdown_enabled
+:text> Markdownは有効です
+
+:name> compose_note_setting_markdown_disabled
+:text> Markdownは無効です
+
+:name> compose_note_setting_category
+:text> 分類に追加
+
+:name> compose_note_setting_tags
+:text> ラベルの追加
+
+:name> compose_note_setting_info
+:text> 詳細
+
+:name> compose_note_setting_history
+:text> 履歴
+
+:name> compose_category_add
+:text> 分類の追加
+
+:name> compose_category_updated
+:text> 分類が更新されました
+
+:name> compose_tag_add
+:text> ラベルの追加
+
+:name> compose_tag_added
+:text> ラベルが更新されました
+
+:name> compose_note_info_title
+:text> タイトル
+
+:name> compose_note_info_category
+:text> 分類
+
+:name> compose_note_info_tags
+:text> タブ
+
+:name> compose_note_info_file_name
+:text> ファイル名
+
+:name> compose_note_info_file_size
+:text> ファイルサイズ
+
+:name> compose_note_info_length
+:text> 長さ
+
+:name> compose_note_info_created
+:text> 作成時間
+
+:name> compose_note_info_updated
+:text> 最終更新
+
+:name> compose_note_info_path
+:text> ストレージパス
+
+:name> compose_history_not_found
+:text> メモの履歴がありません
+
+:name> compose_history_confirm
+:text> 処理結果メモの内容を使用して確定します（これは前に編集した内容を上書きします）？
+
+:name> compose_create_file
+:text> ファイルの作成
+
+:name> compose_file_name_input
+:text> ファイル名を入力（拡張名を含む）
+
+:name> compose_file_extension_not_support
+:text> この拡張名のファイルはサポートされていません。\n\nヒント：メモの設定でサポートされているファイル拡張名を変更できます。
+
+:name> compose_file_name_illegal
+:text> ファイル名に不正な文字が含まれています。\n\nヒント：ノートの設定で不正な文字を指定できます。
+
+:name> compose_note_un_finish_title
+:text> \"%s\" の編集を続行しますか？
+
+:name> compose_note_un_finish
+:text> 未完成なノートの編集を続行しますか？
+
+:name> compose_note_un_finish_recover_msg
+:text> このノートの履歴を見つけて、履歴から復元しますか？\n\nヒント：メモ設定から履歴に入ることもできます
+
+:name> compose_note_links
+:text> ノート・リンク
+
+:name> compose_note_linking
+:text> 引用
+
+:name> compose_note_linking_empty
+:text> 参照されていません
+
+:name> compose_note_structure
+:text> ディレクトリ構造
+
+:name> compose_diff_merge
+:text> 「結果」を左側のテキストに置き換えてもよろしいですか?
+
+:name> compose_note_auto_save
+:text> メモ自動保存
+
+:name> compose_note_auto_save_job_channel_name
+:text> メモ自動保存通知
+
+:name> compose_note_sync_job_channel_name
+:text> メモ同期通知
+
+:name> compose_note_export_job_channel_name
+:text> ノートのインポートとエクスポートの通知
+
+:name> image_source_image_limit
+:text> 画像の長さと幅は少なくとも %1$dpx であり、%2$dpx 以上である
+
+:name> comn_load_executing
+:text> 実行中
+…
+
+:name> comn_load_loading
+:text> データロード中
+…
+
+:name> comn_load_empty
+:text> データが空です:)
+
+:name> comn_crash_title
+:text> クラッシュしてごめんなさい！
+
+:name> comn_crash_tips
+:text> [問題を報告
+] をクリックすると、この問題の解決に役立ちます。あなたも参加できます <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">電報</a>、QQ 878285438、または、フィードバックが必要な場合は、<a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> にメールを送信してください。
+
+:name> main_menu_item_message
+:text> 私のニュース
+
+:name> main_menu_item_timeline
+:text> タイムライン
+
+:name> main_menu_item_category
+:text> 分類
+
+:name> main_menu_item_tag
+:text> タブ
+
+:name> main_menu_item_help
+:text> ヘルプフィードバック
+
+:name> main_menu_item_explore
+:text> 言の葉を探る
+
+:name> main_menu_item_info
+:text> について
+
+:name> main_menu_item_setting
+:text> 設定
+
+:name> main_menu_item_sync
+:text> クラウド同期
+
+:name> main_menu_item_share
+:text> 共有アプリケーション
+
+:name> setting
+:text> 設定
+
+:name> set_personalization
+:text> パーソナライズ
+
+:name> set_display
+:text> 表示
+
+:name> set_display_sub
+:text> トピック、フローティングボタン、時間形式、言語など
+
+:name> set_language
+:text> 応用言語
+
+:name> set_language_follow_system
+:text> フォローアップシステム
+
+:name> set_theme_and_style
+:text> テーマスタイル
+
+:name> set_theme
+:text> 外観
+
+:name> set_theme_theme
+:text> トピックの適用
+
+:name> set_theme_title
+:text> トピックの選択
+
+:name> set_theme_theme_warm
+:text> オーロラ・オレンジ
+
+:name> set_theme_theme_cold
+:text> 活力・緑
+
+:name> set_theme_theme_christmas
+:text> クリスマスイブの夢
+
+:name> set_theme_theme_lunar_new_year
+:text> 春節を迎えるテーマ
+
+:name> set_theme_theme_dark
+:text> エレガント・ブラック
+
+:name> set_theme_theme_purple
+:text> 高貴・紫
+
+:name> set_theme_theme_pink
+:text> 傾心・粉
+
+:name> set_theme_theme_dark_pink
+:text> ダーク・ブラック
+&
+ふん
+
+:name> set_code_style
+:text> コードトピック
+
+:name> set_custom_css
+:text> カスタムCSS
+
+:name> set_custom_css_light_style
+:text> 明るい色のスタイル
+
+:name> set_custom_css_dark_style
+:text> ダークカラースタイル
+
+:name> set_custom_css_default
+:text> デフォルトCSS
+
+:name> set_custom_css_edit_light_style
+:text> 日中のトピックに適したCSSの編集
+
+:name> set_custom_css_edit_dark_style
+:text> ナイトトピックに適したCSSの編集
+
+:name> set_custom_css_rename
+:text> 名前を変更
+
+:name> set_custom_css_apply
+:text> 有効化
+
+:name> set_custom_css_in_use
+:text> ・使用中
+
+:name> set_custom_css_count_limit_for_premium
+:text> あなたはすでに %d 個のカスタムCSSを作成しました
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> 通常のユーザーは %1$d 個のカスタムCSSしか作成できません。会員ユーザーは %2$d 個のカスタムCSSを作成できます。アップグレード後にカスタムCSSをロック解除してください。
+
+:name> set_custom_css_tip
+:text> ヒント：\'$\'で始まる属性を変更しないでください（これらの属性はユーザーのプリファレンスに従うために使用されます）。
+
+:name> set_advanced
+:text> 高級
+
+:name> set_other
+:text> その他
+
+:name> set_universal
+:text> 共通
+
+:name> set_editor_style
+:text> エディタテーマ
+
+:name> set_use_pretty_time
+:text> 美化時間と日付
+
+:name> set_note
+:text> ノート冊
+
+:name> set_note_sub
+:text> メモ関連の設定
+
+:name> set_export
+:text> インポート
+&
+エクスポート
+
+:name> set_export_sub
+:text> この機能は間もなくオフラインになります
+
+:name> set_note_list
+:text> メモリスト
+
+:name> set_note_yaml
+:text> プリアンブル情報の使用
+
+:name> set_note_yaml_sub
+:text> プリアンブル情報は、Markdownにメタデータを追加するための特殊な構文フォーマットです
+
+:name> set_note_title
+:text> タイトル入力の使用
+
+:name> set_note_title_sub
+:text> ノート編集ページでタイトル入力ボックスを有効にする
+
+:name> set_note_extensions
+:text> ノートファイルの拡張名
+
+:name> set_note_extensions_tip
+:text> 拡張子名を追加し、複数の拡張子間をカンマ(,)で区切る
+
+:name> set_note_extensions_sub
+:text> 指定した拡張名のファイルを使用してノートとして認識されるアプリケーション
+
+:name> set_support_extensions
+:text> テキストファイルの拡張名
+
+:name> set_support_extensions_sub
+:text> 指定した拡張名を使用したファイルはテキストに従って読み込まれ、表示されます
+
+:name> set_extensions
+:text> サポートされているファイルの拡張名
+
+:name> set_extensions_sub
+:text> 指定した拡張子名を使用したファイルがノートリストに表示されます
+
+:name> set_illegal_charset
+:text> プロファイル名の不正な文字
+
+:name> set_illegal_charset_sub
+:text> ここに設定されている不正な文字に遭遇した場合は、さまざまなエラーを回避するためにアプリケーションが自動的に処理します。
+
+:name> set_note_show_date
+:text> 時間情報を表示
+
+:name> set_note_edit_directly
+:text> メモ選択モード
+
+:name> set_note_edit_directly_sub
+:text> メモをクリックすると編集ページにジャンプします
+
+:name> set_note_auto_parsing_encoding
+:text> メモコード形式を自動解析します。メモの設定ダイアログでメモのコード形式を手動で変更することもできます。
+
+:name> set_note_display_note_file_name
+:text> ファイル名の使用
+
+:name> set_note_display_note_file_name_sub
+:text> ノートタイトルではなくファイル名をリストに表示
+
+:name> set_note_show_simplified_note_list
+:text> 簡易リストの使用
+
+:name> set_note_hide_folders
+:text> 特定のディレクトリを隠す
+
+:name> set_note_hide_folders_sub
+:text> 選択されたディレクトリはメモリストに表示されません
+
+:name> set_note_folders_selection
+:text> ディレクトリの選択
+
+:name> set_file
+:text> ファイル
+
+:name> set_image
+:text> 画像
+
+:name> set_image_sub
+:text> 写真、カメラ、OCR
+
+:name> set_image_extensions
+:text> ピクチャ拡張名
+
+:name> set_image_extensions_tip
+:text> 画像ファイルの拡張名を追加します。複数の拡張名の間に \"，\" を使用して区切ります
+
+:name> set_image_extensions_sub
+:text> ピクチャ拡張名で終わるファイルはピクチャとして扱われます
+
+:name> set_image_ocr_source
+:text> OCR APIデータソースの設定
+
+:name> set_image_ocr_config
+:text> OCR API情報の構成
+
+:name> set_image_ocr_config_sub
+:text> OCR APIの構成
+
+:name> set_image_ocr_config_test
+:text> OCR構成のテスト
+
+:name> set_image_ocr_source_request
+:text> サードパーティOCR API要求
+>
+
+:name> set_image_ocr_source_request_sub
+:text> 言の葉 サーバーのメンテナンス コストとそれに伴うユーザー コストを削減するために、現在、ユーザーは 言の葉 でサードパーティの OCR API のみを使用できます。サードパーティ API からアプリケーション キーとシークレットをリクエストし、それらを 言の葉 で使用できます。サードパーティ API をリクエストする方法については、「Explore 言の葉」ページにアクセスしてください。 言の葉 に含まれていない OCR API プラットフォームを知っている場合は、ここでリクエストできます。
+
+:name> set_image_ocr_learn_to_configure
+:text> サードパーティ製APIの構成方法
+>
+
+:name> set_camera
+:text> カメラ設定
+
+:name> set_camera_type
+:text> カメラタイプ
+
+:name> set_camera_type_system
+:text> システムカメラ
+
+:name> set_camera_type_build_in
+:text> 内蔵カメラの適用
+
+:name> set_camera_type_title
+:text> カメラタイプを選択
+
+:name> set_note_display_image
+:text> 画像を表示
+
+:name> set_note_display_image_sub
+:text> メモリストに画像を表示するかどうか
+
+:name> set_note_image_default_name
+:text> デフォルトのカタログ名
+
+:name> set_note_display_image_tip
+:text> この構成は再起動してデータを再ロードした後に有効になる必要があります
+
+:name> set_note_image_compress
+:text> 画像を圧縮
+
+:name> set_note_image_compress_sub
+:text> ノート内の画像を自動的に圧縮するかどうかを設定する
+
+:name> set_sync
+:text> クラウド同期
+
+:name> set_sync_universal
+:text> 共通
+
+:name> set_sync_sub
+:text> WebDAV による他のプラットフォームへの同期
+
+:name> set_sync_enable
+:text> タイミング同期
+
+:name> set_sync_enable_sub
+:text> ファイルディレクトリ全体を同期するタイミング
+
+:name> set_sync_server
+:text> サーバ
+
+:name> set_sync_webdav_server
+:text> WebDAV サーバ
+
+:name> set_sync_webdav_server_host
+:text> WebDAV サーバアドレス
+
+:name> set_sync_webdav_server_path
+:text> サーバ同期ディレクトリ
+
+:name> set_sync_webdav_server_path_sub
+:text> 言の葉はカタログに同期してメモされます: %s
+
+:name> set_sync_webdav_server_account
+:text> アカウント
+
+:name> set_sync_webdav_server_password
+:text> パスワードの適用
+
+:name> set_sync_webdav_server_please
+:text> WebDAV情報を設定してください
+
+:name> set_sync_server_configured
+:text> WebDAVが構成されています
+
+:name> set_sync_server_not_config
+:text> WebDAVはまだ設定されていません
+
+:name> set_sync_webdav_server_connect_test
+:text> WebDAVテスト構成への接続
+
+:name> set_sync_interval
+:text> 同期間隔
+
+:name> set_sync_delay
+:text> 2つのファイル間同期遅延
+
+:name> set_sync_delay_sub
+:text> 同期要求を送信する際に遅延時間を増加させ、主に要求が頻繁に行われるためにクラウドサーバによってブロックされるのを防ぐために使用されます。
+
+:name> set_sync_only_wifi
+:text> Wi-Fi環境でのみ同期
+
+:name> set_sync_single
+:text> リアルタイム同期
+
+:name> set_sync_single_sub
+:text> ファイル内容が変更された直後に同期
+
+:name> set_sync_info
+:text> 同期情報
+
+:name> set_sync_last_time
+:text> 最終同期時間
+
+:name> set_sync_last_info
+:text> 最終同期情報
+
+:name> set_sync_num_with
+:text> %d ファイルが同期されました
+
+:name> set_sync_done
+:text> データ同期完了
+
+:name> set_sync_done_with_error
+:text> データ同期が完了しました、%d ファイルが失敗しました
+
+:name> set_sync_interval_0
+:text> 6 時間ごと
+
+:name> set_sync_interval_1
+:text> 12 時間ごと
+
+:name> set_sync_interval_2
+:text> 1 日 1 回
+
+:name> set_sync_interval_3
+:text> 3 日おきに
+
+:name> set_sync_interval_4
+:text> 1 週間おきに
+
+:name> set_sync_interval_5
+:text> 半月ごと
+
+:name> set_sync_interval_6
+:text> 毎月
+
+:name> set_sync_interval_7
+:text> 手動同期
+
+:name> set_sync_immediately
+:text> 同期
+
+:name> set_sync_open_notification_title
+:text> オープン通知
+
+:name> set_sync_open_notification_tips
+:text> 同期ステータス情報を取得するために通知をオンにしてください
+
+:name> set_sync_to_enable_notification
+:text> オープン通知
+
+:name> set_sync_without_notification
+:text> 直接同期開始
+
+:name> set_sync_sync_state_hint
+:text> 同期状態プロンプト
+
+:name> set_sync_sync_state_hint_sub
+:text> ノートがローカルで変更されてもサーバーに同期されていない場合は、ノートのリストに小さな同期プロンプトが表示されます。
+
+:name> sync_interrupted
+:text> 同期サービスがユーザーによって中断されました
+
+:name> sync_version_upgrade_tip
+:text> 1.新しい同期ロジックは古いロジックと互換性がありません。複数のデバイス間で同期する必要がある場合は、複数のデバイスのアプリケーションを新しいバージョン（4.0以上）にアップグレードしてください \n2.新しい同期方式を初めて使用する場合は、時間がかかる場合があります。
+
+:name> sync_note_updated
+:text> ノートが更新されました
+
+:name> sync_note_remote_change_tip
+:text> ノートは現在サーバーのバージョンに遅れていますが、最新バージョンに更新されますか？
+
+:name> sync_unable_to_handle_locally_yip
+:text> このエラーの困難はネットワークまたは読み書きエラーによるもので、処理できません。この問題を解決するために再試行してみてください
+
+:name> sync_conflict_resolve_tip
+:text> このファイルはローカルとリモートで同時に変更されていますが、このエラーを比較して解決しますか？
+
+:name> set_export_export
+:text> データのエクスポート
+
+:name> set_export_export_sub
+:text> 外部ストレージスペースへのデータのエクスポート
+
+:name> set_export_import
+:text> データのインポート
+
+:name> set_export_import_sub
+:text> 外部ストレージスペースからのデータのインポート
+
+:name> set_export_time
+:text> 最終エクスポート時間
+
+:name> set_export_path
+:text> エクスポートパス
+
+:name> set_export_export_done
+:text> データのエクスポートが完了しました
+
+:name> set_export_export_num_with
+:text> %d ファイルがエクスポートされました
+
+:name> set_export_import_num_with
+:text> %d ファイルがインポートされました
+
+:name> set_export_export_done_with_error
+:text> データのエクスポートが完了しました、%d ファイルが失敗しました
+
+:name> set_export_import_done_with_error
+:text> データインポートが完了しました、%d ファイルが失敗しました
+
+:name> set_export_import_done
+:text> データインポート完了
+
+:name> set_export_executing
+:text> インポート/エクスポートタスクの進行中
+
+:name> set_export_conflict_with
+:text> %d ファイルに失敗しました
+
+:name> set_report_no_conflict
+:text> おめでとうございます。ファイルが見つかりませんでした。失敗しました。
+
+:name> set_conflict_resolve
+:text> 失敗したファイルの処理
+
+:name> set_conflict_path_tips
+:text> 考えられる失敗の理由:\n1. フォルダ名が不正です (たとえば、不正な文字が含まれているなど)。フォルダ名を変更して再試行することをお勧めします。\n2. クライアントのリクエストが多すぎるため、同期する前にしばらく停止し、同期間隔を調整してください。
+
+:name> trash_box
+:text> ごみ箱
+
+:name> trash_box_recover
+:text> リカバリ
+
+:name> trash_box_delete
+:text> 完全に削除
+
+:name> trash_box_recover_tip
+:text> ファイル/ディレクトリをゴミ箱から復元しますか？
+
+:name> trash_box_delete_tip
+:text> ファイル/ディレクトリを完全に削除しますか？
+
+:name> trash_box_empty
+:text> ごみ箱を空にする
+
+:name> trash_box_empty_tip
+:text> ゴミ箱を空にしますか？
+
+:name> about_app_section
+:text> 適用について
+
+:name> about_app_privacy
+:text> プライバシーポリシー
+
+:name> about_app_homepage
+:text> ホームページの適用
+
+:name> about_app_translate
+:text> 翻訳支援
+
+:name> about_app_translate_sub
+:text> 言の葉の翻訳の最適化を支援
+
+:name> about_app_development
+:text> 開発計画
+
+:name> about_app_help
+:text> ヘルプドキュメント
+
+:name> about_app_feedback
+:text> 意見のフィードバック
+
+:name> about_app_license
+:text> オープンソースライセンス
+
+:name> about_contact_us
+:text> 連絡先
+
+:name> about_social_telegram_group
+:text> Telegram
+
+:name> about_social_qq_group
+:text> QQ群
+
+:name> about_social_email
+:text> Email
+
+:name> about_developer_section
+:text> 開発者への関心
+
+:name> about_developer_twitter
+:text> Twitter
+
+:name> about_developer_bilibili
+:text> BiliBili
+
+:name> about_developer_github
+:text> Github
+
+:name> about_developer_jike
+:text> Jike
+
+:name> about_other_apps
+:text> 作者の作品
+
+:name> feedback
+:text> もんだいフィードバック
+
+:name> feedback_thank
+:text> フィードバック成功！\nフィードバックとサポートに感謝します！
+
+:name> feedback_content_hint
+:text> フィードバック内容（400ワード入力可能）
+
+:name> feedback_contact_hint
+:text> 連絡先（記入不可）
+
+:name> feedback_type_hint
+:text> フィードバックタイプの選択
+
+:name> feedback_type_improvement
+:text> 機能の最適化
+
+:name> feedback_type_bug
+:text> Bug/クラッシュ
+
+:name> feedback_goto
+:text> デフィードバック
+
+:name> category_empty_title
+:text> あなたはまだ分類を追加していませんよ
+
+:name> tag_empty_title
+:text> あなたはまだラベルを追加していませんよ
+
+:name> shortcut_add_long_name
+:text> メモの作成
+
+:name> shortcut_add_short_name
+:text> 新しい
+
+:name> shortcut_search_long_name
+:text> ノートの検索
+
+:name> shortcut_search_short_name
+:text> 検索けんさく
+
+:name> shortcut_capture_long_name
+:text> 写真を撮る
+
+:name> shortcut_capture_short_name
+:text> 写真を撮る
+
+:name> shortcut_failed_to_create
+:text> ショートカットの作成に失敗しました:（
+
+:name> shortcut_failed_launcher_not_support
+:text> ごめんなさい！デスクトップショートカットの作成に失敗しました。これは、デバイスがこの機能をサポートしていないか、アプリに許可を与えていないことが原因である可能性があります。 <br/>設定のプログラム情報ページを開いて [アクセス許可
+] をタップし、 開くように<b>デスクトップ ショートカットの作成</b>を設定して、もう一度お試しください。
+
+:name> social_telegram_group
+:text> Telegram
+
+:name> social_qq_group
+:text> QQ: %s
+
+:name> social_email
+:text> E-mail: %s
+
+:name> social_email_feedback_title
+:text> 言の葉の問題フィードバック｜%s
+
+:name> crash_email_title
+:text> 言の葉崩壊報告
+
+:name> image_film_replay
+:text> 放送終了、再放送？
+
+:name> donate
+:text> 寄付プロジェクト
+
+:name> share_text
+:text> ハイ、クラウド同期によるマルチエンド連携のプライベート Markdown とノートソフト「言の葉」をお勧めします！\n詳細リンク：%s、早くやってみて！
+
+:name> config_found_new_version
+:text> 新しいバージョン %1$s が見つかりました。新しいバージョンに更新しますか？\n\n %2$s
+
+:name> config_to_upgrade
+:text> アップグレードする
+
+:name> config_privacy_accept_tips
+:text> APPを使用し続けるには %1$s に同意する必要がありますよ。
+
+:name> config_privacy_accept
+:text> 同意して使用
+
+:name> config_privacy_reject_exit
+:text> 拒否して終了
+
+:name> message_read
+:text> 既読
+
+:name> message_not_read
+:text> 未読
+
+:name> message_empty_tip
+:text> あなたの情報は見つかりませんでした
+
+:name> enable
+:text> 有効化
+
+:name> main_note_root
+:text> 根
+
+:name> main_note_all
+:text> 全て
+
+:name> main_note_manage
+:text> ノートの管理
+
+:name> main_bottom_menu_long_click_drag
+:text> ボタンを並べ替えるには、長押しとドラッグ
+
+:name> main_exit_app
+:text> アプリケーションの終了
+
+:name> about_app_solgon
+:text> 強力な
+&
+美しい筆記ソフト
+
+:name> tips
+:text> ヒント
+
+:name> viewer_double_tap_show_tip
+:text> ページディスプレイの下部ツールバーをダブルクリックします
+
+:name> main_open_external_message
+:text> メモを作成しますか、ブラウズだけしますか。
+
+:name> main_open_external_browse_only
+:text> 参照のみ
+
+:name> main_open_external_create_note
+:text> メモの作成
+
+:name> error_trail_already_in_use
+:text> 無料トライアルを使用したことがあります
+
+:name> default_note_name
+:text> 言の葉を使ってください！
+

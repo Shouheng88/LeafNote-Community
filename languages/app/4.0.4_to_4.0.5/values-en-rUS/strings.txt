@@ -1,0 +1,1772 @@
+:name> leaf_note
+:text> Leaf Note
+
+:name> language
+:text> en_US
+
+:name> search
+:text> Search
+
+:name> close
+:text> Close
+
+:name> clear
+:text> Clear
+
+:name> done
+:text> Done
+
+:name> cancel
+:text> Cancel
+
+:name> share
+:text> Share
+
+:name> delete
+:text> Delete
+
+:name> failed
+:text> Failed
+
+:name> succeed
+:text> Succeed
+
+:name> saved
+:text> Saved
+
+:name> not_save
+:text> Not Save
+
+:name> confirm
+:text> Confirm
+
+:name> send
+:text> Send
+
+:name> edit
+:text> Edit
+
+:name> message
+:text> Message
+
+:name> redo
+:text> Redo
+
+:name> undo
+:text> Undo
+
+:name> sort
+:text> Sort
+
+:name> sort_direction_asc
+:text> Ascending
+
+:name> sort_by_name
+:text> Name
+
+:name> sort_by_date
+:text> Date
+
+:name> sort_by_type
+:text> Type
+
+:name> help
+:text> Help
+
+:name> final_result
+:text> This side will be used as final result.
+
+:name> input_empty
+:text> Please fill in
+
+:name> export
+:text> Export
+
+:name> copy
+:text> Copy
+
+:name> copied
+:text> Copied
+
+:name> exported
+:text> Exported
+
+:name> exported_to
+:text> Exported to: %s
+
+:name> rename
+:text> Rename
+
+:name> move
+:text> Move
+
+:name> apply
+:text> Apply
+
+:name> available_with
+:text> Available: %s
+
+:name> saving
+:text> Saving
+…
+
+:name> register
+:text> Sign In
+
+:name> bind
+:text> Bind
+
+:name> binding
+:text> Binding
+…
+
+:name> unbind
+:text> Unbind
+
+:name> next
+:text> Next
+
+:name> to_read
+:text> To read
+
+:name> get_it
+:text> Get it
+
+:name> rate_app
+:text> Rate LeafNote
+
+:name> try_it
+:text> Try It
+
+:name> give_it_up
+:text> Give Up
+
+:name> enabled
+:text> Enabled
+
+:name> disabled
+:text> Disabled
+
+:name> dont_show_again
+:text> Don\'t show again
+
+:name> ignore_it
+:text> Ignore
+
+:name> text_okay
+:text> Okay
+
+:name> create_note
+:text> Create New Note
+
+:name> folder
+:text> Folder
+
+:name> failed_with
+:text> Failed: %s
+
+:name> create_folder
+:text> Create folder
+
+:name> folder_same_name
+:text> Folder exists
+
+:name> update_folder
+:text> Modify folder
+
+:name> folder_with
+:text> Folder: %s
+
+:name> last_update_with
+:text> Updated: %s
+
+:name> folder_not_empty
+:text> The folder is not empty, confirm to delete?
+
+:name> delete_still
+:text> Delete
+
+:name> note
+:text> Note
+
+:name> picture
+:text> Picture
+
+:name> file_tree
+:text> File tree
+
+:name> capture
+:text> Capture
+
+:name> file
+:text> File
+
+:name> add_shortcut
+:text> Add shortcut
+
+:name> note_not_found_with
+:text> Note not found: %s
+
+:name> share_by_text
+:text> Share text
+
+:name> share_by_html
+:text> Share html
+
+:name> share_by_image
+:text> Share image
+
+:name> export_by_text
+:text> Export text
+
+:name> export_by_html
+:text> Export html
+
+:name> export_by_pdf
+:text> Print PDF
+
+:name> export_by_image
+:text> Export image
+
+:name> failed_parse_not_info
+:text> Failed to parse note info.
+
+:name> again_exit
+:text> Again to exit
+
+:name> select_folder_move_to
+:text> Folder to move to
+
+:name> share_app
+:text> Share App
+
+:name> expand_with
+:text> Expand
+>
+
+:name> fold_with
+:text> Fold
+<
+
+:name> configured
+:text> Configured
+
+:name> not_configured
+:text> Not configured
+
+:name> camera_unavailable
+:text> Camera is unavailable on this device
+
+:name> created_time_with
+:text> Created: %s
+
+:name> privilege_with
+:text> Privilege: %s
+
+:name> account_with
+:text> Account: %s
+
+:name> new_version
+:text> New version
+
+:name> failed_to_open_file
+:text> Failed to open file
+
+:name> sync_job_started
+:text> Sync started!
+
+:name> name_already_in_use
+:text> Name existed!
+
+:name> print_not_support
+:text> This device does not support printing.
+
+:name> login_title
+:text> Bind Account
+
+:name> login_account_hint
+:text> Email
+
+:name> login_password_hint
+:text> Password
+
+:name> login_forget_password
+:text> Forget password
+
+:name> login_error_account_empty
+:text> Error: account required
+
+:name> login_error_account_illegal
+:text> Error: illegal email
+
+:name> login_error_password_empty
+:text> Error: password required
+
+:name> login_error_password_simple
+:text> Password too simple
+
+:name> register_code_hint
+:text> Code
+
+:name> register_password_again_hint
+:text> Retype password
+
+:name> register_error_code_empty
+:text> Code required
+
+:name> register_error_password_diff
+:text> Two passwords entered are different
+
+:name> register_signing_in
+:text> Signing
+…
+
+:name> code_send_succeed
+:text> Code Sent
+
+:name> code_sent_message
+:text> Verification code sent. Please check your email. The code is valid in %d minutes. If you haven’t received it for a long time, please check your spam to prevent the email from being misjudged as spam.
+
+:name> login_account_bind_tip
+:text> The account is only used to bind privileges.
+
+:name> login_bind_state
+:text> Bind State
+
+:name> login_premium_transfer
+:text> Transfer
+
+:name> login_transfer_tip
+:text> Are you sure to exchange privileges with this device?
+
+:name> login_premium_cancel_aux
+:text> Cancel auxiliary
+
+:name> login_premium_set_aux
+:text> Set auxiliary
+
+:name> login_premium_expire
+:text> Your token expired. If you want to continue to use premium abilities, you need to login. Login again now?
+
+:name> login_device_already_bind_with
+:text> The device has already been bound with %s. Please unbind and then try again.
+
+:name> login_status
+:text> Account: %1$s\nCreated: %2$s\nExpire in: %3$s
+
+:name> login_at_first_tips
+:text> To continue, you need to login first.
+
+:name> login_unbind_success_message
+:text> Unbind succeed!\nYou can login any time to use your privileges:)
+
+:name> note_sub_count
+:text> %1$2d Folders %2$2d Notes %3$2d Images
+
+:name> image_capture
+:text> Capture
+
+:name> image_album
+:text> Pick
+
+:name> image_scan_document
+:text> Scan Document
+
+:name> image_crop
+:text> Crop
+
+:name> image_ocr
+:text> OCR
+
+:name> image_rotate
+:text> Rotate
+
+:name> image_filter
+:text> Filter
+
+:name> image_ocr_to_be_continue
+:text> To be continued
+…
+
+:name> image_back_tip
+:text> Images will be discard, still back?
+
+:name> image_effect_binary
+:text> W
+&
+B
+
+:name> image_effect_grey
+:text> Gray
+
+:name> image_effect_linear_strength
+:text> Strength
+
+:name> image_effect_nostalgic
+:text> Nostalgic
+
+:name> image_effect_melt
+:text> Melt
+
+:name> image_effect_freeze
+:text> Freeze
+
+:name> image_effect_contrary
+:text> Contrary
+
+:name> image_effect_comic_strip
+:text> Comic strip
+
+:name> image_effect_sculpture
+:text> Sculpture
+
+:name> image_effect_float_sculpture
+:text> Float sculpture
+
+:name> image_effect_sketch
+:text> Sketch
+
+:name> image_effect_blur
+:text> Blur
+
+:name> image_effect_origin
+:text> Origin
+
+:name> image_effect_round
+:text> Round
+
+:name> image_effect_round_corner
+:text> Round corner
+
+:name> image_effect_add_color
+:text> Add color
+
+:name> image_comment_add_hint
+:text> Add some memories
+…
+
+:name> image_comment_add_title
+:text> Add Some Memories
+
+:name> image_comment_post
+:text> POST
+
+:name> image_ocr_configure_first
+:text> You need to configure OCR API first.
+
+:name> image_ocr_result
+:text> OCR Result
+
+:name> image_name_not_support
+:text> The extension is not support. \n\nHint: You are able to configure supported extensions in \"Setting-Image-Image extensions\".
+
+:name> image_compress_tips
+:text> Your images will be compressed now, you could disable it in settings.
+
+:name> image_compress_to_close
+:text> Close now
+
+:name> premium_free
+:text> Free Version
+
+:name> premium_premium
+:text> Premium
+
+:name> premium_professional
+:text> Lifetime Pro
+
+:name> premium_professional_yearly
+:text> 1 Year Pro
+
+:name> premium_premium_free_trial
+:text> Premium free trial
+
+:name> premium_professional_free_trial
+:text> Pro free trial
+
+:name> premium_center
+:text> Premium Center
+
+:name> premium_free_trial_with
+:text> Start %d days free trial
+
+:name> premium_free_trial_days_left
+:text> %dd left
+
+:name> premium_join
+:text> JOIN NOW
+
+:name> premium_price
+:text> Price: %s
+
+:name> premium_price_discount
+:text> Price: %1$s, Discount: %2$s
+
+:name> premium_commit_payment
+:text> Commit Payment
+
+:name> premium_serial_input_hint
+:text> Fill in The Serial Here
+
+:name> premium_serial_input_length_tip
+:text> Please check if the serial is valid
+
+:name> premium_serial_committed
+:text> Serial committed successfully, please wait for the result, which might take few time.
+
+:name> premium_serial_committing
+:text> Serial committing
+…
+
+:name> premium_payway_with
+:text> Pay way: %s
+
+:name> premium_order_number_with
+:text> No: %s
+
+:name> premium_serial_number_with
+:text> Serial: %s
+
+:name> premium_owe_money_with
+:text> Price: %s
+
+:name> premium_redeem_code_commit_title
+:text> Commit redeem gift code
+
+:name> premium_redeem_code_commit_sub_title
+:text> Input your redeem gift code here
+
+:name> premium_payment_status_check_passed
+:text> Passed
+
+:name> premium_payment_status_check_failed
+:text> Failed
+
+:name> premium_payment_status_commit_success
+:text> Committed
+
+:name> premium_payment_status_done
+:text> Done
+
+:name> premium_premium_required
+:text> Premium Required!
+
+:name> premium_premium_required_sub
+:text> You need to become a premium member to use this feature!
+
+:name> premium_premium_become
+:text> Become a Premium Member
+
+:name> premium_professional_required
+:text> Professional required!
+
+:name> premium_privilege_basic
+:text> Basic abilities
+
+:name> premium_privilege_app_theme
+:text> App theme
+
+:name> premium_privilege_editor_theme
+:text> Editor theme
+
+:name> premium_privilege_code_style
+:text> Code style
+
+:name> premium_privilege_export
+:text> Export
+&
+import
+
+:name> premium_privilege_sync
+:text> Sync by WebDAV
+
+:name> premium_privilege_file_tree
+:text> File tree viewer
+
+:name> premium_privilege_appwidget
+:text> Appwidget
+
+:name> premium_privilege_pdf
+:text> Export PDF, HTML, Image and Markdown
+
+:name> premium_privilege_image_filter
+:text> Image filter
+
+:name> premium_privilege_image_filter_sub
+:text> More than 10+ image filters, random crop, rotation and flip image
+
+:name> premium_privilege_ocr
+:text> Image OCR
+
+:name> premium_privilege_ocr_sub
+:text> Available to use image third-part OCR
+
+:name> premium_privilege_feature
+:text> Note shortcut
+
+:name> premium_privilege_more
+:text> More features
+
+:name> premium_free_trial_requirement
+:text> Free trial request send successfully, please wait few minutes for it take effect!
+
+:name> premium_restore
+:text> Restore
+
+:name> premium_payway_freetrail
+:text> Free Trial
+
+:name> premium_payway_google
+:text> Google
+
+:name> premium_payway_wechat
+:text> WeChat
+
+:name> premium_payway_alipay
+:text> AliPay
+
+:name> premium_payway_serial
+:text> Commit Serial
+
+:name> premium_payway_redeem
+:text> Redeem Code
+
+:name> premium_privileges_title
+:text> Privileges
+
+:name> premium_privileges_sub_title
+:text> Upgrade to unlock all privileges
+
+:name> premium_versions_title
+:text> Choose A Plan
+
+:name> premium_versions_sub_title
+:text> Click item below to choose a plan
+
+:name> premium_payway_title
+:text> Choose A Pay Way
+
+:name> premium_payway_sub_title
+:text> Click item below to choose a pay way
+
+:name> premium_review_title
+:text> User Reviews
+
+:name> premium_notice_title
+:text> Notice
+
+:name> premium_bottom_notice
+:text> Developed with passion and love ♥
+
+:name> premium_locked
+:text> Upgrade to unlock
+
+:name> premium_unlocked
+:text> Unlocked
+
+:name> premium_payment_info_title
+:text> Payment Detail
+
+:name> premium_payment_info
+:text> Final price: %1$s\nPay way: %2$s
+
+:name> premium_payment_continue_title
+:text> Continue Payment Flow
+
+:name> premium_payment_continue_content
+:text> Succeed paid? Please continue to commit your serial :)
+
+:name> premium_payment_continue_not_paid
+:text> I Did\'t Pay
+
+:name> premium_payment_login_first
+:text> Please Login First
+
+:name> premium_payment_login_first_content
+:text> The account is only used to bind membership rights so that you can use these rights on any platform.
+
+:name> premium_payment_trail_gift_content
+:text> You have a gift for free trail!
+
+:name> premium_payment_continue_help_tip
+:text> NEED ANY HELP?
+
+:name> premium_payment_continue_help_content
+:text> If you have any questions about the premium or the purchase flow. We\'d glad to help :)
+
+:name> premium_payment_continue_help_required
+:text> Help
+
+:name> premium_error_payway_unavailable
+:text> Pay way unavailable.
+
+:name> premium_error_version_unlocked
+:text> You have unlocked this version.
+
+:name> premium_error_version_not_selected
+:text> Please choose a premium version at first.
+
+:name> premium_error_pawway_not_selected
+:text> Please choose a pay way at first.
+
+:name> premium_error_google_billing_unavailable
+:text> Billing unavailable: due to google billing limitation or some reason. Please contact the developer if you need help.
+
+:name> premium_account_state_not_logged_in
+:text> Not logged in
+
+:name> premium_account_state_not_logged_in_tip
+:text> Please log in to resume purchase
+
+:name> premium_account_restore_guide_message
+:text> You can restore your purchase by logging in. If you encounter any problems, please contact us to resolve them.
+
+:name> pay_wechat_title_with_step
+:text> WeChat (Step: %s)
+
+:name> pay_alipay_title_with_step
+:text> AliPay (Step: %s)
+
+:name> pay_already_paid
+:text> Already paid
+>
+
+:name> pay_return_to_pay
+:text> Return to Pay
+>
+
+:name> pay_commit_serial_hint
+:text> Please copy serial from AliPay/WeChat and paste here to complete the purchase flow. Send email to <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> if you need any help.
+
+:name> pay_wechat_summary
+:text> 1. Scan the QrCode or click \"To Pay\" and select QrCode from album.<br/>2. After transfer money, commit your payment serial here.
+
+:name> pay_to_pay
+:text> Pay Now
+
+:name> pay_to_commit
+:text> Commit Serial
+
+:name> pay_qrcode_saved_to
+:text> QrCode was saved to %s
+
+:name> pay_wechat_not_install
+:text> WeChat not installed
+
+:name> pay_thanks
+:text> Thanks to your support, the project is able to get better!
+
+:name> pay_launch_alipay_error
+:text> Filed to open AliPay
+
+:name> pay_handling_purchase
+:text> Handling purchase
+…
+
+:name> pay_purchase_succeed
+:text> Purchase succeed!\nNow you are a premium member!
+
+:name> search_searching
+:text> Searching
+…
+
+:name> search_finish
+:text> Search completed
+
+:name> search_hint
+:text> Keyword to search
+
+:name> search_empty_tip
+:text> No result found? You could try another word!
+
+:name> search_setting
+:text> Search settings
+
+:name> search_ignore_case
+:text> Ignore case
+
+:name> search_on_given_folder
+:text> Search folder
+
+:name> search_history
+:text> History
+
+:name> compose_note_saved
+:text> Saved
+
+:name> compose_default_note_name
+:text> Untitled
+
+:name> compose_title_hint
+:text> Input the note title
+
+:name> compose_content_hint
+:text> Input something here
+…
+
+:name> compose_chars
+:text> Count:
+
+:name> compose_background_tips
+:text> App switched to background, note will be saved to history.
+
+:name> compose_editor_style
+:text> Select editor style
+
+:name> compose_preview
+:text> Preview
+
+:name> compose_math_input
+:text> Input MathJax
+
+:name> compose_row_col_input
+:text> Input rows/cols of table
+
+:name> compose_row_number
+:text> Rows
+
+:name> compose_col_number
+:text> Cols
+
+:name> compose_link_options
+:text> Link from
+…
+
+:name> compose_link_input
+:text> Input the link
+
+:name> compose_link_file
+:text> Link to note
+
+:name> compose_link_name
+:text> Link name
+
+:name> compose_link_address
+:text> Link address
+
+:name> compose_image_input
+:text> Input the image link
+
+:name> compose_image_name
+:text> Image link name
+
+:name> compose_image_address
+:text> Image link address
+
+:name> compose_image_options
+:text> Select image source
+
+:name> compose_image_file_system
+:text> Pick from album
+
+:name> compose_image_capture
+:text> Take a photo
+
+:name> compose_image_network
+:text> Input network image
+
+:name> compose_image_inside
+:text> Picture inside App
+
+:name> compose_note_setting
+:text> Note setting
+
+:name> compose_note_setting_style
+:text> Editor style
+
+:name> compose_note_setting_code_style
+:text> Code style
+
+:name> compose_note_align_left
+:text> Align left
+
+:name> compose_note_align_right
+:text> Align right
+
+:name> compose_note_align_center
+:text> Align center
+
+:name> compose_note_text_wrap
+:text> Code wrap
+
+:name> compose_note_text_size
+:text> Text size
+
+:name> compose_note_paragraph_margin_bottom
+:text> Line Spacing
+
+:name> compose_note_line_number
+:text> Line number
+
+:name> compose_note_button_order
+:text> Sort bottom buttons
+
+:name> compose_note_encoding
+:text> Encoding
+
+:name> compose_note_encoding_title
+:text> Choose to decode the note
+
+:name> sort_divider_hidden_tip
+:text> Invisible <small>(Drag below to hide)</small>
+
+:name> compose_note_setting_markdown_enabled
+:text> Markdown enabled
+
+:name> compose_note_setting_markdown_disabled
+:text> Markdown disabled
+
+:name> compose_note_setting_category
+:text> Add to category
+
+:name> compose_note_setting_tags
+:text> Add tag
+
+:name> compose_note_setting_info
+:text> Info
+
+:name> compose_note_setting_history
+:text> History
+
+:name> compose_category_add
+:text> Add category
+
+:name> compose_category_updated
+:text> Category updated
+
+:name> compose_tag_add
+:text> Add tag
+
+:name> compose_tag_added
+:text> Tag updated
+
+:name> compose_note_info_title
+:text> Title
+
+:name> compose_note_info_category
+:text> Category
+
+:name> compose_note_info_tags
+:text> Tags
+
+:name> compose_note_info_file_name
+:text> File name
+
+:name> compose_note_info_file_size
+:text> File size
+
+:name> compose_note_info_length
+:text> Length
+
+:name> compose_note_info_created
+:text> Created
+
+:name> compose_note_info_updated
+:text> Updated
+
+:name> compose_note_info_path
+:text> File path
+
+:name> compose_history_not_found
+:text> No history of current note found
+
+:name> compose_history_confirm
+:text> Confirm to use the history (this will cover current content of editor)?
+
+:name> compose_create_file
+:text> Create File
+
+:name> compose_file_name_input
+:text> Input the file name (with extension)
+
+:name> compose_file_extension_not_support
+:text> The file extension is not support. \n\nHint: You are able to configure supported file extensions in \"Setting-Note-Text extensions\".
+
+:name> compose_file_name_illegal
+:text> File name contains illegal chars.\n\nHint: You are able to configure the illegal chars in \"Setting-Note-Configure Illegal Chars\".
+
+:name> compose_note_un_finish_title
+:text> Continue to edit \"%s\"?
+
+:name> compose_note_un_finish
+:text> Continue to edit unfinished note?
+
+:name> compose_note_un_finish_recover_msg
+:text> Found history of the unfinished note, recover from history?\n\nTips: you can also choose history from note settings.
+
+:name> compose_note_links
+:text> Note links
+
+:name> compose_note_linking
+:text> Quoted
+
+:name> compose_note_linking_empty
+:text> Not quoted
+
+:name> compose_note_structure
+:text> Structure
+
+:name> compose_diff_merge
+:text> Confirm to copy from left to right?
+
+:name> compose_note_auto_save
+:text> Safe saver
+
+:name> compose_note_auto_save_job_channel_name
+:text> Note safe saver
+
+:name> compose_note_sync_job_channel_name
+:text> Note sync worker
+
+:name> compose_note_export_job_channel_name
+:text> Note export worker
+
+:name> image_source_image_limit
+:text> Image size should be at least %1$dpx and size smaller than %2$dpx
+
+:name> comn_load_executing
+:text> Executing
+…
+
+:name> comn_load_loading
+:text> Data loading
+…
+
+:name> comn_load_empty
+:text> Empty :)
+
+:name> comn_crash_title
+:text> Sorry for Crash
+
+:name> comn_crash_tips
+:text> You could click [Report Issue
+] to help us fix it! You can also join our <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> or send email to <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> to seek for help.
+
+:name> main_menu_item_message
+:text> Messages
+
+:name> main_menu_item_timeline
+:text> Timeline
+
+:name> main_menu_item_category
+:text> Category
+
+:name> main_menu_item_tag
+:text> Tag
+
+:name> main_menu_item_help
+:text> Help
+&
+feedback
+
+:name> main_menu_item_explore
+:text> Explore
+
+:name> main_menu_item_info
+:text> About
+
+:name> main_menu_item_setting
+:text> Setting
+
+:name> main_menu_item_sync
+:text> Sync
+
+:name> main_menu_item_share
+:text> Share
+
+:name> setting
+:text> Setting
+
+:name> set_personalization
+:text> Personalization
+
+:name> set_display
+:text> Display
+
+:name> set_display_sub
+:text> Themes, float action buttons, time format and language etc.
+
+:name> set_language
+:text> Language
+
+:name> set_language_follow_system
+:text> Follow system
+
+:name> set_theme_and_style
+:text> Theme
+&
+Style
+
+:name> set_theme
+:text> Theme
+
+:name> set_theme_theme
+:text> App Theme
+
+:name> set_theme_title
+:text> Pick A Theme
+
+:name> set_theme_theme_warm
+:text> Dawn Orange
+
+:name> set_theme_theme_cold
+:text> Energetic Green
+
+:name> set_theme_theme_christmas
+:text> Christmas Eve Dream
+
+:name> set_theme_theme_lunar_new_year
+:text> Chinese Lunar New Year
+
+:name> set_theme_theme_dark
+:text> Elegant Black
+
+:name> set_theme_theme_purple
+:text> Graceful Purple
+
+:name> set_theme_theme_pink
+:text> Enamoured Pink
+
+:name> set_theme_theme_dark_pink
+:text> Elegant Black
+&
+Enamoured Pink
+
+:name> set_code_style
+:text> Code Style
+
+:name> set_custom_css
+:text> Custom CSS
+
+:name> set_custom_css_light_style
+:text> Light Style
+
+:name> set_custom_css_dark_style
+:text> Dark Style
+
+:name> set_custom_css_default
+:text> Default
+
+:name> set_custom_css_edit_light_style
+:text> Edit CSS For Light Theme
+
+:name> set_custom_css_edit_dark_style
+:text> Edit CSS For Dark Theme
+
+:name> set_custom_css_rename
+:text> Rename CSS
+
+:name> set_custom_css_apply
+:text> Enable
+
+:name> set_custom_css_in_use
+:text> · In Use
+
+:name> set_custom_css_count_limit_for_premium
+:text> You have already created %d custom CSS
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> %1$d custom CSS for normal users; %2$d custom CSS for premium users. Please upgrade to unlock more custom CSS.
+
+:name> set_custom_css_tip
+:text> Tip: Don\'t change values start with \'$\' which are used for user preferences.
+
+:name> set_advanced
+:text> Advanced
+
+:name> set_other
+:text> Other
+
+:name> set_universal
+:text> Universal
+
+:name> set_editor_style
+:text> Editor Style
+
+:name> set_use_pretty_time
+:text> Use Pretty Time
+
+:name> set_note
+:text> Note
+
+:name> set_note_sub
+:text> Settings about note
+
+:name> set_export
+:text> Export
+&
+Import
+
+:name> set_export_sub
+:text> This feature will be removed later.
+
+:name> set_note_list
+:text> Note List
+
+:name> set_note_yaml
+:text> Use Front Matter
+
+:name> set_note_yaml_sub
+:text> Front Matter is a special syntax format in Markdown used to add metadata to a document.
+
+:name> set_note_title
+:text> Use Title Input
+
+:name> set_note_title_sub
+:text> Title input box will be used while editing note if enabled.
+
+:name> set_note_extensions
+:text> Note Extensions
+
+:name> set_note_extensions_tip
+:text> Add extensions, split multiple extensions by \",\"
+
+:name> set_note_extensions_sub
+:text> Files with note extension will be recognized as note.
+
+:name> set_support_extensions
+:text> Text Extensions
+
+:name> set_support_extensions_sub
+:text> Files with text extension will be read and displayed as text.
+
+:name> set_extensions
+:text> Support Extensions
+
+:name> set_extensions_sub
+:text> Files with support extension will be load and displayed in notes list.
+
+:name> set_illegal_charset
+:text> Illegal Chars
+
+:name> set_illegal_charset_sub
+:text> The APP will handle illegal chars automatically to avoid unexpected errors
+
+:name> set_note_show_date
+:text> Display Time Info
+
+:name> set_note_edit_directly
+:text> Quick Edit Mode
+
+:name> set_note_edit_directly_sub
+:text> Directly navigate to edit page instead of preview page when click note
+
+:name> set_note_auto_parsing_encoding
+:text> Parse note encoding automatically while reading notes. (You can also change note encoding manually in note settings dialog)
+
+:name> set_note_display_note_file_name
+:text> Display File Name
+
+:name> set_note_display_note_file_name_sub
+:text> Display note file name instead of note title in notes list.
+
+:name> set_note_show_simplified_note_list
+:text> Simplify Note List
+
+:name> set_note_hide_folders
+:text> Hide folders
+
+:name> set_note_hide_folders_sub
+:text> Don\'t display selected folders in note list.
+
+:name> set_note_folders_selection
+:text> Select folders
+
+:name> set_file
+:text> File
+
+:name> set_image
+:text> Image
+
+:name> set_image_sub
+:text> Image, camera
+&
+OCR
+
+:name> set_image_extensions
+:text> Image Extensions
+
+:name> set_image_extensions_tip
+:text> Add image extensions, split multiple extensions by \",\"
+
+:name> set_image_extensions_sub
+:text> Files with image extension will be read and displayed as image.
+
+:name> set_image_ocr_source
+:text> Set API Source
+
+:name> set_image_ocr_config
+:text> Configure API Info
+
+:name> set_image_ocr_config_sub
+:text> Configure API: specify app token and app secret etc.
+
+:name> set_image_ocr_config_test
+:text> Test Configuration
+
+:name> set_image_ocr_source_request
+:text> Request Third-part OCR API
+>
+
+:name> set_image_ocr_source_request_sub
+:text> Note: In order to reduce the maintenance cost of LeafNote server and therefore to reduce user usage costs, now the user can only user third-party OCR API in the LeafNote. You can request App key and secret from third-part API and then use them in LeafNote. To learn how to request third-part API, you can visit our \"Explore\" page. If you know any OCR API platform that not included in LeafNote, you can put forward a request to developer.
+
+:name> set_image_ocr_learn_to_configure
+:text> Learn how to request third-part API
+>
+
+:name> set_camera
+:text> Camera
+
+:name> set_camera_type
+:text> Camera Type
+
+:name> set_camera_type_system
+:text> System camera
+
+:name> set_camera_type_build_in
+:text> Built-in camera
+
+:name> set_camera_type_title
+:text> Select Camera Type
+
+:name> set_note_display_image
+:text> Display Image
+
+:name> set_note_display_image_sub
+:text> Show or disable images in notes list.
+
+:name> set_note_image_default_name
+:text> Image Directory Name
+
+:name> set_note_display_image_tip
+:text> This require a restart and reload to become effective.
+
+:name> set_note_image_compress
+:text> Compress Image
+
+:name> set_note_image_compress_sub
+:text> Set whether compress image inside App.
+
+:name> set_sync
+:text> Cloud Sync
+
+:name> set_sync_universal
+:text> Universal
+
+:name> set_sync_sub
+:text> Sync to other platform by WebDAV
+
+:name> set_sync_enable
+:text> Timely Sync
+
+:name> set_sync_enable_sub
+:text> Synchronize all notes timely.
+
+:name> set_sync_server
+:text> Server
+
+:name> set_sync_webdav_server
+:text> WebDAV Server
+
+:name> set_sync_webdav_server_host
+:text> WebDAV Server Host
+
+:name> set_sync_webdav_server_path
+:text> Server Folder to Synchronize
+
+:name> set_sync_webdav_server_path_sub
+:text> The directory on WebDAV server that LeafNote syncs to: %s
+
+:name> set_sync_webdav_server_account
+:text> Server Account
+
+:name> set_sync_webdav_server_password
+:text> Server Password
+
+:name> set_sync_webdav_server_please
+:text> Please configure WebDAV
+
+:name> set_sync_server_configured
+:text> Server configured
+
+:name> set_sync_server_not_config
+:text> Server not configured
+
+:name> set_sync_webdav_server_connect_test
+:text> Test Connection
+
+:name> set_sync_interval
+:text> Timely Sync Interval
+
+:name> set_sync_delay
+:text> Sync Delay Between Files
+
+:name> set_sync_delay_sub
+:text> Add delay while request to avoid blocking by remote server.
+
+:name> set_sync_only_wifi
+:text> Sync Only in Wi-Fi Mode
+
+:name> set_sync_single
+:text> Realtime Sync
+
+:name> set_sync_single_sub
+:text> Sync immediately after modified locally
+
+:name> set_sync_info
+:text> Sync Info
+
+:name> set_sync_last_time
+:text> Last Sync Time
+
+:name> set_sync_last_info
+:text> Last Sync Info
+
+:name> set_sync_num_with
+:text> %d files synced
+
+:name> set_sync_done
+:text> Sync Completed
+
+:name> set_sync_done_with_error
+:text> Sync completed, %d files failed.
+
+:name> set_sync_interval_0
+:text> Every 6 hours
+
+:name> set_sync_interval_1
+:text> Every 12 hours
+
+:name> set_sync_interval_2
+:text> Every Day
+
+:name> set_sync_interval_3
+:text> Every 3 days
+
+:name> set_sync_interval_4
+:text> Every week
+
+:name> set_sync_interval_5
+:text> Every half month
+
+:name> set_sync_interval_6
+:text> Every month
+
+:name> set_sync_interval_7
+:text> Manual
+
+:name> set_sync_immediately
+:text> Sync
+
+:name> set_sync_open_notification_title
+:text> Enable Notification
+
+:name> set_sync_open_notification_tips
+:text> Please enable notifications to obtain synchronization status.
+
+:name> set_sync_to_enable_notification
+:text> Enable Notification
+
+:name> set_sync_without_notification
+:text> Sync Directly
+
+:name> set_sync_sync_state_hint
+:text> Show Sync State
+
+:name> set_sync_sync_state_hint_sub
+:text> If note modified locally but not synced, a small sync prompt will appear in note list.
+
+:name> sync_interrupted
+:text> Sync Interrupted by User
+
+:name> sync_version_upgrade_tip
+:text> 1. The new sync logic is not compatible with the old, so if you need to sync between multiple devices, please upgrade Apps on all devices to the latest version (4.0 and above).\n2. If it\'s first time you use the new sync logic, it might take a few time to complete.
+
+:name> sync_note_updated
+:text> Note Updated!
+
+:name> sync_note_remote_change_tip
+:text> The note has been updated remotely. Sync it to latest version?
+
+:name> sync_unable_to_handle_locally_yip
+:text> The failure is unable to be handled locally. This might occur due to a network or io error etc. You can try to sync again to resolve this failure.
+
+:name> sync_conflict_resolve_tip
+:text> The file has been modified locally and remotely. To resolve this failure by making a comparison?
+
+:name> set_export_export
+:text> Export
+
+:name> set_export_export_sub
+:text> Export notes to external storage.
+
+:name> set_export_import
+:text> Import
+
+:name> set_export_import_sub
+:text> Import from external storage
+
+:name> set_export_time
+:text> Last Export Time
+
+:name> set_export_path
+:text> Export Path
+
+:name> set_export_export_done
+:text> Export completed
+
+:name> set_export_export_num_with
+:text> %d files exported
+
+:name> set_export_import_num_with
+:text> %d files imported
+
+:name> set_export_export_done_with_error
+:text> Export completed, %d files failed
+
+:name> set_export_import_done_with_error
+:text> Import completed, %d files failed
+
+:name> set_export_import_done
+:text> Import completed
+
+:name> set_export_executing
+:text> Export or import task executing
+
+:name> set_export_conflict_with
+:text> %d files failed
+
+:name> set_report_no_conflict
+:text> Congrats, no failure found!
+
+:name> set_conflict_resolve
+:text> Resolve Failure
+
+:name> set_conflict_path_tips
+:text> Might failed due to:\n 1.illegal file name (contains illegal chars etc): change the file name and try again.\n2.too much request: stop for a while and change the frequency of sync.
+
+:name> trash_box
+:text> Trash Box
+
+:name> trash_box_recover
+:text> Recover
+
+:name> trash_box_delete
+:text> Delete
+
+:name> trash_box_recover_tip
+:text> Sure to recover this file/directory from trash box?
+
+:name> trash_box_delete_tip
+:text> Sure to delete this file/directory completely from trash box?
+
+:name> trash_box_empty
+:text> Empty trash box
+
+:name> trash_box_empty_tip
+:text> Sure to empty the trash box?
+
+:name> about_app_section
+:text> About
+
+:name> about_app_privacy
+:text> Privacy
+
+:name> about_app_homepage
+:text> Homepage
+
+:name> about_app_translate
+:text> Translate
+
+:name> about_app_translate_sub
+:text> Help us improve translation.
+
+:name> about_app_development
+:text> Development Plan
+
+:name> about_app_help
+:text> Help
+
+:name> about_app_feedback
+:text> Feedback
+
+:name> about_app_license
+:text> License
+
+:name> about_contact_us
+:text> Contact Us
+
+:name> about_social_telegram_group
+:text> Telegram
+
+:name> about_social_qq_group
+:text> QQ
+
+:name> about_social_email
+:text> Email
+
+:name> about_developer_section
+:text> Follow the Developer
+
+:name> about_developer_twitter
+:text> Twitter
+
+:name> about_developer_bilibili
+:text> BiliBili
+
+:name> about_developer_github
+:text> Github
+
+:name> about_developer_jike
+:text> Jike
+
+:name> about_other_apps
+:text> Others
+
+:name> feedback
+:text> Feedback
+
+:name> feedback_thank
+:text> Feedback succeed! \nThanks for your feedback and support!
+
+:name> feedback_content_hint
+:text> Details (400 at most)
+
+:name> feedback_contact_hint
+:text> Contact (allow empty)
+
+:name> feedback_type_hint
+:text> Select a topic
+
+:name> feedback_type_improvement
+:text> Improvements
+
+:name> feedback_type_bug
+:text> Bug
+
+:name> feedback_goto
+:text> Feedback
+
+:name> category_empty_title
+:text> You haven\'t add any category
+
+:name> tag_empty_title
+:text> You haven\'t add any tag
+
+:name> shortcut_add_long_name
+:text> Create Note
+
+:name> shortcut_add_short_name
+:text> Create
+
+:name> shortcut_search_long_name
+:text> Search Note
+
+:name> shortcut_search_short_name
+:text> Search
+
+:name> shortcut_capture_long_name
+:text> Take a Photo
+
+:name> shortcut_capture_short_name
+:text> Capture
+
+:name> shortcut_failed_to_create
+:text> Failed to create shortcut :(
+
+:name> shortcut_failed_launcher_not_support
+:text> Oops! Failed to add the shortcut. This may be because your device does not support this feature or does not give the App the shortcut permission.<br/>Try this: open App Info in Settings page, tap \'Permissions\', grant <b>Create home screen shortcuts</b> permission.
+
+:name> social_telegram_group
+:text> Telegram
+
+:name> social_qq_group
+:text> QQ Group: %s
+
+:name> social_email
+:text> Email: %s
+
+:name> social_email_feedback_title
+:text> A feedback to LeafNote APP | %s
+
+:name> crash_email_title
+:text> Crash report for LeafNote APP
+
+:name> image_film_replay
+:text> Replay?
+
+:name> donate
+:text> Donate
+
+:name> share_text
+:text> Hey, I found a private Markdown and note-taking application for multi-platform collaboration via cloud sync, LeafNote. See link for details: %s. Have a try!
+
+:name> config_found_new_version
+:text> Newer version %1$s found, upgrade?\n\n%2$s
+
+:name> config_to_upgrade
+:text> To Upgrade
+
+:name> config_privacy_accept_tips
+:text> You need to agree the %1$s to continue to use.
+
+:name> config_privacy_accept
+:text> Agree
+
+:name> config_privacy_reject_exit
+:text> Disagree
+
+:name> message_read
+:text> Read
+
+:name> message_not_read
+:text> Not Read
+
+:name> message_empty_tip
+:text> No your message found
+
+:name> enable
+:text> Enable
+
+:name> main_note_root
+:text> Root
+
+:name> main_note_all
+:text> All
+
+:name> main_note_manage
+:text> Manage
+
+:name> main_bottom_menu_long_click_drag
+:text> Long click and drag to sort bottom menu.
+
+:name> main_exit_app
+:text> Exit
+
+:name> about_app_solgon
+:text> A powerful
+&
+beautiful markdown App
+
+:name> tips
+:text> Tips
+
+:name> viewer_double_tap_show_tip
+:text> Double tap the page the bottom toolbar will display again.
+
+:name> main_open_external_message
+:text> Create a note or just browse the file?
+
+:name> main_open_external_browse_only
+:text> Browse
+
+:name> main_open_external_create_note
+:text> Create
+
+:name> error_trail_already_in_use
+:text> You have already used the free trial.
+
+:name> default_note_name
+:text> Welcome to use Leaf Note!
+

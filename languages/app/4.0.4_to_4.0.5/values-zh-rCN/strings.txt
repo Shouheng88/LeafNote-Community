@@ -1,0 +1,50 @@
+:name> premium_payment_login_first_content
+:text> 账号仅用于绑定会员权益，这样你可以在任何平台使用这些权益。
+
+:name> premium_account_state_not_logged_in
+:text> 未登录
+
+:name> premium_account_state_not_logged_in_tip
+:text> 请登录以恢复购买
+
+:name> premium_account_restore_guide_message
+:text> 您可以通过登录来恢复购买。如果您遇到了任何问题，请联系我们进行解决。
+
+:name> pay_already_paid
+:text> 已完成支付
+>
+
+:name> pay_return_to_pay
+:text> 返回继续支付
+>
+
+:name> pay_commit_serial_hint
+:text> 请提交您的支付宝/微信订单号。如果需要帮助请发送邮件到：<a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a>。
+
+:name> pay_wechat_summary
+:text> 1. 扫描二维码或者点击 \"去支付\" 然后从相册中选择二维码扫描；<br/>2. 支付完成之后请回到这个页面提交订单号码。
+
+:name> pay_qrcode_saved_to
+:text> 二维码已经导出到 %s
+
+:name> comn_crash_tips
+:text> 您可以点击【报告问题】来帮助我们解决这个问题！您还可以通过加入 <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a>、QQ 交流群 878285438，或者发送邮件到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> 进行反馈。
+
+:name> set_theme_and_style
+:text> 主题样式
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> 普通用户只能创建 %1$d 个自定义 CSS；会员用户可以创建 %2$d 个自定义 CSS．请升级之后解锁更多自定义 CSS.
+
+:name> set_image_sub
+:text> 图片、相机和OCR
+
+:name> set_image_ocr_source_request_sub
+:text> 为了减少言叶服务器的维护成本并因此减少用户使用成本，现在，用户只能在言叶中使用第三方OCR API。您可以从第三方API请求应用密钥和机密，然后在言叶中使用它们。要了解如何请求第三方API，可以访问我们的“探索言叶”页面。如果您知道言叶中未包含的任何OCR API平台，则可以在此处提出要求。
+
+:name> set_conflict_path_tips
+:text> 失败的可能原因：\n1. 文件夹名称不合法（比如，包含非法字符等），建议修改文件夹名称并再次尝试；\n2.客户端请求过于频繁，请暂停一会儿再同步并调整同步的时间间隔。
+
+:name> shortcut_failed_launcher_not_support
+:text> 抱歉！桌面快捷方式创建失败。这可能是因为你的设备不支持该特性或者没给予应用该权限。<br/>你可以尝试打开设置的程序信息页面，轻触\"权限\"，将<b>创建桌面快捷方式</b>设置为打开，并再次尝试。
+
