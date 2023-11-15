@@ -1,7 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="leaf_note">言叶</string>
     <string name="language">zh_CN</string>
-
     <string name="search">搜索</string>
     <string name="close">关闭</string>
     <string name="clear">清理</string>
@@ -35,7 +35,6 @@
     <string name="rename">重命名</string>
     <string name="move">移动</string>
     <string name="apply">应用</string>
-    <string name="vip" translatable="false">VIP</string>
     <string name="available_with">有效时间: %s</string>
     <string name="saving">正在保存 &#8230;</string>
     <string name="register">注册账号</string>
@@ -53,7 +52,6 @@
     <string name="dont_show_again">不再显示</string>
     <string name="ignore_it">忽略</string>
     <string name="text_okay">好的</string>
-
     <string name="create_note">新建笔记</string>
     <string name="folder">目录</string>
     <string name="failed_with">失败：%s</string>
@@ -95,7 +93,6 @@
     <string name="sync_job_started">开始同步</string>
     <string name="name_already_in_use">该名称已存在</string>
     <string name="print_not_support">您的设备似乎不支持打印，请确认您的设备是否支持该功能再尝试</string>
-
     <string name="login_title">账号绑定</string>
     <string name="login_account_hint">邮箱/手机号</string>
     <string name="login_password_hint">密码</string>
@@ -122,9 +119,7 @@
     <string name="login_status">账号: %1$s\n创建时间: %2$s\n登录过期时间: %3$s</string>
     <string name="login_at_first_tips">请先登录</string>
     <string name="login_unbind_success_message">解绑成功！\n你可以再次登录以享受您的权益:)</string>
-
     <string name="note_sub_count">%1$2d目录 %2$2d笔记 %3$2d图片</string>
-
     <string name="image_capture">拍照</string>
     <string name="image_album">选择图片</string>
     <string name="image_scan_document">文档扫描</string>
@@ -158,7 +153,6 @@
     <string name="image_name_not_support">不支持这种拓展名的文件。\n\n提示：你可以在图片的设置中修改支持的文件拓展名。</string>
     <string name="image_compress_tips">基于现在的设置，你的图片将会被压缩。你可以在设置中关闭图片压缩选项。</string>
     <string name="image_compress_to_close">去关闭</string>
-
     <string name="premium_free">永久免费版</string>
     <string name="premium_premium">永久高级版</string>
     <string name="premium_professional">永久专业版</string>
@@ -230,7 +224,7 @@
     <string name="premium_payment_continue_content">已经支付成功？现在请按照接下来的流程提交您的订单号 :)</string>
     <string name="premium_payment_continue_not_paid">并未支付</string>
     <string name="premium_payment_login_first">请先登录</string>
-    <string name="premium_payment_login_first_content">账号仅用于绑定会员权益</string>
+    <string name="premium_payment_login_first_content">账号仅用于绑定会员权益，这样你可以在任何平台使用这些权益。</string>
     <string name="premium_payment_trail_gift_content">你有一个免费试用待领取！</string>
     <string name="premium_payment_continue_help_tip">是否需要帮助？</string>
     <string name="premium_payment_continue_help_content">如果你对会员和购买有任何疑问，请联系我们 :)</string>
@@ -240,28 +234,23 @@
     <string name="premium_error_version_not_selected">请先选择一个会员版本</string>
     <string name="premium_error_pawway_not_selected">请先选择一种支付方式</string>
     <string name="premium_error_google_billing_unavailable">谷歌支付不可用：可能由于谷歌支付的地域限制等原因。如有疑问，请联系开发者。</string>
-
+    <string name="premium_account_state_not_logged_in">未登录</string>
+    <string name="premium_account_state_not_logged_in_tip">请登录以恢复购买</string>
+    <string name="premium_account_restore_guide_message">您可以通过登录来恢复购买。如果您遇到了任何问题，请联系我们进行解决。</string>
     <string name="pay_wechat_title_with_step">微信 (步骤: %s)</string>
     <string name="pay_alipay_title_with_step">支付宝 (步骤: %s)</string>
-    <string name="pay_already_paid">已完成支付 ></string>
-    <string name="pay_return_to_pay">返回继续支付 ></string>
-    <string name="pay_commit_serial_hint">
-        <![CDATA[请提交您的支付宝/微信订单号。如果需要帮助请发送邮件到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> ;)]]>
-    </string>
-    <string name="pay_wechat_summary">
-        <![CDATA[
-        1. 扫描二维码或者点击 \"去支付\" 然后从相册中选择二维码扫描；<br/>
-        2. 支付完成之后请回到这个页面提交订单号码。]]>
-    </string>
+    <string name="pay_already_paid">已完成支付 &gt;</string>
+    <string name="pay_return_to_pay">返回继续支付 &gt;</string>
+    <string name="pay_commit_serial_hint"><![CDATA[请提交您的支付宝/微信订单号。如果需要帮助请发送邮件到：<a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a>。]]></string>
+    <string name="pay_wechat_summary"><![CDATA[1. 扫描二维码或者点击 \"去支付\" 然后从相册中选择二维码扫描；<br/>2. 支付完成之后请回到这个页面提交订单号码。]]></string>
     <string name="pay_to_pay">去支付</string>
     <string name="pay_to_commit">提交订单流水号</string>
-    <string name="pay_qrcode_saved_to">二维码已经导出到%s</string>
+    <string name="pay_qrcode_saved_to">二维码已经导出到 %s</string>
     <string name="pay_wechat_not_install">未安装微信</string>
     <string name="pay_thanks">这个项目因为你的支持而能够不断更新、完善，非常感谢你的支持</string>
     <string name="pay_launch_alipay_error">打开支付宝失败</string>
     <string name="pay_handling_purchase">订单处理中，请稍等&#8230;</string>
     <string name="pay_purchase_succeed">订单处理完成！\n你现在是尊贵的会员了！</string>
-
     <string name="search_searching">搜索中&#8230;</string>
     <string name="search_finish">搜索完毕</string>
     <string name="search_hint">输入要搜索的内容</string>
@@ -270,7 +259,6 @@
     <string name="search_ignore_case">不区分大小写</string>
     <string name="search_on_given_folder">指定搜索目录</string>
     <string name="search_history">搜索历史</string>
-
     <string name="compose_note_saved">笔记已保存</string>
     <string name="compose_default_note_name">未命名笔记</string>
     <string name="compose_title_hint">请输入笔记的名称</string>
@@ -310,7 +298,6 @@
     <string name="compose_note_encoding">解码方式</string>
     <string name="compose_note_encoding_title">选择读取笔记时的编码</string>
     <string name="sort_divider_hidden_tip"><![CDATA[隐藏<small>（将按钮拖动到下面可以隐藏）</small>]]></string>
-    <string name="compose_note_setting_style_sample" translatable="false"><![CDATA[<b>The Editor Style</b><br/>Thanks for using <b>LeafNote</b>, the <i>note</i> taking application. If you have any suggestions about this App, please contact me at <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com<a/>. Thanks again and enjoy it!<bt/> <i>2020/11/15 21:00 by Developer</i>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown 已启用</string>
     <string name="compose_note_setting_markdown_disabled">Markdown 已禁用</string>
     <string name="compose_note_setting_category">添加到分类</string>
@@ -348,17 +335,12 @@
     <string name="compose_note_auto_save_job_channel_name">笔记自动保存通知</string>
     <string name="compose_note_sync_job_channel_name">笔记同步通知</string>
     <string name="compose_note_export_job_channel_name">笔记导入和导出通知</string>
-
     <string name="image_source_image_limit">图片的长和宽至少 %1$dpx 并且不小于 %2$dpx</string>
-
     <string name="comn_load_executing">正在执行&#8230;</string>
     <string name="comn_load_loading">数据加载中&#8230;</string>
     <string name="comn_load_empty">数据为空 :)</string>
     <string name="comn_crash_title">很抱歉发生了崩溃！</string>
-    <string name="comn_crash_tips"><![CDATA[您可以点击【报告问题】来帮助我们解决这个问题！您还可以通过加入
-     <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a>、QQ 交流群 878285438，
-     或者发送邮件到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> 进行反馈。]]></string>
-
+    <string name="comn_crash_tips"><![CDATA[您可以点击【报告问题】来帮助我们解决这个问题！您还可以通过加入 <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a>、QQ 交流群 878285438，或者发送邮件到 <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a> 进行反馈。]]></string>
     <string name="main_menu_item_message">我的消息</string>
     <string name="main_menu_item_timeline">时间线</string>
     <string name="main_menu_item_category">分类</string>
@@ -369,13 +351,13 @@
     <string name="main_menu_item_setting">设置</string>
     <string name="main_menu_item_sync">云同步</string>
     <string name="main_menu_item_share">分享应用</string>
-
     <string name="setting">设置</string>
     <string name="set_personalization">个性化</string>
     <string name="set_display">显示</string>
     <string name="set_display_sub">主题、浮动按钮、时间格式和语言等</string>
     <string name="set_language">应用语言</string>
     <string name="set_language_follow_system">跟随系统</string>
+    <string name="set_theme_and_style">主题样式</string>
     <string name="set_theme">主题</string>
     <string name="set_theme_theme">应用主题</string>
     <string name="set_theme_title">选择一个主题</string>
@@ -398,7 +380,7 @@
     <string name="set_custom_css_apply">启用</string>
     <string name="set_custom_css_in_use">· 使用中</string>
     <string name="set_custom_css_count_limit_for_premium">你已经创建了 %d 个自定义 CSS</string>
-    <string name="set_custom_css_count_limit_for_none_premium">普通用户只能创建 %1$d 个自定义 CSS；会员用户可以创建 %2$d 个自定义　CSS．请升级之后解锁更多自定义 CSS.</string>
+    <string name="set_custom_css_count_limit_for_none_premium">普通用户只能创建 %1$d 个自定义 CSS；会员用户可以创建 %2$d 个自定义 CSS．请升级之后解锁更多自定义 CSS.</string>
     <string name="set_custom_css_tip">提示：不要修改以 \'$\' 开头的属性（这些属性用来跟随用户偏好）。</string>
     <string name="set_advanced">高级</string>
     <string name="set_other">其他</string>
@@ -435,7 +417,7 @@
     <string name="set_note_folders_selection">选择目录</string>
     <string name="set_file">文件</string>
     <string name="set_image">图像</string>
-    <string name="set_image_sub">图片/OCR/翻译相关的设置</string>
+    <string name="set_image_sub">图片、相机和OCR</string>
     <string name="set_image_extensions">图片拓展名</string>
     <string name="set_image_extensions_tip">添加图片文件拓展名，多个拓展名之间使用 \",\" 分开</string>
     <string name="set_image_extensions_sub">以图片拓展名结尾的文件将会被视作图片来处理</string>
@@ -444,10 +426,7 @@
     <string name="set_image_ocr_config_sub">配置 OCR API</string>
     <string name="set_image_ocr_config_test">测试 OCR 配置</string>
     <string name="set_image_ocr_source_request">第三方 OCR API 请求 &gt;</string>
-    <string name="set_image_ocr_source_request_sub"> 为了减少言叶服务器的维护成本并因此减少用户使用成本，
-        现在，用户只能在言叶中使用第三方OCR API。您可以从第三方API请求应用密钥和机密，然后在言叶中使用它们。
-    要了解如何请求第三方API，可以访问我们的“探索言叶”页面。如果您知道言叶中未包含的任何OCR API平台，则可以在此处提出要求。
-    </string>
+    <string name="set_image_ocr_source_request_sub">为了减少言叶服务器的维护成本并因此减少用户使用成本，现在，用户只能在言叶中使用第三方OCR API。您可以从第三方API请求应用密钥和机密，然后在言叶中使用它们。要了解如何请求第三方API，可以访问我们的“探索言叶”页面。如果您知道言叶中未包含的任何OCR API平台，则可以在此处提出要求。</string>
     <string name="set_image_ocr_learn_to_configure">了解如何配置第三方 API &gt;</string>
     <string name="set_camera">相机设定</string>
     <string name="set_camera_type">相机类型</string>
@@ -509,7 +488,6 @@
     <string name="sync_note_remote_change_tip">该笔记当前落后于服务器版本，是否更新到最新版本？</string>
     <string name="sync_unable_to_handle_locally_yip">该错误困难是网络或者读写错误造成的，无法处理，你可以试试重试来解决该问题</string>
     <string name="sync_conflict_resolve_tip">该文件在本地和远程同时被修改，要通过对比来解决该错误吗？</string>
-
     <string name="set_export_export">导出数据</string>
     <string name="set_export_export_sub">导出数据到外部存储空间</string>
     <string name="set_export_import">导入数据</string>
@@ -524,14 +502,9 @@
     <string name="set_export_import_done">数据导入完成</string>
     <string name="set_export_executing">导入/导出任务进行中</string>
     <string name="set_export_conflict_with">%d 文件失败</string>
-
     <string name="set_report_no_conflict">恭喜，没有发现文件失败！</string>
-
     <string name="set_conflict_resolve">处理失败的文件</string>
-    <string name="set_conflict_path_tips">失败的可能原因：\n
-        1. 文件夹名称不合法（比如，包含非法字符等），建议修改文件夹名称并再次尝试；\n
-    2.客户端请求过于频繁，请暂停一会儿再同步并调整同步的时间间隔。</string>
-
+    <string name="set_conflict_path_tips">失败的可能原因：\n1. 文件夹名称不合法（比如，包含非法字符等），建议修改文件夹名称并再次尝试；\n2.客户端请求过于频繁，请暂停一会儿再同步并调整同步的时间间隔。</string>
     <string name="trash_box">垃圾箱</string>
     <string name="trash_box_recover">恢复</string>
     <string name="trash_box_delete">彻底删除</string>
@@ -539,7 +512,6 @@
     <string name="trash_box_delete_tip">确定彻底删除该文件/目录？</string>
     <string name="trash_box_empty">清空垃圾箱</string>
     <string name="trash_box_empty_tip">确定清空垃圾箱？</string>
-
     <string name="about_app_section">关于应用</string>
     <string name="about_app_privacy">隐私政策</string>
     <string name="about_app_homepage">应用主页</string>
@@ -559,7 +531,6 @@
     <string name="about_developer_github">Github</string>
     <string name="about_developer_jike">即刻</string>
     <string name="about_other_apps">作者的作品</string>
-
     <string name="feedback">问题反馈</string>
     <string name="feedback_thank">反馈成功！\n感谢你的反馈和支持！</string>
     <string name="feedback_content_hint">反馈内容（可输入400字）</string>
@@ -568,10 +539,8 @@
     <string name="feedback_type_improvement">功能优化</string>
     <string name="feedback_type_bug">Bug/崩溃</string>
     <string name="feedback_goto">去反馈</string>
-
     <string name="category_empty_title">你还没有添加任何分类哦</string>
     <string name="tag_empty_title">你还没有添加任何标签哦</string>
-
     <string name="shortcut_add_long_name">创建笔记</string>
     <string name="shortcut_add_short_name">创建</string>
     <string name="shortcut_search_long_name">搜索笔记</string>
@@ -579,30 +548,23 @@
     <string name="shortcut_capture_long_name">拍照</string>
     <string name="shortcut_capture_short_name">拍照</string>
     <string name="shortcut_failed_to_create">快捷方式创建失败 :(</string>
-    <string name="shortcut_failed_launcher_not_support"><![CDATA[抱歉！桌面快捷方式创建失败。这可能是因为你的设备不支持该特性或者没给予应用该权限。<br/>
-        你可以尝试打开设置的程序信息页面，轻触\"权限\"，将<b>创建桌面快捷方式</b>]]>设置为打开，并再次尝试。</string>
-
+    <string name="shortcut_failed_launcher_not_support"><![CDATA[抱歉！桌面快捷方式创建失败。这可能是因为你的设备不支持该特性或者没给予应用该权限。<br/>你可以尝试打开设置的程序信息页面，轻触\"权限\"，将<b>创建桌面快捷方式</b>设置为打开，并再次尝试。]]></string>
     <string name="social_telegram_group">电报群</string>
     <string name="social_qq_group">QQ 群: %s</string>
     <string name="social_email">邮箱: %s</string>
     <string name="social_email_feedback_title">言叶问题反馈 | %s</string>
     <string name="crash_email_title">言叶崩溃报告</string>
-
     <string name="image_film_replay">已播完，重播？</string>
-
     <string name="donate">捐赠项目</string>
     <string name="share_text">嗨，给你推荐一款通过云同步多端协作的私人 Markdown 和笔记软件「言叶」！\n详情链接：%s，快来试一下！</string>
-
     <string name="config_found_new_version">发现新版本 %1$s，是否更新到新版本？\n\n%2$s</string>
     <string name="config_to_upgrade">去升级</string>
     <string name="config_privacy_accept_tips">你需要同意 %1$s 才能继续使用 APP 哦。</string>
     <string name="config_privacy_accept">同意并使用</string>
     <string name="config_privacy_reject_exit">拒绝并退出</string>
-
     <string name="message_read">已读</string>
     <string name="message_not_read">未读</string>
     <string name="message_empty_tip">没有发现你的消息</string>
-
     <string name="enable">启用</string>
     <string name="main_note_root">根目录</string>
     <string name="main_note_all">全部笔记</string>
@@ -610,14 +572,11 @@
     <string name="main_bottom_menu_long_click_drag">长按和拖拽可以对按钮进行排序</string>
     <string name="main_exit_app">退出应用</string>
     <string name="about_app_solgon">一个强大 &amp; 美观的笔记软件</string>
-
     <string name="tips">提示</string>
     <string name="viewer_double_tap_show_tip">双击页面展示底部工具栏</string>
     <string name="main_open_external_message">创建一个笔记还是仅浏览？</string>
     <string name="main_open_external_browse_only">仅浏览</string>
     <string name="main_open_external_create_note">创建笔记</string>
-
     <string name="error_trail_already_in_use">您已使用过免费试用</string>
-
     <string name="default_note_name">欢迎使用言叶！</string>
 </resources>

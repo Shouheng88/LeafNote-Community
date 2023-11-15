@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="leaf_note">Leaf Note</string>
-    <string name="language">en</string>
+    <string name="language">en_US</string>
     <string name="search">Search</string>
     <string name="close">Close</string>
     <string name="clear">Clear</string>
@@ -35,7 +35,6 @@
     <string name="rename">Rename</string>
     <string name="move">Move</string>
     <string name="apply">Apply</string>
-    <string name="vip" translatable="false">VIP</string>
     <string name="available_with">Available: %s</string>
     <string name="saving">Saving &#8230;</string>
     <string name="register">Sign In</string>
@@ -235,9 +234,9 @@
     <string name="premium_error_version_not_selected">Please choose a premium version at first.</string>
     <string name="premium_error_pawway_not_selected">Please choose a pay way at first.</string>
     <string name="premium_error_google_billing_unavailable">Billing unavailable: due to google billing limitation or some reason. Please contact the developer if you need help.</string>
-    <string name="premium_account_state_not_logged_in">Not Logged</string>
-    <string name="premium_account_state_not_logged_in_tip">Please login to restore purchase.</string>
-    <string name="premium_account_restore_guide_message">You can restore purchase by logging in. No matter what difficulties you encounter, please contact me to solve it.</string>
+    <string name="premium_account_state_not_logged_in">Not logged in</string>
+    <string name="premium_account_state_not_logged_in_tip">Please log in to resume purchase</string>
+    <string name="premium_account_restore_guide_message">You can restore your purchase by logging in. If you encounter any problems, please contact us to resolve them.</string>
     <string name="pay_wechat_title_with_step">WeChat (Step: %s)</string>
     <string name="pay_alipay_title_with_step">AliPay (Step: %s)</string>
     <string name="pay_already_paid">Already paid &gt;</string>
@@ -299,7 +298,6 @@
     <string name="compose_note_encoding">Encoding</string>
     <string name="compose_note_encoding_title">Choose to decode the note</string>
     <string name="sort_divider_hidden_tip"><![CDATA[Invisible <small>(Drag below to hide)</small>]]></string>
-    <string name="compose_note_setting_style_sample" translatable="false"><![CDATA[<b>The Editor Style</b><br/>Thanks for using <b>LeafNote</b>, the <i>note</i> taking application. If you have any suggestions about this App, please contact me at <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com<a/>. Thanks and please enjoy it!<br/> <i>2020/11/15 21:00 by Developer</i>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown enabled</string>
     <string name="compose_note_setting_markdown_disabled">Markdown disabled</string>
     <string name="compose_note_setting_category">Add to category</string>
@@ -359,17 +357,6 @@
     <string name="set_display_sub">Themes, float action buttons, time format and language etc.</string>
     <string name="set_language">Language</string>
     <string name="set_language_follow_system">Follow system</string>
-    <string name="set_language_english" translatable="false">English</string>
-    <string name="set_language_chinese" translatable="false">中文简体</string>
-    <string name="set_language_traditional_chinese" translatable="false">中文繁體</string>
-    <string name="set_language_russian" translatable="false">Русский (AI)</string>
-    <string name="set_language_german" translatable="false">Deutsch (AI)</string>
-    <string name="set_language_spanish" translatable="false">Español (AI)</string>
-    <string name="set_language_french" translatable="false">Français (AI)</string>
-    <string name="set_language_italian" translatable="false">Italiano (AI)</string>
-    <string name="set_language_japanese" translatable="false">日本語 (AI)</string>
-    <string name="set_language_korean" translatable="false">한국인 (AI)</string>
-    <string name="set_language_portuguese" translatable="false">Português (AI)</string>
     <string name="set_theme_and_style">Theme &amp; Style</string>
     <string name="set_theme">Theme</string>
     <string name="set_theme_theme">App Theme</string>
@@ -434,7 +421,6 @@
     <string name="set_image_extensions">Image Extensions</string>
     <string name="set_image_extensions_tip">Add image extensions, split multiple extensions by \",\"</string>
     <string name="set_image_extensions_sub">Files with image extension will be read and displayed as image.</string>
-    <string name="set_image_ocr" translatable="false">OCR</string>
     <string name="set_image_ocr_source">Set API Source</string>
     <string name="set_image_ocr_config">Configure API Info</string>
     <string name="set_image_ocr_config_sub">Configure API: specify app token and app secret etc.</string>
@@ -579,7 +565,6 @@
     <string name="message_read">Read</string>
     <string name="message_not_read">Not Read</string>
     <string name="message_empty_tip">No your message found</string>
-    <string name="security_user_info_falsified" translatable="false">The system detected that the user info might be falsified illegally! We suggest you contact the developer to seek help!</string>
     <string name="enable">Enable</string>
     <string name="main_note_root">Root</string>
     <string name="main_note_all">All</string>
