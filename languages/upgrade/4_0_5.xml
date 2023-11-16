@@ -1,0 +1,173 @@
+<en-US>
+* 🔥 In the new version, we made a huge refactor on the sync logic to accelerate it and save your network data usage. Also, we added the real-time sync logic to sync your change immediately to your cloud.
+
+* 📒 We changed the note saving logic to make it more quickly saved.
+
+* 😻 We added the lottie animation to make it more user friendly.
+
+* 🐛 We fixed some bugs and improved the performance of the APP.
+</en-US>
+<zh-CN>
+【同步逻辑重构】
+
+* 同步逻辑重构完成了，第一次同步耗时会多（和从远程下载类似），但是第二次及以后就快了，测结果：600 个文件，全部同步一遍需要大约 60s
+
+* 另外，同步会实时同步，也就是本地修改之后立即同步到服务器，打开文件的时候会先读取本地数据再读取远程数据，也是实时更新的
+
+* 采用新的同步方式之后，文件的判断逻辑调整，不需要频繁访问网络，因此对流量的损耗也将大幅降低
+
+* 图片的备注信息现在也可以同步了
+
+【写入速率提升】
+
+* 新的写入方式遵循先写入再解析的逻辑，因此存储的速率有所提升
+
+【视觉和交互调整】
+
+* 一些视觉和交互体验优化，增加了 lottie 动画，以丰富视觉效果
+
+【Bugfix】
+
+* 对在重构过程中发现的一些问题进行了修复
+</zh-CN>
+<zh-HK>
+【同步邏輯重構】
+
+* 同步邏輯重構完成了，第一次同步耗時會多（和從遠端下載類似），但是第二次及以後就快了，測結果：600 個文件，全部同步一遍需要大約 60s
+
+* 另外，同步會即時同步，也就是本地修改之後立即同步到伺服器，開啟檔案的時候會先讀取本地數據再讀取遠端數據，也是即時更新的
+
+* 採用新的同步方式之後，文件的判斷邏輯調整，不需要頻繁訪問網絡，因此對流量的損耗也將大幅降低
+
+* 圖片的備註資訊現在也可以同步了
+
+【寫入速率提升】
+
+* 新的寫入方式遵循先寫入再解析的邏輯，因此儲存的速率有所提升
+
+【視覺和互動調整】
+
+* 一些視覺和互動體驗優化，增加了 lottie 動畫，以豐富視覺效果
+
+【Bugfix】
+
+* 對在重構過程中發現的一些問題進行了修復
+</zh-HK>
+<zh-TW>
+【同步邏輯重構】
+
+* 同步邏輯重構完成了，第一次同步耗時會多（和從遠端下載類似），但是第二次及以後就快了，測結果：600 個文件，全部同步一遍需要大約 60s
+
+* 另外，同步會即時同步，也就是本地修改之後立即同步到伺服器，開啟檔案的時候會先讀取本地數據再讀取遠端數據，也是即時更新的
+
+* 採用新的同步方式之後，文件的判斷邏輯調整，不需要頻繁訪問網絡，因此對流量的損耗也將大幅降低
+
+* 圖片的備註資訊現在也可以同步了
+
+【寫入速率提升】
+
+* 新的寫入方式遵循先寫入再解析的邏輯，因此儲存的速率有所提升
+
+【視覺和互動調整】
+
+* 一些視覺和互動體驗優化，增加了 lottie 動畫，以豐富視覺效果
+
+【Bugfix】
+
+* 對在重構過程中發現的一些問題進行了修復
+</zh-TW>
+<ja-JP>
+* 🔥 新しいバージョンでは、同期ロジックを高速化してネットワーク データ使用量を節約するために大規模なリファクタリングを行いました。また、変更をすぐにクラウドに同期するためのリアルタイム同期ロジックも追加しました。
+
+* 📒 メモの保存ロジックを変更して、より迅速に保存できるようにしました。
+
+* 😻 より使いやすくするために、ロッティアニメーションを追加しました。
+
+* 🐛 いくつかのバグを修正し、アプリのパフォーマンスを改善しました。
+</ja-JP>
+<zh-MO>
+【同步邏輯重構】
+
+* 同步邏輯重構完成了，第一次同步耗時會多（和從遠端下載類似），但是第二次及以後就快了，測結果：600 個文件，全部同步一遍需要大約 60s
+
+* 另外，同步會即時同步，也就是本地修改之後立即同步到伺服器，開啟檔案的時候會先讀取本地數據再讀取遠端數據，也是即時更新的
+
+* 採用新的同步方式之後，文件的判斷邏輯調整，不需要頻繁訪問網絡，因此對流量的損耗也將大幅降低
+
+* 圖片的備註資訊現在也可以同步了
+
+【寫入速率提升】
+
+* 新的寫入方式遵循先寫入再解析的邏輯，因此儲存的速率有所提升
+
+【視覺和互動調整】
+
+* 一些視覺和互動體驗優化，增加了 lottie 動畫，以豐富視覺效果
+
+【Bugfix】
+
+* 對在重構過程中發現的一些問題進行了修復
+</zh-MO>
+<ko-KR>
+* 🔥 새 버전에서는 동기화 로직을 대폭 리팩터링하여 가속화하고 네트워크 데이터 사용량을 절약했습니다. 또한 변경 사항을 클라우드에 즉시 동기화할 수 있는 실시간 동기화 로직을 추가했습니다.
+
+* 📒 노트 저장 로직을 더 빠르게 저장할 수 있도록 변경했습니다.
+
+* 😻 더욱 사용자 친화적으로 만들기 위해 로티 애니메이션을 추가했습니다.
+
+* 🐛 일부 버그를 수정하고 앱 성능을 개선했습니다.
+</ko-KR>
+<de-DE>
+* 🔥 In der neuen Version haben wir die Synchronisierungslogik umfassend überarbeitet, um sie zu beschleunigen und Ihre Netzwerkdatennutzung zu schonen. Außerdem haben wir die Echtzeit-Synchronisierungslogik hinzugefügt, um Ihre Änderungen sofort mit Ihrer Cloud zu synchronisieren.
+
+* 📒 Wir haben die Logik zum Speichern von Notizen geändert, um das Speichern schneller zu machen.
+
+* 😻 Wir haben die Lottie-Animation hinzugefügt, um es benutzerfreundlicher zu machen.
+
+* 🐛 Wir haben einige Fehler behoben und die Leistung der APP verbessert.
+</de-DE>
+<es-ES>
+* 🔥 En la nueva versión, realizamos una gran refactorización en la lógica de sincronización para acelerarla y ahorrar el uso de datos de la red.
+
+* 📒 Cambiamos la lógica de guardado de notas para que se guarde más rápidamente.
+
+* 😻 Agregamos la animación de lotería para que sea más fácil de usar.
+
+* 🐛 Arreglamos algunos errores y mejoramos el rendimiento de la APLICACIÓN.
+</es-ES>
+<pt-PT>
+* 🔥 Na nova versão, fizemos uma grande refatoração na lógica de sincronização para acelerá-la e economizar o uso de dados da rede. Além disso, adicionamos a lógica de sincronização em tempo real para sincronizar suas alterações imediatamente com sua nuvem.
+
+* 📒 Alteramos a lógica de salvamento das notas para que elas sejam salvas mais rapidamente.
+
+* 😻 Adicionamos a animação lottie para torná-la mais amigável.
+
+* 🐛 Corrigimos alguns bugs e melhoramos o desempenho do APP.
+</pt-PT>
+<fr-FR>
+* 🔥 Dans la nouvelle version, nous avons effectué une énorme refactorisation de la logique de synchronisation pour l\'accélérer et sauvegarder l\'utilisation de vos données réseau. Nous avons également ajouté la logique de synchronisation en temps réel pour synchroniser immédiatement vos modifications sur votre cloud.
+
+* 📒 Nous avons modifié la logique de sauvegarde des notes pour la rendre plus rapide.
+
+* 😻 Nous avons ajouté l\'animation lottie pour la rendre plus conviviale.
+
+* 🐛 Nous avons corrigé quelques bugs et amélioré les performances de l\'APP.
+</fr-FR>
+<it-IT>
+* 🔥 Nella nuova versione, abbiamo apportato un enorme refactoring alla logica di sincronizzazione per accelerarla e risparmiare l\'utilizzo dei dati di rete. Inoltre, abbiamo aggiunto la logica di sincronizzazione in tempo reale per sincronizzare immediatamente le modifiche sul cloud.
+
+* 📒 Abbiamo modificato la logica di salvataggio delle note per renderle più rapide da salvare.
+
+* 😻 Abbiamo aggiunto l\'animazione lotte per renderla più facile da usare.
+
+* 🐛 Abbiamo corretto alcuni bug e migliorato le prestazioni dell\'APP.
+</it-IT>
+<ru-RU>
+* 🔥 В новой версии мы провели огромный рефакторинг логики синхронизации, чтобы ускорить ее и сократить использование сетевых данных. Кроме того, мы добавили логику синхронизации в реальном времени, чтобы немедленно синхронизировать ваши изменения с облаком.
+
+* 📒 Мы изменили логику сохранения заметок, чтобы они сохранялись быстрее.
+
+* 😻 Мы добавили анимацию лотереи, чтобы сделать ее более удобной для пользователя.
+
+* 🐛 Мы исправили некоторые ошибки и улучшили производительность приложения.
+</ru-RU>

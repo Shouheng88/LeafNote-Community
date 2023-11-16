@@ -1,0 +1,377 @@
+<zh-CN>
+LeafNote ✖️ VSCode
+
+官方推荐的软件搭配方案
+
+LeafNote 支持多层级文件结构，因此，您可以通过 WebDAV 在电脑和手机之间同步笔记文件。然后，您可以在电脑上通过其他软件编辑您的笔记。
+
+电脑端有很多可以与 LeafNote 搭配使用的软件，比如，Typera、NotePad 等等。但是，这里我们推荐您使用 Visual Studio Code. 
+
+Visual Studio Code 是由微软开发的一款代码编辑器。它开源且免费的，支持 Windows、MacOS 和 Linux 等系统，提供了大量的非常有用的插件。这足够您完成非常多复杂的任务。
+
+因此，我们推荐您使用它来和 LeafNote 合作。
+
+您可以在如下地址下载该软件：https://code.visualstudio.com
+
+安装过程非常简单，这里我们就不再介绍。
+
+这里我们将向您介绍如何安装插件来实现 Markdown 文件的编辑。
+
+如图所示，安装完成并打开 VSCode 之后，您先在左侧边栏找到“拓展”菜单，然后在输入框中输入 "Markdown" 并搜索，选择一个您需要的插件并安装即可。
+
+准备工作完成之后，在"Explorer“中打开您同步的文件的根目录即可。
+
+最后，在左侧目录栏中选择想要编辑的文件，然后在界面的右上方点击预览按钮就可以预览笔记渲染的效果啦。
+
+如果您有其他意见和建议，您可以向我们反馈！
+
+谢谢！
+</zh-CN>
+<en-US>
+LeafNote ✖️ VSCode
+
+Officially recommended software matching solution
+
+LeafNote supports multi-level file structures, so you can synchronize note files between your computer and mobile phone through WebDAV. You can then edit your notes in other software on your computer.
+
+There are many software that can be used with LeafNote on the computer, such as Typera, NotePad, etc. However, here we recommend you use Visual Studio Code.
+
+Visual Studio Code is a code editor developed by Microsoft. It is open source and free, supports Windows, MacOS and Linux systems, and provides a large number of very useful plug-ins. This is enough for you to complete many complex tasks.
+
+Therefore, we recommend you to use it to work with LeafNote.
+
+You can download the software at the following address: https://code.visualstudio.com
+
+The installation process is very simple and we won’t introduce it here.
+
+Here we will introduce you how to install plug-ins to edit Markdown files.
+
+As shown in the picture, after the installation is completed and VSCode is opened, you first find the &quot;Extension&quot; menu in the left sidebar, then enter &quot;Markdown&quot; in the input box and search, select a plug-in you need and install it.
+
+After the preparation is completed, just open the root directory of the file you synchronized in &quot;Explorer&quot;.
+
+Finally, select the file you want to edit in the directory bar on the left, and then click the preview button on the upper right side of the interface to preview the rendering effect of the note.
+
+If you have other comments and suggestions, you can give us feedback!
+
+Thanks!
+</en-US>
+<ja-JP>
+リーフノート ✖️ VSCode
+
+公式推奨のソフトウェアマッチングソリューション
+
+LeafNote はマルチレベルのファイル構造をサポートしているため、WebDAV を介してコンピュータと携帯電話の間でノート ファイルを同期できます。その後、コンピュータ上の他のソフトウェアでメモを編集できます。
+
+TyperaやNotePadなど、パソコン上でLeafNoteを利用できるソフトウェアは数多くあります。ただし、ここでは Visual Studio Code を使用することをお勧めします。
+
+Visual Studio Code は、Microsoft によって開発されたコード エディターです。これはオープンソースで無料で、Windows、MacOS、Linux システムをサポートし、非常に便利なプラグインを多数提供します。多くの複雑なタスクを完了するにはこれで十分です。
+
+したがって、LeafNote と連携して使用することをお勧めします。
+
+ソフトウェアは次のアドレスからダウンロードできます: https://code.visualstudio.com
+
+インストール手順は非常に簡単なので、ここでは紹介しません。
+
+ここではMarkdownファイルを編集するためのプラグインをインストールする方法を紹介します。
+
+図に示すように、インストールが完了して VSCode が開いたら、まず左側のサイドバーで「拡張機能」メニューを見つけ、入力ボックスに「マークダウン」と入力して検索し、必要なプラグインを選択してインストールしますそれ。
+
+準備が完了したら、「エクスプローラー」で同期したファイルのルートディレクトリを開くだけです。
+
+最後に、左側のディレクトリ バーで編集するファイルを選択し、インターフェイスの右上にあるプレビュー ボタンをクリックしてメモのレンダリング効果をプレビューします。
+
+他にご意見やご提案がありましたら、フィードバックをお寄せください。
+
+ありがとう！
+</ja-JP>
+<zh-TW>
+LeafNote ✖️ VSCode
+
+官方推薦的軟體搭配方案
+
+LeafNote 支援多層級檔案結構，因此，您可以透過WebDAV 在電腦和手機之間同步筆記檔案。然後，您可以在電腦上透過其他軟體編輯您的筆記。
+
+電腦端有很多可以搭配LeafNote 使用的軟體，例如，Typera、NotePad 等等。但是，這裡我們推薦您使用Visual Studio Code.
+
+Visual Studio Code 是由微軟開發的程式碼編輯器。它開源且免費的，支援Windows、MacOS 和Linux 等系統，提供了大量的非常有用的插件。這足夠您完成非常多複雜的任務。
+
+因此，我們推薦您使用它來和LeafNote 合作。
+
+您可以在以下網址下載軟體：https://code.visualstudio.com
+
+安裝過程非常簡單，這裡我們就不再介紹。
+
+這裡我們將向您介紹如何安裝外掛程式來實作Markdown 檔案的編輯。
+
+如圖所示，安裝完成並開啟VSCode 之後，您先在左側邊欄找到「拓展」選單，然後在輸入框中輸入&quot;Markdown&quot; 並蒐索，選擇一個您需要的插件並安裝即可。
+
+準備工作完成之後，在&quot;Explorer「中開啟您同步的檔案的根目錄即可。
+
+最後，在左側目錄欄中選擇想要編輯的文件，然後在介面的右上方點擊預覽按鈕就可以預覽筆記渲染的效果啦。
+
+如果您有其他意見和建議，您可以向我們回饋！
+
+謝謝！
+</zh-TW>
+<zh-HK>
+LeafNote ✖️ VSCode
+
+官方推薦的軟體搭配方案
+
+LeafNote 支援多層級檔案結構，因此，您可以透過WebDAV 在電腦和手機之間同步筆記檔案。然後，您可以在電腦上透過其他軟體編輯您的筆記。
+
+電腦端有很多可以搭配LeafNote 使用的軟體，例如，Typera、NotePad 等等。但是，這裡我們推薦您使用Visual Studio Code.
+
+Visual Studio Code 是由微軟開發的程式碼編輯器。它開源且免費的，支援Windows、MacOS 和Linux 等系統，提供了大量的非常有用的插件。這足夠您完成非常多複雜的任務。
+
+因此，我們推薦您使用它來和LeafNote 合作。
+
+您可以在以下網址下載軟體：https://code.visualstudio.com
+
+安裝過程非常簡單，這裡我們就不再介紹。
+
+這裡我們將向您介紹如何安裝外掛程式來實作Markdown 檔案的編輯。
+
+如圖所示，安裝完成並開啟VSCode 之後，您先在左側邊欄找到「拓展」選單，然後在輸入框中輸入&quot;Markdown&quot; 並蒐索，選擇一個您需要的插件並安裝即可。
+
+準備工作完成之後，在&quot;Explorer「中開啟您同步的檔案的根目錄即可。
+
+最後，在左側目錄欄中選擇想要編輯的文件，然後在介面的右上方點擊預覽按鈕就可以預覽筆記渲染的效果啦。
+
+如果您有其他意見和建議，您可以向我們回饋！
+
+謝謝！
+</zh-HK>
+<zh-MO>
+LeafNote ✖️ VSCode
+
+官方推薦的軟體搭配方案
+
+LeafNote 支援多層級檔案結構，因此，您可以透過WebDAV 在電腦和手機之間同步筆記檔案。然後，您可以在電腦上透過其他軟體編輯您的筆記。
+
+電腦端有很多可以搭配LeafNote 使用的軟體，例如，Typera、NotePad 等等。但是，這裡我們推薦您使用Visual Studio Code.
+
+Visual Studio Code 是由微軟開發的程式碼編輯器。它開源且免費的，支援Windows、MacOS 和Linux 等系統，提供了大量的非常有用的插件。這足夠您完成非常多複雜的任務。
+
+因此，我們推薦您使用它來和LeafNote 合作。
+
+您可以在以下網址下載軟體：https://code.visualstudio.com
+
+安裝過程非常簡單，這裡我們就不再介紹。
+
+這裡我們將向您介紹如何安裝外掛程式來實作Markdown 檔案的編輯。
+
+如圖所示，安裝完成並開啟VSCode 之後，您先在左側邊欄找到「拓展」選單，然後在輸入框中輸入&quot;Markdown&quot; 並蒐索，選擇一個您需要的插件並安裝即可。
+
+準備工作完成之後，在&quot;Explorer「中開啟您同步的檔案的根目錄即可。
+
+最後，在左側目錄欄中選擇想要編輯的文件，然後在介面的右上方點擊預覽按鈕就可以預覽筆記渲染的效果啦。
+
+如果您有其他意見和建議，您可以向我們回饋！
+
+謝謝！
+</zh-MO>
+<ko-KR>
+리프노트 ✖️ VSCode
+
+공식적으로 권장되는 소프트웨어 매칭 솔루션
+
+LeafNote는 다단계 파일 구조를 지원하므로 WebDAV를 통해 컴퓨터와 휴대폰 간에 노트 파일을 동기화할 수 있습니다. 그런 다음 컴퓨터의 다른 소프트웨어에서 메모를 편집할 수 있습니다.
+
+Typera, NotePad 등 컴퓨터에서 LeafNote와 함께 사용할 수 있는 소프트웨어가 많이 있습니다. 그러나 여기서는 Visual Studio Code를 사용하는 것이 좋습니다.
+
+Visual Studio Code는 Microsoft에서 개발한 코드 편집기입니다. 오픈 소스이며 무료이며 Windows, MacOS 및 Linux 시스템을 지원하며 매우 유용한 플러그인을 많이 제공합니다. 이것은 많은 복잡한 작업을 완료하기에 충분합니다.
+
+따라서 LeafNote로 작업할 때 사용하는 것을 권장합니다.
+
+다음 주소에서 소프트웨어를 다운로드할 수 있습니다: https://code.visualstudio.com
+
+설치 과정은 매우 간단하므로 여기서는 소개하지 않겠습니다.
+
+여기서는 Markdown 파일을 편집하기 위한 플러그인을 설치하는 방법을 소개합니다.
+
+그림과 같이 설치가 완료되고 VSCode가 열린 후 먼저 왼쪽 사이드바에서 &quot;Extension&quot; 메뉴를 찾은 다음 입력 상자에 &quot;Markdown&quot;을 입력하고 검색하여 필요한 플러그인을 선택하고 설치합니다. 그것.
+
+준비가 완료되면 &quot;탐색기&quot;에서 동기화한 파일의 루트 디렉터리를 엽니다.
+
+마지막으로, 왼쪽 디렉토리 바에서 편집하고 싶은 파일을 선택한 후, 인터페이스 오른쪽 상단에 있는 미리보기 버튼을 클릭해 노트의 렌더링 효과를 미리보세요.
+
+다른 의견이나 제안 사항이 있으면 피드백을 보내주세요!
+
+감사해요!
+</ko-KR>
+<de-DE>
+LeafNote ✖️ VSCode
+
+Offiziell empfohlene Software-Matching-Lösung
+
+LeafNote unterstützt mehrstufige Dateistrukturen, sodass Sie Notizdateien über WebDAV zwischen Ihrem Computer und Ihrem Mobiltelefon synchronisieren können. Anschließend können Sie Ihre Notizen in einer anderen Software auf Ihrem Computer bearbeiten.
+
+Es gibt viele Softwareprogramme, die mit LeafNote auf dem Computer verwendet werden können, wie zum Beispiel Typera, NotePad usw. Hier empfehlen wir jedoch die Verwendung von Visual Studio Code.
+
+Visual Studio Code ist ein von Microsoft entwickelter Code-Editor. Es ist Open Source und kostenlos, unterstützt Windows-, MacOS- und Linux-Systeme und bietet eine große Anzahl sehr nützlicher Plug-Ins. Dies reicht aus, um viele komplexe Aufgaben zu erledigen.
+
+Daher empfehlen wir Ihnen, es für die Arbeit mit LeafNote zu verwenden.
+
+Sie können die Software unter der folgenden Adresse herunterladen: https://code.visualstudio.com
+
+Der Installationsprozess ist sehr einfach und wir werden ihn hier nicht vorstellen.
+
+Hier stellen wir Ihnen vor, wie Sie Plug-Ins zum Bearbeiten von Markdown-Dateien installieren.
+
+Wie im Bild gezeigt, finden Sie nach Abschluss der Installation und dem Öffnen von VSCode zunächst das Menü „Erweiterung“ in der linken Seitenleiste, geben dann „Markdown“ in das Eingabefeld ein und suchen, wählen ein benötigtes Plug-in aus und installieren es Es.
+
+Nachdem die Vorbereitung abgeschlossen ist, öffnen Sie einfach das Stammverzeichnis der Datei, die Sie synchronisiert haben, im „Explorer“.
+
+Wählen Sie abschließend in der Verzeichnisleiste links die Datei aus, die Sie bearbeiten möchten, und klicken Sie dann auf die Schaltfläche „Vorschau“ oben rechts auf der Benutzeroberfläche, um eine Vorschau des Rendering-Effekts der Notiz anzuzeigen.
+
+Wenn Sie weitere Kommentare und Vorschläge haben, können Sie uns Feedback geben!
+
+Danke!
+</de-DE>
+<es-ES>
+Nota de hoja ✖️ VSCode
+
+Solución de coincidencia de software recomendada oficialmente
+
+LeafNote admite estructuras de archivos de varios niveles, por lo que puede sincronizar archivos de notas entre su computadora y su teléfono móvil a través de WebDAV. Luego puede editar sus notas en otro software de su computadora.
+
+Hay muchos programas que se pueden usar con LeafNote en la computadora, como Typera, NotePad, etc. Sin embargo, aquí le recomendamos utilizar Visual Studio Code.
+
+Visual Studio Code es un editor de código desarrollado por Microsoft. Es de código abierto y gratuito, es compatible con los sistemas Windows, MacOS y Linux y proporciona una gran cantidad de complementos muy útiles. Esto es suficiente para completar muchas tareas complejas.
+
+Por lo tanto, le recomendamos que lo utilice para trabajar con LeafNote.
+
+Puede descargar el software en la siguiente dirección: https://code.visualstudio.com
+
+El proceso de instalación es muy sencillo y no lo presentaremos aquí.
+
+Aquí le presentaremos cómo instalar complementos para editar archivos Markdown.
+
+Como se muestra en la imagen, una vez completada la instalación y abierto VSCode, primero busque el menú &quot;Extensión&quot; en la barra lateral izquierda, luego ingrese &quot;Markdown&quot; en el cuadro de entrada y busque, seleccione el complemento que necesita e instálelo. él.
+
+Una vez completada la preparación, simplemente abra el directorio raíz del archivo que sincronizó en el &quot;Explorador&quot;.
+
+Finalmente, seleccione el archivo que desea editar en la barra de directorio de la izquierda y luego haga clic en el botón de vista previa en la parte superior derecha de la interfaz para obtener una vista previa del efecto de representación de la nota.
+
+Si tienes otros comentarios y sugerencias, ¡puedes darnos tu opinión!
+
+¡Gracias!
+</es-ES>
+<pt-PT>
+LeafNote ✖️ VSCode
+
+Solução de correspondência de software oficialmente recomendada
+
+LeafNote suporta estruturas de arquivos de vários níveis, para que você possa sincronizar arquivos de notas entre seu computador e telefone celular através do WebDAV. Você pode então editar suas notas em outro software no seu computador.
+
+Existem muitos softwares que podem ser usados com o LeafNote no computador, como Typera, NotePad, etc. No entanto, aqui recomendamos que você use o Visual Studio Code.
+
+Visual Studio Code é um editor de código desenvolvido pela Microsoft. É de código aberto e gratuito, suporta sistemas Windows, MacOS e Linux e oferece um grande número de plug-ins muito úteis. Isso é suficiente para você concluir muitas tarefas complexas.
+
+Portanto, recomendamos que você o utilize para trabalhar com o LeafNote.
+
+Você pode baixar o software no seguinte endereço: https://code.visualstudio.com
+
+O processo de instalação é muito simples e não o apresentaremos aqui.
+
+Aqui apresentaremos como instalar plug-ins para editar arquivos Markdown.
+
+Conforme mostrado na imagem, após a conclusão da instalação e a abertura do VSCode, você primeiro encontra o menu &quot;Extensão&quot; na barra lateral esquerda, depois digita &quot;Markdown&quot; na caixa de entrada e pesquisa, seleciona o plug-in necessário e instala isto.
+
+Após a conclusão da preparação, basta abrir o diretório raiz do arquivo que você sincronizou no &quot;Explorer&quot;.
+
+Por fim, selecione o arquivo que deseja editar na barra de diretório à esquerda e clique no botão de visualização no lado superior direito da interface para visualizar o efeito de renderização da nota.
+
+Se você tiver outros comentários e sugestões, pode nos dar um feedback!
+
+Obrigado!
+</pt-PT>
+<fr-FR>
+FeuilleNote ✖️ VSCode
+
+Solution de correspondance logicielle officiellement recommandée
+
+LeafNote prend en charge les structures de fichiers à plusieurs niveaux, vous pouvez donc synchroniser les fichiers de notes entre votre ordinateur et votre téléphone mobile via WebDAV. Vous pouvez ensuite modifier vos notes dans d&#39;autres logiciels sur votre ordinateur.
+
+Il existe de nombreux logiciels qui peuvent être utilisés avec LeafNote sur l&#39;ordinateur, tels que Typera, NotePad, etc. Cependant, nous vous recommandons ici d’utiliser Visual Studio Code.
+
+Visual Studio Code est un éditeur de code développé par Microsoft. Il est open source et gratuit, prend en charge les systèmes Windows, MacOS et Linux et fournit un grand nombre de plug-ins très utiles. Cela vous suffit pour accomplir de nombreuses tâches complexes.
+
+Par conséquent, nous vous recommandons de l&#39;utiliser pour travailler avec LeafNote.
+
+Vous pouvez télécharger le logiciel à l&#39;adresse suivante : https://code.visualstudio.com
+
+Le processus d&#39;installation est très simple et nous ne le présenterons pas ici.
+
+Ici, nous allons vous présenter comment installer des plug-ins pour éditer des fichiers Markdown.
+
+Comme le montre l&#39;image, une fois l&#39;installation terminée et VSCode ouvert, vous trouvez d&#39;abord le menu &quot;Extension&quot; dans la barre latérale gauche, puis entrez &quot;Markdown&quot; dans la zone de saisie et recherchez, sélectionnez le plug-in dont vous avez besoin et installez-le. il.
+
+Une fois la préparation terminée, ouvrez simplement le répertoire racine du fichier que vous avez synchronisé dans &quot;Explorateur&quot;.
+
+Enfin, sélectionnez le fichier que vous souhaitez modifier dans la barre de répertoire à gauche, puis cliquez sur le bouton d&#39;aperçu en haut à droite de l&#39;interface pour prévisualiser l&#39;effet de rendu de la note.
+
+Si vous avez d&#39;autres commentaires et suggestions, vous pouvez nous faire part de vos commentaires !
+
+Merci!
+</fr-FR>
+<it-IT>
+LeafNote ✖️ VSCode
+
+Soluzione di corrispondenza software ufficialmente consigliata
+
+LeafNote supporta strutture di file multilivello, quindi puoi sincronizzare i file delle note tra il tuo computer e il tuo telefono cellulare tramite WebDAV. Potrai quindi modificare le tue note in altri software sul tuo computer.
+
+Esistono molti software che possono essere utilizzati con LeafNote sul computer, come Typera, NotePad, ecc. Tuttavia, qui ti consigliamo di utilizzare Visual Studio Code.
+
+Visual Studio Code è un editor di codice sviluppato da Microsoft. È open source e gratuito, supporta i sistemi Windows, MacOS e Linux e fornisce un gran numero di plug-in molto utili. Questo è sufficiente per completare molte attività complesse.
+
+Pertanto, ti consigliamo di utilizzarlo per lavorare con LeafNote.
+
+È possibile scaricare il software al seguente indirizzo: https://code.visualstudio.com
+
+Il processo di installazione è molto semplice e non lo presenteremo qui.
+
+Qui ti presenteremo come installare i plug-in per modificare i file Markdown.
+
+Come mostrato nell&#39;immagine, una volta completata l&#39;installazione e aperto VSCode, trovi prima il menu &quot;Estensione&quot; nella barra laterale di sinistra, quindi inserisci &quot;Markdown&quot; nella casella di input ed esegui la ricerca, seleziona il plug-in che ti serve e installa Esso.
+
+Una volta completata la preparazione, apri semplicemente la directory principale del file sincronizzato in &quot;Explorer&quot;.
+
+Infine, seleziona il file che desideri modificare nella barra delle directory a sinistra, quindi fai clic sul pulsante di anteprima nella parte in alto a destra dell&#39;interfaccia per visualizzare in anteprima l&#39;effetto di rendering della nota.
+
+Se hai altri commenti e suggerimenti, puoi darci un feedback!
+
+Grazie!
+</it-IT>
+<ru-RU>
+LeafNote ✖️ VSCode
+
+Официально рекомендованное решение для подбора программного обеспечения
+
+LeafNote поддерживает многоуровневые файловые структуры, поэтому вы можете синхронизировать файлы заметок между вашим компьютером и мобильным телефоном через WebDAV. Затем вы сможете редактировать свои заметки в другом программном обеспечении на вашем компьютере.
+
+Существует множество программ, которые можно использовать с LeafNote на компьютере, например Typera, NotePad и т. д. Однако здесь мы рекомендуем использовать Visual Studio Code.
+
+Visual Studio Code — редактор кода, разработанный Microsoft. Он имеет открытый исходный код и бесплатен, поддерживает системы Windows, MacOS и Linux и предоставляет большое количество очень полезных плагинов. Этого вам хватит для выполнения многих сложных задач.
+
+Поэтому мы рекомендуем вам использовать его для работы с LeafNote.
+
+Программное обеспечение можно загрузить по следующему адресу: https://code.visualstudio.com.
+
+Процесс установки очень прост, и мы не будем его здесь описывать.
+
+Здесь мы познакомим вас, как устанавливать плагины для редактирования файлов Markdown.
+
+Как показано на картинке, после завершения установки и открытия VSCode вы сначала находите меню «Расширение» на левой боковой панели, затем вводите «Markdown» в поле ввода и выполняете поиск, выбираете нужный плагин и устанавливаете. это.
+
+После завершения подготовки просто откройте в «Проводнике» корневой каталог синхронизируемого вами файла.
+
+Наконец, выберите файл, который вы хотите отредактировать, на панели каталогов слева, а затем нажмите кнопку предварительного просмотра в правом верхнем углу интерфейса, чтобы просмотреть эффект рендеринга заметки.
+
+Если у вас есть другие комментарии и предложения, вы можете оставить нам отзыв!
+
+Спасибо!
+</ru-RU>
