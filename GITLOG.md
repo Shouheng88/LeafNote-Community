@@ -1,3 +1,10 @@
+## 4.0.6 
+ - e9ef5bed rfct: text languages
+- bb29923d rfct: text languages
+- 3105fda6 rfct: sync text refined
+- 694774fa rfct: code issue
+- a904c93f rfct: webdav directory create issue
+- 38bc0811 Merge pull request #141 from Shouheng88/feature-note-4.0.5
 ## 4.0.5 
  - 91d9ff9c rfct: language translations
 - 3379ee57 rfct: show note count in homepage
