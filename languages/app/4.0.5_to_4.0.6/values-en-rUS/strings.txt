@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> Data synchronization completed, %d files need to be processed manually
+
+:name> set_export_export_done_with_error
+:text> Data export completed, %d files need to be processed manually
+
+:name> set_export_import_done_with_error
+:text> Data import completed, %d file needs to be processed manually
+
+:name> set_export_conflict_with
+:text> %d file needs to be processed manually
+
+:name> set_report_no_conflict
+:text> Congratulations, all files have been synced to the server!
+
+:name> set_conflict_resolve
+:text> Process files manually
+
+:name> set_conflict_path_tips
+:text> Possible reasons:\n1. The folder name is illegal (for example, contains illegal characters, etc.), it is recommended to modify the folder name and try again;\n2. The client requests too frequently, please pause for a while before synchronizing and adjust the synchronization interval.
+

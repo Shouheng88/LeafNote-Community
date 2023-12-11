@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> Sincronización de datos completada, %d archivos deben procesarse manualmente
+
+:name> set_export_export_done_with_error
+:text> Exportación de datos completada, %d archivos deben procesarse manualmente
+
+:name> set_export_import_done_with_error
+:text> Importación de datos completada, %d archivo debe procesarse manualmente
+
+:name> set_export_conflict_with
+:text> %d archivo debe procesarse manualmente
+
+:name> set_report_no_conflict
+:text> ¡Felicitaciones, todos los archivos se han sincronizado con el servidor!
+
+:name> set_conflict_resolve
+:text> Procesar archivos manualmente
+
+:name> set_conflict_path_tips
+:text> Posibles razones:\n1. El nombre de la carpeta es ilegal (por ejemplo, contiene caracteres ilegales, etc.), se recomienda modificar el nombre de la carpeta e intentarlo nuevamente;\n2. El cliente solicita con demasiada frecuencia, haga una pausa por un momento antes. sincronizar y ajustar el intervalo de sincronización.
+

@@ -1,0 +1,24 @@
+:name> pay_wechat_summary
+:text> 1. Scansiona il codice QR o fai clic su "Vai a pagamento", quindi seleziona il codice QR dall\'album da scansionare;<br/> 2. Una volta completato il pagamento, tornare a questa pagina per inviare il numero dell\'ordine.
+
+:name> set_sync_done_with_error
+:text> Sincronizzazione dei dati completata, %d file devono essere elaborati manualmente
+
+:name> set_export_export_done_with_error
+:text> Esportazione dei dati completata, %d file devono essere elaborati manualmente
+
+:name> set_export_import_done_with_error
+:text> Importazione dati completata, il file %d deve essere elaborato manualmente
+
+:name> set_export_conflict_with
+:text> Il file %d deve essere elaborato manualmente
+
+:name> set_report_no_conflict
+:text> Congratulazioni, tutti i file sono stati sincronizzati sul server!
+
+:name> set_conflict_resolve
+:text> Elaborare i file manualmente
+
+:name> set_conflict_path_tips
+:text> Possibili ragioni:\n1. Il nome della cartella è illegale (ad esempio, contiene caratteri non validi, ecc.), si consiglia di modificare il nome della cartella e riprovare;\n2. Il client richiede troppo frequentemente, attendere un po\' prima sincronizzare e regolare l\'intervallo di sincronizzazione.
+

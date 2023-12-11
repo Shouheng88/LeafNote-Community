@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> 데이터 동기화가 완료되었습니다. %d개의 파일을 수동으로 처리해야 합니다.
+
+:name> set_export_export_done_with_error
+:text> 데이터 내보내기가 완료되었습니다. %d개의 파일을 수동으로 처리해야 합니다.
+
+:name> set_export_import_done_with_error
+:text> 데이터 가져오기가 완료되었습니다. %d 파일을 수동으로 처리해야 합니다.
+
+:name> set_export_conflict_with
+:text> %d개의 파일을 수동으로 처리해야 합니다.
+
+:name> set_report_no_conflict
+:text> 축하합니다. 모든 파일이 서버에 동기화되었습니다!
+
+:name> set_conflict_resolve
+:text> 수동으로 파일 처리
+
+:name> set_conflict_path_tips
+:text> 가능한 이유:\n1. 폴더 이름이 불법입니다(예: 불법 문자 포함). 폴더 이름을 수정하고 다시 시도하는 것이 좋습니다.\n2. 클라이언트가 너무 자주 요청합니다. 전에 잠시 중지하십시오. 동기화 간격을 동기화하고 조정합니다.
+

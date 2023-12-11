@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> 資料同步完成，%d 個檔案需要手動處理
+
+:name> set_export_export_done_with_error
+:text> 資料匯出完成，%d 檔案需要手動處理
+
+:name> set_export_import_done_with_error
+:text> 資料導入完成，%d 檔案需要手動處理
+
+:name> set_export_conflict_with
+:text> %d 文件需要手動處理
+
+:name> set_report_no_conflict
+:text> 恭喜，所有檔案已同步到伺服器！
+
+:name> set_conflict_resolve
+:text> 手動處理文件
+
+:name> set_conflict_path_tips
+:text> 可能原因：\n1. 資料夾名稱不合法（例如，包含非法字元等），建議修改資料夾名稱並再次嘗試；\n2.客戶端要求過於頻繁，請暫停一會兒再同步並調整同步的時間間隔。
+

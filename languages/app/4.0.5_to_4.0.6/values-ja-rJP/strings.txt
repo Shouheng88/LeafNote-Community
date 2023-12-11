@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> データの同期が完了しました。%d ファイルを手動で処理する必要があります
+
+:name> set_export_export_done_with_error
+:text> データのエクスポートが完了しました。%d ファイルを手動で処理する必要があります
+
+:name> set_export_import_done_with_error
+:text> データのインポートが完了しました。%d ファイルを手動で処理する必要があります
+
+:name> set_export_conflict_with
+:text> %d ファイルは手動で処理する必要があります
+
+:name> set_report_no_conflict
+:text> おめでとうございます。すべてのファイルがサーバーに同期されました。
+
+:name> set_conflict_resolve
+:text> ファイルを手動で処理する
+
+:name> set_conflict_path_tips
+:text> 考えられる理由:\n1. フォルダ名が不正です (たとえば、不正な文字が含まれているなど)。フォルダ名を変更して再試行することをお勧めします。\n2. クライアントのリクエストが頻繁すぎるため、しばらく停止してください。同期を実行し、同期間隔を調整します。
+

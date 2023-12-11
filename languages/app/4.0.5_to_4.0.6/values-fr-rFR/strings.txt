@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> Synchronisation des données terminée, %d fichiers doivent être traités manuellement
+
+:name> set_export_export_done_with_error
+:text> Exportation des données terminée, %d fichiers doivent être traités manuellement
+
+:name> set_export_import_done_with_error
+:text> Importation des données terminée, %d fichier doit être traité manuellement
+
+:name> set_export_conflict_with
+:text> %d fichier doit être traité manuellement
+
+:name> set_report_no_conflict
+:text> Félicitations, tous les fichiers ont été synchronisés avec le serveur !
+
+:name> set_conflict_resolve
+:text> Traiter les fichiers manuellement
+
+:name> set_conflict_path_tips
+:text> Raisons possibles :\n1. Le nom du dossier est illégal (par exemple, contient des caractères illégaux, etc.), il est recommandé de modifier le nom du dossier et de réessayer ;\n2. Le client demande trop fréquemment, veuillez faire une pause pendant un moment avant synchronisation et ajuster l’intervalle de synchronisation.
+

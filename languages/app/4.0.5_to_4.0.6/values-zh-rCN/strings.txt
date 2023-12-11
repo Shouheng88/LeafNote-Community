@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> 数据同步完成，%d 个文件需要手动处理
+
+:name> set_export_export_done_with_error
+:text> 数据导出完成，%d 文件需要手动处理
+
+:name> set_export_import_done_with_error
+:text> 数据导入完成，%d 文件需要手动处理
+
+:name> set_export_conflict_with
+:text> %d 文件需要手动处理
+
+:name> set_report_no_conflict
+:text> 恭喜，所有文件已同步到服务器！
+
+:name> set_conflict_resolve
+:text> 手动处理文件
+
+:name> set_conflict_path_tips
+:text> 可能原因：\n1. 文件夹名称不合法（比如，包含非法字符等），建议修改文件夹名称并再次尝试；\n2.客户端请求过于频繁，请暂停一会儿再同步并调整同步的时间间隔。
+

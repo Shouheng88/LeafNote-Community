@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> Sincronização de dados concluída, %d arquivos precisam ser processados manualmente
+
+:name> set_export_export_done_with_error
+:text> Exportação de dados concluída, %d arquivo precisa ser processado manualmente
+
+:name> set_export_import_done_with_error
+:text> Importação de dados concluída, %d arquivo precisa ser processado manualmente
+
+:name> set_export_conflict_with
+:text> %d arquivo precisa ser processado manualmente
+
+:name> set_report_no_conflict
+:text> Parabéns, todos os arquivos foram sincronizados com o servidor!
+
+:name> set_conflict_resolve
+:text> Processar arquivos manualmente
+
+:name> set_conflict_path_tips
+:text> Possíveis motivos:\n1. O nome da pasta é ilegal (por exemplo, contém caracteres ilegais, etc.), é recomendável modificar o nome da pasta e tentar novamente;\n2. O cliente solicita com muita frequência, faça uma pausa antes sincronizar e ajustar o intervalo de sincronização.
+

@@ -1,0 +1,21 @@
+:name> set_sync_done_with_error
+:text> Datensynchronisierung abgeschlossen, %d Dateien müssen manuell verarbeitet werden
+
+:name> set_export_export_done_with_error
+:text> Datenexport abgeschlossen, %d Dateien müssen manuell verarbeitet werden
+
+:name> set_export_import_done_with_error
+:text> Datenimport abgeschlossen, %d Datei muss manuell verarbeitet werden
+
+:name> set_export_conflict_with
+:text> %d Datei muss manuell verarbeitet werden
+
+:name> set_report_no_conflict
+:text> Herzlichen Glückwunsch, alle Dateien wurden mit dem Server synchronisiert!
+
+:name> set_conflict_resolve
+:text> Dateien manuell verarbeiten
+
+:name> set_conflict_path_tips
+:text> Mögliche Gründe:\n1. Der Ordnername ist ungültig (enthält beispielsweise ungültige Zeichen usw.). Es wird empfohlen, den Ordnernamen zu ändern und es erneut zu versuchen.\n2. Der Client fordert zu häufig an. Bitte warten Sie vorher eine Weile Synchronisierung durchführen und das Synchronisierungsintervall anpassen.
+
