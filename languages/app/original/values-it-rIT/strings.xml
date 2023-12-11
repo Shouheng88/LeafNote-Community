@@ -242,7 +242,7 @@
     <string name="pay_already_paid">Pagamento completato &gt;</string>
     <string name="pay_return_to_pay">Ritorna per continuare il pagamento &gt;</string>
     <string name="pay_commit_serial_hint"><![CDATA[Si prega di inviare il numero dell\'ordine Alipay/WeChat. Se hai bisogno di aiuto invia una email a: <a href="mailto:shouheng2020@gmail.com"> shouheng2020@gmail.com 。]]></string>
-    <string name="pay_wechat_summary"><![CDATA[1. Scansiona il codice QR o fai clic su "Vai a pagamento", quindi seleziona il codice QR dall\'album da scansionare;<br/> 2. Una volta completato il pagamento, tornare a questa pagina per inviare il numero dell&#39;ordine.]]></string>
+    <string name="pay_wechat_summary"><![CDATA[1. Scansiona il codice QR o fai clic su "Vai a pagamento", quindi seleziona il codice QR dall\'album da scansionare;<br/> 2. Una volta completato il pagamento, tornare a questa pagina per inviare il numero dell\'ordine.]]></string>
     <string name="pay_to_pay">Pagare</string>
     <string name="pay_to_commit">Invia il numero di serie dell\'ordine</string>
     <string name="pay_qrcode_saved_to">Il codice QR è stato esportato in %s</string>
@@ -466,7 +466,7 @@
     <string name="set_sync_last_info">Ultime informazioni sincronizzate</string>
     <string name="set_sync_num_with">%d file sono stati sincronizzati</string>
     <string name="set_sync_done">Sincronizzazione dei dati completata</string>
-    <string name="set_sync_done_with_error">Sincronizzazione dei dati completata, file %d non riuscito</string>
+    <string name="set_sync_done_with_error">Sincronizzazione dei dati completata, %d file devono essere elaborati manualmente</string>
     <string name="set_sync_interval_0">Ogni 6 ore</string>
     <string name="set_sync_interval_1">Ogni 12 ore</string>
     <string name="set_sync_interval_2">Una volta al giorno</string>
@@ -497,14 +497,14 @@
     <string name="set_export_export_done">Esportazione dei dati completata</string>
     <string name="set_export_export_num_with">Il file %d è stato esportato</string>
     <string name="set_export_import_num_with">Il file %d è stato importato</string>
-    <string name="set_export_export_done_with_error">Esportazione dati completata, file %d non riuscito</string>
-    <string name="set_export_import_done_with_error">Importazione dati completata, file %d non riuscito</string>
+    <string name="set_export_export_done_with_error">Esportazione dei dati completata, %d file devono essere elaborati manualmente</string>
+    <string name="set_export_import_done_with_error">Importazione dati completata, il file %d deve essere elaborato manualmente</string>
     <string name="set_export_import_done">Importazione dati completata</string>
     <string name="set_export_executing">Attività di importazione/esportazione in corso</string>
-    <string name="set_export_conflict_with">%d file non riuscito</string>
-    <string name="set_report_no_conflict">Congratulazioni, nessun file trovato errore!</string>
-    <string name="set_conflict_resolve">Elaborazione di file non riusciti</string>
-    <string name="set_conflict_path_tips">Possibili ragioni dell\'errore:\n1. Il nome della cartella non è valido (ad esempio, contiene caratteri non validi, ecc.). Si consiglia di modificare il nome della cartella e riprovare;\n2. Il client richiede troppo frequentemente, fare una pausa per un prima della sincronizzazione e regolare l\'intervallo di tempo di sincronizzazione.</string>
+    <string name="set_export_conflict_with">Il file %d deve essere elaborato manualmente</string>
+    <string name="set_report_no_conflict">Congratulazioni, tutti i file sono stati sincronizzati sul server!</string>
+    <string name="set_conflict_resolve">Elaborare i file manualmente</string>
+    <string name="set_conflict_path_tips">Possibili ragioni:\n1. Il nome della cartella è illegale (ad esempio, contiene caratteri non validi, ecc.), si consiglia di modificare il nome della cartella e riprovare;\n2. Il client richiede troppo frequentemente, attendere un po\' prima sincronizzare e regolare l\'intervallo di sincronizzazione.</string>
     <string name="trash_box">Cestino</string>
     <string name="trash_box_recover">Recuperare</string>
     <string name="trash_box_delete">Rimuovere completamente</string>
