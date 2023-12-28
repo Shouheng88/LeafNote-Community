@@ -4,4 +4,11 @@
         <item>@string/feedback_type_bug</item>
         <item>@string/feedback_type_improvement</item>
     </string-array>
+
+    <string-array name="edit_introduce_tips">
+        <item>@string/input_hint_1</item>
+        <item>@string/input_hint_2</item>
+        <item>@string/input_hint_3</item>
+        <item>@string/input_hint_4</item>
+    </string-array>
 </resources>

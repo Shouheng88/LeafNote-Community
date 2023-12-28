@@ -579,4 +579,9 @@
     <string name="main_open_external_create_note">Создать заметку</string>
     <string name="error_trail_already_in_use">Вы уже использовали бесплатную пробную версию</string>
     <string name="default_note_name">Добро пожаловать в Leaf Note!</string>
+    <string name="input_hint_1">Вещи, которыми стоит дорожить&#8230;</string>
+    <string name="input_hint_2">Итоги работы и учёбы&#8230;</string>
+    <string name="input_hint_3">Хотите пожаловаться&#8230;</string>
+    <string name="input_hint_4">Просто напишите что-нибудь&#8230;</string>
+    <string name="compose_main_empty_tip">Пожалуйста, введите содержание заметки&#8230;</string>
 </resources>

@@ -579,4 +579,9 @@
     <string name="main_open_external_create_note">建立筆記</string>
     <string name="error_trail_already_in_use">您已使用過免費試用</string>
     <string name="default_note_name">歡迎使用言葉！</string>
+    <string name="input_hint_1">值得珍藏的事&#8230;</string>
+    <string name="input_hint_2">工作與學習總結&#8230;</string>
+    <string name="input_hint_3">想要吐槽的&#8230;</string>
+    <string name="input_hint_4">隨便寫點東西&#8230;</string>
+    <string name="compose_main_empty_tip">請輸入筆記內容&#8230;</string>
 </resources>

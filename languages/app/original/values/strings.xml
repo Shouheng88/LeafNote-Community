@@ -594,4 +594,9 @@
     <string name="main_open_external_create_note">Create</string>
     <string name="error_trail_already_in_use">You have already used the free trial.</string>
     <string name="default_note_name">Welcome to use Leaf Note!</string>
+    <string name="input_hint_1">Things worth cherishing&#8230;</string>
+    <string name="input_hint_2">Summary of work and study&#8230;</string>
+    <string name="input_hint_3">Want to complain&#8230;</string>
+    <string name="input_hint_4">Just write something&#8230;</string>
+    <string name="compose_main_empty_tip">Please enter the note content&#8230;</string>
 </resources>

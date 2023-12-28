@@ -579,4 +579,9 @@
     <string name="main_open_external_create_note">Crear una nota</string>
     <string name="error_trail_already_in_use">Ya has utilizado la prueba gratuita</string>
     <string name="default_note_name">¡Bienvenido a Leaf Note!</string>
+    <string name="input_hint_1">Cosas que vale la pena valorar&#8230;</string>
+    <string name="input_hint_2">Resumen del trabajo y estudio&#8230;</string>
+    <string name="input_hint_3">Quieres quejarte&#8230;</string>
+    <string name="input_hint_4">Sólo escribe algo&#8230;</string>
+    <string name="compose_main_empty_tip">Por favor ingrese el contenido de la nota&#8230;</string>
 </resources>

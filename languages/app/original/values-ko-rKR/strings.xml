@@ -579,4 +579,9 @@
     <string name="main_open_external_create_note">노트 만들기</string>
     <string name="error_trail_already_in_use">무료 평가판을 사용하셨습니다.</string>
     <string name="default_note_name">잎 노트에 오신 것을 환영합니다!</string>
+    <string name="input_hint_1">소중히 여겨야 할 것들&#8230;</string>
+    <string name="input_hint_2">일과 공부의 요약&#8230;</string>
+    <string name="input_hint_3">불평하고 싶다&#8230;</string>
+    <string name="input_hint_4">그냥 아무거나 써보세요&#8230;</string>
+    <string name="compose_main_empty_tip">메모 내용을 입력하세요&#8230;</string>
 </resources>

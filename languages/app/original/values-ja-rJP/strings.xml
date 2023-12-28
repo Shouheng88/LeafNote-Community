@@ -579,4 +579,9 @@
     <string name="main_open_external_create_note">メモの作成</string>
     <string name="error_trail_already_in_use">無料トライアルを使用したことがあります</string>
     <string name="default_note_name">言の葉を使ってください！</string>
+    <string name="input_hint_1">大切にすべきもの&#8230;</string>
+    <string name="input_hint_2">仕事や勉強のまとめ&#8230;</string>
+    <string name="input_hint_3">文句を言いたい&#8230;</string>
+    <string name="input_hint_4">ちょっと何か書いてください&#8230;</string>
+    <string name="compose_main_empty_tip">メモの内容を入力してください&#8230;</string>
 </resources>
