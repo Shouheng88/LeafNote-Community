@@ -1,3 +1,35 @@
+## 4.1.0 
+ - 
+## 4.1.0 
+ - dd33373d feat: languages
+- e3bc26e6 feat: add todo and resources
+- b9b1ce92 feat: add doc scan menu
+- 2fb528c2 feat: image slider ui
+- 8ed74f51 feat: toast ui
+- 8389cc2d feat: change about page bkg
+- 0dadf934 feat: add todo and resources
+- 832d3b7a feat: input text keep issue
+- ca2ca5ad feat: fullscreen mode icon issue
+- f6a68adb feat: remove note setting tab in homepage
+- 7e917042 feat: fullscreen icon
+- c43d0d38 feat: show editing pos
+- acfcae07 feat: empty tip
+- 85423948 feat: divider color
+- 05af08c3 feat: quick note fullscreen mode
+- 11082f9a feat: upgrade ui version
+- 8f31c21e feat: sync error toast
+- 7134a835 feat: add homepage activities load logic
+- b70542f0 feat: quick note save logic
+- 17020a57 feat: image and link logic for quick mode
+- 42611e32 feat: app theme colors
+- 295cd882 feat: add homepage edit logic
+- 834633d6 feat: add homepage bottom edit options view
+- 3a95d13c feat: add bottom input panel
+- 8971da0d Merge pull request #145 from Shouheng88/master
+- fa016ea1 Merge pull request #144 from Shouheng88/feature-note-4.0.9
+- f5415317 feat: docs
+- 9706e81b feat: change docs
+- 969b30b2 feat: revert activities map change
 ## 4.0.6 
  - e9ef5bed rfct: text languages
 - bb29923d rfct: text languages
