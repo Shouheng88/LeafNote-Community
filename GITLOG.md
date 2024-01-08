@@ -1,3 +1,9 @@
+## 4.1.1 
+ - 7ec6d989 fix: show search button
+- cd5ac185 feat: add docs
+- 1ce45cee feat: add docs
+- 678465d3 Merge pull request #146 from Shouheng88/feature-note-4.1.0
+- fd586710 feat: add todo and resources
 ## 4.1.0 
  - 
 ## 4.1.0 
