@@ -1,3 +1,12 @@
+## 4.1.2 
+ - 
+## 4.1.2 
+ - 1fb2397e fix: error log
+- fc76800f fix: support video and video/source tags
+- 06f2ba1c feat: docs
+- a7cd95ff feat: add docs
+- 4bbab14d Merge pull request #147 from Shouheng88/feature-4.1.1
+- 4008d82c feat: add docs
 ## 4.1.1 
  - 7ec6d989 fix: show search button
 - cd5ac185 feat: add docs
