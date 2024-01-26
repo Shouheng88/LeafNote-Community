@@ -319,6 +319,7 @@
     <string name="compose_note_info_created">Created</string>
     <string name="compose_note_info_updated">Updated</string>
     <string name="compose_note_info_path">File path</string>
+    <string name="compose_note_info_encoding">Encoding</string>
     <string name="compose_history_not_found">No history of current note found</string>
     <string name="compose_history_confirm">Confirm to use the history (this will cover current content of editor)?</string>
     <string name="compose_create_file">Create File</string>

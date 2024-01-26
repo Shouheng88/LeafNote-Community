@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">Tempo di creazione</string>
     <string name="compose_note_info_updated">Ultimo aggiornamento</string>
     <string name="compose_note_info_path">Percorso di archiviazione</string>
+    <string name="compose_note_info_encoding">Codifica</string>
     <string name="compose_history_not_found">Non c\'è storia per questa nota</string>
     <string name="compose_history_confirm">Sei sicuro di voler utilizzare il contenuto della nota del risultato dell\'elaborazione (questo sovrascriverà il contenuto modificato in precedenza)?</string>
     <string name="compose_create_file">Crea un file</string>

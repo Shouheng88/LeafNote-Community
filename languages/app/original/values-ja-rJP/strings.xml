@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">作成時間</string>
     <string name="compose_note_info_updated">最終更新</string>
     <string name="compose_note_info_path">ストレージパス</string>
+    <string name="compose_note_info_encoding">エンコーディング</string>
     <string name="compose_history_not_found">メモの履歴がありません</string>
     <string name="compose_history_confirm">処理結果メモの内容を使用して確定します（これは前に編集した内容を上書きします）？</string>
     <string name="compose_create_file">ファイルの作成</string>

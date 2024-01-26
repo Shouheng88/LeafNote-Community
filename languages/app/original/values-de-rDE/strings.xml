@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">Erstellungszeitpunkt</string>
     <string name="compose_note_info_updated">Neuestes Update</string>
     <string name="compose_note_info_path">Speicherpfad</string>
+    <string name="compose_note_info_encoding">Codierung</string>
     <string name="compose_history_not_found">Für diese Notiz gibt es keinen Verlauf</string>
     <string name="compose_history_confirm">Sind Sie sicher, dass Sie den Inhalt der Verarbeitungsergebnisnotiz verwenden möchten (dadurch wird der zuvor bearbeitete Inhalt überschrieben)?</string>
     <string name="compose_create_file">Erstellen Sie eine Datei</string>

@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">생성 시간</string>
     <string name="compose_note_info_updated">최종 업데이트</string>
     <string name="compose_note_info_path">스토리지 경로</string>
+    <string name="compose_note_info_encoding">부호화</string>
     <string name="compose_history_not_found">메모할 히스토리가 없습니다.</string>
     <string name="compose_history_confirm">처리 결과 메모를 사용할지 결정합니다 (이전에 편집한 내용을 덮어씁니다).</string>
     <string name="compose_create_file">파일 만들기</string>

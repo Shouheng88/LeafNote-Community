@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">创建时间</string>
     <string name="compose_note_info_updated">最后更新</string>
     <string name="compose_note_info_path">存储路径</string>
+    <string name="compose_note_info_encoding">编码</string>
     <string name="compose_history_not_found">没有该笔记的历史记录</string>
     <string name="compose_history_confirm">确定使用处理结果笔记内容（这会覆盖之前编辑的内容）？</string>
     <string name="compose_create_file">创建文件</string>

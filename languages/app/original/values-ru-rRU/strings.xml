@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">Время создания</string>
     <string name="compose_note_info_updated">Последнее обновление</string>
     <string name="compose_note_info_path">Путь хранения</string>
+    <string name="compose_note_info_encoding">Кодирование</string>
     <string name="compose_history_not_found">Для этой заметки нет истории</string>
     <string name="compose_history_confirm">Вы уверены, что хотите использовать содержимое примечания к результату обработки (при этом будет перезаписано ранее отредактированное содержимое)?</string>
     <string name="compose_create_file">Создать файл</string>

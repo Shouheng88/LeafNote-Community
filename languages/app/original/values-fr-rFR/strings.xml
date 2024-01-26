@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">Temps de creation</string>
     <string name="compose_note_info_updated">Dernière mise à jour</string>
     <string name="compose_note_info_path">Chemin de stockage</string>
+    <string name="compose_note_info_encoding">Codage</string>
     <string name="compose_history_not_found">Il n\'y a pas d\'historique pour cette note</string>
     <string name="compose_history_confirm">Êtes-vous sûr de vouloir utiliser le contenu de la note de résultat du traitement (cela écrasera le contenu précédemment modifié) ?</string>
     <string name="compose_create_file">Créer un fichier</string>

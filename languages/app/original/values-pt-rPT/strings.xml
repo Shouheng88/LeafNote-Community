@@ -317,6 +317,7 @@
     <string name="compose_note_info_created">Tempo de criação</string>
     <string name="compose_note_info_updated">Última actualização</string>
     <string name="compose_note_info_path">Localização do Armazenamento</string>
+    <string name="compose_note_info_encoding">Codificação</string>
     <string name="compose_history_not_found">Não há história para esta nota</string>
     <string name="compose_history_confirm">Você tem certeza de usar o conteúdo da nota do resultado do processamento (que substituirá o conteúdo editado anteriormente)?</string>
     <string name="compose_create_file">Criar um ficheiro</string>
