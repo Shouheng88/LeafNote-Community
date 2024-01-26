@@ -1,3 +1,17 @@
+## 4.1.5 
+ - 98839b5d feat: docs
+- 122f1737 feat: text res
+- 59af540f fix: text encoding issue
+- 6186862a rfct: note saver
+- 19b89348 rfct: draft save logic
+- 7494cda6 rfct: draft logic
+- ae2e6dd1 feat: code change
+- 53bcd205 rfct: FailureManager
+- d921e99b rfct: SearchManager
+- 45fdf8b5 rfct: ShortcutManager
+- 66e56919 rfct: IntroManager
+- 98bb1d86 rfct: MessageManager
+- 350dbb27 Merge pull request #148 from Shouheng88/feature-4.1.2
 ## 4.1.2 
  - 
 ## 4.1.2 
