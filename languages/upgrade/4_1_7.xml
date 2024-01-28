@@ -1,0 +1,39 @@
+<en-US>
+Handling issues reading and writing non-UTF-8 encoded files.
+</en-US>
+<ja-JP>
+非 UTF-8 エンコードファイルの読み取りおよび書き込みの問題の処理。
+</ja-JP>
+<zh-CN>
+处理读取和写入非 UTF-8 编码文件的问题。
+</zh-CN>
+<zh-TW>
+處理讀取和寫入非 UTF-8 編碼檔案的問題。
+</zh-TW>
+<zh-HK>
+處理讀取和寫入非 UTF-8 編碼檔案的問題。
+</zh-HK>
+<zh-MO>
+處理讀取和寫入非 UTF-8 編碼檔案的問題。
+</zh-MO>
+<ko-KR>
+UTF-8이 아닌 인코딩된 파일을 읽고 쓰는 문제를 처리합니다.
+</ko-KR>
+<de-DE>
+Behebung von Problemen beim Lesen und Schreiben von nicht UTF-8-codierten Dateien.
+</de-DE>
+<es-ES>
+Manejo de problemas al leer y escribir archivos no codificados en UTF-8.
+</es-ES>
+<pt-PT>
+Lidando com problemas de leitura e gravação de arquivos não codificados em UTF-8.
+</pt-PT>
+<fr-FR>
+Gestion des problèmes de lecture et d&#39;écriture de fichiers non codés en UTF-8.
+</fr-FR>
+<it-IT>
+Gestione dei problemi di lettura e scrittura di file con codifica non UTF-8.
+</it-IT>
+<ru-RU>
+Обработка проблем с чтением и записью файлов в кодировке, отличной от UTF-8.
+</ru-RU>
