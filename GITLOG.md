@@ -1,3 +1,6 @@
+## 4.1.6 
+ - 9344f9ac fix: launch mode issue
+- 225c44bd Merge pull request #150 from Shouheng88/feature-4.1.5
 ## 4.1.5 
  - 98839b5d feat: docs
 - 122f1737 feat: text res
