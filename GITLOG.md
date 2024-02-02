@@ -1,3 +1,11 @@
+## 4.1.8 
+ - 05440b24 feat: update local device info
+- d13459b5 feat: user account "null" issue
+- 54f142ef feat: change json deserializer of models with date
+- 1a23b575 feat: docs
+- 23db4a9c feat: change json deserializer of models without date
+- 0af8f711 feat: docs
+- 3bab3d21 Merge pull request #151 from Shouheng88/feature-4.1.6
 ## 4.1.6 
  - 9344f9ac fix: launch mode issue
 - 225c44bd Merge pull request #150 from Shouheng88/feature-4.1.5
