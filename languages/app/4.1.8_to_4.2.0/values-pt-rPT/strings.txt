@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> Usando
+
+:name> common_cancel
+:text> Cancelar
+
+:name> common_confirm
+:text> confirme
+
+:name> common_enabled
+:text> ativado
+
+:name> common_disabled
+:text> encerrado
+
+:name> common_set_security
+:text> Segurança
+
+:name> common_set_security_critical_freezing
+:text> Este recurso está congelado no momento. Tente novamente em %d horas!
+
+:name> common_set_security_critical_freeze_tip
+:text> Como você digitou a senha errada várias vezes, esta função está congelada por motivos de segurança. Tente novamente em %d horas!
+
+:name> common_set_security_applock_enable
+:text> Ativar senha do aplicativo
+
+:name> common_set_security_reset_password
+:text> alterar a senha
+
+:name> common_set_security_reset_password_succeed
+:text> a senha foi alterada
+
+:name> common_set_security_security_questions
+:text> Pergunta de segurança
+
+:name> common_set_security_security_questions_question
+:text> pergunta
+
+:name> common_set_security_security_questions_answer
+:text> Responder
+
+:name> common_set_security_security_questions_added
+:text> adicionado
+
+:name> common_set_security_security_questions_require_hint
+:text> Adicione uma pergunta de segurança
+
+:name> common_set_security_security_questions_answer_hint
+:text> Por favor digite a resposta para a pergunta
+
+:name> common_set_security_security_questions_answer_tip
+:text> Por favor responda: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> por favor, coloque sua resposta
+
+:name> common_set_security_security_questions_question_required
+:text> Por favor insira sua pergunta
+
+:name> common_set_security_security_questions_answer_wrong
+:text> resposta errada! Verifique suas respostas e tente novamente!
+
+:name> common_set_security_biometric
+:text> Ativar verificação biométrica
+
+:name> common_set_security_biometric_title
+:text> Por favor, autentique
+
+:name> common_set_security_biometric_summary
+:text> Como impressão digital, íris, reconhecimento facial, etc.
+
+:name> set_theme_theme_pink_pink
+:text> Rosa + Rosa
+
+:name> set_theme_theme_green_green
+:text> Protetor ocular
+

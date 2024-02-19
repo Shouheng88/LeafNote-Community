@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> 使用中
+
+:name> common_cancel
+:text> 取消
+
+:name> common_confirm
+:text> 确认
+
+:name> common_enabled
+:text> 已启用
+
+:name> common_disabled
+:text> 已停用
+
+:name> common_set_security
+:text> 安全
+
+:name> common_set_security_critical_freezing
+:text> 该功能目前处于冻结状态，请于 %d 小时之后再尝试！
+
+:name> common_set_security_critical_freeze_tip
+:text> 由于你多次输入错误密码，出于安全考虑，该功能目前处于冻结状态，请于 %d 小时之后再尝试！
+
+:name> common_set_security_applock_enable
+:text> 启用应用密码
+
+:name> common_set_security_reset_password
+:text> 修改密码
+
+:name> common_set_security_reset_password_succeed
+:text> 密码已修改
+
+:name> common_set_security_security_questions
+:text> 密保问题
+
+:name> common_set_security_security_questions_question
+:text> 问题
+
+:name> common_set_security_security_questions_answer
+:text> 答案
+
+:name> common_set_security_security_questions_added
+:text> 已添加
+
+:name> common_set_security_security_questions_require_hint
+:text> 请添加一个密保问题
+
+:name> common_set_security_security_questions_answer_hint
+:text> 请输入问题的答案
+
+:name> common_set_security_security_questions_answer_tip
+:text> 请回答：%s
+
+:name> common_set_security_security_questions_answer_required
+:text> 请输入你的答案
+
+:name> common_set_security_security_questions_question_required
+:text> 请输入你的问题
+
+:name> common_set_security_security_questions_answer_wrong
+:text> 回答错误！请检查你的答案并再次尝试！
+
+:name> common_set_security_biometric
+:text> 启用生物信息验证
+
+:name> common_set_security_biometric_title
+:text> 请进行身份验证
+
+:name> common_set_security_biometric_summary
+:text> 比如指纹、虹膜、面部识别等
+
+:name> set_theme_theme_pink_pink
+:text> 粉色 + 粉色
+
+:name> set_theme_theme_green_green
+:text> 护眼模式
+

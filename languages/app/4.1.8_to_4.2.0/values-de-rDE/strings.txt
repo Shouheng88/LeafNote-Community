@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> Benutzen
+
+:name> common_cancel
+:text> Stornieren
+
+:name> common_confirm
+:text> Bestätigen
+
+:name> common_enabled
+:text> aktiviert
+
+:name> common_disabled
+:text> beendet
+
+:name> common_set_security
+:text> Sicherheit
+
+:name> common_set_security_critical_freezing
+:text> Diese Funktion ist derzeit eingefroren. Bitte versuchen Sie es in %d Stunden erneut!
+
+:name> common_set_security_critical_freeze_tip
+:text> Da Sie mehrmals das falsche Passwort eingegeben haben, ist diese Funktion derzeit aus Sicherheitsgründen eingefroren. Bitte versuchen Sie es in %d Stunden erneut!
+
+:name> common_set_security_applock_enable
+:text> App-Passwort aktivieren
+
+:name> common_set_security_reset_password
+:text> Kennwort ändern
+
+:name> common_set_security_reset_password_succeed
+:text> Das Passwort wurde geändert
+
+:name> common_set_security_security_questions
+:text> Sicherheitsfrage
+
+:name> common_set_security_security_questions_question
+:text> Frage
+
+:name> common_set_security_security_questions_answer
+:text> Antwort
+
+:name> common_set_security_security_questions_added
+:text> hinzugefügt
+
+:name> common_set_security_security_questions_require_hint
+:text> Bitte fügen Sie eine Sicherheitsfrage hinzu
+
+:name> common_set_security_security_questions_answer_hint
+:text> Bitte geben Sie die Antwort auf die Frage ein
+
+:name> common_set_security_security_questions_answer_tip
+:text> Bitte antworten Sie: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> Bitte gib deine Antwort ein
+
+:name> common_set_security_security_questions_question_required
+:text> Bitte geben Sie Ihre Frage ein
+
+:name> common_set_security_security_questions_answer_wrong
+:text> falsche Antwort! Bitte überprüfen Sie Ihre Antworten und versuchen Sie es erneut!
+
+:name> common_set_security_biometric
+:text> Biometrische Verifizierung aktivieren
+
+:name> common_set_security_biometric_title
+:text> Bitte authentifizieren Sie sich
+
+:name> common_set_security_biometric_summary
+:text> Wie Fingerabdruck, Iris, Gesichtserkennung usw.
+
+:name> set_theme_theme_pink_pink
+:text> Rosa + Rosa
+
+:name> set_theme_theme_green_green
+:text> Augenschutz
+

@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> En utilisant
+
+:name> common_cancel
+:text> Annuler
+
+:name> common_confirm
+:text> Confirmer
+
+:name> common_enabled
+:text> activé
+
+:name> common_disabled
+:text> terminé
+
+:name> common_set_security
+:text> Sécurité
+
+:name> common_set_security_critical_freezing
+:text> Cette fonctionnalité est actuellement gelée, veuillez réessayer dans %d heures !
+
+:name> common_set_security_critical_freeze_tip
+:text> Étant donné que vous avez saisi plusieurs fois un mot de passe erroné, cette fonction est actuellement gelée pour des raisons de sécurité. Veuillez réessayer dans %d heures !
+
+:name> common_set_security_applock_enable
+:text> Activer le mot de passe de l\'application
+
+:name> common_set_security_reset_password
+:text> changer le mot de passe
+
+:name> common_set_security_reset_password_succeed
+:text> Le mot de passe a été changé
+
+:name> common_set_security_security_questions
+:text> question de sécurité
+
+:name> common_set_security_security_questions_question
+:text> question
+
+:name> common_set_security_security_questions_answer
+:text> Répondre
+
+:name> common_set_security_security_questions_added
+:text> ajoutée
+
+:name> common_set_security_security_questions_require_hint
+:text> Veuillez ajouter une question de sécurité
+
+:name> common_set_security_security_questions_answer_hint
+:text> Veuillez entrer la réponse à la question
+
+:name> common_set_security_security_questions_answer_tip
+:text> Veuillez répondre : %s
+
+:name> common_set_security_security_questions_answer_required
+:text> Veuillez entrer votre réponse
+
+:name> common_set_security_security_questions_question_required
+:text> Veuillez entrer votre question
+
+:name> common_set_security_security_questions_answer_wrong
+:text> mauvaise réponse! Veuillez vérifier vos réponses et réessayer !
+
+:name> common_set_security_biometric
+:text> Activer la vérification biométrique
+
+:name> common_set_security_biometric_title
+:text> Veuillez vous authentifier
+
+:name> common_set_security_biometric_summary
+:text> Tels que les empreintes digitales, l\'iris, la reconnaissance faciale, etc.
+
+:name> set_theme_theme_pink_pink
+:text> Rose + Rose
+
+:name> set_theme_theme_green_green
+:text> Protection des yeux
+

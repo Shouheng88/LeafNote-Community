@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> 使用する
+
+:name> common_cancel
+:text> キャンセル
+
+:name> common_confirm
+:text> 確認する
+
+:name> common_enabled
+:text> アクティブ化された
+
+:name> common_disabled
+:text> 終了しました
+
+:name> common_set_security
+:text> 安全性
+
+:name> common_set_security_critical_freezing
+:text> この機能は現在凍結されています。%d 時間後にもう一度お試しください。
+
+:name> common_set_security_critical_freeze_tip
+:text> 間違ったパスワードを複数回入力したため、この機能はセキュリティ上の理由から現在凍結されています。%d 時間後にもう一度お試しください。
+
+:name> common_set_security_applock_enable
+:text> アプリパスワードを有効にする
+
+:name> common_set_security_reset_password
+:text> パスワードを変更する
+
+:name> common_set_security_reset_password_succeed
+:text> パスワードが変更されました
+
+:name> common_set_security_security_questions
+:text> 秘密の質問
+
+:name> common_set_security_security_questions_question
+:text> 質問
+
+:name> common_set_security_security_questions_answer
+:text> 答え
+
+:name> common_set_security_security_questions_added
+:text> 追加した
+
+:name> common_set_security_security_questions_require_hint
+:text> 秘密の質問を追加してください
+
+:name> common_set_security_security_questions_answer_hint
+:text> 質問に対する答えを入力してください
+
+:name> common_set_security_security_questions_answer_tip
+:text> 答えてください: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> 答えを入力してください
+
+:name> common_set_security_security_questions_question_required
+:text> 質問を入力してください
+
+:name> common_set_security_security_questions_answer_wrong
+:text> 間違った答え！答えを確認してもう一度お試しください。
+
+:name> common_set_security_biometric
+:text> 生体認証を有効にする
+
+:name> common_set_security_biometric_title
+:text> 認証してください
+
+:name> common_set_security_biometric_summary
+:text> 指紋、虹彩、顔認識など。
+
+:name> set_theme_theme_pink_pink
+:text> ピンク+ピンク
+
+:name> set_theme_theme_green_green
+:text> 目の保護
+

@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> 사용
+
+:name> common_cancel
+:text> 취소
+
+:name> common_confirm
+:text> 확인하다
+
+:name> common_enabled
+:text> 활성화됨
+
+:name> common_disabled
+:text> 종료됨
+
+:name> common_set_security
+:text> 안전
+
+:name> common_set_security_critical_freezing
+:text> 이 기능은 현재 정지되어 있습니다. %d시간 후에 다시 시도해 주세요!
+
+:name> common_set_security_critical_freeze_tip
+:text> 잘못된 비밀번호를 여러 번 입력했기 때문에 현재 보안상의 이유로 이 기능이 정지되었습니다. %d시간 후에 다시 시도해 주세요!
+
+:name> common_set_security_applock_enable
+:text> 앱 비밀번호 활성화
+
+:name> common_set_security_reset_password
+:text> 비밀번호 변경
+
+:name> common_set_security_reset_password_succeed
+:text> 비밀번호가 변경되었습니다
+
+:name> common_set_security_security_questions
+:text> 보안 질문
+
+:name> common_set_security_security_questions_question
+:text> 질문
+
+:name> common_set_security_security_questions_answer
+:text> 답변
+
+:name> common_set_security_security_questions_added
+:text> 추가됨
+
+:name> common_set_security_security_questions_require_hint
+:text> 보안 질문을 추가하세요.
+
+:name> common_set_security_security_questions_answer_hint
+:text> 질문에 대한 답변을 입력해주세요
+
+:name> common_set_security_security_questions_answer_tip
+:text> 대답해주세요: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> 답변을 입력해주세요
+
+:name> common_set_security_security_questions_question_required
+:text> 질문을 입력해주세요
+
+:name> common_set_security_security_questions_answer_wrong
+:text> 잘못된 답변! 답변을 확인하신 후 다시 시도해 주세요!
+
+:name> common_set_security_biometric
+:text> 생체 인증 활성화
+
+:name> common_set_security_biometric_title
+:text> 인증해주세요
+
+:name> common_set_security_biometric_summary
+:text> 지문인식, 홍채인식, 안면인식 등
+
+:name> set_theme_theme_pink_pink
+:text> 핑크 + 핑크
+
+:name> set_theme_theme_green_green
+:text> 눈 보호
+

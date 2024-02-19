@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> С использованием
+
+:name> common_cancel
+:text> Отмена
+
+:name> common_confirm
+:text> Подтверждать
+
+:name> common_enabled
+:text> активирован
+
+:name> common_disabled
+:text> прекращено
+
+:name> common_set_security
+:text> Безопасность
+
+:name> common_set_security_critical_freezing
+:text> Эта функция в настоящее время заблокирована. Повторите попытку через %d часов!
+
+:name> common_set_security_critical_freeze_tip
+:text> Поскольку вы несколько раз ввели неправильный пароль, эта функция в настоящее время заблокирована по соображениям безопасности. Повторите попытку через %d часов!
+
+:name> common_set_security_applock_enable
+:text> Включить пароль приложения
+
+:name> common_set_security_reset_password
+:text> изменить пароль
+
+:name> common_set_security_reset_password_succeed
+:text> пароль был изменен
+
+:name> common_set_security_security_questions
+:text> Контрольный вопрос
+
+:name> common_set_security_security_questions_question
+:text> вопрос
+
+:name> common_set_security_security_questions_answer
+:text> Отвечать
+
+:name> common_set_security_security_questions_added
+:text> добавлен
+
+:name> common_set_security_security_questions_require_hint
+:text> Пожалуйста, добавьте секретный вопрос
+
+:name> common_set_security_security_questions_answer_hint
+:text> Пожалуйста, введите ответ на вопрос
+
+:name> common_set_security_security_questions_answer_tip
+:text> Пожалуйста, ответьте: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> Пожалуйста, введите Ваш ответ
+
+:name> common_set_security_security_questions_question_required
+:text> Пожалуйста, введите ваш вопрос
+
+:name> common_set_security_security_questions_answer_wrong
+:text> неверный ответ! Пожалуйста, проверьте свои ответы и попробуйте еще раз!
+
+:name> common_set_security_biometric
+:text> Включить биометрическую проверку
+
+:name> common_set_security_biometric_title
+:text> Пожалуйста, подтвердите подлинность
+
+:name> common_set_security_biometric_summary
+:text> Такие как отпечатки пальцев, радужная оболочка глаза, распознавание лиц и т. д.
+
+:name> set_theme_theme_pink_pink
+:text> Розовый + Розовый
+
+:name> set_theme_theme_green_green
+:text> Защита глаз
+

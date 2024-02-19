@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> Using
+
+:name> common_cancel
+:text> Cancel
+
+:name> common_confirm
+:text> Confirm
+
+:name> common_enabled
+:text> activated
+
+:name> common_disabled
+:text> terminated
+
+:name> common_set_security
+:text> Safety
+
+:name> common_set_security_critical_freezing
+:text> This feature is currently frozen, please try again in %d hours!
+
+:name> common_set_security_critical_freeze_tip
+:text> Because you entered the wrong password multiple times, this function is currently frozen for security reasons. Please try again in %d hours!
+
+:name> common_set_security_applock_enable
+:text> Enable app password
+
+:name> common_set_security_reset_password
+:text> change Password
+
+:name> common_set_security_reset_password_succeed
+:text> Password has been changed
+
+:name> common_set_security_security_questions
+:text> Security Question
+
+:name> common_set_security_security_questions_question
+:text> question
+
+:name> common_set_security_security_questions_answer
+:text> Answer
+
+:name> common_set_security_security_questions_added
+:text> added
+
+:name> common_set_security_security_questions_require_hint
+:text> Please add a security question
+
+:name> common_set_security_security_questions_answer_hint
+:text> Please enter the answer to the question
+
+:name> common_set_security_security_questions_answer_tip
+:text> Please answer: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> Please enter your answer
+
+:name> common_set_security_security_questions_question_required
+:text> Please enter your question
+
+:name> common_set_security_security_questions_answer_wrong
+:text> wrong answer! Please check your answers and try again!
+
+:name> common_set_security_biometric
+:text> Enable biometric verification
+
+:name> common_set_security_biometric_title
+:text> Please authenticate
+
+:name> common_set_security_biometric_summary
+:text> Such as fingerprint, iris, facial recognition, etc.
+
+:name> set_theme_theme_pink_pink
+:text> Pink + Pink
+
+:name> set_theme_theme_green_green
+:text> Eye Protection
+

@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> Utilizzando
+
+:name> common_cancel
+:text> Annulla
+
+:name> common_confirm
+:text> Confermare
+
+:name> common_enabled
+:text> attivato
+
+:name> common_disabled
+:text> terminato
+
+:name> common_set_security
+:text> Sicurezza
+
+:name> common_set_security_critical_freezing
+:text> Questa funzione è attualmente bloccata, riprova tra %d ore!
+
+:name> common_set_security_critical_freeze_tip
+:text> Poiché hai inserito più volte la password errata, questa funzione è attualmente bloccata per motivi di sicurezza. Riprova tra %d ore!
+
+:name> common_set_security_applock_enable
+:text> Abilita la password dell\'app
+
+:name> common_set_security_reset_password
+:text> cambiare la password
+
+:name> common_set_security_reset_password_succeed
+:text> la password è stata cambiata
+
+:name> common_set_security_security_questions
+:text> Domanda di Sicurezza
+
+:name> common_set_security_security_questions_question
+:text> domanda
+
+:name> common_set_security_security_questions_answer
+:text> Risposta
+
+:name> common_set_security_security_questions_added
+:text> aggiunto
+
+:name> common_set_security_security_questions_require_hint
+:text> Per favore aggiungi una domanda di sicurezza
+
+:name> common_set_security_security_questions_answer_hint
+:text> Inserisci la risposta alla domanda
+
+:name> common_set_security_security_questions_answer_tip
+:text> Per favore rispondi: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> per favore inserisci LA TUA RISPOSTA
+
+:name> common_set_security_security_questions_question_required
+:text> Inserisci la tua domanda
+
+:name> common_set_security_security_questions_answer_wrong
+:text> risposta sbagliata! Per favore controlla le tue risposte e riprova!
+
+:name> common_set_security_biometric
+:text> Abilita la verifica biometrica
+
+:name> common_set_security_biometric_title
+:text> Per favore autenticati
+
+:name> common_set_security_biometric_summary
+:text> Come l\'impronta digitale, l\'iride, il riconoscimento facciale, ecc.
+
+:name> set_theme_theme_pink_pink
+:text> Rosa + Rosa
+
+:name> set_theme_theme_green_green
+:text> Protezione per gli occhi
+

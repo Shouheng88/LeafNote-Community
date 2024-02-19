@@ -1,0 +1,78 @@
+:name> common_theme_in_use
+:text> Usando
+
+:name> common_cancel
+:text> Cancelar
+
+:name> common_confirm
+:text> Confirmar
+
+:name> common_enabled
+:text> activado
+
+:name> common_disabled
+:text> terminado
+
+:name> common_set_security
+:text> Seguridad
+
+:name> common_set_security_critical_freezing
+:text> Esta función está actualmente congelada. Inténtalo de nuevo en %d horas.
+
+:name> common_set_security_critical_freeze_tip
+:text> Debido a que ingresaste la contraseña incorrecta varias veces, esta función está actualmente congelada por razones de seguridad. Inténtalo de nuevo en %d horas.
+
+:name> common_set_security_applock_enable
+:text> Habilitar contraseña de aplicación
+
+:name> common_set_security_reset_password
+:text> cambiar la contraseña
+
+:name> common_set_security_reset_password_succeed
+:text> la contraseña ha sido cambiada
+
+:name> common_set_security_security_questions
+:text> Pregunta de seguridad
+
+:name> common_set_security_security_questions_question
+:text> pregunta
+
+:name> common_set_security_security_questions_answer
+:text> Respuesta
+
+:name> common_set_security_security_questions_added
+:text> agregado
+
+:name> common_set_security_security_questions_require_hint
+:text> Por favor agregue una pregunta de seguridad
+
+:name> common_set_security_security_questions_answer_hint
+:text> Por favor ingrese la respuesta a la pregunta.
+
+:name> common_set_security_security_questions_answer_tip
+:text> Por favor responda: %s
+
+:name> common_set_security_security_questions_answer_required
+:text> Por favor escriba su respuesta
+
+:name> common_set_security_security_questions_question_required
+:text> Por favor ingrese su pregunta
+
+:name> common_set_security_security_questions_answer_wrong
+:text> ¡respuesta incorrecta! ¡Comprueba tus respuestas y vuelve a intentarlo!
+
+:name> common_set_security_biometric
+:text> Habilitar la verificación biométrica
+
+:name> common_set_security_biometric_title
+:text> Por favor autentíquese
+
+:name> common_set_security_biometric_summary
+:text> Como huella dactilar, iris, reconocimiento facial, etc.
+
+:name> set_theme_theme_pink_pink
+:text> Rosa + Rosa
+
+:name> set_theme_theme_green_green
+:text> Protección para los ojos
+
