@@ -1,3 +1,38 @@
+## 4.2.0 
+ - d635a587 feat: code issue
+- dd2445e8 feat:texts
+- d6930ef8 feat: image issues
+- 19f94f94 feat: docs
+- be902ba4 feat: add new themes
+- 19cfb29a feat: theme picker style
+- 3608d1c7 feat: ui style
+- deb83161 feat: app themes
+- 066dd1b4 feat: add god mode
+- caaecc55 feat: add security logic
+- 2ed8c999 feat: change drawer icons
+- 43884787 fix: button click region
+- 0047af3d rfct: doc
+- f9ac474a rfct: change string to shorts
+- 41d0f3fd rfct: change string to shorts
+- 63d508a4 rfct: add native state check methods
+- d0be1cb2 rfct: add native state check methods
+- 9a489680 rfct: move sync method to native
+- 2b39e66f rfct: security method bool checker
+- 9a640938 rfct: check device info method
+- 2383644d rfct: add new security methods
+- 357b2158 rfct: change byteutils
+- dff3d700 Rename .java to .kt
+- 19997d08 rfct: cmake options
+- 69802a4d rfct: make goods type methods inline
+- a203d9f4 rfct: remove useless methods
+- de4cf232 rfct: security shield theme and style methods
+- be281c50 rfct: security shield methods
+- 989f01f6 rfct: security shield methods
+- 56f64011 rfct: security shield methods
+- ab2ca0e5 feat: enable cmake and change dididada
+- 5c8d3cbd Merge pull request #152 from Shouheng88/feature-4.1.8
+- 4f8c8589 fix: code issue
+- 6af0ac40 feat: docs
 ## 4.1.8 
  - 05440b24 feat: update local device info
 - d13459b5 feat: user account "null" issue
