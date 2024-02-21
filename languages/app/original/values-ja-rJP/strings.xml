@@ -309,6 +309,7 @@
     <string name="compose_image_network">Web画像リンク</string>
     <string name="compose_image_inside">アプリケーション内の画像</string>
     <string name="compose_note_setting">メモの設定</string>
+    <string name="compose_note_setting_note_style">音符のスタイル</string>
     <string name="compose_note_setting_style">エディタテーマ</string>
     <string name="compose_note_setting_code_style">コードスタイル</string>
     <string name="compose_note_align_left">左揃え</string>

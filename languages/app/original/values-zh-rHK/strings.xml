@@ -309,6 +309,7 @@
     <string name="compose_image_network">網路圖片連結</string>
     <string name="compose_image_inside">應用內圖片</string>
     <string name="compose_note_setting">筆記設定</string>
+    <string name="compose_note_setting_note_style">筆記樣式</string>
     <string name="compose_note_setting_style">編輯器主題</string>
     <string name="compose_note_setting_code_style">代碼風格</string>
     <string name="compose_note_align_left">左對齊</string>

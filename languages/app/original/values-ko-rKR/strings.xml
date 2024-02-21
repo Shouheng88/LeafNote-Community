@@ -309,6 +309,7 @@
     <string name="compose_image_network">네트워크 사진 링크</string>
     <string name="compose_image_inside">응용 프로그램 내 그림</string>
     <string name="compose_note_setting">노트 설정</string>
+    <string name="compose_note_setting_note_style">메모 스타일</string>
     <string name="compose_note_setting_style">편집기 테마</string>
     <string name="compose_note_setting_code_style">코드 스타일</string>
     <string name="compose_note_align_left">왼쪽 정렬</string>

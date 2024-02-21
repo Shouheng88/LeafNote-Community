@@ -309,6 +309,7 @@
     <string name="compose_image_network">Ссылка на картинку в интернете</string>
     <string name="compose_image_inside">Изображения в приложении</string>
     <string name="compose_note_setting">Настройки заметок</string>
+    <string name="compose_note_setting_note_style">Примечание Стиль</string>
     <string name="compose_note_setting_style">Редактор темы</string>
     <string name="compose_note_setting_code_style">Стиль кодирования</string>
     <string name="compose_note_align_left">Выравнивание по левому краю</string>

@@ -309,6 +309,7 @@
     <string name="compose_image_network">Collegamento a immagini Internet</string>
     <string name="compose_image_inside">Immagini nell\'app</string>
     <string name="compose_note_setting">Impostazioni della nota</string>
+    <string name="compose_note_setting_note_style">Stile della nota</string>
     <string name="compose_note_setting_style">Tema dell\'editore</string>
     <string name="compose_note_setting_code_style">Stile di codifica</string>
     <string name="compose_note_align_left">Allineato a sinistra</string>

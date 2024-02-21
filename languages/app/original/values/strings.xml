@@ -310,8 +310,9 @@
     <string name="compose_image_network">Input network image</string>
     <string name="compose_image_inside">Picture inside App</string>
     <string name="compose_note_setting">Note setting</string>
-    <string name="compose_note_setting_style">Editor style</string>
-    <string name="compose_note_setting_code_style">Code style</string>
+    <string name="compose_note_setting_note_style">Note Style</string>
+    <string name="compose_note_setting_style">Editor Style</string>
+    <string name="compose_note_setting_code_style">Code Style</string>
     <string name="compose_note_align_left">Align left</string>
     <string name="compose_note_align_right">Align right</string>
     <string name="compose_note_align_center">Align center</string>

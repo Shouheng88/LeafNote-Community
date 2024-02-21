@@ -309,6 +309,7 @@
     <string name="compose_image_network">网络图片链接</string>
     <string name="compose_image_inside">应用内图片</string>
     <string name="compose_note_setting">笔记设置</string>
+    <string name="compose_note_setting_note_style">笔记样式</string>
     <string name="compose_note_setting_style">编辑器主题</string>
     <string name="compose_note_setting_code_style">代码风格</string>
     <string name="compose_note_align_left">左对齐</string>

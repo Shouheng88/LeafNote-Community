@@ -309,6 +309,7 @@
     <string name="compose_image_network">Internet-Bildlink</string>
     <string name="compose_image_inside">In-App-Bilder</string>
     <string name="compose_note_setting">Notizeinstellungen</string>
+    <string name="compose_note_setting_note_style">Notenstil</string>
     <string name="compose_note_setting_style">Editor-Thema</string>
     <string name="compose_note_setting_code_style">Codierungsstil</string>
     <string name="compose_note_align_left">Linksbündig</string>

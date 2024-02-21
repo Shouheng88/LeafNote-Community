@@ -309,6 +309,7 @@
     <string name="compose_image_network">Ligação da imagem da rede</string>
     <string name="compose_image_inside">Nas imagens da aplicação</string>
     <string name="compose_note_setting">Configuração da Nota</string>
+    <string name="compose_note_setting_note_style">Estilo de nota</string>
     <string name="compose_note_setting_style">Tema do Editor</string>
     <string name="compose_note_setting_code_style">Estilo de Código</string>
     <string name="compose_note_align_left">Alinhar à Esquerda</string>
