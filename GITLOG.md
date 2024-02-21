@@ -1,3 +1,21 @@
+## 4.2.3 
+ - fae4692e feat: docs
+- 1b5c1441 feat: docs
+- 0a114d7f feat: texts
+- a4efc1d8 feat: docs
+- d016ddf6 feat: premium animation
+- 63108be3 feat: adapter nav bar
+- 5720ea3f feat: tag pick issue
+- 01511cfa feat: tag pick issue
+- cb250f5f feat: note setting list style
+- 48ae247e feat: custom tag logic
+- 43af646f feat: docs
+- 98cc746c feat: nav bar
+- b3bdec8e feat: premium nav bar
+- de303928 fix: adapter for nav bar
+- b89b2491 Merge pull request #155 from Shouheng88/feature-4.2.0-security
+- 7df5f5be Merge pull request #154 from Shouheng88/feature-4.2.0-security
+- 79750e3c fix: texts
 ## 4.2.0 
  - d635a587 feat: code issue
 - dd2445e8 feat:texts
