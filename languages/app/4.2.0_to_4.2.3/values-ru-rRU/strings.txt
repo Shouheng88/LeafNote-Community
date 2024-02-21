@@ -1,0 +1,7 @@
+:name> compose_note_setting_note_style
+:text> Примечание Стиль
+
+:name> config_found_new_version
+:text> Обнаружена новая версия
+%1$s. Хотите обновиться до новой версии? \n\n%2$s
+

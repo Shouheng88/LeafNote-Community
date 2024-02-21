@@ -1,0 +1,9 @@
+:name> compose_note_setting_note_style
+:text> Note Style
+
+:name> compose_note_setting_style
+:text> Editor Style
+
+:name> compose_note_setting_code_style
+:text> Code Style
+
