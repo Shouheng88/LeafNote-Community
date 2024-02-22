@@ -1,3 +1,27 @@
+## 4.2.5 
+ - dcd1dd7b fix: avoid show app lock twice
+- 38c0af98 feat: show install time and prepare shiled in PanGu
+- f416cea0 feat: security checker
+- 523c4d68 feat: anti-debug
+- b9a1f08d feat: anti-debug
+- 776003fe feat: show delete confirm dialog
+- 17afd0df feat: show app info
+- c684674c feat: show tag count
+- 8256bdfe feat: remove useless resources
+- e601c202 feat: docs
+- 71b54bbd fix: focus when editing
+- 3df90f52 feat: refined the sync error display
+- bc25c4ba fix: create root dir when making sure directories exists
+- 528e7f8c fix: code issue, wrong handler
+- 3933800b feat: viewer page left drawer
+- cb42a0ac feat: docs
+- 3e8bc02f feat: quick note trans shader
+- 2a421ce6 rfct: add developer options and change texts
+- aa66c859 rfct: move initializer methods to PanGu
+- ec4651e0 rfct: language library
+- 39cb7805 rfct: gradle files
+- b7b39c49 fix: crash
+- 30b61b96 Merge pull request #156 from Shouheng88/feature-20240219
 ## 4.2.3 
  - fae4692e feat: docs
 - 1b5c1441 feat: docs
