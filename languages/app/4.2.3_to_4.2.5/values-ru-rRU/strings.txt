@@ -1,0 +1,7 @@
+:name> config_found_new_version
+:text> Обнаружена новая версия %1$s. Хотите обновиться до новой версии? \n\n%2$s
+
+:name> config_to_upgrade
+:text> Пер
+ейти к обновлению
+

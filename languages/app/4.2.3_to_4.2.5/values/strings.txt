@@ -1,0 +1,9 @@
+:name> common_delete_tip
+:text> Confirm delete?
+
+:name> common_details
+:text> Details
+
+:name> common_set_security
+:text> Security
+
