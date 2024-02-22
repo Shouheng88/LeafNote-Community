@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">Benutzen</string>
     <string name="common_cancel">Stornieren</string>
     <string name="common_confirm">Bestätigen</string>
-    <string name="common_enabled">aktiviert</string>
-    <string name="common_disabled">beendet</string>
     <string name="common_set_security">Sicherheit</string>
     <string name="common_set_security_critical_freezing">Diese Funktion ist derzeit eingefroren. Bitte versuchen Sie es in %d Stunden erneut!</string>
     <string name="common_set_security_critical_freeze_tip">Da Sie mehrmals das falsche Passwort eingegeben haben, ist diese Funktion derzeit aus Sicherheitsgründen eingefroren. Bitte versuchen Sie es in %d Stunden erneut!</string>

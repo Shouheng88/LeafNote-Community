@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">使用する</string>
     <string name="common_cancel">キャンセル</string>
     <string name="common_confirm">確認する</string>
-    <string name="common_enabled">アクティブ化された</string>
-    <string name="common_disabled">終了しました</string>
     <string name="common_set_security">安全性</string>
     <string name="common_set_security_critical_freezing">この機能は現在凍結されています。%d 時間後にもう一度お試しください。</string>
     <string name="common_set_security_critical_freeze_tip">間違ったパスワードを複数回入力したため、この機能はセキュリティ上の理由から現在凍結されています。%d 時間後にもう一度お試しください。</string>

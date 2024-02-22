@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">Usando</string>
     <string name="common_cancel">Cancelar</string>
     <string name="common_confirm">Confirmar</string>
-    <string name="common_enabled">activado</string>
-    <string name="common_disabled">terminado</string>
     <string name="common_set_security">Seguridad</string>
     <string name="common_set_security_critical_freezing">Esta función está actualmente congelada. Inténtalo de nuevo en %d horas.</string>
     <string name="common_set_security_critical_freeze_tip">Debido a que ingresaste la contraseña incorrecta varias veces, esta función está actualmente congelada por razones de seguridad. Inténtalo de nuevo en %d horas.</string>

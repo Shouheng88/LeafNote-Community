@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">Usando</string>
     <string name="common_cancel">Cancelar</string>
     <string name="common_confirm">confirme</string>
-    <string name="common_enabled">ativado</string>
-    <string name="common_disabled">encerrado</string>
     <string name="common_set_security">Segurança</string>
     <string name="common_set_security_critical_freezing">Este recurso está congelado no momento. Tente novamente em %d horas!</string>
     <string name="common_set_security_critical_freeze_tip">Como você digitou a senha errada várias vezes, esta função está congelada por motivos de segurança. Tente novamente em %d horas!</string>

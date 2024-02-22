@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">사용</string>
     <string name="common_cancel">취소</string>
     <string name="common_confirm">확인하다</string>
-    <string name="common_enabled">활성화됨</string>
-    <string name="common_disabled">종료됨</string>
     <string name="common_set_security">안전</string>
     <string name="common_set_security_critical_freezing">이 기능은 현재 정지되어 있습니다. %d시간 후에 다시 시도해 주세요!</string>
     <string name="common_set_security_critical_freeze_tip">잘못된 비밀번호를 여러 번 입력했기 때문에 현재 보안상의 이유로 이 기능이 정지되었습니다. %d시간 후에 다시 시도해 주세요!</string>

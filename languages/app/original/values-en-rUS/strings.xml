@@ -70,9 +70,7 @@
     <string name="common_theme_in_use">Using</string>
     <string name="common_cancel">Cancel</string>
     <string name="common_confirm">Confirm</string>
-    <string name="common_enabled">activated</string>
-    <string name="common_disabled">terminated</string>
-    <string name="common_set_security">Safety</string>
+    <string name="common_set_security">Security</string>
     <string name="common_set_security_critical_freezing">This feature is currently frozen, please try again in %d hours!</string>
     <string name="common_set_security_critical_freeze_tip">Because you entered the wrong password multiple times, this function is currently frozen for security reasons. Please try again in %d hours!</string>
     <string name="common_set_security_applock_enable">Enable app password</string>

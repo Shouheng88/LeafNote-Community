@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">С использованием</string>
     <string name="common_cancel">Отмена</string>
     <string name="common_confirm">Подтверждать</string>
-    <string name="common_enabled">активирован</string>
-    <string name="common_disabled">прекращено</string>
     <string name="common_set_security">Безопасность</string>
     <string name="common_set_security_critical_freezing">Эта функция в настоящее время заблокирована. Повторите попытку через %d часов!</string>
     <string name="common_set_security_critical_freeze_tip">Поскольку вы несколько раз ввели неправильный пароль, эта функция в настоящее время заблокирована по соображениям безопасности. Повторите попытку через %d часов!</string>

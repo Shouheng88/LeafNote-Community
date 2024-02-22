@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">En utilisant</string>
     <string name="common_cancel">Annuler</string>
     <string name="common_confirm">Confirmer</string>
-    <string name="common_enabled">activé</string>
-    <string name="common_disabled">terminé</string>
     <string name="common_set_security">Sécurité</string>
     <string name="common_set_security_critical_freezing">Cette fonctionnalité est actuellement gelée, veuillez réessayer dans %d heures !</string>
     <string name="common_set_security_critical_freeze_tip">Étant donné que vous avez saisi plusieurs fois un mot de passe erroné, cette fonction est actuellement gelée pour des raisons de sécurité. Veuillez réessayer dans %d heures !</string>

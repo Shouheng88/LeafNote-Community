@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">使用中</string>
     <string name="common_cancel">取消</string>
     <string name="common_confirm">確認</string>
-    <string name="common_enabled">已啟用</string>
-    <string name="common_disabled">已停用</string>
     <string name="common_set_security">安全</string>
     <string name="common_set_security_critical_freezing">該功能目前處於凍結狀態，請於%d 小時後再嘗試！</string>
     <string name="common_set_security_critical_freeze_tip">由於你多次輸入錯誤密碼，出於安全考慮，該功能目前處於凍結狀態，請於%d 小時之後再嘗試！</string>

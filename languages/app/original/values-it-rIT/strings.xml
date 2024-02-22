@@ -70,8 +70,6 @@
     <string name="common_theme_in_use">Utilizzando</string>
     <string name="common_cancel">Annulla</string>
     <string name="common_confirm">Confermare</string>
-    <string name="common_enabled">attivato</string>
-    <string name="common_disabled">terminato</string>
     <string name="common_set_security">Sicurezza</string>
     <string name="common_set_security_critical_freezing">Questa funzione è attualmente bloccata, riprova tra %d ore!</string>
     <string name="common_set_security_critical_freeze_tip">Poiché hai inserito più volte la password errata, questa funzione è attualmente bloccata per motivi di sicurezza. Riprova tra %d ore!</string>
