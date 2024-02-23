@@ -3,6 +3,8 @@
 ## 4.2.5 
  - b8e324b3 feat: build script
 ## 4.2.5 
+ - b8e324b3 feat: build script
+## 4.2.5 
  - 
 ## 4.2.5 
  - dcd1dd7b fix: avoid show app lock twice
