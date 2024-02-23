@@ -1,4 +1,6 @@
 ## 4.2.5 
+ - 
+## 4.2.5 
  - dcd1dd7b fix: avoid show app lock twice
 - 38c0af98 feat: show install time and prepare shiled in PanGu
 - f416cea0 feat: security checker
