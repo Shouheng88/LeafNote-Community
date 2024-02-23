@@ -1,4 +1,9 @@
 ## 4.2.5 
+ - 032bb456 feat: texts
+- 2be6cfee feat: dialog style
+- 20a1b69d feat: add shiled info
+- b8e324b3 feat: build script
+## 4.2.5 
  - b8e324b3 feat: build script
 ## 4.2.5 
  - b8e324b3 feat: build script
