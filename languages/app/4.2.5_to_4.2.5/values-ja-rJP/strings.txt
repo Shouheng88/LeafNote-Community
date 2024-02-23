@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> 削除を確認しますか?
+
+:name> common_details
+:text> 詳細
+

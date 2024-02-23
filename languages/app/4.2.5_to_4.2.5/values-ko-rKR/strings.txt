@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> 삭제를 확인하시겠습니까?
+
+:name> common_details
+:text> 세부
+

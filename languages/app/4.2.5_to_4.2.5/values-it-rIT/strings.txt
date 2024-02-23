@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> Conferma cancellazione?
+
+:name> common_details
+:text> Dettagli
+

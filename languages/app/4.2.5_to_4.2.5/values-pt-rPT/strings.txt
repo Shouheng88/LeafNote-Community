@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> Confirmar exclusão?
+
+:name> common_details
+:text> Detalhes
+

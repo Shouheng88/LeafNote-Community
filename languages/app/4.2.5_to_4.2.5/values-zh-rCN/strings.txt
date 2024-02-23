@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> 确认删除？
+
+:name> common_details
+:text> 细节
+

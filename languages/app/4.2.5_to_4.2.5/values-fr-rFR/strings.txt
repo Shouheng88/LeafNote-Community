@@ -1,0 +1,6 @@
+:name> common_delete_tip
+:text> Confirmation de la suppression?
+
+:name> common_details
+:text> Détails
+

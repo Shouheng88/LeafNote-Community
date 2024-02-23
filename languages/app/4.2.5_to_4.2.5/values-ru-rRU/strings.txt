@@ -1,0 +1,13 @@
+:name> common_delete_tip
+:text> Подтвердите удаление?
+
+:name> common_details
+:text> Подробности
+
+:name> config_found_new_version
+:text> Обнаружена н
+овая версия %1$s. Хотите обновиться до новой версии? \n\n%2$s
+
+:name> config_to_upgrade
+:text> Перейти к обновлению
+
