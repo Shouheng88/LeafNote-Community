@@ -67,6 +67,8 @@
     <string name="file_tree">Дерево файлов</string>
     <string name="capture">Фотография</string>
     <string name="file">Документ</string>
+    <string name="common_delete_tip">Подтвердите удаление?</string>
+    <string name="common_details">Подробности</string>
     <string name="common_theme_in_use">С использованием</string>
     <string name="common_cancel">Отмена</string>
     <string name="common_confirm">Подтверждать</string>

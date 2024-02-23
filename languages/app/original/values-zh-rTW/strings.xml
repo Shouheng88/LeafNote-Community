@@ -67,6 +67,8 @@
     <string name="file_tree">檔案樹</string>
     <string name="capture">拍照</string>
     <string name="file">檔案</string>
+    <string name="common_delete_tip">確認刪除？</string>
+    <string name="common_details">細節</string>
     <string name="common_theme_in_use">使用中</string>
     <string name="common_cancel">取消</string>
     <string name="common_confirm">確認</string>

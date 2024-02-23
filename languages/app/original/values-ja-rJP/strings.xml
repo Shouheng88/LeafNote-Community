@@ -67,6 +67,8 @@
     <string name="file_tree">ファイルツリー</string>
     <string name="capture">写真を撮る</string>
     <string name="file">ファイル</string>
+    <string name="common_delete_tip">削除を確認しますか?</string>
+    <string name="common_details">詳細</string>
     <string name="common_theme_in_use">使用する</string>
     <string name="common_cancel">キャンセル</string>
     <string name="common_confirm">確認する</string>

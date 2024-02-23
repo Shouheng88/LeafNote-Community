@@ -67,6 +67,8 @@
     <string name="file_tree">Arborescence de fichiers</string>
     <string name="capture">Photographier</string>
     <string name="file">Document</string>
+    <string name="common_delete_tip">Confirmation de la suppression?</string>
+    <string name="common_details">Détails</string>
     <string name="common_theme_in_use">En utilisant</string>
     <string name="common_cancel">Annuler</string>
     <string name="common_confirm">Confirmer</string>

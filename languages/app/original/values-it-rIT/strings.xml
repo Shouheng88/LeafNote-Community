@@ -67,6 +67,8 @@
     <string name="file_tree">Albero dei file</string>
     <string name="capture">Fotografia</string>
     <string name="file">Documento</string>
+    <string name="common_delete_tip">Conferma cancellazione?</string>
+    <string name="common_details">Dettagli</string>
     <string name="common_theme_in_use">Utilizzando</string>
     <string name="common_cancel">Annulla</string>
     <string name="common_confirm">Confermare</string>

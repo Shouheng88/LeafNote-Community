@@ -67,6 +67,8 @@
     <string name="file_tree">Dateibaum</string>
     <string name="capture">Foto</string>
     <string name="file">Dokumentieren</string>
+    <string name="common_delete_tip">Löschen bestätigen?</string>
+    <string name="common_details">Einzelheiten</string>
     <string name="common_theme_in_use">Benutzen</string>
     <string name="common_cancel">Stornieren</string>
     <string name="common_confirm">Bestätigen</string>

@@ -67,6 +67,8 @@
     <string name="file_tree">File tree</string>
     <string name="capture">Capture</string>
     <string name="file">File</string>
+    <string name="common_delete_tip">Confirm delete?</string>
+    <string name="common_details">Details</string>
     <string name="common_theme_in_use">Using</string>
     <string name="common_cancel">Cancel</string>
     <string name="common_confirm">Confirm</string>

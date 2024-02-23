@@ -67,6 +67,8 @@
     <string name="file_tree">파일 트리</string>
     <string name="capture">사진 촬영</string>
     <string name="file">파일</string>
+    <string name="common_delete_tip">삭제를 확인하시겠습니까?</string>
+    <string name="common_details">세부</string>
     <string name="common_theme_in_use">사용</string>
     <string name="common_cancel">취소</string>
     <string name="common_confirm">확인하다</string>
