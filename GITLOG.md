@@ -1,3 +1,38 @@
+## 4.2.8 
+ - 6d9b9124 fix: build error
+- 90e1bf93 feat: docs
+- 7edb1eaf fix: crash npe
+- 95f3cf83 feat: texts
+- 89e76c37 fix: note time issue
+- 5bc09081 feat: pin logic
+- 892b6dcd feat: tag load state
+- 27b136d3 feat: show quick note folder tip
+- 32cc1749 feat: move quick note folder setting
+- 5f3a635c feat: quick note saving folder
+- eea005e0 feat: homepage message
+- 175ae017 feat: homepage editor bottom indicator
+- 51df0593 feat: homepage editor bottom indicator
+- eff15327 feat: add editor option tip
+- 014d572a feat: image processing back tip
+- 28ceca84 feat: image processing title
+- c216e2b9 feat: remove image effect
+- 0515db09 feat: change uiximage
+- 1ee0ec9b feat: doc
+- d1bf9a88 feat: remove todo items
+- e1a4ac71 feat: image comment editor
+- 15e5c8c7 feat: app intro page
+- 1c0a5d46 feat: docs
+- 65766297 feat: docs
+- c630d918 feat: note setting dialog foot
+- e3a31702 feat: app theme follow system
+- e93c5f91 feat: app theme follow system
+- cc564324 fix: tag load issue
+- d5ceb303 feat: allow to select activity
+- 9a0502fe Merge pull request #157 from Shouheng88/feature-20240221
+- 032bb456 feat: texts
+- 2be6cfee feat: dialog style
+- 20a1b69d feat: add shiled info
+- b8e324b3 feat: build script
 ## 4.2.5 
  - 032bb456 feat: texts
 - 2be6cfee feat: dialog style
