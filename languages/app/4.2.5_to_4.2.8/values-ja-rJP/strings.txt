@@ -1,0 +1,163 @@
+:name> pin_top
+:text> トップにピン留めする
+
+:name> pin_top_cancel
+:text> ピンをキャンセル
+
+:name> pin_pined
+:text> 上
+
+:name> common_not_set
+:text> 設定されていません
+
+:name> common_app_message
+:text> アプリケーションメッセージ
+
+:name> common_app_intro_title_1
+:text> メモと日記
+
+:name> common_app_intro_detail_1
+:text> Markdown、MathJax、テーマとスタイル、画像
+
+:name> common_app_intro_title_2
+:text> 知識ベース
+
+:name> common_app_intro_detail_2
+:text> タグ、ファイルツリー、強力な検索およびレビューシステム
+
+:name> common_app_intro_title_3
+:text> クラウド同期
+
+:name> common_app_intro_detail_3
+:text> マルチプラットフォームコラボレーション、WebDAV、インポート、ファイルシステム
+
+:name> common_app_intro_title_4
+:text> 今すぐ探索してみよう
+
+:name> common_app_intro_detail_4
+:text> 今すぐ日記を始めましょう!
+
+:name> image_processing
+:text> 画像処理
+
+:name> compose_note_align
+:text> テキストの配置
+
+:name> compose_edit_option_name_H1
+:text> ヘッダー\n#
+
+:name> compose_edit_option_name_H2
+:text> ヘッダー\n##
+
+:name> compose_edit_option_name_H3
+:text> ヘッダー\n###
+
+:name> compose_edit_option_name_H4
+:text> ヘッダー\n####
+
+:name> compose_edit_option_name_H5
+:text> ヘッダー\n#####
+
+:name> compose_edit_option_name_H6
+:text> ヘッダー\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> リスト\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 数値リスト\n -1。
+
+:name> compose_edit_option_name_CHECKBOX
+:text> チェックボックス\n- [ ]
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> チェックボックス\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> インデント
+
+:name> compose_edit_option_name_DEDENT
+:text> 凹み
+
+:name> compose_edit_option_name_QUOTE
+:text> 引用\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> インライン コード\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> コードをブロック\n```
+
+:name> compose_edit_option_name_STRIKE
+:text> ストライク\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> リネン\n------
+
+:name> compose_edit_option_name_ITALIC
+:text> 斜体\n*
+
+:name> compose_edit_option_name_BOLD
+:text> 太字\n**
+
+:name> compose_edit_option_name_MARK
+:text> マーク\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 数学\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> サブスクリプト\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> スーパー スクリプト\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> 画像\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> リンク\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> テーブル\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> 左に移動
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> 右に動く
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> 時間を追加する
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> ペースト
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> 小さな括弧
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> 中括弧
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> 大きな括弧
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用\n\"\"
+
+:name> compose_setting_quick_note_folder
+:text> クイックノートの保存先フォルダー
+
+:name> compose_setting_quick_note_folder_tip
+:text> ヒント: ノート設定でクイックノートを保存するフォルダーを変更できます。
+
+:name> compose_setting_quick_note_folder_go
+:text> 今すぐ変更してください
+
+:name> set_theme_theme_follow_system
+:text> フォローシステム
+
+:name> set_theme_theme_follow_system_tip
+:text> システムに従って、明るいテーマと暗いテーマを切り替えます。
+

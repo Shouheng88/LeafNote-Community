@@ -1,0 +1,166 @@
+:name> pin_top
+:text> Épingler en haut
+
+:name> pin_top_cancel
+:text> Annuler l\'épingle
+
+:name> pin_pined
+:text> HAUT
+
+:name> common_not_set
+:text> Pas encore défini
+
+:name> common_app_message
+:text> Messages d\'application
+
+:name> common_app_intro_title_1
+:text> Note et journal
+
+:name> common_app_intro_detail_1
+:text> Markdown, MathJax, Thèmes et styles, Images
+
+:name> common_app_intro_title_2
+:text> Base de connaissances
+
+:name> common_app_intro_detail_2
+:text> Balises, arborescences de fichiers, système de recherche et de révision puissant
+
+:name> common_app_intro_title_3
+:text> Synchronisation dans le cloud
+
+:name> common_app_intro_detail_3
+:text> Collaboration multiplateforme, WebDAV, importation, système de fichiers
+
+:name> common_app_intro_title_4
+:text> Explorez maintenant
+
+:name> common_app_intro_detail_4
+:text> Commencez votre journal maintenant !
+
+:name> image_processing
+:text> Traitement d\'image
+
+:name> compose_note_align
+:text> Aligner le texte
+
+:name> compose_edit_option_name_H1
+:text> En-tête\n#
+
+:name> compose_edit_option_name_H2
+:text> En-tête\n##
+
+:name> compose_edit_option_name_H3
+:text> En-tête\n###
+
+:name> compose_edit_option_name_H4
+:text> En-tête\n####
+
+:name> compose_edit_option_name_H5
+:text> En-tête\n#####
+
+:name> compose_edit_option_name_H6
+:text> En-tête\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> Liste\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Liste numérique\n -1.
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Case à cocher\n- [ ]
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Case cochée\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> Retrait
+
+:name> compose_edit_option_name_DEDENT
+:text> Dedent
+
+:name> compose_edit_option_name_QUOTE
+:text> Citation\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Code en ligne\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Code de blocage\n```
+
+:name> compose_edit_option_name_STRIKE
+:text> Frappe\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Lin\n-------
+
+:name> compose_edit_option_name_ITALIC
+:text> Italique\n*
+
+:name> compose_edit_option_name_BOLD
+:text> Gras\n**
+
+:name> compose_edit_option_name_MARK
+:text> Marquer\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Mathématiques\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Sous-script\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Super Script\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> Image\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> Lien\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> Tableau\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> Se déplacer à gauche
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> Déplacer vers la droite
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> Ajouter du temps
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> Pâte
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> Petites parenthèses
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> Parenthèses du milieu
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> Grandes parenthèses
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Citation\n\
+"
+\
+"
+
+:name> compose_setting_quick_note_folder
+:text> Dossier pour enregistrer la note rapide
+
+:name> compose_setting_quick_note_folder_tip
+:text> Astuce : Vous pouvez modifier le dossier pour enregistrer une note rapide dans les paramètres de note.
+
+:name> compose_setting_quick_note_folder_go
+:text> Change maintenant
+
+:name> set_theme_theme_follow_system
+:text> Suivre le système
+
+:name> set_theme_theme_follow_system_tip
+:text> Suivez le système pour basculer entre les thèmes clairs et sombres.
+
