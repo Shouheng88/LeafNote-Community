@@ -1,3 +1,11 @@
+## 4.2.6 
+ - 282e21ca fix: local reference table overflow
+- c11d1df8 fix: app default language issue
+- 9a0502fe Merge pull request #157 from Shouheng88/feature-20240221
+- 032bb456 feat: texts
+- 2be6cfee feat: dialog style
+- 20a1b69d feat: add shiled info
+- b8e324b3 feat: build script
 ## 4.2.8 
  - 432b9bb2 fix: issue of setting theme follow system
 - 6d9b9124 fix: build error
