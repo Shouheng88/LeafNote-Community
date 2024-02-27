@@ -1,4 +1,6 @@
 ## 4.2.7 
+ - 10eb8115 fix: tags load error
+## 4.2.7 
  - bd0af87c fix: tags load error
 - ba2d55b3 Merge pull request #159 from Shouheng88/fix-v4.2.5-language
 - 282e21ca fix: local reference table overflow
