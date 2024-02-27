@@ -1,0 +1,169 @@
+:name> pin_top
+:text> 置頂
+
+:name> pin_top_cancel
+:text> 取消置頂
+
+:name> pin_pined
+:text> 置頂
+
+:name> common_not_set
+:text> 沒有設定
+
+:name> common_app_message
+:text> 應用程式訊息
+
+:name> common_app_intro_title_1
+:text> 筆記和日記
+
+:name> common_app_intro_detail_1
+:text> Markdown、MathJax、主題與樣式、圖像
+
+:name> common_app_intro_title_2
+:text> 知識庫
+
+:name> common_app_intro_detail_2
+:text> 標籤、文件樹、強大的搜尋和審查系統
+
+:name> common_app_intro_title_3
+:text> 雲端同步
+
+:name> common_app_intro_detail_3
+:text> 多平台協作、WebDAV、匯入、檔案系統
+
+:name> common_app_intro_title_4
+:text> 立即探索
+
+:name> common_app_intro_detail_4
+:text> 現在就開始寫日記吧！
+
+:name> image_processing
+:text> 影像處理
+
+:name> image_comment_add_title
+:text> 為圖片添加描述訊息
+
+:name> compose_note_align
+:text> 文字對齊
+
+:name> compose_edit_option_name_H1
+:text> 標題\n#
+
+:name> compose_edit_option_name_H2
+:text> 標題\n##
+
+:name> compose_edit_option_name_H3
+:text> 標題\n###
+
+:name> compose_edit_option_name_H4
+:text> 標題\n####
+
+:name> compose_edit_option_name_H5
+:text> 標題\n#####
+
+:name> compose_edit_option_name_H6
+:text> 標題\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> 列表\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 數字列表\n- 1.
+
+:name> compose_edit_option_name_CHECKBOX
+:text> 複選框\n- []
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> 選取框\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> 縮排
+
+:name> compose_edit_option_name_DEDENT
+:text> 回退
+
+:name> compose_edit_option_name_QUOTE
+:text> 引用\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> 內聯代碼\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> 區塊代碼\n```
+
+:name> compose_edit_option_name_STRIKE
+:text> 橫劃\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> 橫線\n-------
+
+:name> compose_edit_option_name_ITALIC
+:text> 傾斜\n*
+
+:name> compose_edit_option_name_BOLD
+:text> 加粗\n**
+
+:name> compose_edit_option_name_MARK
+:text> 標記\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 數學公式\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> 下角標\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> 上角標\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> 圖片\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> 連結\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> 表格\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> 向左移動
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> 向右移動
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> 新增時間
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> 貼上
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> 小括號
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> 中括號
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> 大括號
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用\n\"\"
+
+:name> compose_setting_quick_note_folder
+:text> 儲存快速筆記的資料夾
+
+:name> compose_setting_quick_note_folder_tip
+:text> 提示：您可以在筆記設定中變更儲存快速筆記的資料夾。
+
+:name> compose_setting_quick_note_folder_go
+:text> 立即改變
+
+:name> set_theme_theme_follow_system
+:text> 跟隨系統
+
+:name> set_theme_theme_follow_system_tip
+:text> 按照系統在淺色和深色主題之間切換。
+
+:name> social_telegram_group
+:text> Telegram
+

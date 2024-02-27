@@ -1,0 +1,163 @@
+:name> pin_top
+:text> Fijar arriba
+
+:name> pin_top_cancel
+:text> Cancelar PIN
+
+:name> pin_pined
+:text> ARRIBA
+
+:name> common_not_set
+:text> No establecido
+
+:name> common_app_message
+:text> Mensajes de aplicación
+
+:name> common_app_intro_title_1
+:text> Nota y diario
+
+:name> common_app_intro_detail_1
+:text> Markdown, MathJax, Temas y Estilos, Imágenes
+
+:name> common_app_intro_title_2
+:text> Base de conocimientos
+
+:name> common_app_intro_detail_2
+:text> Etiquetas, árboles de archivos, potente sistema de búsqueda y revisión
+
+:name> common_app_intro_title_3
+:text> Sincronización en la nube
+
+:name> common_app_intro_detail_3
+:text> Colaboración multiplataforma, WebDAV, Importación, Sistema de archivos
+
+:name> common_app_intro_title_4
+:text> Explora ahora
+
+:name> common_app_intro_detail_4
+:text> ¡Empiece su diario ahora!
+
+:name> image_processing
+:text> Procesamiento de imágenes
+
+:name> compose_note_align
+:text> Texto alineado
+
+:name> compose_edit_option_name_H1
+:text> Encabezado\n#
+
+:name> compose_edit_option_name_H2
+:text> Encabezado\n##
+
+:name> compose_edit_option_name_H3
+:text> Encabezado\n###
+
+:name> compose_edit_option_name_H4
+:text> Encabezado\n####
+
+:name> compose_edit_option_name_H5
+:text> Encabezado\n#####
+
+:name> compose_edit_option_name_H6
+:text> Encabezado\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> Lista\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Lista numérica\n -1.
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Casilla de verificación\n- [ ]
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Casilla marcada\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> Sangrar
+
+:name> compose_edit_option_name_DEDENT
+:text> Mella
+
+:name> compose_edit_option_name_QUOTE
+:text> Cita\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Código en línea\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Código de bloqueo\n```
+
+:name> compose_edit_option_name_STRIKE
+:text> Huelga\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Lino\n-------
+
+:name> compose_edit_option_name_ITALIC
+:text> Cursiva\n*
+
+:name> compose_edit_option_name_BOLD
+:text> Negrita\n**
+
+:name> compose_edit_option_name_MARK
+:text> Marca\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Matemáticas\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Subguión\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Súper guión\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> Imagen\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> Enlace\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> Tabla\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> Mover hacia la izquierda
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> Mover a la derecha
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> Agregar tiempo
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> Pegar
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> Pequeños paréntesis
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> Paréntesis del medio
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> Paréntesis grandes
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Cita\n\"\"
+
+:name> compose_setting_quick_note_folder
+:text> Carpeta para guardar nota rápida
+
+:name> compose_setting_quick_note_folder_tip
+:text> Consejo: Puede cambiar la carpeta para guardar notas rápidas en la configuración de notas.
+
+:name> compose_setting_quick_note_folder_go
+:text> Cambia ahora
+
+:name> set_theme_theme_follow_system
+:text> Seguir el sistema
+
+:name> set_theme_theme_follow_system_tip
+:text> Siga el sistema para cambiar entre temas claros y oscuros.
+
