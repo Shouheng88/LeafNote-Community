@@ -1,3 +1,9 @@
+## 4.2.7 
+ - bd0af87c fix: tags load error
+- ba2d55b3 Merge pull request #159 from Shouheng88/fix-v4.2.5-language
+- 282e21ca fix: local reference table overflow
+- c11d1df8 fix: app default language issue
+- 9ff83a2b Merge pull request #158 from Shouheng88/feature-20240223
 ## 4.2.6 
  - 282e21ca fix: local reference table overflow
 - c11d1df8 fix: app default language issue
