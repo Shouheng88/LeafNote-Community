@@ -1,0 +1,54 @@
+:name> print_not_support
+:text> 您的裝置似乎不支持列印，請確認您的裝置是否支援該功能再進行嘗試
+
+:name> login_transfer_tip
+:text> 確定與該設備交換使用者權限？
+
+:name> image_comment_add_title
+:text> 增加一些回憶
+
+:name> premium_review_title
+:text> 使用者評價
+
+:name> premium_error_pawway_not_selected
+:text> 請先選擇一種付款方式
+
+:name> premium_error_google_billing_unavailable
+:text> Google Pay 無法使用：可能由於Google Pay 的地區限制等原因。如有疑問，請聯絡開發者。
+
+:name> set_custom_css
+:text> 自訂 CSS
+
+:name> set_custom_css_light_style
+:text> 淺色樣式
+
+:name> set_custom_css_dark_style
+:text> 深色樣式
+
+:name> set_custom_css_default
+:text> 預設 CSS
+
+:name> set_custom_css_rename
+:text> 重新命名
+
+:name> set_custom_css_count_limit_for_premium
+:text> 你已經建立了 %d 個自訂 CSS
+
+:name> set_custom_css_count_limit_for_none_premium
+:text> 一般使用者只能建立 %1$d 個自訂 CSS；會員使用者可以建立 %2$d 個自訂 CSS．請升級之後解鎖更多自訂 CSS.
+
+:name> set_custom_css_tip
+:text> 提示：不要修改以 \'$\' 開頭的屬性（這些屬性用來跟隨使用者偏好設定）。
+
+:name> set_advanced
+:text> 進階
+
+:name> set_image_ocr_source_request_sub
+:text> 為了減少言葉伺服器的維護成本並因此減少使用者使用成本，現在，使用者只能在言葉中使用第三方 OCR API。您可以從第三方 API 請求應用金鑰和機密，然後在言葉中使用它們。要了解如何請求第三方 API ，可以瀏覽我們的「瀏覽」頁面。如果您知道言葉中未包含的任何 OCR API 平台，則可以在此處提出要求。
+
+:name> shortcut_failed_to_create
+:text> 小工具建立失敗 :(
+
+:name> social_telegram_group
+:text> Telegram 群組
+
