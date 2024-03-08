@@ -1,0 +1,170 @@
+:name> pin_top
+:text> Закрепить вверху
+
+:name> pin_top_cancel
+:text> Отменить пин-код
+
+:name> pin_pined
+:text> ВЕРШИНА
+
+:name> common_not_set
+:text> Не задано
+
+:name> common_app_message
+:text> Сообщения приложения
+
+:name> common_app_intro_title_1
+:text> Примечание и дневник
+
+:name> common_app_intro_detail_1
+:text> Markdown, MathJax, темы и стили, изображения
+
+:name> common_app_intro_title_2
+:text> База знаний
+
+:name> common_app_intro_detail_2
+:text> Теги, деревья файлов, мощная система поиска и просмотра
+
+:name> common_app_intro_title_3
+:text> Облачная синхронизация
+
+:name> common_app_intro_detail_3
+:text> Многоплатформенная совместная работа, WebDAV, импорт, файловая система
+
+:name> common_app_intro_title_4
+:text> Исследуйте сейчас
+
+:name> common_app_intro_detail_4
+:text> Начните свой дневник прямо сейчас!
+
+:name> image_processing
+:text> Обработка изображений
+
+:name> compose_note_align
+:text> Выравнивание текста
+
+:name> compose_edit_option_name_H1
+:text> Заголовок\n#
+
+:name> compose_edit_option_name_H2
+:text> Заголовок\n##
+
+:name> compose_edit_option_name_H3
+:text> Заголовок\n###
+
+:name> compose_edit_option_name_H4
+:text> Заголовок\n####
+
+:name> compose_edit_option_name_H5
+:text> Заголовок\n#####
+
+:name> compose_edit_option_name_H6
+:text> Заголовок\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> Список\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Числовой список\n -1.
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Флажок\n- [ ]
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Установленный флажок\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> Отступ
+
+:name> compose_edit_option_name_DEDENT
+:text> Вмятина
+
+:name> compose_edit_option_name_QUOTE
+:text> Цитата\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Встроенный код\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Блок-код\n```
+
+:name> compose_edit_option_name_STRIKE
+:text> Удар\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Шерсть\n------
+
+:name> compose_edit_option_name_ITALIC
+:text> Курсив\n*
+
+:name> compose_edit_option_name_BOLD
+:text> Жирный\n**
+
+:name> compose_edit_option_name_MARK
+:text> Отметить\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Математика\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Дополнительный сценарий\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Суперскрипт\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> Изображение\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> Ссылка\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> Таблица\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> Двигай влево
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> Двигаться вправо
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> Добавить время
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> Вставить
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> Маленькие круглые скобки
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> Средние скобки
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> Большие круглые скобки
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Цитата\n\"\"
+
+:name> compose_setting_quick_note_folder
+:text> Папка для сохранения краткой заметки
+
+:name> compose_setting_quick_note_folder_tip
+:text> Совет: Вы можете изменить папку для сохранения быстрой заметки в настройках заметки.
+
+:name> compose_setting_quick_note_folder_go
+:text> Изменить сейчас
+
+:name> set_theme_theme_follow_system
+:text> Следовать за системой
+
+:name> set_theme_theme_follow_system_tip
+:text> Следуйте системе, чтобы переключаться между светлыми и темными темами.
+
+:name> trash_box_delete_tip
+:text> Вы уверены, что х
+отите полностью удалить этот файл/каталог?
+
+:name> config_found_new_version
+:text> Обнаружена новая версия %1$s. Хотите обновиться до новой версии? \n\n%2$s
+

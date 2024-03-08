@@ -1,0 +1,163 @@
+:name> pin_top
+:text> 상단에 고정
+
+:name> pin_top_cancel
+:text> 핀 취소
+
+:name> pin_pined
+:text> 맨 위
+
+:name> common_not_set
+:text> 설정되지 않음
+
+:name> common_app_message
+:text> 애플리케이션 메시지
+
+:name> common_app_intro_title_1
+:text> 메모 및 일기
+
+:name> common_app_intro_detail_1
+:text> Markdown, MathJax, 테마 및 스타일, 이미지
+
+:name> common_app_intro_title_2
+:text> 기술 자료
+
+:name> common_app_intro_detail_2
+:text> 태그, 파일 트리, 강력한 검색 및 검토 시스템
+
+:name> common_app_intro_title_3
+:text> 클라우드 동기화
+
+:name> common_app_intro_detail_3
+:text> 다중 플랫폼 협업, WebDAV, 가져오기, 파일 시스템
+
+:name> common_app_intro_title_4
+:text> 지금 살펴보세요
+
+:name> common_app_intro_detail_4
+:text> 지금 일기를 시작해 보세요!
+
+:name> image_processing
+:text> 이미지 처리
+
+:name> compose_note_align
+:text> 텍스트 정렬
+
+:name> compose_edit_option_name_H1
+:text> 헤더\n#
+
+:name> compose_edit_option_name_H2
+:text> 헤더\n##
+
+:name> compose_edit_option_name_H3
+:text> 헤더\n###
+
+:name> compose_edit_option_name_H4
+:text> 헤더\n####
+
+:name> compose_edit_option_name_H5
+:text> 헤더\n#####
+
+:name> compose_edit_option_name_H6
+:text> 헤더\n######
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> 목록\n *
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 숫자 목록\n -1.
+
+:name> compose_edit_option_name_CHECKBOX
+:text> 확인란\n- [ ]
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> 확인란을 선택했습니다.\n- [x]
+
+:name> compose_edit_option_name_INDENT
+:text> 톱니 모양
+
+:name> compose_edit_option_name_DEDENT
+:text> 찌그러뜨리다
+
+:name> compose_edit_option_name_QUOTE
+:text> 견적\n
+>
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> 인라인 코드\n`
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> 블록 코드\n````
+
+:name> compose_edit_option_name_STRIKE
+:text> 공격\n~~
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> 리넨\n-------
+
+:name> compose_edit_option_name_ITALIC
+:text> 기울임체\n*
+
+:name> compose_edit_option_name_BOLD
+:text> 굵게\n**
+
+:name> compose_edit_option_name_MARK
+:text> 마크\n==
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 수학\n$$
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> 하위 스크립트\n~
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> 슈퍼 스크립트\n^
+
+:name> compose_edit_option_name_IMAGE
+:text> 이미지\n![]()
+
+:name> compose_edit_option_name_LINK
+:text> 링크\n[]()
+
+:name> compose_edit_option_name_TABLE
+:text> 테이블\n|:---:|
+
+:name> compose_edit_option_name_FORMAT_ID_LEFT
+:text> 왼쪽으로 이동
+
+:name> compose_edit_option_name_FORMAT_ID_RIGHT
+:text> 오른쪽으로 이동해라
+
+:name> compose_edit_option_name_FORMAT_ID_TIME
+:text> 시간 추가
+
+:name> compose_edit_option_name_FORMAT_ID_PASTE
+:text> 반죽
+
+:name> compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES
+:text> 작은 괄호
+
+:name> compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES
+:text> 중간 괄호
+
+:name> compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES
+:text> 큰 괄호
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 인용문\n\"\"
+
+:name> compose_setting_quick_note_folder
+:text> 빠른 메모를 저장할 폴더
+
+:name> compose_setting_quick_note_folder_tip
+:text> 팁: 노트 설정에서 빠른 노트를 저장할 폴더를 변경할 수 있습니다.
+
+:name> compose_setting_quick_note_folder_go
+:text> 지금 변경
+
+:name> set_theme_theme_follow_system
+:text> 팔로우 시스템
+
+:name> set_theme_theme_follow_system_tip
+:text> 밝은 테마와 어두운 테마 사이를 전환하려면 시스템을 따르세요.
+
