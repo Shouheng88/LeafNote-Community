@@ -1,3 +1,13 @@
+## 4.2.9 
+ - 442bb835 fix: pin and pin front matter issue
+- 301daf9a fix: homepage input focus issue
+- 047a31a7 fix: quick note folder display
+- 3b78ca21 Merge pull request #160 from Shouheng88/fix-v4.2.6-tags
+- 10eb8115 fix: tags load error
+- ba2d55b3 Merge pull request #159 from Shouheng88/fix-v4.2.5-language
+- 282e21ca fix: local reference table overflow
+- c11d1df8 fix: app default language issue
+- 9ff83a2b Merge pull request #158 from Shouheng88/feature-20240223
 ## 4.2.7 
  - 10eb8115 fix: tags load error
 ## 4.2.7 
