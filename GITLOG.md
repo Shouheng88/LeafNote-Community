@@ -1,3 +1,29 @@
+## 4.3.0 
+ - d5581e7c feat: continue edit dialog style
+- 22fc5217 feat: refine line number performance
+- 7a8587a7 feat: emptyview methods
+- 03e9a337 feat: docs
+- 661f02aa feat: texts
+- 109da0aa feat: texts
+- 269bc09c feat: move to header and footer feature
+- 7a3ecec8 Merge branch 'master' into feature-20240226
+- f9986811 feat: docs
+- 913ab127 feat: docs
+- a57e3c0a Merge pull request #162 from Shouheng88/fix-4.2.9
+- bbc80ef2 feat: texts
+- 6f20be21 feat: note strucure
+- 79247aa5 feat: note strucure
+- 600393b7 feat: note strucure
+- 4b1a8518 fix: line number mid issue
+- fab1c8d5 feat: line number view
+- 5c882f30 fix: menu icon size
+- 59da588e fix: pin and cancel pin issue
+- b896e2eb feat: change compose panel menus
+- 6ca8ba3e feat: line focus mode
+- f1f020cc feat: compose toolbar behavior
+- 1275333d feat: refined compose panel ui
+- e503fe56 feat: docs
+- c25d0a69 rfct: editor interaction
 ## 4.2.9 
  - 442bb835 fix: pin and pin front matter issue
 - 301daf9a fix: homepage input focus issue
