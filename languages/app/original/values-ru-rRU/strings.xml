@@ -300,6 +300,7 @@
     <string name="compose_note_saved">Заметка сохранена.</string>
     <string name="compose_default_note_name">Заметка без названия</string>
     <string name="compose_title_hint">Пожалуйста, введите название заметки</string>
+    <string name="compose_title_region_tip">заголовок</string>
     <string name="compose_content_hint">Напишите здесь то, что вы хотите сказать &#8230;</string>
     <string name="compose_chars">Характер:</string>
     <string name="compose_background_tips">Приложение перейдет в фоновый режим, а заметка сохранится в истории.</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">Примечание Стиль</string>
     <string name="compose_note_setting_style">Редактор темы</string>
     <string name="compose_note_setting_code_style">Стиль кодирования</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">Выравнивание текста</string>
     <string name="compose_note_align_left">Выравнивание по левому краю</string>
     <string name="compose_note_align_right">Выровнять по правому краю</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">Размер шрифта</string>
     <string name="compose_note_paragraph_margin_bottom">Межстрочный интервал</string>
     <string name="compose_note_line_number">Номер строки</string>
+    <string name="compose_note_line_focus">режим фокусировки</string>
     <string name="compose_note_button_order">Нижняя кнопка сортировки</string>
     <string name="compose_note_encoding">Метод декодирования</string>
     <string name="compose_note_encoding_title">Выбирайте кодировку при чтении заметок</string>
     <string name="sort_divider_hidden_tip"><![CDATA[скрывать <small>(Перетащите кнопку ниже, чтобы скрыть ее)]]></string>
     <string name="compose_note_setting_markdown_enabled">Уценка включена</string>
     <string name="compose_note_setting_markdown_disabled">Маркдаун отключен</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">Невозможно изменить статус Markdown созданных заметок.</string>
     <string name="compose_note_setting_category">Добавить в категорию</string>
     <string name="compose_note_setting_tags">Добавить метку</string>
     <string name="compose_note_setting_info">Detalhes</string>
+    <string name="compose_note_setting_structure">Структура каталогов</string>
+    <string name="compose_note_find">поиск</string>
+    <string name="compose_note_replace">заменять</string>
+    <string name="compose_note_move_to_header">перейти к началу</string>
+    <string name="compose_note_move_to_footer">перейти к концу</string>
     <string name="compose_note_setting_history">Запись истории</string>
     <string name="compose_category_add">Добавить категорию</string>
     <string name="compose_category_updated">Категории обновлены</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">Продолжить редактирование \"%s\"?</string>
     <string name="compose_note_un_finish">Продолжать редактировать незавершенные заметки?</string>
     <string name="compose_note_un_finish_recover_msg">Найти вам историю этой заметки, восстановить из истории? \n\nСовет: вы также можете войти в историю из настроек заметки.</string>
+    <string name="compose_note_remote_change_tip">Заметка была изменена удаленно. Чтение из облака?</string>
     <string name="compose_note_links">Ссылка на заметку</string>
     <string name="compose_note_linking">Цитировать</string>
     <string name="compose_note_linking_empty">Не цитируется</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Средние скобки</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Большие круглые скобки</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Цитата\n\"\"</string>
+    <string name="compose_edit_find_replace">заменять</string>
+    <string name="compose_edit_find_replace_all">Заменить все</string>
+    <string name="compose_edit_find_results">%d результатов</string>
     <string name="compose_setting_quick_note_folder">Папка для сохранения краткой заметки</string>
     <string name="compose_setting_quick_note_folder_tip">Совет: Вы можете изменить папку для сохранения быстрой заметки в настройках заметки.</string>
     <string name="compose_setting_quick_note_folder_go">Изменить сейчас</string>

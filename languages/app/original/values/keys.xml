@@ -62,7 +62,6 @@
     <string name="key_export_failed_paths" translatable="false">__gls_export_failed_paths</string>
     <string name="key_export_failed_entry" translatable="false">__key_export_failed_entry</string>
     <string name="key_unfinished_note" translatable="false">_____thethethe_unfinished_note_aaaa</string>
-    <string name="key_show_line_number" translatable="false">_________the_line_number_display_state</string>
     <string name="key_editor_bottom_buttons" translatable="false">+_______editor_buttoms_buttons</string>
     <string name="key_main_page_fab_sort_items" translatable="false">_________main_page_fab_sort_itemsssss</string>
     <string name="key_set_display_language" translatable="false">____keyyyyyyyy_set_display_language</string>

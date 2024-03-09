@@ -300,6 +300,7 @@
     <string name="compose_note_saved">メモは保存されています</string>
     <string name="compose_default_note_name">名前なしノート</string>
     <string name="compose_title_hint">メモの名前を入力してください</string>
+    <string name="compose_title_region_tip">タイトル</string>
     <string name="compose_content_hint">ここに自分の言いたいことを書きます &#8230;</string>
     <string name="compose_chars">文字:</string>
     <string name="compose_background_tips">アプリケーションはバックグラウンド実行に切り替えられ、メモは履歴に保存されました</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">音符のスタイル</string>
     <string name="compose_note_setting_style">エディタテーマ</string>
     <string name="compose_note_setting_code_style">コードスタイル</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">テキストの配置</string>
     <string name="compose_note_align_left">左揃え</string>
     <string name="compose_note_align_right">右揃え</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">フォントサイズ</string>
     <string name="compose_note_paragraph_margin_bottom">行の間隔</string>
     <string name="compose_note_line_number">行番号</string>
+    <string name="compose_note_line_focus">フォーカスモード</string>
     <string name="compose_note_button_order">下ボタンのソート</string>
     <string name="compose_note_encoding">復号方式</string>
     <string name="compose_note_encoding_title">ノートを読み込むときのコードを選択</string>
     <string name="sort_divider_hidden_tip"><![CDATA[隠し＜small＞（ボタンを下にドラッグして隠すことができる）</small>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdownは有効です</string>
     <string name="compose_note_setting_markdown_disabled">Markdownは無効です</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">作成されたノートのマークダウンステータスを変更できません</string>
     <string name="compose_note_setting_category">分類に追加</string>
     <string name="compose_note_setting_tags">ラベルの追加</string>
     <string name="compose_note_setting_info">詳細</string>
+    <string name="compose_note_setting_structure">ディレクトリ構造</string>
+    <string name="compose_note_find">検索</string>
+    <string name="compose_note_replace">交換する</string>
+    <string name="compose_note_move_to_header">先頭に移動</string>
+    <string name="compose_note_move_to_footer">最後に移動する</string>
     <string name="compose_note_setting_history">履歴</string>
     <string name="compose_category_add">分類の追加</string>
     <string name="compose_category_updated">分類が更新されました</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">\"%s\" の編集を続行しますか？</string>
     <string name="compose_note_un_finish">未完成なノートの編集を続行しますか？</string>
     <string name="compose_note_un_finish_recover_msg">このノートの履歴を見つけて、履歴から復元しますか？\n\nヒント：メモ設定から履歴に入ることもできます</string>
+    <string name="compose_note_remote_change_tip">メモはリモートで変更されました。クラウドから読み取りますか?</string>
     <string name="compose_note_links">ノート・リンク</string>
     <string name="compose_note_linking">引用</string>
     <string name="compose_note_linking_empty">参照されていません</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括弧</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大きな括弧</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_find_replace">交換する</string>
+    <string name="compose_edit_find_replace_all">すべて置き換える</string>
+    <string name="compose_edit_find_results">%d 件の結果</string>
     <string name="compose_setting_quick_note_folder">クイックノートの保存先フォルダー</string>
     <string name="compose_setting_quick_note_folder_tip">ヒント: ノート設定でクイックノートを保存するフォルダーを変更できます。</string>
     <string name="compose_setting_quick_note_folder_go">今すぐ変更してください</string>

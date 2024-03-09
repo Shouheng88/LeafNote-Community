@@ -300,6 +300,7 @@
     <string name="compose_note_saved">메모가 저장됨</string>
     <string name="compose_default_note_name">이름 없는 노트</string>
     <string name="compose_title_hint">메모의 이름을 입력하십시오.</string>
+    <string name="compose_title_region_tip">제목</string>
     <string name="compose_content_hint">여기에 하고 싶은 말 &#8230;</string>
     <string name="compose_chars">문자:</string>
     <string name="compose_background_tips">적용 - 백그라운드 실행으로 전환, 메모가 히스토리에 저장됨</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">메모 스타일</string>
     <string name="compose_note_setting_style">편집기 테마</string>
     <string name="compose_note_setting_code_style">코드 스타일</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">텍스트 정렬</string>
     <string name="compose_note_align_left">왼쪽 정렬</string>
     <string name="compose_note_align_right">오른쪽 정렬</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">글꼴 크기</string>
     <string name="compose_note_paragraph_margin_bottom">행 간격</string>
     <string name="compose_note_line_number">행 번호</string>
+    <string name="compose_note_line_focus">집중 모드</string>
     <string name="compose_note_button_order">아래쪽 단추 정렬</string>
     <string name="compose_note_encoding">디코딩 방식</string>
     <string name="compose_note_encoding_title">메모를 읽을 때 인코딩 선택</string>
     <string name="sort_divider_hidden_tip"><![CDATA[<small>숨기기(버튼을 아래로 드래그하면 숨김)</small>]>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown 사용</string>
     <string name="compose_note_setting_markdown_disabled">Markdown 사용 안 함</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">생성된 노트의 마크다운 상태를 변경할 수 없습니다.</string>
     <string name="compose_note_setting_category">분류에 추가</string>
     <string name="compose_note_setting_tags">태그 추가</string>
     <string name="compose_note_setting_info">세부</string>
+    <string name="compose_note_setting_structure">디렉토리 구조</string>
+    <string name="compose_note_find">찾다</string>
+    <string name="compose_note_replace">바꾸다</string>
+    <string name="compose_note_move_to_header">처음으로 이동</string>
+    <string name="compose_note_move_to_footer">끝으로 이동</string>
     <string name="compose_note_setting_history">기록</string>
     <string name="compose_category_add">분류 추가</string>
     <string name="compose_category_updated">분류가 업데이트되었습니다.</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">\"%s\" 편집을 계속하시겠습니까?</string>
     <string name="compose_note_un_finish">미완성 노트 편집을 계속하시겠습니까?</string>
     <string name="compose_note_un_finish_recover_msg">이 노트의 기록을 찾아서 기록에서 복원해 드릴까요?\n\n 팁: 메모 설정에서 사용 내역에 들어갈 수도 있습니다.</string>
+    <string name="compose_note_remote_change_tip">메모가 원격으로 변경되었습니다. 클라우드에서 읽으시나요?</string>
     <string name="compose_note_links">메모 링크</string>
     <string name="compose_note_linking">인용됨</string>
     <string name="compose_note_linking_empty">참조되지 않음</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">중간 괄호</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">큰 괄호</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">인용문\n\"\"</string>
+    <string name="compose_edit_find_replace">바꾸다</string>
+    <string name="compose_edit_find_replace_all">모두 다 바꿔</string>
+    <string name="compose_edit_find_results">%d개의 결과</string>
     <string name="compose_setting_quick_note_folder">빠른 메모를 저장할 폴더</string>
     <string name="compose_setting_quick_note_folder_tip">팁: 노트 설정에서 빠른 노트를 저장할 폴더를 변경할 수 있습니다.</string>
     <string name="compose_setting_quick_note_folder_go">지금 변경</string>

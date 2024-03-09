@@ -300,6 +300,7 @@
     <string name="compose_note_saved">筆記已儲存</string>
     <string name="compose_default_note_name">未命名筆記</string>
     <string name="compose_title_hint">請輸入筆記的名稱</string>
+    <string name="compose_title_region_tip">標題</string>
     <string name="compose_content_hint">在這裡寫下自己想說的話&#8230;</string>
     <string name="compose_chars">字元:</string>
     <string name="compose_background_tips">應用切換到背景執行，筆記已儲存到歷史記錄</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">筆記樣式</string>
     <string name="compose_note_setting_style">編輯器主題</string>
     <string name="compose_note_setting_code_style">代碼風格</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">文字對齊</string>
     <string name="compose_note_align_left">左對齊</string>
     <string name="compose_note_align_right">右對齊</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">字體大小</string>
     <string name="compose_note_paragraph_margin_bottom">行間距</string>
     <string name="compose_note_line_number">行號</string>
+    <string name="compose_note_line_focus">聚焦模式</string>
     <string name="compose_note_button_order">底部按鈕排序</string>
     <string name="compose_note_encoding">編碼方式</string>
     <string name="compose_note_encoding_title">選擇讀取筆記時的編碼</string>
     <string name="sort_divider_hidden_tip"><![CDATA[隱藏<small>（將按鈕拖動到下面可以隱藏）</small>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown 已啟用</string>
     <string name="compose_note_setting_markdown_disabled">Markdown 已禁用</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">無法變更已建立筆記的Markdown 狀態</string>
     <string name="compose_note_setting_category">增加到分類</string>
     <string name="compose_note_setting_tags">增加標籤</string>
     <string name="compose_note_setting_info">資訊</string>
+    <string name="compose_note_setting_structure">目錄結構</string>
+    <string name="compose_note_find">搜尋</string>
+    <string name="compose_note_replace">替換</string>
+    <string name="compose_note_move_to_header">移動到開頭</string>
+    <string name="compose_note_move_to_footer">移動到結尾</string>
     <string name="compose_note_setting_history">歷史記錄</string>
     <string name="compose_category_add">增加分類</string>
     <string name="compose_category_updated">分類已更新</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">繼續編輯\"%s\"？</string>
     <string name="compose_note_un_finish">繼續編輯未完成的筆記？</string>
     <string name="compose_note_un_finish_recover_msg">為你找到該筆記的歷史記錄，從歷史記錄中恢復？\n\n提示：你也可以從筆記設定中進入歷史記錄</string>
+    <string name="compose_note_remote_change_tip">該筆記已遠端更改。從雲端讀取？</string>
     <string name="compose_note_links">筆記連結</string>
     <string name="compose_note_linking">引用</string>
     <string name="compose_note_linking_empty">沒有被引用</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括號</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大括號</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_find_replace">替換</string>
+    <string name="compose_edit_find_replace_all">全部替換</string>
+    <string name="compose_edit_find_results">%d 個結果</string>
     <string name="compose_setting_quick_note_folder">儲存快速筆記的資料夾</string>
     <string name="compose_setting_quick_note_folder_tip">提示：您可以在筆記設定中變更儲存快速筆記的資料夾。</string>
     <string name="compose_setting_quick_note_folder_go">立即改變</string>

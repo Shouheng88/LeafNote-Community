@@ -300,6 +300,7 @@
     <string name="compose_note_saved">Notiz gespeichert</string>
     <string name="compose_default_note_name">Notiz ohne Titel</string>
     <string name="compose_title_hint">Bitte geben Sie den Namen der Notiz ein</string>
+    <string name="compose_title_region_tip">Titel</string>
     <string name="compose_content_hint">Schreiben Sie hier, was Sie sagen möchten &#8230;</string>
     <string name="compose_chars">Charakter:</string>
     <string name="compose_background_tips">Die App wird in den Hintergrund geschaltet und die Notiz wird im Verlauf gespeichert.</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">Notenstil</string>
     <string name="compose_note_setting_style">Editor-Thema</string>
     <string name="compose_note_setting_code_style">Codierungsstil</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">Textausrichtung</string>
     <string name="compose_note_align_left">Linksbündig</string>
     <string name="compose_note_align_right">Rechts ausrichten</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">Schriftgröße</string>
     <string name="compose_note_paragraph_margin_bottom">Zeilenabstand</string>
     <string name="compose_note_line_number">Zeilennummer</string>
+    <string name="compose_note_line_focus">Fokus Modus</string>
     <string name="compose_note_button_order">Sortieren der unteren Schaltfläche</string>
     <string name="compose_note_encoding">Dekodierungsmethode</string>
     <string name="compose_note_encoding_title">Wählen Sie beim Lesen von Notizen die Kodierung</string>
     <string name="sort_divider_hidden_tip"><![CDATA[verstecken<small>(Ziehen Sie die Schaltfläche unten, um sie auszublenden)]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown ist aktiviert</string>
     <string name="compose_note_setting_markdown_disabled">Markdown ist deaktiviert</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">Der Markdown-Status der erstellten Notizen kann nicht geändert werden</string>
     <string name="compose_note_setting_category">Zur Kategorie hinzufügen</string>
     <string name="compose_note_setting_tags">Tag hinzufügen</string>
     <string name="compose_note_setting_info">Einzelheiten</string>
+    <string name="compose_note_setting_structure">Verzeichnisaufbau</string>
+    <string name="compose_note_find">suchen</string>
+    <string name="compose_note_replace">ersetzen</string>
+    <string name="compose_note_move_to_header">zum Anfang wechseln</string>
+    <string name="compose_note_move_to_footer">zum Ende bewegen</string>
     <string name="compose_note_setting_history">Geschichtsaufzeichnung</string>
     <string name="compose_category_add">Kategorie hinzufügen</string>
     <string name="compose_category_updated">Die Kategorien wurden aktualisiert</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">„%s“ weiter bearbeiten?</string>
     <string name="compose_note_un_finish">Unvollendete Notizen weiter bearbeiten?</string>
     <string name="compose_note_un_finish_recover_msg">Den Verlauf dieser Notiz für Sie finden, aus dem Verlauf wiederherstellen? \n\nTipp: Sie können den Verlauf auch über die Notizeinstellungen eingeben</string>
+    <string name="compose_note_remote_change_tip">Die Notiz wurde aus der Ferne geändert. Aus der Cloud lesen?</string>
     <string name="compose_note_links">Hinweis-Link</string>
     <string name="compose_note_linking">Zitat</string>
     <string name="compose_note_linking_empty">Nicht zitiert</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Mittlere Klammern</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Große Klammern</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Zitat\n\"\"</string>
+    <string name="compose_edit_find_replace">ersetzen</string>
+    <string name="compose_edit_find_replace_all">Alles ersetzen</string>
+    <string name="compose_edit_find_results">%d Ergebnisse</string>
     <string name="compose_setting_quick_note_folder">Ordner zum Speichern der Kurznotiz</string>
     <string name="compose_setting_quick_note_folder_tip">Tipp: Sie können den Ordner zum Speichern von Kurznotizen in den Notizeinstellungen ändern.</string>
     <string name="compose_setting_quick_note_folder_go">Jetzt ändern</string>

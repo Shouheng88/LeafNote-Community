@@ -300,6 +300,7 @@
     <string name="compose_note_saved">Nota salvata</string>
     <string name="compose_default_note_name">Nota senza titolo</string>
     <string name="compose_title_hint">Inserisci il nome della nota</string>
+    <string name="compose_title_region_tip">titolo</string>
     <string name="compose_content_hint">Scrivi qui quello che vuoi dire &#8230;</string>
     <string name="compose_chars">Carattere:</string>
     <string name="compose_background_tips">L\'app passa in background e la nota viene salvata nella cronologia.</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">Stile della nota</string>
     <string name="compose_note_setting_style">Tema dell\'editore</string>
     <string name="compose_note_setting_code_style">Stile di codifica</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">Allinea testo</string>
     <string name="compose_note_align_left">Allineato a sinistra</string>
     <string name="compose_note_align_right">Allinea a destra</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">Dimensione del font</string>
     <string name="compose_note_paragraph_margin_bottom">Interlinea</string>
     <string name="compose_note_line_number">Numero di riga</string>
+    <string name="compose_note_line_focus">modalità di messa a fuoco</string>
     <string name="compose_note_button_order">Ordinamento dei pulsanti in basso</string>
     <string name="compose_note_encoding">Metodo di decodifica</string>
     <string name="compose_note_encoding_title">Scegli la codifica durante la lettura delle note</string>
     <string name="sort_divider_hidden_tip"><![CDATA[nascondere<small>(Trascina il pulsante qui sotto per nasconderlo)]]></string>
     <string name="compose_note_setting_markdown_enabled">Il ribasso è abilitato</string>
     <string name="compose_note_setting_markdown_disabled">Il ribasso è disabilitato</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">Impossibile modificare lo stato Markdown delle note create</string>
     <string name="compose_note_setting_category">Aggiungi alla categoria</string>
     <string name="compose_note_setting_tags">Aggiungi Tag</string>
     <string name="compose_note_setting_info">Dettagli</string>
+    <string name="compose_note_setting_structure">Struttura delle directory</string>
+    <string name="compose_note_find">ricerca</string>
+    <string name="compose_note_replace">sostituire</string>
+    <string name="compose_note_move_to_header">passare all\'inizio</string>
+    <string name="compose_note_move_to_footer">spostati alla fine</string>
     <string name="compose_note_setting_history">Registro della storia</string>
     <string name="compose_category_add">Aggiungi categoria</string>
     <string name="compose_category_updated">Le categorie sono state aggiornate</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">Continuare a modificare \"%s\"?</string>
     <string name="compose_note_un_finish">Continuare a modificare le note non completate?</string>
     <string name="compose_note_un_finish_recover_msg">Trova la cronologia di questa nota per te, ripristinala dalla cronologia? \n\nSuggerimento: puoi anche inserire la cronologia dalle impostazioni della nota</string>
+    <string name="compose_note_remote_change_tip">La nota è stata modificata da remoto. Leggere dal cloud?</string>
     <string name="compose_note_links">Collegamento della nota</string>
     <string name="compose_note_linking">Citato</string>
     <string name="compose_note_linking_empty">Non citato</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Parentesi centrali</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Grandi parentesi</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Citazione\n\"\"</string>
+    <string name="compose_edit_find_replace">sostituire</string>
+    <string name="compose_edit_find_replace_all">Sostituisci tutto</string>
+    <string name="compose_edit_find_results">%d risultati</string>
     <string name="compose_setting_quick_note_folder">Cartella in cui salvare la nota rapida</string>
     <string name="compose_setting_quick_note_folder_tip">Suggerimento: puoi cambiare la cartella per salvare la nota rapida nelle impostazioni della nota.</string>
     <string name="compose_setting_quick_note_folder_go">Cambia adesso</string>

@@ -300,6 +300,7 @@
     <string name="compose_note_saved">笔记已保存</string>
     <string name="compose_default_note_name">未命名笔记</string>
     <string name="compose_title_hint">请输入笔记的名称</string>
+    <string name="compose_title_region_tip">标题</string>
     <string name="compose_content_hint">在这里写下自己想说的话&#8230;</string>
     <string name="compose_chars">字符:</string>
     <string name="compose_background_tips">应用切换到后台运行，笔记已保存到历史记录</string>
@@ -326,6 +327,7 @@
     <string name="compose_note_setting_note_style">笔记样式</string>
     <string name="compose_note_setting_style">编辑器主题</string>
     <string name="compose_note_setting_code_style">代码风格</string>
+    <string name="compose_note_setting_css">CSS</string>
     <string name="compose_note_align">文本对齐</string>
     <string name="compose_note_align_left">左对齐</string>
     <string name="compose_note_align_right">右对齐</string>
@@ -334,15 +336,22 @@
     <string name="compose_note_text_size">字体大小</string>
     <string name="compose_note_paragraph_margin_bottom">行间距</string>
     <string name="compose_note_line_number">行号</string>
+    <string name="compose_note_line_focus">聚焦模式</string>
     <string name="compose_note_button_order">底部按钮排序</string>
     <string name="compose_note_encoding">解码方式</string>
     <string name="compose_note_encoding_title">选择读取笔记时的编码</string>
     <string name="sort_divider_hidden_tip"><![CDATA[隐藏<small>（将按钮拖动到下面可以隐藏）</small>]]></string>
     <string name="compose_note_setting_markdown_enabled">Markdown 已启用</string>
     <string name="compose_note_setting_markdown_disabled">Markdown 已禁用</string>
+    <string name="compose_note_setting_markdown_unable_for_existed">无法更改已创建笔记的 Markdown 状态</string>
     <string name="compose_note_setting_category">添加到分类</string>
     <string name="compose_note_setting_tags">添加标签</string>
     <string name="compose_note_setting_info">信息</string>
+    <string name="compose_note_setting_structure">目录结构</string>
+    <string name="compose_note_find">搜索</string>
+    <string name="compose_note_replace">替换</string>
+    <string name="compose_note_move_to_header">移动到开头</string>
+    <string name="compose_note_move_to_footer">移动到结尾</string>
     <string name="compose_note_setting_history">历史记录</string>
     <string name="compose_category_add">添加分类</string>
     <string name="compose_category_updated">分类已更新</string>
@@ -367,6 +376,7 @@
     <string name="compose_note_un_finish_title">继续编辑\"%s\"？</string>
     <string name="compose_note_un_finish">继续编辑未完成的笔记？</string>
     <string name="compose_note_un_finish_recover_msg">为你找到该笔记的历史记录，从历史记录中恢复？\n\n提示：你也可以从笔记设置中进入历史记录</string>
+    <string name="compose_note_remote_change_tip">该笔记已被远程更改。从云端读取？</string>
     <string name="compose_note_links">笔记链接</string>
     <string name="compose_note_linking">引用</string>
     <string name="compose_note_linking_empty">没有被引用</string>
@@ -410,6 +420,9 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括号</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大括号</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_find_replace">替换</string>
+    <string name="compose_edit_find_replace_all">全部替换</string>
+    <string name="compose_edit_find_results">%d 个结果</string>
     <string name="compose_setting_quick_note_folder">保存快速笔记的文件夹</string>
     <string name="compose_setting_quick_note_folder_tip">提示：您可以在笔记设置中更改保存快速笔记的文件夹。</string>
     <string name="compose_setting_quick_note_folder_go">立即改变</string>
