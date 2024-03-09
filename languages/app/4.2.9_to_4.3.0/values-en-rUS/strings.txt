@@ -1,0 +1,111 @@
+:name> common_app_message
+:text> App Message
+
+:name> premium_account_state_not_logged_in
+:text> Not Logged
+
+:name> premium_account_state_not_logged_in_tip
+:text> Please login to restore purchase.
+
+:name> premium_account_restore_guide_message
+:text> You can restore purchase by logging in. No matter what difficulties you encounter, please contact me to solve it.
+
+:name> compose_title_region_tip
+:text> Title
+
+:name> compose_note_setting
+:text> Note Setting
+
+:name> compose_note_setting_style
+:text> Editor Style
+
+:name> compose_note_setting_code_style
+:text> Code Style
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_align_left
+:text> Align Left
+
+:name> compose_note_align_right
+:text> Align Right
+
+:name> compose_note_align_center
+:text> Align Center
+
+:name> compose_note_text_wrap
+:text> Code Wrap
+
+:name> compose_note_text_size
+:text> Text Size
+
+:name> compose_note_line_number
+:text> Line Number
+
+:name> compose_note_line_focus
+:text> Focus Mode
+
+:name> compose_note_button_order
+:text> Sort Buttons
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> Unable to change markdown state of an existed note
+
+:name> compose_note_setting_tags
+:text> Tags
+
+:name> compose_note_setting_structure
+:text> Structure
+
+:name> compose_note_find
+:text> Find
+
+:name> compose_note_replace
+:text> Replace
+
+:name> compose_note_move_to_header
+:text> Move to Beginning
+
+:name> compose_note_move_to_footer
+:text> Move to End
+
+:name> compose_note_remote_change_tip
+:text> The note has been changed remotely. Read from cloud?
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Check Box\n- [ ]
+
+:name> compose_edit_option_name_DEDENT
+:text> Dedent
+
+:name> compose_edit_find_replace
+:text> Replace
+
+:name> compose_edit_find_replace_all
+:text> Replace All
+
+:name> compose_edit_find_results
+:text> %d results
+
+:name> set_sync_done_with_error
+:text> Sync completed, %d files failed.
+
+:name> set_export_export_done_with_error
+:text> Export completed, %d files failed
+
+:name> set_export_import_done_with_error
+:text> Import completed, %d files failed
+
+:name> set_export_conflict_with
+:text> %d files failed
+
+:name> set_report_no_conflict
+:text> Congrats, no failure found!
+
+:name> set_conflict_resolve
+:text> Resolve Failure
+
+:name> set_conflict_path_tips
+:text> Might failed due to:\n 1.illegal file name (contains illegal chars etc): change the file name and try again.\n2.too much request: stop for a while and change the frequency of sync.
+

@@ -1,0 +1,66 @@
+:name> compose_title_region_tip
+:text> Title
+
+:name> compose_note_setting
+:text> Note Setting
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_align_left
+:text> Align Left
+
+:name> compose_note_align_right
+:text> Align Right
+
+:name> compose_note_align_center
+:text> Align Center
+
+:name> compose_note_text_wrap
+:text> Code Wrap
+
+:name> compose_note_text_size
+:text> Text Size
+
+:name> compose_note_line_number
+:text> Line Number
+
+:name> compose_note_line_focus
+:text> Focus
+
+:name> compose_note_button_order
+:text> Sort Buttons
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> Unable to change markdown state of an existed note
+
+:name> compose_note_setting_tags
+:text> Tags
+
+:name> compose_note_setting_structure
+:text> Structure
+
+:name> compose_note_find
+:text> Find
+
+:name> compose_note_replace
+:text> Replace
+
+:name> compose_note_move_to_header
+:text> Move to Beginning
+
+:name> compose_note_move_to_footer
+:text> Move to End
+
+:name> compose_note_remote_change_tip
+:text> The note has been changed remotely. Read from cloud?
+
+:name> compose_edit_find_replace
+:text> Replace
+
+:name> compose_edit_find_replace_all
+:text> Replace All
+
+:name> compose_edit_find_results
+:text> %d results
+

@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> 标题
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> 聚焦模式
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> 无法更改已创建笔记的 Markdown 状态
+
+:name> compose_note_setting_structure
+:text> 目录结构
+
+:name> compose_note_find
+:text> 搜索
+
+:name> compose_note_replace
+:text> 替换
+
+:name> compose_note_move_to_header
+:text> 移动到开头
+
+:name> compose_note_move_to_footer
+:text> 移动到结尾
+
+:name> compose_note_remote_change_tip
+:text> 该笔记已被远程更改。从云端读取？
+
+:name> compose_edit_find_replace
+:text> 替换
+
+:name> compose_edit_find_replace_all
+:text> 全部替换
+
+:name> compose_edit_find_results
+:text> %d 个结果
+

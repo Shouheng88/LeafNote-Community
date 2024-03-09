@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> タイトル
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> フォーカスモード
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> 作成されたノートのマークダウンステータスを変更できません
+
+:name> compose_note_setting_structure
+:text> ディレクトリ構造
+
+:name> compose_note_find
+:text> 検索
+
+:name> compose_note_replace
+:text> 交換する
+
+:name> compose_note_move_to_header
+:text> 先頭に移動
+
+:name> compose_note_move_to_footer
+:text> 最後に移動する
+
+:name> compose_note_remote_change_tip
+:text> メモはリモートで変更されました。クラウドから読み取りますか?
+
+:name> compose_edit_find_replace
+:text> 交換する
+
+:name> compose_edit_find_replace_all
+:text> すべて置き換える
+
+:name> compose_edit_find_results
+:text> %d 件の結果
+

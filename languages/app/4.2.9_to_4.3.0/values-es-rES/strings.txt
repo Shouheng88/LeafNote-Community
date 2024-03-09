@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> título
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> modo de enfoque
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> No se puede cambiar el estado de Markdown de las notas creadas
+
+:name> compose_note_setting_structure
+:text> Estructura de directorios
+
+:name> compose_note_find
+:text> buscar
+
+:name> compose_note_replace
+:text> reemplazar
+
+:name> compose_note_move_to_header
+:text> pasar al principio
+
+:name> compose_note_move_to_footer
+:text> moverse hasta el final
+
+:name> compose_note_remote_change_tip
+:text> La nota ha sido cambiada de forma remota. ¿Leyendo desde la nube?
+
+:name> compose_edit_find_replace
+:text> reemplazar
+
+:name> compose_edit_find_replace_all
+:text> Reemplaza todo
+
+:name> compose_edit_find_results
+:text> %d resultados
+

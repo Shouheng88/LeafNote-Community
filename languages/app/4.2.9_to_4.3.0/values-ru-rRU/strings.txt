@@ -1,0 +1,42 @@
+:name> compose_title_region_tip
+:text> заголовок
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> режим фокусировки
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> Невозможно изменить статус Markdown созданных заметок.
+
+:name> compose_note_setting_structure
+:text> Структура каталогов
+
+:name> compose_note_find
+:text> поиск
+
+:name> compose_note_replace
+:text> заменять
+
+:name> compose_note_move_to_header
+:text> перейти к началу
+
+:name> compose_note_move_to_footer
+:text> перейти к концу
+
+:name> compose_note_remote_change_tip
+:text> Заметка была изменена удаленно. Чтение из облака?
+
+:name> compose_edit_find_replace
+:text> заменять
+
+:name> compose_edit_find_replace_all
+:text> Заменить все
+
+:name> compose_edit_find_results
+:text> %d результатов
+
+:name> trash_box_delete_tip
+:text> Вы уверены, что хотите полностью удалить этот файл/каталог?
+

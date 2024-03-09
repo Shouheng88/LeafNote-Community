@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> 標題
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> 聚焦模式
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> 無法變更已建立筆記的Markdown 狀態
+
+:name> compose_note_setting_structure
+:text> 目錄結構
+
+:name> compose_note_find
+:text> 搜尋
+
+:name> compose_note_replace
+:text> 替換
+
+:name> compose_note_move_to_header
+:text> 移動到開頭
+
+:name> compose_note_move_to_footer
+:text> 移動到結尾
+
+:name> compose_note_remote_change_tip
+:text> 該筆記已遠端更改。從雲端讀取？
+
+:name> compose_edit_find_replace
+:text> 替換
+
+:name> compose_edit_find_replace_all
+:text> 全部替換
+
+:name> compose_edit_find_results
+:text> %d 個結果
+

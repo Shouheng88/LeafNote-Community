@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> 제목
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> 집중 모드
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> 생성된 노트의 마크다운 상태를 변경할 수 없습니다.
+
+:name> compose_note_setting_structure
+:text> 디렉토리 구조
+
+:name> compose_note_find
+:text> 찾다
+
+:name> compose_note_replace
+:text> 바꾸다
+
+:name> compose_note_move_to_header
+:text> 처음으로 이동
+
+:name> compose_note_move_to_footer
+:text> 끝으로 이동
+
+:name> compose_note_remote_change_tip
+:text> 메모가 원격으로 변경되었습니다. 클라우드에서 읽으시나요?
+
+:name> compose_edit_find_replace
+:text> 바꾸다
+
+:name> compose_edit_find_replace_all
+:text> 모두 다 바꿔
+
+:name> compose_edit_find_results
+:text> %d개의 결과
+

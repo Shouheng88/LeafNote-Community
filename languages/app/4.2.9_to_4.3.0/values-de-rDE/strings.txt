@@ -1,0 +1,39 @@
+:name> compose_title_region_tip
+:text> Titel
+
+:name> compose_note_setting_css
+:text> CSS
+
+:name> compose_note_line_focus
+:text> Fokus Modus
+
+:name> compose_note_setting_markdown_unable_for_existed
+:text> Der Markdown-Status der erstellten Notizen kann nicht geändert werden
+
+:name> compose_note_setting_structure
+:text> Verzeichnisaufbau
+
+:name> compose_note_find
+:text> suchen
+
+:name> compose_note_replace
+:text> ersetzen
+
+:name> compose_note_move_to_header
+:text> zum Anfang wechseln
+
+:name> compose_note_move_to_footer
+:text> zum Ende bewegen
+
+:name> compose_note_remote_change_tip
+:text> Die Notiz wurde aus der Ferne geändert. Aus der Cloud lesen?
+
+:name> compose_edit_find_replace
+:text> ersetzen
+
+:name> compose_edit_find_replace_all
+:text> Alles ersetzen
+
+:name> compose_edit_find_results
+:text> %d Ergebnisse
+
