@@ -1,4 +1,8 @@
 ## 4.3.0 
+ - 10a702b5 fix: line number position issue
+- 4ef2973a feat: docs
+- 498b9ccb feat: line number update issue
+## 4.3.0 
  - d5581e7c feat: continue edit dialog style
 - 22fc5217 feat: refine line number performance
 - 7a8587a7 feat: emptyview methods
