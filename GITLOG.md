@@ -1,3 +1,13 @@
+## 4.3.1 
+ - 6e18a9f1 rfct: line number anr
+- 83a424dd rfct: line number anr
+- c79f54cd rfct: line number start from 1
+- 21bcdc1c rfct: toolbar position
+- fbf57a22 rfct: codes
+- 49d6fa1f rfct: constants
+- 75cff1e1 rfct: constants
+- 943b2b0b feat: docs
+- e9cb4653 feat: docs
 ## 4.3.0 
  - 10a702b5 fix: line number position issue
 - 4ef2973a feat: docs
