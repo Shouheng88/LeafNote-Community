@@ -1,0 +1,6 @@
+:name> compose_note_saved_to
+:text> Notiz gespeichert!\n\
+"
+%s\
+"
+

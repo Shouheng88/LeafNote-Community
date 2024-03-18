@@ -1,0 +1,3 @@
+:name> compose_note_saved_to
+:text> Note saved!\n\"%s\"
+
