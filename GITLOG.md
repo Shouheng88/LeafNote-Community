@@ -1,3 +1,13 @@
+## 4.3.2 
+ - 23ac2c58 feat: texts
+- 8299af1d feat: change readme
+- e65cd588 feat: change todo items
+- 3ec1dc45 feat: note save tip
+- 64fc15fc fix: crash when update note structure
+- f12e2463 fix: quick note image save issue
+- 51265c92 Update README.md
+- 140a460e docs
+- 9837c7f7 Merge pull request #164 from Shouheng88/feature-20240313
 ## 4.3.1 
  - 6e18a9f1 rfct: line number anr
 - 83a424dd rfct: line number anr
