@@ -298,6 +298,7 @@
     <string name="search_on_given_folder">指定搜索目錄</string>
     <string name="search_history">搜索歷史</string>
     <string name="compose_note_saved">筆記已儲存</string>
+    <string name="compose_note_saved_to">筆記已儲存！\n\&quot;%s\&quot;</string>
     <string name="compose_default_note_name">未命名筆記</string>
     <string name="compose_title_hint">請輸入筆記的名稱</string>
     <string name="compose_title_region_tip">標題</string>

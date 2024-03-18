@@ -298,6 +298,7 @@
     <string name="search_on_given_folder">Spécifier le répertoire de recherche</string>
     <string name="search_history">Historique des recherches</string>
     <string name="compose_note_saved">Remarque enregistrée</string>
+    <string name="compose_note_saved_to">Remarque enregistrée !\n\&quot;%s\&quot;</string>
     <string name="compose_default_note_name">Note sans titre</string>
     <string name="compose_title_hint">Veuillez saisir le nom de la note</string>
     <string name="compose_title_region_tip">titre</string>

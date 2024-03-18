@@ -298,6 +298,7 @@
     <string name="search_on_given_folder">Укажите каталог поиска</string>
     <string name="search_history">История поиска</string>
     <string name="compose_note_saved">Заметка сохранена.</string>
+    <string name="compose_note_saved_to">Заметка сохранена!\n\&quot;%s\&quot;</string>
     <string name="compose_default_note_name">Заметка без названия</string>
     <string name="compose_title_hint">Пожалуйста, введите название заметки</string>
     <string name="compose_title_region_tip">заголовок</string>
