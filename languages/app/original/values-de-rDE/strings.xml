@@ -296,9 +296,10 @@
     <string name="search_setting">Sucheinstellungen</string>
     <string name="search_ignore_case">Groß- und Kleinschreibung wird nicht beachtet</string>
     <string name="search_on_given_folder">Suchverzeichnis angeben</string>
+    <string name="search_title_only">Nur Titel abgleichen</string>
     <string name="search_history">Suchverlauf</string>
     <string name="compose_note_saved">Notiz gespeichert</string>
-    <string name="compose_note_saved_to">Notiz gespeichert!\n\&quot;%s\&quot;</string>
+    <string name="compose_note_saved_to">Notiz gespeichert!\n\"%s\"</string>
     <string name="compose_default_note_name">Notiz ohne Titel</string>
     <string name="compose_title_hint">Bitte geben Sie den Namen der Notiz ein</string>
     <string name="compose_title_region_tip">Titel</string>

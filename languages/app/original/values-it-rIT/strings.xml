@@ -296,9 +296,10 @@
     <string name="search_setting">Impostazioni di ricerca</string>
     <string name="search_ignore_case">Non sensibile a maiuscole e minuscole</string>
     <string name="search_on_given_folder">Specifica la directory di ricerca</string>
+    <string name="search_title_only">Corrisponde solo al titolo</string>
     <string name="search_history">Cronologia delle ricerche</string>
     <string name="compose_note_saved">Nota salvata</string>
-    <string name="compose_note_saved_to">Nota salvata!\n\&quot;%s\&quot;</string>
+    <string name="compose_note_saved_to">Nota salvata!\n\"%s\"</string>
     <string name="compose_default_note_name">Nota senza titolo</string>
     <string name="compose_title_hint">Inserisci il nome della nota</string>
     <string name="compose_title_region_tip">titolo</string>

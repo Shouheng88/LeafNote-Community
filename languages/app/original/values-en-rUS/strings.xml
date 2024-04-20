@@ -296,6 +296,7 @@
     <string name="search_setting">Search settings</string>
     <string name="search_ignore_case">Ignore case</string>
     <string name="search_on_given_folder">Search folder</string>
+    <string name="search_title_only">Match Title Only</string>
     <string name="search_history">History</string>
     <string name="compose_note_saved">Saved</string>
     <string name="compose_note_saved_to">Note saved!\n\"%s\"</string>

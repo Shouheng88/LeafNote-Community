@@ -296,9 +296,10 @@
     <string name="search_setting">검색 설정</string>
     <string name="search_ignore_case">대소문자 구분 없음</string>
     <string name="search_on_given_folder">검색 디렉토리 지정</string>
+    <string name="search_title_only">경기 제목만</string>
     <string name="search_history">검색 내역</string>
     <string name="compose_note_saved">메모가 저장됨</string>
-    <string name="compose_note_saved_to">메모가 저장되었습니다!\n\&quot;%s\&quot;</string>
+    <string name="compose_note_saved_to">메모가 저장되었습니다!\n\"%s\"</string>
     <string name="compose_default_note_name">이름 없는 노트</string>
     <string name="compose_title_hint">메모의 이름을 입력하십시오.</string>
     <string name="compose_title_region_tip">제목</string>

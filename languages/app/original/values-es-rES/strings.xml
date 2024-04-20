@@ -296,9 +296,10 @@
     <string name="search_setting">Configuración de búsqueda</string>
     <string name="search_ignore_case">No entre mayúsculas y minúsculas</string>
     <string name="search_on_given_folder">Especificar directorio de búsqueda</string>
+    <string name="search_title_only">Sólo título del partido</string>
     <string name="search_history">Buscar Historia</string>
     <string name="compose_note_saved">Nota guardada</string>
-    <string name="compose_note_saved_to">¡Nota guardada!\n\&quot;%s\&quot;</string>
+    <string name="compose_note_saved_to">¡Nota guardada!\n\"%s\"</string>
     <string name="compose_default_note_name">Nota sin título</string>
     <string name="compose_title_hint">Por favor ingresa el nombre de la nota</string>
     <string name="compose_title_region_tip">título</string>
