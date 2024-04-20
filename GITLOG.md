@@ -1,3 +1,9 @@
+## 4.3.4 
+ - 6a31a544 rfct: doc
+- e506c96f rfct: texts
+- 5d3afa17 rfct: search history
+- 79dc34d8 feat: match title only when search
+- 0b299fc9 Merge pull request #168 from Shouheng88/fix-20240329
 ## 4.3.3 
  - 6be4634b feat: tag update issue
 - 6c75b9e8 Merge pull request #167 from Shouheng88/feature-20240317
