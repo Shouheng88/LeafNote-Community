@@ -1,0 +1,10 @@
+:name> search_title_only
+:text> Только название матча
+
+:name> compose_note_saved_to
+:text> Заметка сохранена!\n\"%s\"
+
+:name> set_export_conflict_with
+:text> %d файл необходимо обраб
+отать вручную
+

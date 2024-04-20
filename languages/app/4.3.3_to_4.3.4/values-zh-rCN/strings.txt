@@ -1,0 +1,6 @@
+:name> search_title_only
+:text> 仅匹配标题
+
+:name> compose_note_saved_to
+:text> 笔记已保存！\n\"%s\"
+

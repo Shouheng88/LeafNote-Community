@@ -1,0 +1,9 @@
+:name> search_ignore_case
+:text> Ignore Case
+
+:name> search_on_given_folder
+:text> Search Folder
+
+:name> search_title_only
+:text> Match Title Only
+

@@ -1,0 +1,6 @@
+:name> search_title_only
+:text> Apenas título da partida
+
+:name> compose_note_saved_to
+:text> Nota salva!\n\"%s\"
+
