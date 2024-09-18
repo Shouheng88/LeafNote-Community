@@ -1,3 +1,7 @@
+## 4.3.5 
+ - 49be808a fix: search case issue
+- c7725a9b feat: add doc
+- 1a1ca03f Merge pull request #169 from Shouheng88/feature-20240420
 ## 4.3.4 
  - 6a31a544 rfct: doc
 - e506c96f rfct: texts
