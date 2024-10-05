@@ -1,0 +1,36 @@
+:name> previous
+:text> 回退
+
+:name> sync_confirm_message
+:text> 确定开始同步吗？
+
+:name> datasource_datasource
+:text> 数据源
+
+:name> datasource_external
+:text> 使用外部数据源
+
+:name> datasource_useit
+:text> 使用此文件夹
+
+:name> datasource_restart
+:text> 重启
+
+:name> datasource_restart_message
+:text> 请重启 App 才能继续使用。
+
+:name> datasource_change
+:text> 更改数据源
+
+:name> datasource_change_message
+:text> 确定使用“%s”作为数据源吗？
+
+:name> datasource_premium_required
+:text> 仅限正式会员
+
+:name> datasource_use_default
+:text> 使用默认数据源
+
+:name> datasource_use_default_message
+:text> 确定切换到默认数据源吗？
+

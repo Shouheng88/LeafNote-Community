@@ -1,0 +1,36 @@
+:name> previous
+:text> Anterior
+
+:name> sync_confirm_message
+:text> ¿Estás seguro de iniciar la sincronización?
+
+:name> datasource_datasource
+:text> Fuente de datos
+
+:name> datasource_external
+:text> Utilizar fuente de datos externa
+
+:name> datasource_useit
+:text> Utilice esta carpeta
+
+:name> datasource_restart
+:text> Reanudar
+
+:name> datasource_restart_message
+:text> Reinicie la aplicación para continuar usándola.
+
+:name> datasource_change
+:text> Cambiar fuente de datos
+
+:name> datasource_change_message
+:text> ¿Está seguro de utilizar \"%s\" como fuente de datos?
+
+:name> datasource_premium_required
+:text> Solo para miembros formales
+
+:name> datasource_use_default
+:text> Usar fuente de datos predeterminada
+
+:name> datasource_use_default_message
+:text> ¿Estás seguro de cambiar a la fuente de datos predeterminada?
+

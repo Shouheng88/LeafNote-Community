@@ -1,0 +1,36 @@
+:name> previous
+:text> 前の
+
+:name> sync_confirm_message
+:text> 同期を開始しますか?
+
+:name> datasource_datasource
+:text> データソース
+
+:name> datasource_external
+:text> 外部データソースを使用する
+
+:name> datasource_useit
+:text> このフォルダを使用する
+
+:name> datasource_restart
+:text> 再起動
+
+:name> datasource_restart_message
+:text> 引き続き使用するにはアプリを再起動してください。
+
+:name> datasource_change
+:text> データソースの変更
+
+:name> datasource_change_message
+:text> \"%s\" をデータ ソースとして使用しますか?
+
+:name> datasource_premium_required
+:text> 正式会員のみ
+
+:name> datasource_use_default
+:text> デフォルトのデータソースを使用する
+
+:name> datasource_use_default_message
+:text> デフォルトのデータ ソースに切り替えてもよろしいですか?
+

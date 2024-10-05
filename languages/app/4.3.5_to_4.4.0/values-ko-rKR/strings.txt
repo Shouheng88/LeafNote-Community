@@ -1,0 +1,36 @@
+:name> previous
+:text> 이전의
+
+:name> sync_confirm_message
+:text> 동기화를 시작할까요?
+
+:name> datasource_datasource
+:text> 데이터 소스
+
+:name> datasource_external
+:text> 외부 데이터 소스 사용
+
+:name> datasource_useit
+:text> 이 폴더 사용
+
+:name> datasource_restart
+:text> 다시 시작
+
+:name> datasource_restart_message
+:text> 계속 사용하려면 앱을 다시 시작하세요.
+
+:name> datasource_change
+:text> 데이터 소스 변경
+
+:name> datasource_change_message
+:text> \"%s\" 를 데이터 소스로 사용하시겠습니까?
+
+:name> datasource_premium_required
+:text> 정식 회원만 가능
+
+:name> datasource_use_default
+:text> 기본 데이터 소스 사용
+
+:name> datasource_use_default_message
+:text> 기본 데이터 소스로 전환하시겠습니까?
+

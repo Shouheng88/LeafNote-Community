@@ -1,0 +1,36 @@
+:name> previous
+:text> Previous
+
+:name> sync_confirm_message
+:text> Sure to start sync?
+
+:name> datasource_datasource
+:text> Data Source
+
+:name> datasource_external
+:text> Use External Data Source
+
+:name> datasource_useit
+:text> Use This Folder
+
+:name> datasource_restart
+:text> Restart
+
+:name> datasource_restart_message
+:text> Please restart the App to continue to use.
+
+:name> datasource_change
+:text> Change Data Source
+
+:name> datasource_change_message
+:text> Sure to use \"%s\" as data source?
+
+:name> datasource_premium_required
+:text> Only for formal member
+
+:name> datasource_use_default
+:text> Use Default Data Source
+
+:name> datasource_use_default_message
+:text> Sure to switch to default data source?
+

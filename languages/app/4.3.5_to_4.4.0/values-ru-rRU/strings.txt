@@ -1,0 +1,39 @@
+:name> previous
+:text> Предыдущий
+
+:name> sync_confirm_message
+:text> Вы уверены, что хотите начать синхронизацию?
+
+:name> set_export_conflict_with
+:text> %d файл необходимо обработать вручную
+
+:name> datasource_datasource
+:text> Источник данных
+
+:name> datasource_external
+:text> Использовать внешний источник данных
+
+:name> datasource_useit
+:text> Использовать эту папку
+
+:name> datasource_restart
+:text> Перезапуск
+
+:name> datasource_restart_message
+:text> Пожалуйста, перезапустите приложение, чтобы продолжить использование.
+
+:name> datasource_change
+:text> Изменить источник данных
+
+:name> datasource_change_message
+:text> Вы уверены, что хотите использовать \"%s\" в качестве источника данных?
+
+:name> datasource_premium_required
+:text> Только для официального члена
+
+:name> datasource_use_default
+:text> Использовать источник данных по умолчанию
+
+:name> datasource_use_default_message
+:text> Хотите переключиться на источник данных по умолчанию?
+

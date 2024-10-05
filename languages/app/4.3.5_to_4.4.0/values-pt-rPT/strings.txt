@@ -1,0 +1,36 @@
+:name> previous
+:text> Anterior
+
+:name> sync_confirm_message
+:text> Tem certeza de que deseja iniciar a sincronização?
+
+:name> datasource_datasource
+:text> Fonte de dados
+
+:name> datasource_external
+:text> Usar fonte de dados externa
+
+:name> datasource_useit
+:text> Use esta pasta
+
+:name> datasource_restart
+:text> Reiniciar
+
+:name> datasource_restart_message
+:text> Reinicie o aplicativo para continuar usando.
+
+:name> datasource_change
+:text> Alterar fonte de dados
+
+:name> datasource_change_message
+:text> Tem certeza de que deseja usar \"%s\" como fonte de dados?
+
+:name> datasource_premium_required
+:text> Somente para membros formais
+
+:name> datasource_use_default
+:text> Usar fonte de dados padrão
+
+:name> datasource_use_default_message
+:text> Tem certeza de que deseja alternar para a fonte de dados padrão?
+

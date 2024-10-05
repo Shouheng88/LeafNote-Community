@@ -1,0 +1,36 @@
+:name> previous
+:text> Précédent
+
+:name> sync_confirm_message
+:text> Êtes-vous sûr de démarrer la synchronisation?
+
+:name> datasource_datasource
+:text> Source des données
+
+:name> datasource_external
+:text> Utiliser une source de données externe
+
+:name> datasource_useit
+:text> Utiliser ce dossier
+
+:name> datasource_restart
+:text> Redémarrage
+
+:name> datasource_restart_message
+:text> Veuillez redémarrer l\'application pour continuer à l\'utiliser.
+
+:name> datasource_change
+:text> Changer la source de données
+
+:name> datasource_change_message
+:text> Êtes-vous sûr d\'utiliser \"%s\" comme source de données?
+
+:name> datasource_premium_required
+:text> Uniquement pour les membres officiels
+
+:name> datasource_use_default
+:text> Utiliser la source de données par défaut
+
+:name> datasource_use_default_message
+:text> Êtes-vous sûr de passer à la source de données par défaut?
+

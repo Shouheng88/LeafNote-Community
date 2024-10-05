@@ -1,0 +1,36 @@
+:name> previous
+:text> 回退
+
+:name> sync_confirm_message
+:text> 確定開始同步嗎？
+
+:name> datasource_datasource
+:text> 數據來源
+
+:name> datasource_external
+:text> 使用外部資料來源
+
+:name> datasource_useit
+:text> 使用此資料夾
+
+:name> datasource_restart
+:text> 重新啟動
+
+:name> datasource_restart_message
+:text> 請重新啟動App才能繼續使用。
+
+:name> datasource_change
+:text> 變更資料來源
+
+:name> datasource_change_message
+:text> 確定使用“%s”作為資料來源嗎？
+
+:name> datasource_premium_required
+:text> 限正式會員
+
+:name> datasource_use_default
+:text> 使用預設資料來源
+
+:name> datasource_use_default_message
+:text> 確定切換到預設資料來源嗎？
+

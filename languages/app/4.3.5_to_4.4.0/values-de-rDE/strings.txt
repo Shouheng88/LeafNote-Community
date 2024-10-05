@@ -1,0 +1,36 @@
+:name> previous
+:text> Vorherige
+
+:name> sync_confirm_message
+:text> Möchten Sie die Synchronisierung wirklich starten?
+
+:name> datasource_datasource
+:text> Datenquelle
+
+:name> datasource_external
+:text> Externe Datenquelle verwenden
+
+:name> datasource_useit
+:text> Diesen Ordner verwenden
+
+:name> datasource_restart
+:text> Neustart
+
+:name> datasource_restart_message
+:text> Bitte starten Sie die App neu, um sie weiterhin zu verwenden.
+
+:name> datasource_change
+:text> Datenquelle ändern
+
+:name> datasource_change_message
+:text> Möchten Sie wirklich “%s” als Datenquelle verwenden?
+
+:name> datasource_premium_required
+:text> Nur für formelle Mitglieder
+
+:name> datasource_use_default
+:text> Standarddatenquelle verwenden
+
+:name> datasource_use_default_message
+:text> Möchten Sie wirklich zur Standarddatenquelle wechseln?
+
