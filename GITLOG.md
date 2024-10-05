@@ -1,3 +1,12 @@
+## 4.4.0 
+ - c13a0bea feat: text
+- 63aa9f15 feat: text
+- 7c29360e feat: use only positive
+- 07dae013 feat: data source
+- 0deab0d5 rfct: work state manager
+- e142742a feat: add sync confirm dialog
+- 590e16ab fix: empty view issue
+- 1587ea02 Merge pull request #173 from Shouheng88/feature-4.3.5
 ## 4.3.5 
  - 49be808a fix: search case issue
 - c7725a9b feat: add doc
