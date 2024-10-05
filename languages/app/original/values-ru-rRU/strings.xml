@@ -70,6 +70,7 @@
     <string name="pin_top">Закрепить вверху</string>
     <string name="pin_top_cancel">Отменить пин-код</string>
     <string name="pin_pined">ВЕРШИНА</string>
+    <string name="previous">Предыдущий</string>
     <string name="common_not_set">Не задано</string>
     <string name="common_delete_tip">Подтвердите удаление?</string>
     <string name="common_details">Подробности</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">Эта заметка в настоящее время отстает от версии сервера. Хотите обновиться до последней версии?</string>
     <string name="sync_unable_to_handle_locally_yip">Эта ошибка вызвана ошибками сети или чтения и записи и не может быть устранена. Чтобы решить проблему, попробуйте еще раз.</string>
     <string name="sync_conflict_resolve_tip">Файл был изменен локально и удаленно. Хотите устранить эту ошибку путем сравнения?</string>
+    <string name="sync_confirm_message">Вы уверены, что хотите начать синхронизацию?</string>
     <string name="set_export_export">Экспорт данных</string>
     <string name="set_export_export_sub">Экспорт данных во внешнее хранилище</string>
     <string name="set_export_import">Импортировать данные</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">Хотите пожаловаться&#8230;</string>
     <string name="input_hint_4">Просто напишите что-нибудь&#8230;</string>
     <string name="compose_main_empty_tip">Пожалуйста, введите содержание заметки&#8230;</string>
+    <string name="datasource_datasource">Источник данных</string>
+    <string name="datasource_external">Использовать внешний источник данных</string>
+    <string name="datasource_useit">Использовать эту папку</string>
+    <string name="datasource_restart">Перезапуск</string>
+    <string name="datasource_restart_message">Пожалуйста, перезапустите приложение, чтобы продолжить использование.</string>
+    <string name="datasource_change">Изменить источник данных</string>
+    <string name="datasource_change_message">Вы уверены, что хотите использовать \"%s\" в качестве источника данных?</string>
+    <string name="datasource_premium_required">Только для официального члена</string>
+    <string name="datasource_use_default">Использовать источник данных по умолчанию</string>
+    <string name="datasource_use_default_message">Хотите переключиться на источник данных по умолчанию?</string>
 </resources>

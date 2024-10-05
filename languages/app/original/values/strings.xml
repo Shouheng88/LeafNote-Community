@@ -71,6 +71,7 @@
     <string name="pin_top">Pin to Top</string>
     <string name="pin_top_cancel">Cancel Pin</string>
     <string name="pin_pined">TOP</string>
+    <string name="previous">Previous</string>
     <string name="common_not_set">Not Set</string>
     <string name="common_delete_tip">Confirm delete?</string>
     <string name="common_details">Details</string>
@@ -599,6 +600,7 @@
     <string name="sync_note_remote_change_tip">The note has been updated remotely. Sync it to latest version?</string>
     <string name="sync_unable_to_handle_locally_yip">The failure is unable to be handled locally. This might occur due to a network or io error etc. You can try to sync again to resolve this failure.</string>
     <string name="sync_conflict_resolve_tip">The file has been modified locally and remotely. To resolve this failure by making a comparison?</string>
+    <string name="sync_confirm_message">Sure to start sync?</string>
     <string name="set_export_export">Export</string>
     <string name="set_export_export_sub">Export notes to external storage.</string>
     <string name="set_export_import">Import</string>
@@ -696,4 +698,14 @@
     <string name="input_hint_3">Want to complain&#8230;</string>
     <string name="input_hint_4">Just write something&#8230;</string>
     <string name="compose_main_empty_tip">Please enter the note content&#8230;</string>
+    <string name="datasource_datasource">Data Source</string>
+    <string name="datasource_external">Use External Data Source</string>
+    <string name="datasource_useit">Use This Folder</string>
+    <string name="datasource_restart">Restart</string>
+    <string name="datasource_restart_message">Please restart the App to continue to use.</string>
+    <string name="datasource_change">Change Data Source</string>
+    <string name="datasource_change_message">Sure to use \"%s\" as data source?</string>
+    <string name="datasource_premium_required">Only for formal member</string>
+    <string name="datasource_use_default">Use Default Data Source</string>
+    <string name="datasource_use_default_message">Sure to switch to default data source?</string>
 </resources>

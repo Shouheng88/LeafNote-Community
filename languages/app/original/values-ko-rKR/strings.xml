@@ -70,6 +70,7 @@
     <string name="pin_top">상단에 고정</string>
     <string name="pin_top_cancel">핀 취소</string>
     <string name="pin_pined">맨 위</string>
+    <string name="previous">이전의</string>
     <string name="common_not_set">설정되지 않음</string>
     <string name="common_delete_tip">삭제를 확인하시겠습니까?</string>
     <string name="common_details">세부</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">이 노트는 현재 서버 버전에 뒤처져 있습니다. 최신 버전으로 업데이트하시겠습니까?</string>
     <string name="sync_unable_to_handle_locally_yip">이 오류의 어려움은 인터넷이나 읽기와 쓰기 오류로 인한 것이므로 처리할 수 없습니다. 이 문제를 해결하기 위해 다시 시도해 보십시오.</string>
     <string name="sync_conflict_resolve_tip">이 파일은 로컬과 원격에서 동시에 수정됩니다. 이 오류를 대비해서 해결하시겠습니까?</string>
+    <string name="sync_confirm_message">동기화를 시작할까요?</string>
     <string name="set_export_export">데이터 내보내기</string>
     <string name="set_export_export_sub">외부 저장 공간으로 데이터 내보내기</string>
     <string name="set_export_import">데이터 가져오기</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">불평하고 싶다&#8230;</string>
     <string name="input_hint_4">그냥 아무거나 써보세요&#8230;</string>
     <string name="compose_main_empty_tip">메모 내용을 입력하세요&#8230;</string>
+    <string name="datasource_datasource">데이터 소스</string>
+    <string name="datasource_external">외부 데이터 소스 사용</string>
+    <string name="datasource_useit">이 폴더 사용</string>
+    <string name="datasource_restart">다시 시작</string>
+    <string name="datasource_restart_message">계속 사용하려면 앱을 다시 시작하세요.</string>
+    <string name="datasource_change">데이터 소스 변경</string>
+    <string name="datasource_change_message">\"%s\" 를 데이터 소스로 사용하시겠습니까?</string>
+    <string name="datasource_premium_required">정식 회원만 가능</string>
+    <string name="datasource_use_default">기본 데이터 소스 사용</string>
+    <string name="datasource_use_default_message">기본 데이터 소스로 전환하시겠습니까?</string>
 </resources>

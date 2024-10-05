@@ -70,6 +70,7 @@
     <string name="pin_top">Fixar no topo</string>
     <string name="pin_top_cancel">Cancelar PIN</string>
     <string name="pin_pined">PRINCIPAL</string>
+    <string name="previous">Anterior</string>
     <string name="common_not_set">Não configurado</string>
     <string name="common_delete_tip">Confirmar exclusão?</string>
     <string name="common_details">Detalhes</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">Esta nota está actualmente atrás da versão do servidor. Deseja actualizar para a versão mais recente?</string>
     <string name="sync_unable_to_handle_locally_yip">A dificuldade com este erro é causada por um erro de rede ou leitura/gravação e não pode ser resolvida.</string>
     <string name="sync_conflict_resolve_tip">Este ficheiro foi modificado localmente e remotamente. Deseja resolver este erro comparando- o?</string>
+    <string name="sync_confirm_message">Tem certeza de que deseja iniciar a sincronização?</string>
     <string name="set_export_export">Exportar Dados</string>
     <string name="set_export_export_sub">Exportar dados para o espaço de armazenamento externo</string>
     <string name="set_export_import">Importar Dados</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">Quer reclamar&#8230;</string>
     <string name="input_hint_4">Basta escrever algo&#8230;</string>
     <string name="compose_main_empty_tip">Por favor insira o conteúdo da nota&#8230;</string>
+    <string name="datasource_datasource">Fonte de dados</string>
+    <string name="datasource_external">Usar fonte de dados externa</string>
+    <string name="datasource_useit">Use esta pasta</string>
+    <string name="datasource_restart">Reiniciar</string>
+    <string name="datasource_restart_message">Reinicie o aplicativo para continuar usando.</string>
+    <string name="datasource_change">Alterar fonte de dados</string>
+    <string name="datasource_change_message">Tem certeza de que deseja usar \"%s\" como fonte de dados?</string>
+    <string name="datasource_premium_required">Somente para membros formais</string>
+    <string name="datasource_use_default">Usar fonte de dados padrão</string>
+    <string name="datasource_use_default_message">Tem certeza de que deseja alternar para a fonte de dados padrão?</string>
 </resources>

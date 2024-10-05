@@ -70,6 +70,7 @@
     <string name="pin_top">トップにピン留めする</string>
     <string name="pin_top_cancel">ピンをキャンセル</string>
     <string name="pin_pined">上</string>
+    <string name="previous">前の</string>
     <string name="common_not_set">設定されていません</string>
     <string name="common_delete_tip">削除を確認しますか?</string>
     <string name="common_details">詳細</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">ノートは現在サーバーのバージョンに遅れていますが、最新バージョンに更新されますか？</string>
     <string name="sync_unable_to_handle_locally_yip">このエラーの困難はネットワークまたは読み書きエラーによるもので、処理できません。この問題を解決するために再試行してみてください</string>
     <string name="sync_conflict_resolve_tip">このファイルはローカルとリモートで同時に変更されていますが、このエラーを比較して解決しますか？</string>
+    <string name="sync_confirm_message">同期を開始しますか?</string>
     <string name="set_export_export">データのエクスポート</string>
     <string name="set_export_export_sub">外部ストレージスペースへのデータのエクスポート</string>
     <string name="set_export_import">データのインポート</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">文句を言いたい&#8230;</string>
     <string name="input_hint_4">ちょっと何か書いてください&#8230;</string>
     <string name="compose_main_empty_tip">メモの内容を入力してください&#8230;</string>
+    <string name="datasource_datasource">データソース</string>
+    <string name="datasource_external">外部データソースを使用する</string>
+    <string name="datasource_useit">このフォルダを使用する</string>
+    <string name="datasource_restart">再起動</string>
+    <string name="datasource_restart_message">引き続き使用するにはアプリを再起動してください。</string>
+    <string name="datasource_change">データソースの変更</string>
+    <string name="datasource_change_message">\"%s\" をデータ ソースとして使用しますか?</string>
+    <string name="datasource_premium_required">正式会員のみ</string>
+    <string name="datasource_use_default">デフォルトのデータソースを使用する</string>
+    <string name="datasource_use_default_message">デフォルトのデータ ソースに切り替えてもよろしいですか?</string>
 </resources>

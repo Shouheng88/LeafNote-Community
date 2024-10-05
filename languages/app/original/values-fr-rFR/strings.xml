@@ -70,6 +70,7 @@
     <string name="pin_top">Épingler en haut</string>
     <string name="pin_top_cancel">Annuler l\'épingle</string>
     <string name="pin_pined">HAUT</string>
+    <string name="previous">Précédent</string>
     <string name="common_not_set">Pas encore défini</string>
     <string name="common_delete_tip">Confirmation de la suppression?</string>
     <string name="common_details">Détails</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">Cette note est actuellement en retard sur la version du serveur. Voulez-vous mettre à jour vers la dernière version ?</string>
     <string name="sync_unable_to_handle_locally_yip">Cette erreur est provoquée par des erreurs de réseau ou de lecture et d\'écriture et ne peut pas être traitée. Vous pouvez réessayer pour résoudre le problème.</string>
     <string name="sync_conflict_resolve_tip">Le fichier a été modifié localement et à distance. Voulez-vous résoudre cette erreur par comparaison ?</string>
+    <string name="sync_confirm_message">Êtes-vous sûr de démarrer la synchronisation?</string>
     <string name="set_export_export">Exporter des données</string>
     <string name="set_export_export_sub">Exporter des données vers un stockage externe</string>
     <string name="set_export_import">Importer des données</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">Envie de porter plainte&#8230;</string>
     <string name="input_hint_4">Écrivez simplement quelque chose&#8230;</string>
     <string name="compose_main_empty_tip">Veuillez saisir le contenu de la note&#8230;</string>
+    <string name="datasource_datasource">Source des données</string>
+    <string name="datasource_external">Utiliser une source de données externe</string>
+    <string name="datasource_useit">Utiliser ce dossier</string>
+    <string name="datasource_restart">Redémarrage</string>
+    <string name="datasource_restart_message">Veuillez redémarrer l\'application pour continuer à l\'utiliser.</string>
+    <string name="datasource_change">Changer la source de données</string>
+    <string name="datasource_change_message">Êtes-vous sûr d\'utiliser \"%s\" comme source de données?</string>
+    <string name="datasource_premium_required">Uniquement pour les membres officiels</string>
+    <string name="datasource_use_default">Utiliser la source de données par défaut</string>
+    <string name="datasource_use_default_message">Êtes-vous sûr de passer à la source de données par défaut?</string>
 </resources>

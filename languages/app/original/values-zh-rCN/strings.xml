@@ -70,6 +70,7 @@
     <string name="pin_top">置顶</string>
     <string name="pin_top_cancel">取消置顶</string>
     <string name="pin_pined">置顶</string>
+    <string name="previous">回退</string>
     <string name="common_not_set">没有设置</string>
     <string name="common_delete_tip">确认删除？</string>
     <string name="common_details">详情</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">该笔记当前落后于服务器版本，是否更新到最新版本？</string>
     <string name="sync_unable_to_handle_locally_yip">该错误困难是网络或者读写错误造成的，无法处理，你可以试试重试来解决该问题</string>
     <string name="sync_conflict_resolve_tip">该文件在本地和远程同时被修改，要通过对比来解决该错误吗？</string>
+    <string name="sync_confirm_message">确定开始同步吗？</string>
     <string name="set_export_export">导出数据</string>
     <string name="set_export_export_sub">导出数据到外部存储空间</string>
     <string name="set_export_import">导入数据</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">想要吐槽的&#8230;</string>
     <string name="input_hint_4">随便写点东西&#8230;</string>
     <string name="compose_main_empty_tip">请输入笔记内容&#8230;</string>
+    <string name="datasource_datasource">数据源</string>
+    <string name="datasource_external">使用外部数据源</string>
+    <string name="datasource_useit">使用此文件夹</string>
+    <string name="datasource_restart">重启</string>
+    <string name="datasource_restart_message">请重启 App 才能继续使用。</string>
+    <string name="datasource_change">更改数据源</string>
+    <string name="datasource_change_message">确定使用“%s”作为数据源吗？</string>
+    <string name="datasource_premium_required">仅限正式会员</string>
+    <string name="datasource_use_default">使用默认数据源</string>
+    <string name="datasource_use_default_message">确定切换到默认数据源吗？</string>
 </resources>

@@ -70,6 +70,7 @@
     <string name="pin_top">Fissa in alto</string>
     <string name="pin_top_cancel">Annulla perno</string>
     <string name="pin_pined">SUPERIORE</string>
+    <string name="previous">Precedente</string>
     <string name="common_not_set">Non impostato</string>
     <string name="common_delete_tip">Conferma cancellazione?</string>
     <string name="common_details">Dettagli</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">Questa nota è attualmente dietro la versione del server. Vuoi eseguire l\'aggiornamento alla versione più recente?</string>
     <string name="sync_unable_to_handle_locally_yip">Questo errore è causato da errori di rete o di lettura e scrittura e non può essere gestito. Puoi riprovare a risolvere il problema.</string>
     <string name="sync_conflict_resolve_tip">Il file è stato modificato sia localmente che da remoto. Vuoi risolvere questo errore tramite confronto?</string>
+    <string name="sync_confirm_message">Vuoi davvero avviare la sincronizzazione?</string>
     <string name="set_export_export">Esportare dati</string>
     <string name="set_export_export_sub">Esporta i dati su una memoria esterna</string>
     <string name="set_export_import">Importa dati</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">Vuoi lamentarti&#8230;</string>
     <string name="input_hint_4">Basta scrivere qualcosa&#8230;</string>
     <string name="compose_main_empty_tip">Inserisci il contenuto della nota&#8230;</string>
+    <string name="datasource_datasource">Fonte dei dati</string>
+    <string name="datasource_external">Usa origine dati esterna</string>
+    <string name="datasource_useit">Usa questa cartella</string>
+    <string name="datasource_restart">Ricomincia</string>
+    <string name="datasource_restart_message">Riavvia l\'app per continuare a utilizzarla.</string>
+    <string name="datasource_change">Cambia origine dati</string>
+    <string name="datasource_change_message">Vuoi usare \"%s\" come origine dati?</string>
+    <string name="datasource_premium_required">Solo per i membri formali</string>
+    <string name="datasource_use_default">Usa origine dati predefinita</string>
+    <string name="datasource_use_default_message">Vuoi davvero passare alla fonte dati predefinita?</string>
 </resources>

@@ -70,6 +70,7 @@
     <string name="pin_top">置頂</string>
     <string name="pin_top_cancel">取消置頂</string>
     <string name="pin_pined">置頂</string>
+    <string name="previous">回退</string>
     <string name="common_not_set">沒有設定</string>
     <string name="common_delete_tip">確認刪除？</string>
     <string name="common_details">細節</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">該筆記當前落後於服務器版本，是否更新到最新版本？</string>
     <string name="sync_unable_to_handle_locally_yip">該錯誤困難是網絡或者讀寫錯誤造成的，無法處理，你可以試試重試來解決該問題</string>
     <string name="sync_conflict_resolve_tip">該文件在本地和遠程同時被修改，要通過對比來解決該錯誤嗎？</string>
+    <string name="sync_confirm_message">確定開始同步嗎？</string>
     <string name="set_export_export">匯出資料</string>
     <string name="set_export_export_sub">匯出資料到外部儲存空間</string>
     <string name="set_export_import">匯入資料</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">想要吐槽的&#8230;</string>
     <string name="input_hint_4">隨便寫點東西&#8230;</string>
     <string name="compose_main_empty_tip">請輸入筆記內容&#8230;</string>
+    <string name="datasource_datasource">數據來源</string>
+    <string name="datasource_external">使用外部資料來源</string>
+    <string name="datasource_useit">使用此資料夾</string>
+    <string name="datasource_restart">重新啟動</string>
+    <string name="datasource_restart_message">請重新啟動App才能繼續使用。</string>
+    <string name="datasource_change">變更資料來源</string>
+    <string name="datasource_change_message">確定使用“%s”作為資料來源嗎？</string>
+    <string name="datasource_premium_required">限正式會員</string>
+    <string name="datasource_use_default">使用預設資料來源</string>
+    <string name="datasource_use_default_message">確定切換到預設資料來源嗎？</string>
 </resources>

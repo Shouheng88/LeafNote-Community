@@ -70,6 +70,7 @@
     <string name="pin_top">Oben anpinnen</string>
     <string name="pin_top_cancel">Pin abbrechen</string>
     <string name="pin_pined">SPITZE</string>
+    <string name="previous">Vorherige</string>
     <string name="common_not_set">Nicht eingestellt</string>
     <string name="common_delete_tip">Löschen bestätigen?</string>
     <string name="common_details">Einzelheiten</string>
@@ -585,6 +586,7 @@
     <string name="sync_note_remote_change_tip">Dieser Hinweis befindet sich derzeit hinter der Serverversion. Möchten Sie auf die neueste Version aktualisieren?</string>
     <string name="sync_unable_to_handle_locally_yip">Dieser Fehler wird durch Netzwerk- oder Lese- und Schreibfehler verursacht und kann nicht behoben werden. Sie können erneut versuchen, das Problem zu lösen.</string>
     <string name="sync_conflict_resolve_tip">Die Datei wurde sowohl lokal als auch remote geändert. Möchten Sie diesen Fehler durch einen Vergleich beheben?</string>
+    <string name="sync_confirm_message">Möchten Sie die Synchronisierung wirklich starten?</string>
     <string name="set_export_export">Daten exportieren</string>
     <string name="set_export_export_sub">Exportieren Sie Daten in einen externen Speicher</string>
     <string name="set_export_import">Daten importieren</string>
@@ -681,4 +683,14 @@
     <string name="input_hint_3">Möchte mich beschweren&#8230;</string>
     <string name="input_hint_4">Schreib einfach etwas&#8230;</string>
     <string name="compose_main_empty_tip">Bitte geben Sie den Notizinhalt ein&#8230;</string>
+    <string name="datasource_datasource">Datenquelle</string>
+    <string name="datasource_external">Externe Datenquelle verwenden</string>
+    <string name="datasource_useit">Diesen Ordner verwenden</string>
+    <string name="datasource_restart">Neustart</string>
+    <string name="datasource_restart_message">Bitte starten Sie die App neu, um sie weiterhin zu verwenden.</string>
+    <string name="datasource_change">Datenquelle ändern</string>
+    <string name="datasource_change_message">Möchten Sie wirklich “%s” als Datenquelle verwenden?</string>
+    <string name="datasource_premium_required">Nur für formelle Mitglieder</string>
+    <string name="datasource_use_default">Standarddatenquelle verwenden</string>
+    <string name="datasource_use_default_message">Möchten Sie wirklich zur Standarddatenquelle wechseln?</string>
 </resources>
