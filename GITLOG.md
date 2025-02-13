@@ -1,3 +1,6 @@
+## 4.5.0 
+ - e5b85f26 feat: upgrade gradle target version
+- c111fe7a Merge pull request #174 from Shouheng88/feature-4.4.0
 ## 4.4.0 
  - c13a0bea feat: text
 - 63aa9f15 feat: text
