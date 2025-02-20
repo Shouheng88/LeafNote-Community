@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">로그인하지 않았습니다</string>
     <string name="premium_account_state_not_logged_in_tip">구매를 계속하려면 로그인하세요.</string>
     <string name="premium_account_restore_guide_message">로그인하면 구매를 복원할 수 있습니다. 문제가 발생하면 당사에 문의하여 해결하세요.</string>
+    <string name="premium_multi_platform_guide">우리는 최근 iOS 버전을 개발했고, 멤버십 혜택은 안드로이드 버전과 공유됩니다. 다운로드하여 사용해 보세요!</string>
     <string name="pay_wechat_title_with_step">WeChat (단계: %s)</string>
     <string name="pay_alipay_title_with_step">AliPay (단계: %s)</string>
     <string name="pay_already_paid">지불 완료 &gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">미화 시간과 날짜</string>
     <string name="set_note">메모</string>
     <string name="set_note_sub">메모 관련 설정</string>
+    <string name="set_note_list_cell_style">셀 스타일</string>
+    <string name="set_note_list_cell_style_simple">미니멀리스트</string>
+    <string name="set_note_list_cell_style_list">솔직한</string>
+    <string name="set_note_list_cell_style_card">카드</string>
+    <string name="set_note_list_show_folders">폴더 표시</string>
+    <string name="set_note_list_style_guide">최근에 Notes List에 새로운 기능을 추가했습니다. 이제 개인화할 수 있습니다!</string>
     <string name="set_export">가져오기 &amp; 내보내기</string>
     <string name="set_export_sub">이 기능은 곧 오프라인 상태가 됩니다.</string>
     <string name="set_note_list">노트 목록</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">적용 정보</string>
     <string name="about_app_privacy">개인 정보 보호 정책</string>
     <string name="about_app_homepage">홈 페이지 적용</string>
+    <string name="about_app_homepage_sub">iOS 버전이 출시되었습니다!</string>
     <string name="about_app_translate">번역 지원</string>
     <string name="about_app_translate_sub">\"잎 노트\" 번역을 최적화할 수 있도록 도와주세요.</string>
     <string name="about_app_development">개발 계획</string>

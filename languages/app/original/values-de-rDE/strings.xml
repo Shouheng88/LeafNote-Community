@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">Nicht eingeloggt</string>
     <string name="premium_account_state_not_logged_in_tip">Bitte melden Sie sich an, um den Kauf fortzusetzen</string>
     <string name="premium_account_restore_guide_message">Sie können Ihren Kauf wiederherstellen, indem Sie sich anmelden. Wenn Sie auf Probleme stoßen, kontaktieren Sie uns bitte, um diese zu lösen.</string>
+    <string name="premium_multi_platform_guide">Wir haben vor Kurzem die iOS-Version entwickelt und die Mitgliedschaftsvorteile gelten auch für die Android-Version. Sie können es herunterladen und ausprobieren!</string>
     <string name="pay_wechat_title_with_step">WeChat (Schritt: %s)</string>
     <string name="pay_alipay_title_with_step">AliPay (Schritt: %s)</string>
     <string name="pay_already_paid">Zahlung abgeschlossen &gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">Verschönern Sie Uhrzeit und Datum</string>
     <string name="set_note">Anmerkungen</string>
     <string name="set_note_sub">Notizbezogene Einstellungen</string>
+    <string name="set_note_list_cell_style">Zellenstil</string>
+    <string name="set_note_list_cell_style_simple">Minimalistisch</string>
+    <string name="set_note_list_cell_style_list">Schmucklos</string>
+    <string name="set_note_list_cell_style_card">Karte</string>
+    <string name="set_note_list_show_folders">Ordner anzeigen</string>
+    <string name="set_note_list_style_guide">Wir haben der Notizenliste kürzlich einige neue Funktionen hinzugefügt. Jetzt können Sie sie personalisieren!</string>
     <string name="set_export">Import &amp; Export</string>
     <string name="set_export_sub">Diese Funktion wird bald offline sein</string>
     <string name="set_note_list">Notizliste</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">Über die Anwendung</string>
     <string name="about_app_privacy">Datenschutzrichtlinie</string>
     <string name="about_app_homepage">Startseite der Bewerbung</string>
+    <string name="about_app_homepage_sub">Die iOS-Version ist jetzt verfügbar!</string>
     <string name="about_app_translate">Helfen Sie bei der Übersetzung</string>
     <string name="about_app_translate_sub">Helfen Sie uns, die Übersetzung von „Leaf Note“ zu optimieren</string>
     <string name="about_app_development">Entwicklungsplan</string>

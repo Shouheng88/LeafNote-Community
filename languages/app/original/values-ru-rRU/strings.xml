@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">Не вошел</string>
     <string name="premium_account_state_not_logged_in_tip">Пожалуйста, войдите, чтобы возобновить покупку</string>
     <string name="premium_account_restore_guide_message">Вы можете восстановить покупку, войдя в систему. Если у вас возникнут какие-либо проблемы, пожалуйста, свяжитесь с нами, чтобы решить их.</string>
+    <string name="premium_multi_platform_guide">Недавно мы разработали версию iOS, и преимущества членства совпадают с версией Android. Вы можете скачать и попробовать!</string>
     <string name="pay_wechat_title_with_step">WeChat (шаг: %s)</string>
     <string name="pay_alipay_title_with_step">AliPay (шаг: %s)</string>
     <string name="pay_already_paid">Платеж завершен&gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">Украсьте время и дату</string>
     <string name="set_note">Примечания</string>
     <string name="set_note_sub">Настройки, связанные с заметками</string>
+    <string name="set_note_list_cell_style">Стиль ячейки</string>
+    <string name="set_note_list_cell_style_simple">Минималистский</string>
+    <string name="set_note_list_cell_style_list">Простой</string>
+    <string name="set_note_list_cell_style_card">Карточка</string>
+    <string name="set_note_list_show_folders">Показать папки</string>
+    <string name="set_note_list_style_guide">Недавно мы добавили несколько новых функций в список заметок. Теперь вы можете персонализировать его!</string>
     <string name="set_export">Импорт и экспорт</string>
     <string name="set_export_sub">Эта функция скоро будет отключена</string>
     <string name="set_note_list">Список заметок</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">О приложении</string>
     <string name="about_app_privacy">Политика конфиденциальности</string>
     <string name="about_app_homepage">Домашняя страница приложения</string>
+    <string name="about_app_homepage_sub">Версия для iOS уже доступна!</string>
     <string name="about_app_translate">Помогите с переводом</string>
     <string name="about_app_translate_sub">Помогите нам оптимизировать перевод «Leaf Note»</string>
     <string name="about_app_development">План развития</string>

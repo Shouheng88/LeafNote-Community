@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">未登入</string>
     <string name="premium_account_state_not_logged_in_tip">請登入以恢復購買</string>
     <string name="premium_account_restore_guide_message">您可以透過登入來恢復購買。如果您遇到了任何問題，請聯絡我們進行解決。</string>
+    <string name="premium_multi_platform_guide">我們近期開發了iOS版本，會員權益與Android版本共享。您可以下載並嘗試！</string>
     <string name="pay_wechat_title_with_step">微信 (步驟: %s)</string>
     <string name="pay_alipay_title_with_step">支付寶 (步驟: %s)</string>
     <string name="pay_already_paid">已完成付款 &gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">使用美化的時間和日期</string>
     <string name="set_note">筆記</string>
     <string name="set_note_sub">筆記相關的設定</string>
+    <string name="set_note_list_cell_style">單元格樣式</string>
+    <string name="set_note_list_cell_style_simple">極簡主義</string>
+    <string name="set_note_list_cell_style_list">朴素主义</string>
+    <string name="set_note_list_cell_style_card">卡片筆記</string>
+    <string name="set_note_list_show_folders">顯示資料夾</string>
+    <string name="set_note_list_style_guide">我們最近在筆記列表中新增了一些新功能。現在您可以對其進行個性化設置！</string>
     <string name="set_export">匯入 &amp; 匯出</string>
     <string name="set_export_sub">該功能即將下線</string>
     <string name="set_note_list">筆記列表</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">關於應用</string>
     <string name="about_app_privacy">隱私政策</string>
     <string name="about_app_homepage">應用程式首頁</string>
+    <string name="about_app_homepage_sub">iOS 版本現已推出！</string>
     <string name="about_app_translate">翻譯</string>
     <string name="about_app_translate_sub">幫助我們最佳化「言葉」的翻譯</string>
     <string name="about_app_development">開發計劃</string>

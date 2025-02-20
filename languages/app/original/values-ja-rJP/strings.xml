@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">ログインしていない</string>
     <string name="premium_account_state_not_logged_in_tip">購入を再開するにはログインしてください</string>
     <string name="premium_account_restore_guide_message">ログインすると購入を復元できます。問題が発生した場合は、解決するために弊社までご連絡ください。</string>
+    <string name="premium_multi_platform_guide">この度、iOS版を開発いたしました。会員特典はAndroid版と共通となっておりますので、ぜひダウンロードしてお試しください！</string>
     <string name="pay_wechat_title_with_step">WeChat（手順：%s）</string>
     <string name="pay_alipay_title_with_step">AliPay（手順：%s）</string>
     <string name="pay_already_paid">支払い完了 &gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">美化時間と日付</string>
     <string name="set_note">ノート冊</string>
     <string name="set_note_sub">メモ関連の設定</string>
+    <string name="set_note_list_cell_style">セルスタイル</string>
+    <string name="set_note_list_cell_style_simple">ミニマリスト</string>
+    <string name="set_note_list_cell_style_list">無地</string>
+    <string name="set_note_list_cell_style_card">カード</string>
+    <string name="set_note_list_show_folders">フォルダを表示</string>
+    <string name="set_note_list_style_guide">最近、ノート リストにいくつかの新機能が追加されました。これで、ノート リストをパーソナライズできるようになりました。</string>
     <string name="set_export">インポート &amp; エクスポート</string>
     <string name="set_export_sub">この機能は間もなくオフラインになります</string>
     <string name="set_note_list">メモリスト</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">適用について</string>
     <string name="about_app_privacy">プライバシーポリシー</string>
     <string name="about_app_homepage">ホームページの適用</string>
+    <string name="about_app_homepage_sub">iOS版も配信中です！</string>
     <string name="about_app_translate">翻訳支援</string>
     <string name="about_app_translate_sub">言の葉の翻訳の最適化を支援</string>
     <string name="about_app_development">開発計画</string>

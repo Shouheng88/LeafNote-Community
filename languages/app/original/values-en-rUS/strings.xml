@@ -276,6 +276,7 @@
     <string name="premium_account_state_not_logged_in">Not Logged</string>
     <string name="premium_account_state_not_logged_in_tip">Please login to restore purchase.</string>
     <string name="premium_account_restore_guide_message">You can restore purchase by logging in. No matter what difficulties you encounter, please contact me to solve it.</string>
+    <string name="premium_multi_platform_guide">We have recently developed the iOS version, and the membership benefits are shared with the Android version. You can download and give it a try!</string>
     <string name="pay_wechat_title_with_step">WeChat (Step: %s)</string>
     <string name="pay_alipay_title_with_step">AliPay (Step: %s)</string>
     <string name="pay_already_paid">Already paid &gt;</string>
@@ -487,6 +488,12 @@
     <string name="set_use_pretty_time">Use Pretty Time</string>
     <string name="set_note">Note</string>
     <string name="set_note_sub">Settings about note</string>
+    <string name="set_note_list_cell_style">Cell Style</string>
+    <string name="set_note_list_cell_style_simple">Minimalist</string>
+    <string name="set_note_list_cell_style_list">Plain</string>
+    <string name="set_note_list_cell_style_card">Card</string>
+    <string name="set_note_list_show_folders">Display Folders</string>
+    <string name="set_note_list_style_guide">We recently added some new features to Notes List. Now you can personalize it!</string>
     <string name="set_export">Export &amp; Import</string>
     <string name="set_export_sub">This feature will be removed later.</string>
     <string name="set_note_list">Note List</string>
@@ -614,6 +621,7 @@
     <string name="about_app_section">About</string>
     <string name="about_app_privacy">Privacy</string>
     <string name="about_app_homepage">Homepage</string>
+    <string name="about_app_homepage_sub">The iOS version is available now!</string>
     <string name="about_app_translate">Translate</string>
     <string name="about_app_translate_sub">Help us improve translation.</string>
     <string name="about_app_development">Development Plan</string>
