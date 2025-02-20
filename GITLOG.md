@@ -1,3 +1,19 @@
+## 4.6.0 
+ - dd1d9cb4 feat: change logo
+- 78291946 fix: texts build issues
+- 0cea0c88 feat: texts
+- 5819413d fix: note top fix: note title saving issue
+- b54b3b71 feat: add ios guide
+- 7033271b feat: add ios guide
+- 244c0781 feat: add note list ui guide
+- a3858406 feat: ui style
+- 7d754897 feat: add show folder settings
+- 550370d2 feat: add new note list cell styles
+- e429f14e feat: add new list cell style
+- d5bd935f feat: hide folder picker shade
+- 46494c24 feat: left drawer style
+- 5564d4e0 Merge pull request #180 from Shouheng88/master
+- dc5c6a79 Merge pull request #179 from Shouheng88/feature-v4.5.1
 ## 4.5.1 
  - 36d9db4d fix: data sync crash issues
 - 34c7f04d Merge pull request #177 from Shouheng88/feature-v4.5.0
