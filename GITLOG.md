@@ -1,3 +1,7 @@
+## 4.5.1 
+ - 36d9db4d fix: data sync crash issues
+- 34c7f04d Merge pull request #177 from Shouheng88/feature-v4.5.0
+- 6b5d9fd0 fix: build script issues
 ## 4.5.0 
  - e5b85f26 feat: upgrade gradle target version
 - c111fe7a Merge pull request #174 from Shouheng88/feature-4.4.0
