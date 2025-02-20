@@ -1,0 +1,24 @@
+:name> premium_multi_platform_guide
+:text> この度、iOS版を開発いたしました。会員特典はAndroid版と共通となっておりますので、ぜひダウンロードしてお試しください！
+
+:name> set_note_list_cell_style
+:text> セルスタイル
+
+:name> set_note_list_cell_style_simple
+:text> ミニマリスト
+
+:name> set_note_list_cell_style_list
+:text> 無地
+
+:name> set_note_list_cell_style_card
+:text> カード
+
+:name> set_note_list_show_folders
+:text> フォルダを表示
+
+:name> set_note_list_style_guide
+:text> 最近、ノート リストにいくつかの新機能が追加されました。これで、ノート リストをパーソナライズできるようになりました。
+
+:name> about_app_homepage_sub
+:text> iOS版も配信中です！
+

@@ -1,0 +1,24 @@
+:name> premium_multi_platform_guide
+:text> 我們近期開發了iOS版本，會員權益與Android版本共享。您可以下載並嘗試！
+
+:name> set_note_list_cell_style
+:text> 單元格樣式
+
+:name> set_note_list_cell_style_simple
+:text> 極簡主義
+
+:name> set_note_list_cell_style_list
+:text> 朴素主义
+
+:name> set_note_list_cell_style_card
+:text> 卡片筆記
+
+:name> set_note_list_show_folders
+:text> 顯示資料夾
+
+:name> set_note_list_style_guide
+:text> 我們最近在筆記列表中新增了一些新功能。現在您可以對其進行個性化設置！
+
+:name> about_app_homepage_sub
+:text> iOS 版本現已推出！
+

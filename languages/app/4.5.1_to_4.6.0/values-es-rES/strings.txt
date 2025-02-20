@@ -1,0 +1,24 @@
+:name> premium_multi_platform_guide
+:text> Recientemente hemos desarrollado la versión para iOS y los beneficios de la membresía son compartidos con la versión para Android. ¡Puedes descargarla y probarla!
+
+:name> set_note_list_cell_style
+:text> Estilo de celda
+
+:name> set_note_list_cell_style_simple
+:text> Minimalist
+
+:name> set_note_list_cell_style_list
+:text> Plano
+
+:name> set_note_list_cell_style_card
+:text> Tarjeta
+
+:name> set_note_list_show_folders
+:text> Carpetas de visualización
+
+:name> set_note_list_style_guide
+:text> Recientemente hemos añadido algunas funciones nuevas a la Lista de notas. ¡Ahora puedes personalizarla!
+
+:name> about_app_homepage_sub
+:text> ¡La versión iOS ya está disponible!
+

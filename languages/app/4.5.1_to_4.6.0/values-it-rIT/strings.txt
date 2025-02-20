@@ -1,0 +1,24 @@
+:name> premium_multi_platform_guide
+:text> Abbiamo sviluppato di recente la versione iOS e i vantaggi dell\'iscrizione sono condivisi con la versione Android. Puoi scaricarla e provarla!
+
+:name> set_note_list_cell_style
+:text> Stile cellulare
+
+:name> set_note_list_cell_style_simple
+:text> Minimalista
+
+:name> set_note_list_cell_style_list
+:text> Pianura
+
+:name> set_note_list_cell_style_card
+:text> Carta
+
+:name> set_note_list_show_folders
+:text> Visualizza cartelle
+
+:name> set_note_list_style_guide
+:text> Abbiamo recentemente aggiunto alcune nuove funzionalità a Notes List. Ora puoi personalizzarlo!
+
+:name> about_app_homepage_sub
+:text> La versione iOS è ora disponibile!
+

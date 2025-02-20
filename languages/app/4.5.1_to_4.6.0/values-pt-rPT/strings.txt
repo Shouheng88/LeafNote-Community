@@ -1,0 +1,24 @@
+:name> premium_multi_platform_guide
+:text> Desenvolvemos recentemente a versão para iOS, e os benefícios da assinatura são compartilhados com a versão para Android. Você pode baixar e experimentar!
+
+:name> set_note_list_cell_style
+:text> Estilo de célula
+
+:name> set_note_list_cell_style_simple
+:text> Minimalista
+
+:name> set_note_list_cell_style_list
+:text> Simples
+
+:name> set_note_list_cell_style_card
+:text> Cartão
+
+:name> set_note_list_show_folders
+:text> Pastas de exibição
+
+:name> set_note_list_style_guide
+:text> Adicionamos recentemente alguns novos recursos à Lista de Notas. Agora você pode personalizá-la!
+
+:name> about_app_homepage_sub
+:text> A versão para iOS já está disponível!
+
