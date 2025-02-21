@@ -1,3 +1,7 @@
+## 4.6.1 
+ - e290b868 feat: disable external storage
+- d62db8c1 feat: disable external storage
+- 0c2178c9 Merge pull request #181 from Shouheng88/feature-v4.6.0
 ## 4.6.0 
  - dd1d9cb4 feat: change logo
 - 78291946 fix: texts build issues
