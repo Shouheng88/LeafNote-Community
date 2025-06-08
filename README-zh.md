@@ -24,6 +24,10 @@
 
 *如果你感兴趣的话，你也可以浏览 [autopackage](https://github.com/Shouheng88/autopackage) 这个代码仓库来了解言叶的打包脚本。*
 
+### 3、笔记加密
+
+可以到 [笔记加密](./encrypt/README.md) 了解其工作原理。
+
 ## 感谢
 
 感谢您选择和使用言叶，我们会做得更好！

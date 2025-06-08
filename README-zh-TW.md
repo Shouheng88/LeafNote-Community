@@ -24,6 +24,10 @@
 
 *如果你感興趣的話，你也可以瀏覽 [autopackage](https://github.com/Shouheng88/autopackage) 這個代碼 repo 來了解言葉的打包腳本。*
 
+## 3、筆記加密
+
+可至 [筆記加密](./encrypt/README.md) 了解其運作原理。
+
 ## 感謝
 
 感謝您選擇和使用言葉，我們會做得更好！
