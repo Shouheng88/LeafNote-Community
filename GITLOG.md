@@ -1,3 +1,396 @@
+## 5.0.0 
+ - b46ee993 feat: docs
+- 08b13421 feat: languages
+- 00ed0ae9 feat: note read error
+- 98fef989 feat: note read error
+- b7ecc1e9 feat: note read error
+- 64304540 feat: setting item title
+- 31880c58 feat: add one drive calculation
+- 13d98d65 fix: sync failure of onedrive
+- e2ff064a fix: sync failure display
+- 636ff8c4 feat: note compose image pick
+- 2b85b451 feat: main image pick biz
+- 4f426d42 feat: change intro key
+- b5d297fb feat: change intro key
+- 142d13b8 feat: languages
+- 27bcba57 feat: add intro page 3
+- d2b79560 feat: add intro page 4
+- 1701cb75 feat: add intro page 3
+- b9662408 feat: add intro page 2
+- aa983601 feat: add intro page 2
+- 34290701 feat: add intro page 1
+- f3f094da feat: languages issues
+- 40215607 feat: languages issues
+- 5ec69207 feat: languages issues
+- 3007e0c3 feat: languages
+- a0c4bcfe feat: change explore biz
+- 9d78a347 feat: web note limitation
+- 40548791 feat: premium require for font and css
+- 0c487dd9 rfct: premium page ui
+- 55cfdd38 feat: premium page ui
+- fc40a2c5 feat: premium version layout
+- ae2a0a6a feat: premium privileges
+- 3add92c0 feat: web note trial count
+- 52820795 feat: cloud server type shield
+- f6f86d97 feat: premium check
+- 632fc2f3 feat: shield check
+- d02712d7 feat: class name spell error
+- 255eff02 feat: add one color ege
+- eab5e97c feat: print moai when click share
+- 4056973c feat: remove useless proguard rule
+- 11510319 feat: ai setting permission checker
+- 3ffbcfc1 feat: ai setting permission checker
+- 25f664bc feat: encryption biz security
+- 7924ea8f feat: encryption biz security
+- 1b092eec feat: add encryption premium limit
+- ae702452 fix: lottie issue
+- 3d6c07b9 fix: web clip http error
+- 53675dd0 feat: parse web to note error dialog layout
+- 353cf8db feat: change lottie files
+- 00b242ab feat:  note folders
+- 82a9b39a feat: settings ui
+- d872987e feat: settings ui
+- ce06293d feat: change encrypt key
+- 79922480 fix: leakcanary switch
+- ee521963 fix: code send issue
+- bf27c1e5 feat: encrypted note display in search page
+- 8c970336 feat: ai vip logo
+- b19fdd66 feat: security vip logo
+- 31076549 feat: sync now logic
+- cfb58cde feat: sync now logic
+- 695db0c0 feat: sync now setting item
+- 3f5b0c9c feat: change easymark version
+- 13084d69 feat: editor styles
+- 4bbad9db fix: editor theme color
+- f6169ec4 fix: line number and focus line issue
+- 523f143a feat: divider size
+- c6f784f1 feat: don's use bkg color to compose page toolbar
+- 964ad77d feat: tags empty tip
+- 1775caf1 feat: sync start dialog show pos
+- fd07c54a feat: cloud server chooser
+- 05aa0d5d feat: trash empty image
+- 38ebc3a4 feat: search empty text
+- 362844cb feat: sample text
+- cccce213 feat: the color egg
+- 97a502b4 feat: theme name
+- ba592e59 feat: sample note
+- 8ec79460 feat: removed ocr and add notice
+- 34067a98 feat: premium dialog
+- bf14e19b feat: search history layout
+- 40157aee feat: search empty place holder
+- 9439aca9 feat: image empty place holder
+- b1f1d083 feat: notification dialog
+- 870e43d4 feat: gift dialog
+- 4260274f feat: gift dialog
+- 96b95736 feat: change options menu
+- 7f48f7e3 feat: removed res
+- 5f87e442 feat: recommend apps and accounts
+- 43711fb8 fix: new version layout
+- 777d164c feat: app review change to api v2
+- 251b2494 feat: change default app theme
+- 55b70d1e feat: help pages
+- decf3a82 feat: help pages
+- b8aa69dc feat: version ignore biz
+- 5ba94a1f feat: new version label in about page
+- bc125be2 feat: new version style
+- 65a383b7 feat: add translate service
+- 4b13a894 feat: add new label to cloud server
+- 10862148 feat: setting main summary and icon
+- 239efd86 feat: quick folder summary
+- dd9ecc8d feat: cloud server choose limitation
+- 677ab202 feat: cloud server clear message dialog
+- 4b86bb05 feat: change sync setting text
+- 67d96717 feat: upgrade compact version
+- 0e920c30 feat: setting sync ui
+- be697e80 feat: double tap bubble layout
+- c7b4ba08 feat: cloud server icons
+- 71891722 fix: issues of setting app theme and editor theme
+- 4712c941 feat: remove en us
+- 3f55224e fix: md viewer scroll horizontal conflict
+- 15692612 feat: add chat message delete biz
+- b39a4ac9 fix: app theme premium requirements
+- 33677898 fix: compose page chat guide
+- bb32ffc4 feat: remove images and video permissions
+- 99cb3385 feat: theme title layout issue
+- ba0441a6 feat: dialog style
+- 7182b14a feat: about page style
+- 68ca109d feat: add new theme
+- fb85f655 feat: add new theme
+- 10b9c659 feat: theme styles
+- a2db7741 feat: viewer settings style
+- fab13e31 feat: web clip note encrypt
+- e170ebd2 feat: add comment
+- d8155168 feat: main editor lock animation
+- e2f185bd feat: compose page lock state
+- b270c171 feat: homepage note lock state
+- f621ad68 feat: server configurator interface
+- b15d283b feat: completed onedrive cloud test
+- 7816127a feat: add onedrive root change button
+- 68217c9d feat: add one drive cloud test
+- da4f62c5 feat: initialize onedrive account
+- 144a73af feat: add onedrive sdk
+- b43d92f0 feat: remove header of content from diff page
+- 5e635539 feat: re-configure dropbox client dialog
+- e2c2949a rfct: add ktx
+- 45b184eb fix: cloud server info update
+- 7cc38cb1 fix: cloud sync server clear logic
+- af387f6c fix: dropbox upload conflict
+- e893ac9e fix: code
+- 56c2a4e5 fix: sync stats issues
+- 343af972 feat: sync failure handler
+- ef87cd28 rfct: setting sync
+- 4e89c1ca fix: make get server type method compact
+- 8a9f0514 feat: add file write parent not found test
+- 3f92c997 feat: add data cache
+- ce58748f feat: add dropbox stats
+- 29f9ae8e feat: add dropbox test and completed the test
+- 997309ba feat: remove methods
+- 13578851 feat: add dropbox auth flow
+- 66a1bf5c rfct: packages
+- 3cbae74d rfct: comments
+- bde4b4de rfct: server types
+- b6093e3d feat: reset configurations
+- 31f82af8 rfct: cloud sync settings
+- c6c50102 rfct: cloud server configurations
+- 63653c5f rfct: move server
+- ea0f8079 rfct: sync settings
+- 1f3a5310 rfct: request count
+- a91a5bc7 rfct: cloud server
+- c537d5e6 rfct: code formats
+- 8d92f6f7 rfct: SyncOperation
+- c1f7dcec rfct: SyncOperation
+- 9d9a0ce4 rfct: SyncHelper
+- a819a293 rfct: SyncHelper
+- 0e974264 rfct: log
+- fb7f6fd8 rfct: sync failure
+- 2a4cfa21 rfct: sync failure
+- 93bd1bd8 rfct: sync worker
+- d699dfd6 rfct: sync worker
+- 70234e1e rfct: sync worker
+- 2c9b7ef6 rfct: sync worker
+- 8a1e5333 rfct: sync worker
+- 9ac9d589 rfct: sync worker
+- 5ac43e91 rfct: sync worker
+- 6dabf44a rfct: sync worker
+- 8a94c587 rfct: sync worker
+- 227e2541 rfct: sync worker
+- 2c901251 rfct: sync worker add comments
+- 78f07f63 rfct: sync worker add comments
+- ab7bfe8a rfct: sync worker
+- b5098b10 feat: tags empty
+- ab370692 feat: chat page ui style
+- 0b2810cf feat: chat page ui style
+- 413afe20 feat: hide rsa public key
+- ff932ea1 feat: ui version
+- 867fab86 feat: add tag ui in drawer
+- 0684adf1 feat: show ai model
+- 00b7ef07 fix: search title empty
+- 15757065 fix: compose page guide bubble
+- aec23fe5 fix: viewer page guide bubble
+- 6a100691 feat: biometric identification immediately
+- a86dc8db feat: note encryption settings
+- d7afc77e feat: auto require configuration
+- b2c561d2 feat: encryption note auth
+- a43234ee feat: title display issue
+- 2792980f feat: unify methods to get new file type
+- 5c1efc4e feat: note encryption comment
+- c186459e feat: note encryption preivew
+- db7aa85b feat: note encryption configurations
+- c252f8f7 feat: note encryption enable and key configurations
+- fafa7a59 rfct: security settings
+- 9eca9101 feat: note type when create new note
+- 617acab7 fix: note writeable
+- d4471353 fix: drawable angle crash issue
+- 175fb68f feat: note save with encryption
+- bf87f65c feat: use error toast
+- a59c0f52 feat: encrypt file io
+- 6253111a feat: note reader biz
+- 9e487846 feat: note reader error handler
+- 653c6175 feat: note md state
+- 5b731744 feat: refine note content parse job
+- 0fe19f83 fix: file manager file type judge issue
+- 974e4606 fix: notes list title display issue
+- ed7638ac fix: folders picker title display issue
+- 052a2cff rfct: again file extension
+- c7441789 rfct: again file extension
+- ede79c8c feat: remove text
+- 0e2634a9 feat: texts
+- 8265a130 rfct: file settings
+- 1441db85 rfct: file manager
+- 20471767 feat: compser guide when page scroll
+- 556de87f feat: viewer guide when page scroll
+- eec7cdbe feat: compose page chat guide
+- 1e094387 feat: viewer page back event
+- 6c242228 feat: viewer page chat guide
+- f98cdb95 fix: upup display issue
+- 50f1d47d feat: expand upup click region
+- 5e040746 rfct: bottom panel
+- 347bfdcd rfct: edit state handler
+- c7905706 feat: note structure listener logic
+- e93926dc feat: remove useless code
+- 8db69b9d rfct: note structure
+- 26eaacf3 rfct: remove useless methods
+- 94a10043 rfct: compose shortcuts
+- eab99f12 rfct: compose shortcuts
+- a2e8e7b0 rfct: package name
+- 77f3e957 rfct: scroll change callback for show or hide
+- 6ce5a003 feat: ai enable state check in message sending
+- 4a47ded4 feat: ai state notification
+- b8d5ea05 feat: editor style color egg
+- c09731ff feat: editor style sample text
+- 7af3d180 feat: sample code
+- 41acaa8f rfct: viewer page
+- 22ccddd0 feat: viewer page keyboard issue
+- 0811dd3d feat: viewer rfct and add chat page
+- 351e680d feat: chat replay allow copy
+- e7522a47 feat: render markdown
+- 282cf0c9 feat: ai prompt setting dialog
+- 7d4b0b61 feat: ai prompt chat
+- ab907660 feat: ai prompt setting
+- 87b558bb feat: ai setting clear
+- 917eebc4 feat: chat layout
+- d2b028fb feat: ai provider switch biz
+- 01366145 feat: ai setting dialog layout
+- 97d244e2 feat: ai setting saving biz
+- 462c20b8 feat: change data source pop show icon
+- ac74d9c3 feat: change icon pop show icon
+- a5e0cc6f fix: note help page
+- d5b15cd7 feat: add ai setting dialog
+- eea08d4f feat: add ai models
+- 30962416 feat: ai settings
+- 2ed4ddc9 feat: text
+- e85e43e2 feat: add proguard rules
+- 6372540e feat: error handler
+- eb29bd60 feat: ai provider
+- 73a0b337 rfct: ocr
+- 1b69acfa rfct: ocr
+- 911dd23f feat: ai thinkg state
+- 6c75b373 feat: ai prompt
+- 8d86dc76 feat: chat repo callback rfct
+- 5f9bedba feat: chat message layout
+- b4850f3b feat: chat messages layout
+- 70a567d5 feat: base ai response biz
+- 1dd3a6be feat: add chat base logic
+- cadde102 rfct: app config
+- e0043aec rfct: text
+- 2e6ca417 rfct: managers
+- 3b17677e feat: viewer double tap to edit note
+- e4a1e7dc feat: viewer double tap notification
+- 000de5bb feat: viewer float button display/hide
+- f3c0f4af fix: note list item click issue
+- fff4f617 fix: save note empty issue
+- 66f9a7b4 feat: continue edit tip dialog
+- 501b1b93 feat: continue edit tip dialog
+- e7fb3052 feat: history bubble
+- e1b61442 feat: add log
+- 0b5f44fd feat: drawable log
+- 88535868 feat: diff page ui
+- b4bff798 feat: code
+- 3ec4f022 feat: fm
+- c8cb93d6 feat: text
+- c5ca2645 feat: remove useless
+- a8a46591 rfct: bottom margin
+- 6adf659a rfct: text size and content align
+- fabac695 rfct: code wrap biz
+- 8dda1733 rfct: remove useless code
+- 19875e9e rfct: remove useless code
+- 3d9101e9 feat: css change listener
+- 5bb26859 feat: text size change listener
+- 4ad91f52 feat: align change listener
+- 2e750e8b feat: editor style and code style
+- 3e68984f feat: editor theme change listen
+- 59d2922a feat: viewer drawer bkg
+- 28d460bc feat: allow to clear quick note folder
+- 2fa812eb feat: setting item positions
+- 0ccef746 feat: settings order
+- 31bc0cb2 fix: font name issue
+- a1a82e48 feat: dynamically change font
+- f7c79a37 feat: allow to clear custom font
+- d07307f9 feat: chat page style
+- 15d45748 fix: draft list issue
+- fbdb5705 feat: chat send button style
+- ac8b8895 feat: keyboard listen
+- 455ffc28 feat: chat page ui colors
+- 8611ba0e fix: chat page focus issue
+- 09f9443f feat: chat page base ui
+- e8c89793 feat: add chat message schema
+- 48a3415a fix: pos issue
+- 70f69c46 fix: pos issue
+- 27b4c9bf rfct: double tap callback
+- 24da7b7d rfct: note view interactions
+- 25094ed2 rfct: note headers callback
+- b508bfb6 rfct: fragment and activity interactions
+- aa5abab6 rfct: compose and review pages of note
+- e54a99cc feat: remove usless vm
+- 77c3f93a rfct: unfinished note
+- c6d38b19 rfct: web clip dialog ui
+- 21987ca6 rfct: note arg
+- 6754a53b feat: web clip external
+- 394809a0 feat: web clip basic biz
+- 62eb45b7 feat: record permission
+- eff42ca5 feat: add web page input dialog
+- c7c3e0f8 rfct: home menu items
+- 5a6c0847 rfct: home menu items
+- 4f0cf0f7 feat: dependencies
+- 7375f777 feat: add audio note
+- 25f30a4a feat: audio record
+- bd59f0d1 rfct: code
+- d46998e8 fix: remove useless code
+- 486f65a4 fix: title display issue
+- a65918f0 fix: code
+- e9920dcb fix: hide title region tip view
+- 54ba6899 feat: don't show note title
+- 1fc01aca fix: hide title input by default
+- 7b105b08 fix: code
+- d784ad94 feat: front matter for empty note
+- a0661dd8 feat: note save quickly
+- 6b65eadf feat: draft display refined
+- 7dea67bf feat: always save draft
+- 4a78c8bb feat: move history to top bar
+- 32127720 rfct: shortcut manager
+- a700b632 feat: create empty note at first
+- 554c2443 fix: format handle issue vararg
+- e021813d feat: editor shortcut
+- e4f95100 fix: note input default value
+- 61877bae fix: dialog style
+- cb768ecc fix: dialog style
+- a97c919c fix: dialog crash
+- 1d1b2d4e feat: add sketch biz
+- 5d4e248a feat: add more social accounts
+- 6fde1798 feat: add social accounts
+- e5f39d65 feat: quick folder tip dialog text
+- 92a190b5 rfct: main page menu items
+- 6497a405 feat: remove file main menu
+- 26b1af69 feat: notes list font style
+- b1e46b6e feat: mermaid format support
+- c5a4facd rfct: editor format handler
+- 6d0851b1 rfct: move
+- 6a6b6dbf feat: use internal storage as default
+- 45384f50 feat: tip of sending phone message issue
+- c828a7cc feat: data source setting tips
+- bf9883c8 feat: sync and export setting item exchange
+- 7ef54297 feat: title input setting text
+- 381dc148 rfct: premium and pro check methods
+- 1a0b575a rfct: css manager
+- 421b9d1f rfct: code
+- 897a0378 feat: add mermaid and mathjax settings
+- 51f99849 feat: enable mermaid
+- a8cf8381 feat: allow to switch checkbox
+- e84c1960 feat: custom font icon
+- 759550fe feat: allow to use custom font
+- e53f87e7 feat: allow to use custom font
+- 12899d0b feat: tag edit ... not finish
+- 640883da fix: note structure parse issue
+- 168535ad fix: text issue
+- c6b642a4 feat: changed tag list display style
+- 9ae39b40 feat: show tag in list
+- 6b038e82 feat: scan tags
+- ccab3cdd feat: code change
+- 3141f81a feat: add file naming setting
+- 87e24057 feat: show more images in note list
+- 5e81ee06 feat: add pictures in main page drawer
+- b0e168f0 fix: editor focus issue
+- a2615f45 Merge pull request #184 from Shouheng88/feature-v4.6.1
 ## 4.6.1 
  - e290b868 feat: disable external storage
 - d62db8c1 feat: disable external storage
