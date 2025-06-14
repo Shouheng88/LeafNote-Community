@@ -1,0 +1,604 @@
+:name> text_discard
+:text> Discard
+
+:name> text_save
+:text> Save
+
+:name> text_abort
+:text> Abort
+
+:name> current_using_folder
+:text> Currently Used Directory
+
+:name> text_new
+:text> New
+
+:name> text_exit
+:text> Exit
+
+:name> common_sign_out
+:text> Sign Out
+
+:name> common_set_security_symmary
+:text> App lock, fingerprint, and note encryption, etc.
+
+:name> common_set_security_applock_enable
+:text> Enable App Lock
+
+:name> common_set_security_reset_password
+:text> Change Password
+
+:name> common_set_security_security_questions_answer_wrong
+:text> Wrong answer! Please check your answers and try again!
+
+:name> common_set_security_biometric
+:text> Enable Biometric Verification
+
+:name> common_set_security_biometric_not_match
+:text> Not match, %d time(s) left.
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 Get to Know You Again
+
+:name> common_app_intro_title_2
+:text> Cloud Synchronization
+
+:name> common_app_intro_detail_2
+:text> Supports three synchronization methods: OneDrive, DropBox and WebDAV. Note modifications can be synchronized to the server immediately
+
+:name> common_app_intro_title_3
+:text> Security
+
+:name> common_app_intro_detail_3
+:text> App lock and notes are end-to-end encrypted to protect your data and privacy
+
+:name> common_app_intro_title_4
+:text> Start your journey of knowledge
+
+:name> common_failed_read_note
+:text> Failed to read note: %s
+
+:name> common_failed_write_note
+:text> Failed to write note: %s
+
+:name> note_unreadable
+:text> Note unreadable!
+
+:name> note_read_error
+:text> Error Reading Note
+
+:name> note_read_error_key_not_match
+:text> Encryption Key Not Match
+
+:name> note_read_error_file_format
+:text> File Format Error
+
+:name> sketch_title
+:text> Doodle
+
+:name> sketch_clear_tips
+:text> Confirm to clear bitmap?
+
+:name> sketch_stroke
+:text> Stroke
+
+:name> sketch_opacity
+:text> Opacity
+
+:name> sketch_saturation
+:text> Saturation
+
+:name> skecth_save_tip
+:text> Save your creation or discard?
+
+:name> audio_title
+:text> Audio Note
+
+:name> audio_start
+:text> Start Recording
+
+:name> audio_stop
+:text> Stop Recording
+
+:name> audio_store_folder
+:text> Audio Note Folder
+
+:name> audio_store_folder_summmary
+:text> Audio notes will be stored in this directory: %s
+
+:name> capture_web_title
+:text> Web to Note
+
+:name> capture_web_input_hint
+:text> Input a web url here
+…
+
+:name> capture_web_tip
+:text> Enter any webpage link and convert it into a Markdown note.
+
+:name> capture_web_input_empty
+:text> The url should not be empty
+…
+
+:name> capture_Web_invalid_urlr
+:text> Invalid url
+
+:name> capture_Web_error
+:text> Failed to visit the page :(
+
+:name> capture_web_reading_html
+:text> Reading page content
+…
+
+:name> capture_web_read_html
+:text> Read page content and converting to markdown
+…
+
+:name> capture_web_saveing
+:text> Saving note
+…
+
+:name> capture_web_save_error
+:text> Failed while saving note :(
+
+:name> capture_web_aborted
+:text> Aborted by user.
+
+:name> capture_web_folder
+:text> Folder to Save \"Web to Note\"
+
+:name> capture_web_folder_summary
+:text> Notes converted from webpages will be stored in this directory: %s
+
+:name> capture_web_trial_tip
+:text> This feature is a premium entitlement exclusive to the professional version. You have %d trial opportunities before becoming a member.
+
+:name> image_pictures
+:text> Pictures
+
+:name> image_picker_unavailable
+:text> Image Picker Not Available!
+
+:name> premium_join
+:text> JOIN
+
+:name> premium_privilege_basic
+:text> All basic functions: Markdown, audio recording, multi-level directories, Mermaid flowcharts, MathJax, etc.
+
+:name> premium_privilege_themes
+:text> %d+ app theme, %d+ editor themes, %d+ code style, custom CSS, custom font
+
+:name> premium_privilege_image
+:text> Photo taking, image cropping, filters, image transformation, etc.
+
+:name> premium_privilege_export
+:text> Export notes as Markdown, HTML, images, and PDF.
+
+:name> premium_privilege_appwidgets
+:text> Add desktop widgets and quick shortcuts to notes.
+
+:name> premium_privilege_sync
+:text> Sync methods (WebDAV, DropBox
+&
+OneDrive), and real-time sync functionality
+
+:name> premium_privilege_webnote
+:text> Webpage to Note: build your knowledge base
+
+:name> premium_privilege_encryption
+:text> End-to-End Encryption for Notes
+
+:name> premium_privilege_ai
+:text> Writing Assistant: Configure AI Server
+
+:name> premium_privilege_future
+:text> All functions to be developed in the future
+
+:name> premium_payway_others
+:text> Others
+
+:name> premium_payway_others_sub_title
+:text> You can also try it for free or use a redemption code.
+
+:name> premium_contact_us
+:text> Contact Us
+
+:name> premium_contact_us_sub_title
+:text> You can contact by following means:
+
+:name> search_empty_tip
+:text> No result found?\nYou could try another word!
+
+:name> search_include_encrypted
+:text> Include Encrypted Notes
+
+:name> compose_note_button_order
+:text> Sort Shortcuts
+
+:name> compose_tag_add
+:text> Add Tag
+
+:name> compose_tag_empty_title
+:text> No tags found!\nClick to create the first tag.
+
+:name> compose_note_un_finish_recover_tip
+:text> Recover from history.
+
+:name> compose_note_structure_empty
+:text> Empty Structure
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> Mermaid
+
+:name> compose_setting_quick_note_folder
+:text> Quick Note Folder
+
+:name> compose_setting_folder_change
+:text> Change Note Folder
+
+:name> compose_setting_folder_clear
+:text> Clear Note Folder
+
+:name> compose_setting_quick_note_folder_tip
+:text> Tip: You are able to change the folder to save quick note in note settings under \"%s\".
+
+:name> compose_setting_quick_note_folder_summary
+:text> Notes quickly entered in the home page chat input box will be saved to this directory: %s
+
+:name> note_encrypt_enable
+:text> Enable Note Encryption
+
+:name> note_encrypt_enable_summary
+:text> After enabling this feature, newly created notes will be encrypted before storage.
+
+:name> note_encrypt_key
+:text> Encryption Key
+
+:name> note_encrypt_key_summary
+:text> Encryption keys are used for encrypting and decrypting notes.
+
+:name> note_encrypt_key_change_title
+:text> Sure to Change Encryption Key?
+
+:name> note_encrypt_key_change_message
+:text> When modifying the key, all files encrypted with the previous key will be re-encrypted. Do you confirm to proceed?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. Please wait for the process to complete.
+
+:name> note_encrypt_re_encrypt_done
+:text> Re-Encrypt Completed!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> Re-Encrypt Service
+
+:name> note_encrypt_re_encrypt_title
+:text> Re-encrypting
+…
+
+:name> note_encrypt_key_required
+:text> Encryption key is required!
+
+:name> note_encrypt_key_invalid
+:text> Invalid encryption key, please try again.
+
+:name> note_encrypt_key_change_tip
+:text> All encrypted files need to be re-encrypted before changing the key. Therefore, you are advised to set the encryption key only once.
+
+:name> note_encrypt_key_tip_chars
+:text> Please enter no less than 8 characters (numbers and upper and lower case letters only).
+
+:name> note_encrypt_write_key
+:text> Write Encryption Key
+
+:name> note_encrypt_write_key_summary
+:text> If this feature is enabled, the key will be asymmetrically encrypted and write to the encrypted file. To prevent recovery issues in case you forget your password, we strongly recommend keeping this feature enabled.
+
+:name> note_encrypt_auth
+:text> Identity Verification
+
+:name> note_encrypt_auth_failed
+:text> Identity verification failed.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>Note: You need to set an app password first otherwise it won\'t take effect.</b>
+
+:name> note_encrypt_preview
+:text> Hide Preview
+
+:name> note_encrypt_preview_placeholder
+:text> [Encrypt Note]
+
+:name> note_encrypt_preview_summary
+:text> Disabling this feature will stop displaying preview information of encrypted notes in the note list.
+
+:name> set_ai
+:text> AI
+
+:name> set_ai_summary
+:text> AI Writing Assistant
+
+:name> set_ai_source
+:text> AI Platform
+
+:name> set_ai_source_summary
+:text> Set up the AI used in note chatting.
+
+:name> set_ai_source_clear
+:text> Clear AI Settings
+
+:name> set_ai_source_reset
+:text> Change AI Settings
+
+:name> set_ai_notice
+:text> Notice
+
+:name> set_ai_notice_summary
+:text> Our app never collects or uses user data for AI training. All user data is stored locally on devices or in user-designated cloud drives. Additionally, users can connect with trusted AI platforms or disable AI entirely, ensuring full control over data privacy and storage autonomy.
+
+:name> set_ai_disable
+:text> Disable
+
+:name> set_ai_disable_summary
+:text> Turn off AI everywhere with a single tap.
+
+:name> set_ai_provider_custom
+:text> Custom
+
+:name> set_ai_provider_custom_tip
+:text> Custom AI must comply with OpenAI\'s API specifications. Click to learn more!
+
+:name> set_ai_model
+:text> AI Model
+
+:name> set_ai_custom_input_rquire
+:text> Please input the \"%s\".
+
+:name> set_ai_prompt
+:text> Chat Context
+
+:name> set_ai_prompt_tip
+:text> The placeholder \"%s\" will be replaced by your note content when you talk with AI.
+
+:name> set_security_applock
+:text> App Lock
+
+:name> set_encrypt_note
+:text> Note Encrypt
+
+:name> set_theme_and_style_summary
+:text> App themes, editor themes, fonts, code styles, and CSS, etc.
+
+:name> set_theme_theme_lunar_new_year
+:text> Happy New Year
+
+:name> set_theme_theme_yellow_gray
+:text> Light Brown
+
+:name> set_font_title
+:text> Font
+
+:name> set_font_clear
+:text> Clear Font
+
+:name> set_font_reset
+:text> Change Font
+
+:name> set_note_sub
+:text> Settings related to note editing and display.
+
+:name> set_export_sub
+:text> We have decided to discontinue maintenance of this feature and recommend using the sync function instead. We suggest using it only when initializing the app\'s note data.
+
+:name> set_note_list_summary
+:text> Everything related to the note list on the app\'s home page
+
+:name> set_note_mathjax
+:text> Enable MathJax
+
+:name> set_note_mermaid
+:text> Enable Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> If you don\'t need this feature, you can turn it off. This will improve the rendering speed of notes.
+
+:name> set_note_title_sub
+:text> Enabling the title input box on the editing page may easily cause ambiguity. It is recommended to directly use Markdown to define the title.
+
+:name> set_extensions_tip
+:text> Input custom extensions, split multiple extensions by \",\".
+
+:name> set_extensions_note_tip
+:text> Input custom extensions, split multiple extensions by \",\". Note that the \'lnmd\'
+&
+\'lntxt\' are encrypted file extensions of our APP.
+
+:name> set_text_extensions
+:text> Text Extensions
+
+:name> set_text_extensions_summary
+:text> Files with text extension will be read and displayed as text.
+
+:name> set_support_extensions
+:text> Support Extensions
+
+:name> set_support_extensions_summary
+:text> Files with support extension will be load and displayed in notes list.
+
+:name> set_note_folders
+:text> Custom Data Storage Folders
+
+:name> set_file_summary
+:text> File naming rules, extensions, etc.
+
+:name> set_file_naming_title
+:text> File Naming
+
+:name> set_image_ocr_statement
+:text> The original OCR feature has been removed. We are considering alternative OCR implementation methods.
+
+:name> set_sync_summary
+:text> Cloud server (DropBox, WebDAV
+&
+OneDrive) and sync configurations, as well as sync issue handling, etc.
+
+:name> set_sync_server_connect_failed
+:text> Connection test failed. Please check your configuration information and try again.
+
+:name> set_sync_server_chooser_title
+:text> Choose Cloud Server
+
+:name> set_sync_server_change
+:text> Change Cloud Server
+
+:name> set_sync_server_clear
+:text> Clear Server Configurations
+
+:name> set_sync_server_clear_message
+:text> Are you sure you want to clear server configurations? This will also delete sync cache data, which may cause longer sync times.
+
+:name> set_sync_server_summary
+:text> Configure cloud sync servers, supporting WebDAV, Dropbox, and OneDrive synchronization.
+
+:name> set_sync_webdav_server_host
+:text> Host
+
+:name> set_sync_webdav_server_path
+:text> Folder to Synchronize
+
+:name> set_sync_webdav_server_account
+:text> Account
+
+:name> set_sync_webdav_server_password
+:text> Password
+
+:name> set_sunc_dropbox_configured_tip
+:text> You\'ve already configured Dropbox. If you need to update the configuration, clear the current settings first and then reconfigure it.
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive is connected!\nYou can click the button below to sign out.
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive signed out!
+
+:name> set_sync_onedrive_root_tip
+:text> The app will sync notes to the \"%s\" directory under the root of your OneDrive. You can click the button below to change it.
+
+:name> set_sync_onedrive_root_change
+:text> Change Sync Directory
+
+:name> set_sync_delay_sub
+:text> %dms (Add throttling during file synchronization to prevent server blocking due to excessive requests).
+
+:name> set_sync_now_title
+:text> Sync Now
+
+:name> set_sync_now_summary
+:text> If this feature is enabled, notes will be automatically synced to the cloud server immediately after the user modifies them.
+
+:name> sync_force_upload
+:text> Upload
+
+:name> sync_force_upload_tip
+:text> This will force local files to overwrite cloud files. Are you sure to proceed?
+
+:name> sync_force_download
+:text> Download
+
+:name> sync_force_download_tip
+:text> This will force cloud files to overwrite local files. Are you sure to proceed?
+
+:name> sync_force_diff
+:text> Diff
+
+:name> sync_force_delete_remote
+:text> Delete Cloud File
+
+:name> sync_force_delete_remote_tip
+:text> This will delete cloud files. Are you sure to proceed?
+
+:name> sync_force_delete_local
+:text> Delete Local File
+
+:name> sync_force_delete_local_tip
+:text> This will delete local files. Are you sure to proceed?
+
+:name> sync_failure_message
+:text> failed to sync the file with issue: %s
+
+:name> sync_failure_handle
+:text> Handle Sync Issue
+
+:name> sync_failure_conflict
+:text> Security reason: Local and remote files are inconsistent.
+
+:name> sync_failure_connect
+:text> Network connection or server configuration.
+
+:name> sync_failure_upload
+:text> Failed to upload.
+
+:name> sync_failure_download
+:text> Failed to download.
+
+:name> sync_failure_delete_local
+:text> Failed to delete local file.
+
+:name> sync_failure_delete_remote
+:text> Failed to delete remote file.
+
+:name> trash_box
+:text> Trash
+
+:name> config_new_version_found
+:text> New Version Found
+
+:name> config_ignore_this_version
+:text> Ignore This Version
+
+:name> about_app_solgon
+:text> Your Private Knowledge Base
+
+:name> viewer_double_tap_show_tip
+:text> Double tap the page to edit the note.
+
+:name> chat_room_name
+:text> Writer Assistant
+
+:name> chat_default_message
+:text> Hello, I\'m your writer assistant! You can ask me anything
+…
+
+:name> chat_input_empty_toast
+:text> Please input your message.
+
+:name> chat_input_hint
+:text> Begin to talk
+…
+
+:name> chat_prompt_default
+:text> You are a writer assistant. This is my article:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> Since AI is thinking your last message, current message will be ignored.
+
+:name> chat_ai_thinking
+:text> Thinking
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI information not co
+nfigured. Your messages will be stored, but no responses will be provided.
+
+:name> chat_ai_disable_tip
+:text> AI is disabled. Your messages will be stored, but no responses will be provided.
+
+:name> chage_message_delete_tip
+:text> Sure to delete this message?
+
+:name> datasource_datasource_summary
+:text> Data sources, import/export, and note storage paths, etc.
+
+:name> datasource_external_tip
+:text> In light of the platform\'s review regulations, the functionality for reading from and writing to external storage has been taken offline.
+

@@ -1,0 +1,560 @@
+:name> text_discard
+:text> 버리다
+
+:name> text_save
+:text> 구하다
+
+:name> text_abort
+:text> 중단
+
+:name> current_using_folder
+:text> 현재 사용 중인 디렉토리
+
+:name> text_new
+:text> 새로운
+
+:name> text_exit
+:text> 그만두다
+
+:name> common_sign_out
+:text> 로그아웃
+
+:name> common_set_security_symmary
+:text> 앱 잠금, 지문 인식, 메모 암호화 등
+
+:name> common_set_security_biometric_not_match
+:text> 일치하지 않습니다. %d회 남았습니다.
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 다시 당신을 알게 되었어요
+
+:name> common_app_intro_title_2
+:text> 클라우드 동기화
+
+:name> common_app_intro_detail_2
+:text> OneDrive, DropBox 및 WebDAV 동기화 방식을 지원합니다. 메모 변경 사항은 서버에 즉시 동기화됩니다.
+
+:name> common_app_intro_title_3
+:text> 안전
+
+:name> common_app_intro_detail_3
+:text> 데이터와 개인 정보를 보호하기 위한 앱 잠금 및 메모 종단 간 암호화
+
+:name> common_app_intro_title_4
+:text> 지식 여정을 시작하세요
+
+:name> common_failed_read_note
+:text> 메모를 읽지 못했습니다: %s
+
+:name> common_failed_write_note
+:text> 메모를 쓰는 데 실패했습니다: %s
+
+:name> note_unreadable
+:text> 메모를 읽을 수 없습니다!
+
+:name> note_read_error
+:text> 노트 읽기 오류
+
+:name> note_read_error_key_not_match
+:text> 암호화 키 불일치
+
+:name> note_read_error_file_format
+:text> 잘못된 파일 형식
+
+:name> login_account_hint
+:text> 메일박스
+
+:name> sketch_title
+:text> 낙서
+
+:name> sketch_clear_tips
+:text> 비트맵을 지우시겠습니까?
+
+:name> sketch_stroke
+:text> 뇌졸중
+
+:name> sketch_opacity
+:text> 불투명
+
+:name> sketch_saturation
+:text> 포화
+
+:name> skecth_save_tip
+:text> 창작물을 저장할 것인가, 아니면 버릴 것인가?
+
+:name> audio_title
+:text> 오디오 노트
+
+:name> audio_start
+:text> 녹음 시작
+
+:name> audio_stop
+:text> 녹음 중지
+
+:name> audio_store_folder
+:text> 오디오 노트 폴더
+
+:name> audio_store_folder_summmary
+:text> 오디오 노트는 다음 디렉토리에 저장됩니다: %s
+
+:name> capture_web_title
+:text> 웹에서 메모하기
+
+:name> capture_web_input_hint
+:text> 여기에 웹 URL을 입력하세요
+…
+
+:name> capture_web_tip
+:text> 웹페이지 링크를 입력하고 마크다운 노트로 변환하세요.
+
+:name> capture_web_input_empty
+:text> URL은 비어 있을 수 없습니다.
+
+:name> capture_Web_invalid_urlr
+:text> 잘못된 URL입니다
+
+:name> capture_Web_error
+:text> 페이지를 방문하지 못했습니다 :(
+
+:name> capture_web_reading_html
+:text> 페이지 내용을 읽는 중
+…
+
+:name> capture_web_read_html
+:text> 페이지 내용을 읽고 마크다운으로 변환
+…
+
+:name> capture_web_saveing
+:text> 메모를 저장합니다
+…
+
+:name> capture_web_save_error
+:text> 메모를 저장하는 동안 실패했습니다 :(
+
+:name> capture_web_aborted
+:text> 사용자에 의해 중단되었습니다.
+
+:name> capture_web_folder
+:text> \"Web to Note\"를 저장할 폴더
+
+:name> capture_web_folder_summary
+:text> 웹 페이지에서 변환된 메모는 다음 디렉토리에 저장됩니다: %s
+
+:name> capture_web_trial_tip
+:text> 이 기능은 프로페셔널 버전에서만 제공되는 프리미엄 기능입니다. 회원 가입 전에 %d번의 체험 기회를 누리실 수 있습니다.
+
+:name> image_pictures
+:text> 영화
+
+:name> image_picker_unavailable
+:text> 이미지 선택기를 사용할 수 없습니다!
+
+:name> premium_join
+:text> 가입하다
+
+:name> premium_privilege_basic
+:text> 모든 기본 기능: 마크다운, 오디오 녹음, 다단계 디렉토리, Mermaid 흐름도, MathJax 등.
+
+:name> premium_privilege_themes
+:text> %d개 이상의 앱 테마, %d개 이상의 편집기 테마, %d개 이상의 코드 스타일, 사용자 정의 CSS, 사용자 정의 글꼴
+
+:name> premium_privilege_image
+:text> 사진 촬영, 이미지 자르기, 필터, 이미지 변환 등
+
+:name> premium_privilege_export
+:text> 메모를 마크다운, HTML, 이미지, PDF로 내보냅니다.
+
+:name> premium_privilege_appwidgets
+:text> 메모에 바탕 화면 위젯과 빠른 바로가기를 추가합니다.
+
+:name> premium_privilege_sync
+:text> 동기화 방법(WebDAV, DropBox 및 OneDrive) 및 실시간 동기화 기능
+
+:name> premium_privilege_webnote
+:text> 참고할 웹 페이지: 지식 기반 구축
+
+:name> premium_privilege_encryption
+:text> Notes에 대한 종단 간 암호화
+
+:name> premium_privilege_ai
+:text> Writing Assistant: AI 서버 구성
+
+:name> premium_privilege_future
+:text> 향후 개발될 모든 기능
+
+:name> premium_payway_others
+:text> 기타
+
+:name> premium_payway_others_sub_title
+:text> 무료로 체험해 보거나 교환 코드를 사용할 수도 있습니다.
+
+:name> premium_contact_us
+:text> 문의하기
+
+:name> premium_contact_us_sub_title
+:text> 다음 방법을 통해 연락하실 수 있습니다.
+
+:name> search_empty_tip
+:text> 원하는 것을 찾지 못하셨나요?\n용어를 바꿔보세요
+
+:name> search_include_encrypted
+:text> 암호화된 메모 포함
+
+:name> compose_note_button_order
+:text> 정렬 단축키
+
+:name> compose_tag_empty_title
+:text> 태그를 찾을 수 없습니다!\n첫 번째 태그를 만들려면 클릭하세요.
+
+:name> compose_note_un_finish_recover_tip
+:text> 역사로부터 회복하세요.
+
+:name> compose_note_structure_empty
+:text> 빈 구조
+
+:name> compose_setting_folder_change
+:text> 메모 폴더 변경
+
+:name> compose_setting_folder_clear
+:text> 메모 폴더 지우기
+
+:name> compose_setting_quick_note_folder_tip
+:text> 팁: \"%s\" 아래의 노트 설정에서 빠른 노트를 저장할 폴더를 변경할 수 있습니다.
+
+:name> compose_setting_quick_note_folder_summary
+:text> 홈페이지 채팅 입력창에 빠르게 입력한 메모는 다음 디렉토리에 저장됩니다: %s
+
+:name> note_encrypt_enable
+:text> 메모 암호화 활성화
+
+:name> note_encrypt_enable_summary
+:text> 이 기능을 활성화하면 새로 생성된 메모는 저장되기 전에 암호화됩니다.
+
+:name> note_encrypt_key
+:text> 암호화 키
+
+:name> note_encrypt_key_summary
+:text> 암호화 키는 메모를 암호화하고 해독하는 데 사용됩니다.
+
+:name> note_encrypt_key_change_title
+:text> 암호화 키를 변경하시겠습니까?
+
+:name> note_encrypt_key_change_message
+:text> 키를 수정하면 이전 키로 암호화된 모든 파일이 다시 암호화됩니다. 계속하시겠습니까?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. 프로세스가 완료될 때까지 기다려 주세요.
+
+:name> note_encrypt_re_encrypt_done
+:text> 재암호화 완료!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> 재암호화 서비스
+
+:name> note_encrypt_re_encrypt_title
+:text> 다시 암호화 중
+…
+
+:name> note_encrypt_key_required
+:text> 암호화 키가 필요합니다!
+
+:name> note_encrypt_key_invalid
+:text> 잘못된 암호화 키입니다. 다시 시도하세요.
+
+:name> note_encrypt_key_change_tip
+:text> 암호화된 모든 파일은 키를 변경하기 전에 다시 암호화해야 합니다. 따라서 암호화 키는 한 번만 설정하는 것이 좋습니다.
+
+:name> note_encrypt_key_tip_chars
+:text> 최소 8자 이상 입력해 주세요(숫자, 대문자, 소문자만 가능).
+
+:name> note_encrypt_write_key
+:text> 암호화 키 쓰기
+
+:name> note_encrypt_write_key_summary
+:text> 이 기능을 활성화하면 키가 비대칭 암호화되어 암호화된 파일에 저장됩니다. 비밀번호를 잊어버렸을 경우 복구 문제를 방지하려면 이 기능을 활성화해 두는 것이 좋습니다.
+
+:name> note_encrypt_auth
+:text> 신원 확인
+
+:name> note_encrypt_auth_failed
+:text> 본인 확인에 실패했습니다.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>참고: 먼저 앱 비밀번호를 설정해야 합니다. 그렇지 않으면 적용되지 않습니다.
+
+:name> note_encrypt_preview
+:text> 미리보기 숨기기
+
+:name> note_encrypt_preview_placeholder
+:text> [암호화 노트]
+
+:name> note_encrypt_preview_summary
+:text> 이 기능을 비활성화하면 암호화된 메모의 미리보기 정보가 메모 목록에 표시되지 않습니다.
+
+:name> set_ai
+:text> 일체 포함
+
+:name> set_ai_summary
+:text> AI 글쓰기 도우미
+
+:name> set_ai_source
+:text> AI 플랫폼
+
+:name> set_ai_source_summary
+:text> 노트 채팅에 사용되는 AI를 설정합니다.
+
+:name> set_ai_source_clear
+:text> AI 설정 지우기
+
+:name> set_ai_source_reset
+:text> AI 설정 변경
+
+:name> set_ai_notice
+:text> 알아채다
+
+:name> set_ai_notice_summary
+:text> 저희 앱은 AI 학습을 위해 사용자 데이터를 수집하거나 사용하지 않습니다. 모든 사용자 데이터는 기기 또는 사용자가 지정한 클라우드 드라이브에 로컬로 저장됩니다. 또한, 사용자는 신뢰할 수 있는 AI 플랫폼에 연결하거나 AI를 완전히 비활성화하여 데이터 개인 정보 보호 및 저장 자율성에 대한 완벽한 제어를 보장할 수 있습니다.
+
+:name> set_ai_disable
+:text> 장애를 입히다
+
+:name> set_ai_disable_summary
+:text> 단 한 번의 탭으로 모든 곳의 AI를 끄세요.
+
+:name> set_ai_provider_custom
+:text> Custom
+
+:name> set_ai_provider_custom_tip
+:text> 맞춤형 AI는 OpenAI의 API 사양을 준수해야 합니다. 자세히 알아보려면 클릭하세요!
+
+:name> set_ai_model
+:text> AI 모델
+
+:name> set_ai_custom_input_rquire
+:text> \"%s\"를 입력하세요.
+
+:name> set_ai_prompt
+:text> Note Chat Context
+
+:name> set_ai_prompt_tip
+:text> AI와 대화할 때 플레이스홀더 \"%s\"는 귀하의 메모 내용으로 대체됩니다.
+
+:name> set_security_applock
+:text> 앱 잠금
+
+:name> set_encrypt_note
+:text> 노트 암호화
+
+:name> set_theme_and_style_summary
+:text> 앱 테마, 편집기 테마, 글꼴, 코드 스타일, CSS 등
+
+:name> set_theme_theme_lunar_new_year
+:text> 새해 복 많이 받으세요
+
+:name> set_theme_theme_yellow_gray
+:text> 밝은 갈색
+
+:name> set_font_title
+:text> 세례반
+
+:name> set_font_clear
+:text> 클리어 폰트
+
+:name> set_font_reset
+:text> 글꼴 변경
+
+:name> set_note_sub
+:text> 노트 편집 및 표시와 관련된 설정입니다.
+
+:name> set_export_sub
+:text> 이 기능의 유지 관리를 중단하고 대신 동기화 기능을 사용하시기를 권장합니다. 앱의 메모 데이터를 초기화할 때만 사용하시기를 권장합니다.
+
+:name> set_note_list_summary
+:text> 앱 홈페이지의 메모 목록과 관련된 모든 것
+
+:name> set_note_mathjax
+:text> MathJax 활성화
+
+:name> set_note_mermaid
+:text> Mermaid 활성화
+
+:name> set_note_disable_to_accelerate_tip
+:text> 이 기능이 필요하지 않으면 끌 수 있습니다. 이렇게 하면 노트 렌더링 속도가 향상됩니다.
+
+:name> set_extensions_tip
+:text> 사용자 정의 확장자를 입력하고, 여러 확장자를 \",\"로 분할합니다.
+
+:name> set_extensions_note_tip
+:text> 사용자 지정 확장자를 입력하고, 여러 확장자를 \", \"로 구분하세요. \'lnmd\'와 \'lntxt\'는 APP의 암호화된 파일 확장자입니다.
+
+:name> set_text_extensions
+:text> 텍스트 파일의 확장자
+
+:name> set_text_extensions_summary
+:text> 지정된 확장자를 사용하는 파일은 텍스트에 따라 읽히고 표시됩니다.
+
+:name> set_support_extensions
+:text> 지원되는 파일의 확장자
+
+:name> set_support_extensions_summary
+:text> 지정된 확장자를 사용하는 파일은 노트 목록에 표시됩니다.
+
+:name> set_note_folders
+:text> 사용자 정의 데이터 저장 폴더
+
+:name> set_file_summary
+:text> 파일 명명 규칙, 확장자 등
+
+:name> set_file_naming_title
+:text> 파일 이름 지정
+
+:name> set_image_ocr_statement
+:text> 기존 OCR 기능은 제거되었습니다. 다른 OCR 구현 방법을 고려하고 있습니다.
+
+:name> set_sync_summary
+:text> 클라우드 서버(DropBox, WebDAV 및 OneDrive) 및 동기화 구성, 동기화 문제 처리 등.
+
+:name> set_sync_server_connect_failed
+:text> 연결 테스트에 실패했습니다. 구성 정보를 확인하고 다시 시도하세요.
+
+:name> set_sync_server_chooser_title
+:text> 클라우드 서버를 선택하세요
+
+:name> set_sync_server_change
+:text> 클라우드 서버 변경
+
+:name> set_sync_server_clear
+:text> 서버 구성 지우기
+
+:name> set_sync_server_clear_message
+:text> 서버 설정을 삭제하시겠습니까? 삭제하면 동기화 캐시 데이터도 삭제되어 동기화 시간이 길어질 수 있습니다.
+
+:name> set_sync_server_summary
+:text> WebDAV, Dropbox, OneDrive 동기화를 지원하는 클라우드 동기화 서버를 구성합니다.
+
+:name> set_sunc_dropbox_configured_tip
+:text> Dropbox를 이미 구성했습니다. 구성을 업데이트해야 하는 경우 먼저 현재 설정을 삭제한 후 다시 구성하세요.
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive가 연결되었습니다!\n아래 버튼을 클릭하면 로그아웃할 수 있습니다.
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive에서 로그아웃되었습니다!
+
+:name> set_sync_onedrive_root_tip
+:text> 앱은 OneDrive 루트 아래의 \"%s\" 디렉터리에 메모를 동기화합니다. 아래 버튼을 클릭하여 동기화 설정을 변경할 수 있습니다.
+
+:name> set_sync_onedrive_root_change
+:text> 동기화 디렉토리 변경
+
+:name> set_sync_delay_sub
+:text> %dms(과도한 요청으로 인해 서버가 차단되는 것을 방지하기 위해 파일 동기화 중에 제한을 추가합니다).
+
+:name> set_sync_now_title
+:text> 지금 동기화
+
+:name> set_sync_now_summary
+:text> 이 기능을 활성화하면 사용자가 메모를 수정한 직후 해당 메모가 자동으로 클라우드 서버와 동기화됩니다.
+
+:name> sync_force_upload
+:text> 업로드
+
+:name> sync_force_upload_tip
+:text> 이렇게 하면 로컬 파일이 클라우드 파일을 덮어씁니다. 계속하시겠습니까?
+
+:name> sync_force_download
+:text> 다운로드
+
+:name> sync_force_download_tip
+:text> 이렇게 하면 클라우드 파일이 로컬 파일을 덮어씁니다. 계속하시겠습니까?
+
+:name> sync_force_diff
+:text> 차이
+
+:name> sync_force_delete_remote
+:text> 클라우드 파일 삭제
+
+:name> sync_force_delete_remote_tip
+:text> 클라우드 파일이 삭제됩니다. 계속하시겠습니까?
+
+:name> sync_force_delete_local
+:text> 로컬 파일 삭제
+
+:name> sync_force_delete_local_tip
+:text> 로컬 파일이 삭제됩니다. 계속하시겠습니까?
+
+:name> sync_failure_message
+:text> %s 문제로 인해 파일 동기화에 실패했습니다.
+
+:name> sync_failure_handle
+:text> 동기화 문제 처리
+
+:name> sync_failure_conflict
+:text> 보안 이유: 로컬 파일과 원격 파일이 일치하지 않습니다.
+
+:name> sync_failure_connect
+:text> 네트워크 연결 또는 서버 구성.
+
+:name> sync_failure_upload
+:text> 업로드에 실패했습니다.
+
+:name> sync_failure_download
+:text> 다운로드에 실패했습니다.
+
+:name> sync_failure_delete_local
+:text> 로컬 파일을 삭제하지 못했습니다.
+
+:name> sync_failure_delete_remote
+:text> 원격 파일을 삭제하지 못했습니다.
+
+:name> config_new_version_found
+:text> 새 버전을 찾았습니다
+
+:name> config_ignore_this_version
+:text> 이 버전 무시
+
+:name> about_app_solgon
+:text> 귀하의 개인 지식 기반
+
+:name> viewer_double_tap_show_tip
+:text> 메모를 편집하려면 페이지를 두 번 탭하세요.
+
+:name> chat_room_name
+:text> 작가 보조
+
+:name> chat_default_message
+:text> 안녕하세요, 저는 작가 보조입니다! 무엇이든 물어보세요
+…
+
+:name> chat_input_empty_toast
+:text> 메시지를 입력하세요.
+
+:name> chat_input_hint
+:text> 이야기를 시작하세요
+…
+
+:name> chat_prompt_default
+:text> 당신은 작가 보조입니다. 이것은 제 글입니다:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> AI가 마지막 메시지를 생각 중이므로 현재 메시지는 무시됩니다.
+
+:name> chat_ai_thinking
+:text> 생각 중
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI 정보가 구성되지 않았습니다. 메시지는 저장되지만 응답은 제공되지 않습니다.
+
+:name> chat_ai_disable_tip
+:text> AI가 비활성화되었습니다. 메시지는 저장되지만 답변은 제공되지 않습니다.
+
+:name> chage_message_delete_tip
+:text> 이 메시지를 삭제하시겠습니까?
+
+:name> datasource_datasource_summary
+:text> 데이터 소스, 가져오기/내보내기, 메모 저장 경로 등
+
+:name> datasource_external_tip
+:text> 플랫폼의 검토 규정에 따라 외부 저장소에서 읽고 쓰는 기능이 오프라인으로 전환되었습니다.
+

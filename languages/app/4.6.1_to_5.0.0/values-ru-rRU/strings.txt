@@ -1,0 +1,562 @@
+:name> text_discard
+:text> Отказаться
+
+:name> text_save
+:text> Сохранять
+
+:name> text_abort
+:text> Прервать
+
+:name> current_using_folder
+:text> Текущий используемый каталог
+
+:name> text_new
+:text> Новый
+
+:name> text_exit
+:text> покидать
+
+:name> common_sign_out
+:text> Выход
+
+:name> common_set_security_symmary
+:text> Блокировка приложений, отпечатки пальцев, шифрование заметок и т. д.
+
+:name> common_set_security_biometric_not_match
+:text> Не совпадает, осталось %d раз(а).
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 Узнай себя снова
+
+:name> common_app_intro_title_2
+:text> Синхронизация с облаком
+
+:name> common_app_intro_detail_2
+:text> Поддерживает методы синхронизации OneDrive, DropBox и WebDAV. Изменения в заметках могут быть немедленно синхронизированы с сервером.
+
+:name> common_app_intro_title_3
+:text> Безопасность
+
+:name> common_app_intro_detail_3
+:text> Блокировка приложений и сквозное шифрование заметок для защиты ваших данных и конфиденциальности
+
+:name> common_app_intro_title_4
+:text> Начните свое путешествие в мир знаний
+
+:name> common_failed_read_note
+:text> Не удалось прочитать заметку: %s
+
+:name> common_failed_write_note
+:text> Не удалось написать заметку: %s
+
+:name> note_unreadable
+:text> Заметки нечитаемы!
+
+:name> note_read_error
+:text> Ошибка чтения примечания
+
+:name> note_read_error_key_not_match
+:text> Несоответствие ключа шифрования
+
+:name> note_read_error_file_format
+:text> Неправильный формат файла
+
+:name> login_account_hint
+:text> Электронная почта
+
+:name> sketch_title
+:text> Дудл
+
+:name> sketch_clear_tips
+:text> Подтвердить очистку растрового изображения?
+
+:name> sketch_stroke
+:text> Гладить
+
+:name> sketch_opacity
+:text> Непрозрачность
+
+:name> sketch_saturation
+:text> Насыщенность
+
+:name> skecth_save_tip
+:text> Сохранить свое творение или удалить?
+
+:name> audio_title
+:text> Аудиозапись
+
+:name> audio_start
+:text> Начать запись
+
+:name> audio_stop
+:text> Остановить запись
+
+:name> audio_store_folder
+:text> Папка аудиозаметок
+
+:name> audio_store_folder_summmary
+:text> Аудиозаметки будут сохранены в этом каталоге: %s
+
+:name> capture_web_title
+:text> Веб-примечание
+
+:name> capture_web_input_hint
+:text> Введите здесь URL-адрес веб-сайта
+…
+
+:name> capture_web_tip
+:text> Введите любую ссылку на веб-страницу и преобразуйте ее в заметку Markdown.
+
+:name> capture_web_input_empty
+:text> URL не должен быть пустым
+…
+
+:name> capture_Web_invalid_urlr
+:text> Неверный URL-адрес
+
+:name> capture_Web_error
+:text> Не удалось посетить страницу :(
+
+:name> capture_web_reading_html
+:text> Чтение содержимого страницы
+…
+
+:name> capture_web_read_html
+:text> Чтение содержимого страницы и конвертация в разметку
+…
+
+:name> capture_web_saveing
+:text> Сохранение заметки
+…
+
+:name> capture_web_save_error
+:text> Ошибка при сохранении заметки :(
+
+:name> capture_web_aborted
+:text> Прервано пользователем.
+
+:name> capture_web_folder
+:text> Папка для сохранения \"Web to Note\"
+
+:name> capture_web_folder_summary
+:text> Заметки, преобразованные из веб-страниц, будут сохранены в этом каталоге: %s
+
+:name> capture_web_trial_tip
+:text> Эта функция является премиум-правом, эксклюзивным для профессиональной версии. У вас есть %d возможностей пробного использования, прежде чем стать участником.
+
+:name> image_pictures
+:text> Фотографии
+
+:name> image_picker_unavailable
+:text> Выбор изображения недоступен!
+
+:name> premium_join
+:text> ПРИСОЕДИНИТЬСЯ
+
+:name> premium_privilege_basic
+:text> Все основные функции: Markdown, аудиозапись, многоуровневые каталоги, блок-схемы Mermaid, MathJax и т. д.
+
+:name> premium_privilege_themes
+:text> %d+ тема приложения, %d+ темы редактора, %d+ стиль кода, пользовательский CSS, пользовательский шрифт
+
+:name> premium_privilege_image
+:text> Фотосъемка, обрезка изображений, фильтры, преобразование изображений и т. д.
+
+:name> premium_privilege_export
+:text> Экспортируйте заметки в форматах Markdown, HTML, изображений и PDF.
+
+:name> premium_privilege_appwidgets
+:text> Добавляйте виджеты рабочего стола и быстрые ярлыки для заметок.
+
+:name> premium_privilege_sync
+:text> Методы синхронизации (WebDAV, DropBox и OneDrive) и функциональность синхронизации в реальном времени
+
+:name> premium_privilege_webnote
+:text> Веб-страница для заметок: создайте свою базу знаний
+
+:name> premium_privilege_encryption
+:text> Сквозное шифрование для заметок
+
+:name> premium_privilege_ai
+:text> Помощник по написанию: настройка сервера ИИ
+
+:name> premium_privilege_future
+:text> Все функции, которые будут разработаны в будущем
+
+:name> premium_payway_others
+:text> Другие
+
+:name> premium_payway_others_sub_title
+:text> Вы также можете попробовать его бесплатно или использовать промокод.
+
+:name> premium_contact_us
+:text> Связаться с нами
+
+:name> premium_contact_us_sub_title
+:text> Связаться с нами можно следующими способами:
+
+:name> search_empty_tip
+:text> Не нашли то, что искали?\nПопробуйте изменить словарный запас
+
+:name> search_include_encrypted
+:text> Включить зашифрованные заметки
+
+:name> compose_note_button_order
+:text> Сортировать ярлыки
+
+:name> compose_tag_empty_title
+:text> Теги не найдены!\nНажмите, чтобы создать первый тег.
+
+:name> compose_note_un_finish_recover_tip
+:text> Оправиться от истории.
+
+:name> compose_note_structure_empty
+:text> Пустая структура
+
+:name> compose_setting_folder_change
+:text> Изменить папку заметок
+
+:name> compose_setting_folder_clear
+:text> Очистить папку заметок
+
+:name> compose_setting_quick_note_folder_tip
+:text> Совет: Вы можете изменить папку для сохранения быстрых заметок в настройках заметок в разделе \"%s\".
+
+:name> compose_setting_quick_note_folder_summary
+:text> Заметки, быстро введенные в поле ввода чата на главной странице, будут сохранены в этом каталоге: %s
+
+:name> note_encrypt_enable
+:text> Включить шифрование заметок
+
+:name> note_encrypt_enable_summary
+:text> После включения этой функции вновь созданные заметки будут шифроваться перед сохранением.
+
+:name> note_encrypt_key
+:text> Ключ шифрования
+
+:name> note_encrypt_key_summary
+:text> Ключи шифрования используются для шифрования и дешифрования заметок.
+
+:name> note_encrypt_key_change_title
+:text> Хотите изменить ключ шифрования?
+
+:name> note_encrypt_key_change_message
+:text> При изменении ключа все файлы, зашифрованные предыдущим ключом, будут зашифрованы заново. Вы подтверждаете, что хотите продолжить?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. Пожалуйста, дождитесь завершения процесса.
+
+:name> note_encrypt_re_encrypt_done
+:text> Повторное шифрование завершено!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> Служба повторного шифрования
+
+:name> note_encrypt_re_encrypt_title
+:text> Повторное шифрование
+…
+
+:name> note_encrypt_key_required
+:text> Требуется ключ шифрования!
+
+:name> note_encrypt_key_invalid
+:text> Неверный ключ шифрования, попробуйте еще раз.
+
+:name> note_encrypt_key_change_tip
+:text> Все зашифрованные файлы необходимо перешифровать перед сменой ключа. Поэтому рекомендуется устанавливать ключ шифрования только один раз.
+
+:name> note_encrypt_key_tip_chars
+:text> Введите не менее 8 символов (только цифры, а также заглавные и строчные буквы).
+
+:name> note_encrypt_write_key
+:text> Записать ключ шифрования
+
+:name> note_encrypt_write_key_summary
+:text> Если эта функция включена, ключ будет асимметрично зашифрован и записан в зашифрованный файл. Чтобы предотвратить проблемы с восстановлением в случае, если вы забудете пароль, мы настоятельно рекомендуем оставить эту функцию включенной.
+
+:name> note_encrypt_auth
+:text> Проверка личности
+
+:name> note_encrypt_auth_failed
+:text> Проверка личности не удалась.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>Примечание: сначала вам необходимо установить пароль приложения, иначе он не вступит в силу.
+
+:name> note_encrypt_preview
+:text> Скрыть предварительный просмотр
+
+:name> note_encrypt_preview_placeholder
+:text> [Зашифровать заметку]
+
+:name> note_encrypt_preview_summary
+:text> Отключение этой функции приведет к прекращению отображения информации о предварительном просмотре зашифрованных заметок в списке заметок.
+
+:name> set_ai
+:text> ИИ
+
+:name> set_ai_summary
+:text> Помощник писателя с искусственным интеллектом
+
+:name> set_ai_source
+:text> Платформа ИИ
+
+:name> set_ai_source_summary
+:text> Настройте ИИ, используемый в чате заметок.
+
+:name> set_ai_source_clear
+:text> Очистить настройки ИИ
+
+:name> set_ai_source_reset
+:text> Изменить настройки ИИ
+
+:name> set_ai_notice
+:text> Уведомление
+
+:name> set_ai_notice_summary
+:text> Наше приложение никогда не собирает и не использует пользовательские данные для обучения ИИ. Все пользовательские данные хранятся локально на устройствах или в облачных дисках, указанных пользователем. Кроме того, пользователи могут подключаться к доверенным платформам ИИ или полностью отключать ИИ, обеспечивая полный контроль над конфиденциальностью данных и автономностью хранения.
+
+:name> set_ai_disable
+:text> Запрещать
+
+:name> set_ai_disable_summary
+:text> Отключите ИИ везде одним нажатием.
+
+:name> set_ai_provider_custom
+:text> ========FAILED GOOGLE========
+
+:name> set_ai_provider_custom_tip
+:text> Пользовательский ИИ должен соответствовать спецификациям API OpenAI. Нажмите, чтобы узнать больше!
+
+:name> set_ai_model
+:text> Модель ИИ
+
+:name> set_ai_custom_input_rquire
+:text> Пожалуйста, введите \"%s\".
+
+:name> set_ai_prompt
+:text> Note Chat Context
+
+:name> set_ai_prompt_tip
+:text> Заполнитель \"%s\" будет заменен содержимым вашей заметки при разговоре с ИИ.
+
+:name> set_security_applock
+:text> Блокировка приложения
+
+:name> set_encrypt_note
+:text> Примечание Шифрование
+
+:name> set_theme_and_style_summary
+:text> Темы приложений, темы редакторов, шрифты, стили кода, CSS и т. д.
+
+:name> set_theme_theme_lunar_new_year
+:text> С Новым Годом
+
+:name> set_theme_theme_yellow_gray
+:text> Светло-коричневый
+
+:name> set_font_title
+:text> Шрифт
+
+:name> set_font_clear
+:text> Очистить шрифт
+
+:name> set_font_reset
+:text> Изменить шрифт
+
+:name> set_note_sub
+:text> Настройки, связанные с редактированием и отображением заметок.
+
+:name> set_export_sub
+:text> Мы решили прекратить поддержку этой функции и рекомендуем вместо нее использовать функцию синхронизации. Мы рекомендуем использовать ее только при инициализации данных заметок приложения.
+
+:name> set_note_list_summary
+:text> Все, что связано со списком заметок на домашней странице приложения
+
+:name> set_note_mathjax
+:text> Включить MathJax
+
+:name> set_note_mermaid
+:text> Включить русалку
+
+:name> set_note_disable_to_accelerate_tip
+:text> Если вам не нужна эта функция, вы можете ее отключить. Это улучшит скорость рендеринга заметок.
+
+:name> set_extensions_tip
+:text> Введите пользовательские расширения, разделите несколько расширений символами \",\".
+
+:name> set_extensions_note_tip
+:text> Введите пользовательские расш
+ирения, разделите несколько расширений на \",\". Обратите внимание, что \'lnmd\' и \'lntxt\' являются зашифрованными расширениями файлов нашего приложения.
+
+:name> set_text_extensions
+:text> Расширение текстового файла
+
+:name> set_text_extensions_summary
+:text> Файлы с указанным расширением будут читаться и отображаться в виде текста.
+
+:name> set_support_extensions
+:text> Поддерживаемые расширения файлов
+
+:name> set_support_extensions_summary
+:text> Файлы с указанным расширением будут отображаться в списке заметок.
+
+:name> set_note_folders
+:text> Пользовательские папки хранения данных
+
+:name> set_file_summary
+:text> Правила именования файлов, расширения и т. д.
+
+:name> set_file_naming_title
+:text> Именование файлов
+
+:name> set_image_ocr_statement
+:text> Оригинальная функция OCR была удалена. Мы рассматриваем альтернативные методы реализации OCR.
+
+:name> set_sync_summary
+:text> Конфигурации облачного сервера (DropBox, WebDAV и OneDrive) и синхронизации, а также решение проблем синхронизации и т. д.
+
+:name> set_sync_server_connect_failed
+:text> Проверка соединения не удалась. Проверьте информацию о конфигурации и попробуйте еще раз.
+
+:name> set_sync_server_chooser_title
+:text> Выберите облачный сервер
+
+:name> set_sync_server_change
+:text> Изменить облачный сервер
+
+:name> set_sync_server_clear
+:text> Очистить конфигурации сервера
+
+:name> set_sync_server_clear_message
+:text> Вы уверены, что хотите очистить конфигурации сервера? Это также удалит данные кэша синхронизации, что может привести к увеличению времени синхронизации.
+
+:name> set_sync_server_summary
+:text> Настройте серверы облачной синхронизации, поддерживающие синхронизацию WebDAV, Dropbox и OneDrive.
+
+:name> set_sunc_dropbox_configured_tip
+:text> Вы уже настроили Dropbox. Если вам нужно обновить конфигурацию, сначала очистите текущие настройки, а затем настройте их заново.
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive подключен!\nВы можете нажать кнопку ниже, чтобы выйти.
+
+:name> set_sync_onedrive_sign_out
+:text> Вышел из OneDrive!
+
+:name> set_sync_onedrive_root_tip
+:text> Приложение синхронизирует заметки с каталогом \"%s\" в корне вашего OneDrive. Вы можете нажать кнопку ниже, чтобы изменить его.
+
+:name> set_sync_onedrive_root_change
+:text> Изменить каталог синхронизации
+
+:name> set_sync_delay_sub
+:text> %dms (Добавить регулирование во время синхронизации файлов, чтобы предотвратить блокировку сервера из-за чрезмерных запросов).
+
+:name> set_sync_now_title
+:text> Синхронизировать сейчас
+
+:name> set_sync_now_summary
+:text> Если эта функция включена, заметки будут автоматически синхронизироваться с облачным сервером сразу после того, как пользователь внесет в них изменения.
+
+:name> sync_force_upload
+:text> Загрузить
+
+:name> sync_force_upload_tip
+:text> Это заставит локальные файлы перезаписать файлы облака. Вы уверены, что хотите продолжить?
+
+:name> sync_force_download
+:text> Скачать
+
+:name> sync_force_download_tip
+:text> Это заставит файлы облака перезаписать локальные файлы. Вы уверены, что хотите продолжить?
+
+:name> sync_force_diff
+:text> Разница
+
+:name> sync_force_delete_remote
+:text> Удалить файл облака
+
+:name> sync_force_delete_remote_tip
+:text> Это удалит файлы облака. Вы уверены, что хотите продолжить?
+
+:name> sync_force_delete_local
+:text> Удалить локальный файл
+
+:name> sync_force_delete_local_tip
+:text> Это удалит локальные файлы. Вы уверены, что хотите продолжить?
+
+:name> sync_failure_message
+:text> не удалось синхронизировать файл из-за проблемы: %s
+
+:name> sync_failure_handle
+:text> Устранение неполадок синхронизации
+
+:name> sync_failure_conflict
+:text> Причина безопасности: локальные и удаленные файлы несовместимы.
+
+:name> sync_failure_connect
+:text> Сетевое подключение или конфигурация сервера.
+
+:name> sync_failure_upload
+:text> Не удалось загрузить.
+
+:name> sync_failure_download
+:text> Не удалось загрузить.
+
+:name> sync_failure_delete_local
+:text> Не удалось удалить локальный файл.
+
+:name> sync_failure_delete_remote
+:text> Не удалось удалить удаленный файл.
+
+:name> config_new_version_found
+:text> Найдена новая версия
+
+:name> config_ignore_this_version
+:text> Игнорировать эту версию
+
+:name> about_app_solgon
+:text> Ваша личная база знаний
+
+:name> viewer_double_tap_show_tip
+:text> Дважды нажмите на страницу, чтобы отредактировать заметку.
+
+:name> chat_room_name
+:text> Помощник писателя
+
+:name> chat_default_message
+:text> Здравствуйте, я ваш помощник-писатель! Вы можете спросить меня о чем угодно
+…
+
+:name> chat_input_empty_toast
+:text> Введите ваше сообщение.
+
+:name> chat_input_hint
+:text> Начать говорить
+…
+
+:name> chat_prompt_default
+:text> Вы помощник писателя. Это моя статья:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> Поскольку ИИ обдумывает ваше последнее сообщение, текущее сообщение будет проигнорировано.
+
+:name> chat_ai_thinking
+:text> Думаю
+…
+
+:name> chat_ai_not_configured_tip
+:text> Информация об ИИ не настроена. Ваши сообщения будут сохранены, но ответы не будут предоставлены.
+
+:name> chat_ai_disable_tip
+:text> AI отключен. Ваши сообщения будут сохранены, но ответы на них не будут предоставлены.
+
+:name> chage_message_delete_tip
+:text> Вы уверены, что хотите удалить это сообщение?
+
+:name> datasource_datasource_summary
+:text> Источники данных, импорт/экспорт, пути хранения заметок и т. д.
+
+:name> datasource_external_tip
+:text> В связи с правилами обзора платформы функциональность чтения и записи на внешние хранилища была отключена.
+

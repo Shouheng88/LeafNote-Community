@@ -1,0 +1,561 @@
+:name> text_discard
+:text> Desechar
+
+:name> text_save
+:text> Ahorrar
+
+:name> text_abort
+:text> Abortar
+
+:name> current_using_folder
+:text> Directorio utilizado actualmente
+
+:name> text_new
+:text> Nuevo
+
+:name> text_exit
+:text> abandonar
+
+:name> common_sign_out
+:text> Desconectar
+
+:name> common_set_security_symmary
+:text> Bloqueo de aplicaciones, cifrado de huellas dactilares y notas, etc.
+
+:name> common_set_security_biometric_not_match
+:text> No coincide, queda %d tiempo(s).
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 Volver a conocerte
+
+:name> common_app_intro_title_2
+:text> Sincronización en la nube
+
+:name> common_app_intro_detail_2
+:text> Compatible con los métodos de sincronización OneDrive, DropBox y WebDAV. Los cambios en las notas se sincronizan con el servidor inmediatamente.
+
+:name> common_app_intro_title_3
+:text> Seguridad
+
+:name> common_app_intro_detail_3
+:text> Bloqueo de aplicaciones y cifrado de extremo a extremo de notas para proteger sus datos y privacidad
+
+:name> common_app_intro_title_4
+:text> Comienza tu viaje de conocimiento
+
+:name> common_failed_read_note
+:text> No se pudo leer la nota: %s
+
+:name> common_failed_write_note
+:text> No se pudo escribir la nota: %s
+
+:name> note_unreadable
+:text> ¡Las notas son ilegibles!
+
+:name> note_read_error
+:text> Error de lectura de nota
+
+:name> note_read_error_key_not_match
+:text> Desajuste de la clave de cifrado
+
+:name> note_read_error_file_format
+:text> Formato de archivo incorrecto
+
+:name> login_account_hint
+:text> Correo electrónico
+
+:name> sketch_title
+:text> Garabatear
+
+:name> sketch_clear_tips
+:text> ¿Confirmar para borrar el mapa de bits?
+
+:name> sketch_stroke
+:text> Ataque
+
+:name> sketch_opacity
+:text> Opacidad
+
+:name> sketch_saturation
+:text> Saturación
+
+:name> skecth_save_tip
+:text> ¿Guardar tu creación o descartarla?
+
+:name> audio_title
+:text> Nota de audio
+
+:name> audio_start
+:text> Iniciar grabación
+
+:name> audio_stop
+:text> Detener la grabación
+
+:name> audio_store_folder
+:text> Carpeta de notas de audio
+
+:name> audio_store_folder_summmary
+:text> Las notas de audio se almacenarán en este directorio: %s
+
+:name> capture_web_title
+:text> Web a nota
+
+:name> capture_web_input_hint
+:text> Introduzca una URL web aquí
+…
+
+:name> capture_web_tip
+:text> Introduzca cualquier enlace de página web y conviértalo en una nota Markdown.
+
+:name> capture_web_input_empty
+:text> La URL no debe estar vacía
+…
+
+:name> capture_Web_invalid_urlr
+:text> URL no válida
+
+:name> capture_Web_error
+:text> No se pudo visitar la página :(
+
+:name> capture_web_reading_html
+:text> Leyendo el contenido de la página
+…
+
+:name> capture_web_read_html
+:text> Leer el contenido de la página y convertirlo a Markdown
+…
+
+:name> capture_web_saveing
+:text> Nota de guardado
+…
+
+:name> capture_web_save_error
+:text> Error al guardar la nota :(
+
+:name> capture_web_aborted
+:text> Abortado por el usuario.
+
+:name> capture_web_folder
+:text> Carpeta para guardar "Web to Note"
+
+:name> capture_web_folder_summary
+:text> Las notas convertidas desde páginas web se almacenarán en este directorio: %s
+
+:name> capture_web_trial_tip
+:text> Esta función es un derecho premium exclusivo de la versión profesional. Tienes %d oportunidades de prueba antes de hacerte miembro.
+
+:name> image_pictures
+:text> Fotos
+
+:name> image_picker_unavailable
+:text> Selector de imágenes ¡No disponible!
+
+:name> premium_join
+:text> UNIRSE
+
+:name> premium_privilege_basic
+:text> Todas las funciones básicas: Markdown, grabación de audio, directorios multinivel, diagramas de flujo de Mermaid, MathJax, etc.
+
+:name> premium_privilege_themes
+:text> %d+ tema de aplicación, %d+ temas de editor, %d+ estilo de código, CSS personalizado, fuente personalizada
+
+:name> premium_privilege_image
+:text> Toma de fotografías, recorte de imágenes, filtros, transformación de imágenes, etc.
+
+:name> premium_privilege_export
+:text> Exportar notas como Markdown, HTML, imágenes y PDF.
+
+:name> premium_privilege_appwidgets
+:text> Agregue widgets de escritorio y accesos directos rápidos a las notas.
+
+:name> premium_privilege_sync
+:text> Métodos de sincronización (WebDAV, DropBox y OneDrive) y funcionalidad de sincronización en tiempo real
+
+:name> premium_privilege_webnote
+:text> Página web para tener en cuenta: construye tu base de conocimientos
+
+:name> premium_privilege_encryption
+:text> Cifrado de extremo a extremo para notas
+
+:name> premium_privilege_ai
+:text> Asistente de escritura: Configurar el servidor de IA
+
+:name> premium_privilege_future
+:text> Todas las funciones se desarrollarán en el futuro.
+
+:name> premium_payway_others
+:text> Otros
+
+:name> premium_payway_others_sub_title
+:text> También puedes probarlo gratis o utilizar un código de canje.
+
+:name> premium_contact_us
+:text> Contáctenos
+
+:name> premium_contact_us_sub_title
+:text> Puedes contactarnos por los siguientes medios:
+
+:name> search_empty_tip
+:text> ¿No encontraste lo que buscabas?\nIntenta cambiar el vocabulario.
+
+:name> search_include_encrypted
+:text> Incluir notas cifradas
+
+:name> compose_note_button_order
+:text> Atajos de ordenación
+
+:name> compose_tag_empty_title
+:text> ¡No se encontraron etiquetas!\nHaga clic para crear la primera etiqueta.
+
+:name> compose_note_un_finish_recover_tip
+:text> Recuperarse de la historia.
+
+:name> compose_note_structure_empty
+:text> Estructura vacía
+
+:name> compose_setting_folder_change
+:text> Cambiar carpeta de notas
+
+:name> compose_setting_folder_clear
+:text> Borrar carpeta de notas
+
+:name> compose_setting_quick_note_folder_tip
+:text> Consejo: Puede cambiar la carpeta donde guardar la nota rápida en la configuración de notas en "%s\".
+
+:name> compose_setting_quick_note_folder_summary
+:text> Las notas ingresadas rápidamente en el cuadro de entrada de chat de la página de inicio se guardarán en este directorio: %s
+
+:name> note_encrypt_enable
+:text> Habilitar el cifrado de notas
+
+:name> note_encrypt_enable_summary
+:text> Después de habilitar esta función, las notas recién creadas se cifrarán antes de almacenarse.
+
+:name> note_encrypt_key
+:text> Clave de cifrado
+
+:name> note_encrypt_key_summary
+:text> Las claves de cifrado se utilizan para cifrar y descifrar notas.
+
+:name> note_encrypt_key_change_title
+:text> ¿Está seguro de cambiar la clave de cifrado?
+
+:name> note_encrypt_key_change_message
+:text> Al modificar la clave, se volverán a cifrar todos los archivos cifrados con la clave anterior. ¿Confirma continuar?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. Por favor, espere a que se complete el proceso.
+
+:name> note_encrypt_re_encrypt_done
+:text> ¡Reencriptación completada!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> Servicio de reencriptación
+
+:name> note_encrypt_re_encrypt_title
+:text> Re-encriptando
+…
+
+:name> note_encrypt_key_required
+:text> ¡Se requiere clave de cifrado!
+
+:name> note_encrypt_key_invalid
+:text> Clave de cifrado no válida, inténtelo de nuevo.
+
+:name> note_encrypt_key_change_tip
+:text> Todos los archivos cifrados deben volver a cifrarse antes de cambiar la clave. Por lo tanto, se recomienda configurar la clave de cifrado solo una vez.
+
+:name> note_encrypt_key_tip_chars
+:text> Ingrese no menos de 8 caracteres (sólo números y letras mayúsculas y minúsculas).
+
+:name> note_encrypt_write_key
+:text> Escribir clave de cifrado
+
+:name> note_encrypt_write_key_summary
+:text> Si esta función está habilitada, la clave se cifrará asimétricamente y se escribirá en el archivo cifrado. Para evitar problemas de recuperación en caso de olvidar la contraseña, recomendamos mantener esta función habilitada.
+
+:name> note_encrypt_auth
+:text> Verificación de identidad
+
+:name> note_encrypt_auth_failed
+:text> La verificación de identidad falló.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>Nota: Primero debes establecer una contraseña para la aplicación; de lo contrario, no tendrá efecto.
+
+:name> note_encrypt_preview
+:text> Ocultar vista previa
+
+:name> note_encrypt_preview_placeholder
+:text> [Nota cifrada]
+
+:name> note_encrypt_preview_summary
+:text> Al deshabilitar esta función, dejará de mostrarse información de vista previa de las notas cifradas en la lista de notas.
+
+:name> set_ai
+:text> AI
+
+:name> set_ai_summary
+:text> Asistente de escritura con inteligencia artificial
+
+:name> set_ai_source
+:text> Plataforma de IA
+
+:name> set_ai_source_summary
+:text> Configurar la IA utilizada en el chat de notas.
+
+:name> set_ai_source_clear
+:text> Borrar la configuración de IA
+
+:name> set_ai_source_reset
+:text> Cambiar la configuración de IA
+
+:name> set_ai_notice
+:text> Aviso
+
+:name> set_ai_notice_summary
+:text> Nuestra aplicación nunca recopila ni utiliza datos de los usuarios para el entrenamiento de IA. Todos los datos se almacenan localmente en los dispositivos o en unidades en la nube designadas por el usuario. Además, los usuarios pueden conectarse a plataformas de IA de confianza o desactivar la IA por completo, lo que garantiza un control total sobre la privacidad de los datos y la autonomía del almacenamiento.
+
+:name> set_ai_disable
+:text> Desactivar
+
+:name> set_ai_disable_summary
+:text> Desactiva la IA en todas partes con un solo toque.
+
+:name> set_ai_provider_custom
+:text> Costumbre
+
+:name> set_ai_provider_custom_tip
+:text> La IA personalizada debe cumplir con las especificaciones de la API de OpenAI. ¡Haz clic para obtener más información!
+
+:name> set_ai_model
+:text> Modelo de IA
+
+:name> set_ai_custom_input_rquire
+:text> Por favor, introduzca "%s".
+
+:name> set_ai_prompt
+:text> Note Chat Context
+
+:name> set_ai_prompt_tip
+:text> El marcador de posición \"%s\" será reemplazado por el contenido de tu nota cuando hables con IA.
+
+:name> set_security_applock
+:text> Bloqueo de aplicaciones
+
+:name> set_encrypt_note
+:text> Nota cifrada
+
+:name> set_theme_and_style_summary
+:text> Temas de aplicaciones, temas de editor, fuentes, estilos de código y CSS, etc.
+
+:name> set_theme_theme_lunar_new_year
+:text> Feliz año nuevo
+
+:name> set_theme_theme_yellow_gray
+:text> Marrón claro
+
+:name> set_font_title
+:text> Fuente
+
+:name> set_font_clear
+:text> Borrar fuente
+
+:name> set_font_reset
+:text> Cambiar fuente
+
+:name> set_note_sub
+:text> Configuraciones relacionadas con la edición y visualización de notas.
+
+:name> set_export_sub
+:text> Hemos decidido descontinuar el mantenimiento de esta función y, en su lugar, recomendamos usar la función de sincronización. Sugerimos usarla solo al inicializar los datos de notas de la aplicación.
+
+:name> set_note_list_summary
+:text> Todo lo relacionado con la lista de notas en la página de inicio de la aplicación
+
+:name> set_note_mathjax
+:text> Habilitar MathJax
+
+:name> set_note_mermaid
+:text> Habilitar Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> Si no necesita esta función, puede desactivarla. Esto mejorará la velocidad de renderizado de las notas.
+
+:name> set_extensions_tip
+:text> Ingrese extensiones personalizadas, divida múltiples extensiones por \",\".
+
+:name> set_extensions_note_tip
+:text> Ingrese extensiones personalizadas, divida varias extensiones por \",\". Tenga en cuenta que \'lnmd\' y \'lntxt\' son extensiones de archivo cifradas de nuestra aplicación.
+
+:name> set_text_extensions
+:text> Extensión de archivo de texto
+
+:name> set_text_extensions_summary
+:text> Los archivos con la extensión especificada se leerán y mostrarán como texto
+
+:name> set_support_extensions
+:text> Extensiones de archivo compatibles
+
+:name> set_support_extensions_summary
+:text> Los archivos con la extensión especificada se mostrarán en la lista de notas.
+
+:name> set_note_folders
+:text> Carpetas de almacenamiento de datos personalizadas
+
+:name> set_file_summary
+:text> Reglas de nombres de archivos, extensiones, etc.
+
+:name> set_file_naming_title
+:text> Nombre de archivo
+
+:name> set_image_ocr_statement
+:text> Se ha eliminado la función original de OCR. Estamos considerando métodos alternativos de implementación de OCR.
+
+:name> set_sync_summary
+:text> Servidor en la nube (DropBox, WebDAV y OneDrive) y configuraciones de sincronización, así como manejo de problemas de sincronización, etc.
+
+:name> set_sync_server_connect_failed
+:text> La prueba de conexión falló. Verifique su configuración y vuelva a intentarlo.
+
+:name> set_sync_server_chooser_title
+:text> Elija un servidor en la nube
+
+:name> set_sync_server_change
+:text> Cambiar servidor en la nube
+
+:name> set_sync_server_clear
+:text> Borrar configuraciones del servidor
+
+:name> set_sync_server_clear_message
+:text> ¿Seguro que desea borrar la configuración del servidor? Esto también eliminará los datos de la caché de sincronización, lo que podría causar tiempos de sincronización más largos.
+
+:name> set_sync_server_summary
+:text> Configure servidores de sincronización en la nube, compatibles con la sincronización de WebDAV, Dropbox y OneDrive.
+
+:name> set_sunc_dropbox_configured_tip
+:text> Ya configuraste Dropbox. Si necesitas actualizar la configuración, borra primero la configuración actual y luego vuelve a configurarlo.
+
+:name> set_sync_onedrive_connected_message
+:text> ¡OneDrive está conectado!\nPuede hacer clic en el botón a continuación para cerrar sesión.
+
+:name> set_sync_onedrive_sign_out
+:text> ¡OneDrive cerró sesión!
+
+:name> set_sync_onedrive_root_tip
+:text> La aplicación sincronizará las notas con el directorio \"%s\" en la raíz de tu OneDrive. Puedes hacer clic en el botón de abajo para cambiarlo.
+
+:name> set_sync_onedrive_root_change
+:text> Cambiar directorio de sincronización
+
+:name> set_sync_delay_sub
+:text> %dms (Agrega limitación durante la sincronización de archivos para evitar el bloqueo del servidor debido a solicitudes excesivas).
+
+:name> set_sync_now_title
+:text> Sincronizar ahora
+
+:name> set_sync_now_summary
+:text> Si esta función está habilitada, las notas se sincronizarán automáticamente con el servidor en la nube inmediatamente después de que el usuario las modifique.
+
+:name> sync_force_upload
+:text> Subir
+
+:name> sync_force_upload_tip
+:text> Esto obligará a los archivos locales a sobrescribir los archivos en la nube. ¿Estás seguro de continuar?
+
+:name> sync_force_download
+:text> Descargar
+
+:name> sync_force_download_tip
+:text> Esto obligará a los archivos en la nube a sobrescribir los archivos locales. ¿Estás seguro de continuar?
+
+:name> sync_force_diff
+:text> Diferencia
+
+:name> sync_force_delete_remote
+:text> Eliminar archivo de la nube
+
+:name> sync_force_delete_remote_tip
+:text> Esto eliminará los archivos de la nube. ¿Estás seguro de continuar?
+
+:name> sync_force_delete_local
+:text> Eliminar archivo local
+
+:name> sync_force_delete_local_tip
+:text> Esto eliminará los archivos locales. ¿Estás seguro de continuar?
+
+:name> sync_failure_message
+:text> No se pudo sincronizar el archivo con el problema: %s
+
+:name> sync_failure_handle
+:text> Manejar problema de sincronización
+
+:name> sync_failure_conflict
+:text> Motivo de seguridad: los archivos locales y remotos son inconsistentes.
+
+:name> sync_failure_connect
+:text> Conexión de red o configuración del servidor.
+
+:name> sync_failure_upload
+:text> Error al cargar.
+
+:name> sync_failure_download
+:text> Error en la descarga.
+
+:name> sync_failure_delete_local
+:text> No se pudo eliminar el archivo local.
+
+:name> sync_failure_delete_remote
+:text> No se pudo eliminar el archivo remoto.
+
+:name> config_new_version_found
+:text> Nueva versión encontrada
+
+:name> config_ignore_this_version
+:text> Ignorar esta versión
+
+:name> about_app_solgon
+:text> Su base de conocimientos privada
+
+:name> viewer_double_tap_show_tip
+:text> Toque dos veces la página para editar la nota.
+
+:name> chat_room_name
+:text> Asistente de escritura
+
+:name> chat_default_message
+:text> Hola, soy tu asistente de escritura. Puedes preguntarme lo que quieras
+…
+
+:name> chat_input_empty_toast
+:text> Por favor ingrese su mensaje.
+
+:name> chat_input_hint
+:text> Empecemos a hablar
+…
+
+:name> chat_prompt_default
+:text> Eres asistente de escritura. Este es mi artículo:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> Dado que la IA piensa en su último mensaje, el mensaje actual será ignorado.
+
+:name> chat_ai_thinking
+:text> Pensamiento
+…
+
+:name> chat_ai_not_configured_tip
+:text> Información de IA no configurada. Sus mensajes se guardarán, pero no se proporcionarán respuestas.
+
+:name> chat_ai_disable_tip
+:text> La IA está desactivada. Tus mensajes se guardarán, pero no recibirás respuestas.
+
+:name> chage_message_delete_tip
+:text> ¿Estás seguro de eliminar este mensaje?
+
+:name> datasource_datasource_summary
+:text> Fuentes de datos, importación/exportación y rutas de almacenamiento de notas, etc.
+
+:name> datasource_external_tip
+:text> A la luz de las regulaciones de revisión de la plataforma, la funcionalidad para leer y escribir en almacenamiento externo se ha desconectado.
+

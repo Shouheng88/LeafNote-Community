@@ -1,0 +1,564 @@
+:name> text_discard
+:text> 破棄
+
+:name> text_save
+:text> 保存
+
+:name> text_abort
+:text> アボート
+
+:name> current_using_folder
+:text> 現在使用されているディレクトリ
+
+:name> text_new
+:text> 新
+
+:name> text_exit
+:text> 退出
+
+:name> common_sign_out
+:text> サインアウト
+
+:name> common_set_security_symmary
+:text> アプリロック、指紋、メモの暗号化など。
+
+:name> common_set_security_biometric_not_match
+:text> 一致しません。残り %d 回です。
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 あなたをもう一度知る
+
+:name> common_app_intro_title_2
+:text> クラウド同期
+
+:name> common_app_intro_detail_2
+:text> OneDrive、DropBox、WebDAVの同期方法をサポートしています。メモの変更はすぐにサーバーに同期されます。
+
+:name> common_app_intro_title_3
+:text> 安全性
+
+:name> common_app_intro_detail_3
+:text> アプリをロックし、エンドツーエンドの暗号化でデータとプライバシーを保護します
+
+:name> common_app_intro_title_4
+:text> 知識の旅を始めましょう
+
+:name> common_failed_read_note
+:text> メモの読み取りに失敗しました: %s
+
+:name> common_failed_write_note
+:text> メモの書き込みに失敗しました: %s
+
+:name> note_unreadable
+:text> メモが読めません!
+
+:name> note_read_error
+:text> メモの読み取りエラー
+
+:name> note_read_error_key_not_match
+:text> 暗号化キーが一致しません
+
+:name> note_read_error_file_format
+:text> ファイル形式エラー
+
+:name> login_account_hint
+:text> メールアドレス
+
+:name> sketch_title
+:text> いたずら書き
+
+:name> sketch_clear_tips
+:text> ビットマップをクリアしますか?
+
+:name> sketch_stroke
+:text> せんば
+
+:name> sketch_opacity
+:text> 不透明度
+
+:name> sketch_saturation
+:text> 飽和
+
+:name> skecth_save_tip
+:text> 作成した作品を保存しますか、それとも破棄しますか?
+
+:name> audio_title
+:text> オーディオノート
+
+:name> audio_start
+:text> 録画を開始
+
+:name> audio_stop
+:text> 録画を停止
+
+:name> audio_store_folder
+:text> オーディオノートフォルダ
+
+:name> audio_store_folder_summmary
+:text> 音声メモはこのディレクトリに保存されます: %s
+
+:name> capture_web_title
+:text> ウェブからメモへ
+
+:name> capture_web_input_hint
+:text> ここにWeb URLを入力してください
+…
+
+:name> capture_web_tip
+:text> 任意の Web ページ リンクを入力し、それを Markdown ノートに変換します。
+
+:name> capture_web_input_empty
+:text> URL は空にできません。
+
+:name> capture_Web_invalid_urlr
+:text> 無効なURL
+
+:name> capture_Web_error
+:text> ページにアクセスできませんでした :(
+
+:name> capture_web_reading_html
+:text> ページコンテンツを読み込んでいます
+…
+
+:name> capture_web_read_html
+:text> ページ コンテンツを読み取り、マークダウンに変換します
+…
+
+:name> capture_web_saveing
+:text> メモを保存しています
+…
+
+:name> capture_web_save_error
+:text> メモの保存に失敗しました :(
+
+:name> capture_web_aborted
+:text> ユーザーによって中止されました。
+
+:name> capture_web_folder
+:text> 保存先フォルダ「Web to Note」
+
+:name> capture_web_folder_summary
+:text> ウェブページから変換されたメモはこのディレクトリに保存されます: %s
+
+:name> capture_web_trial_tip
+:text> この機能はプロフェッショナル版限定のプレミアム特典です。会員登録前に%d回お試しいただけます。
+
+:name> image_pictures
+:text> 写真
+
+:name> image_picker_unavailable
+:text> 画像ピッカーは利用できません。
+
+:name> premium_join
+:text> 参加する
+
+:name> premium_privilege_basic
+:text> すべての基本機能: Markdown、オーディオ録音、マルチレベルディレクトリ、Mermaid フローチャート、MathJax など。
+
+:name> premium_privilege_themes
+:text> %d+ 個のアプリテーマ、%d+ 個のエディターテーマ、%d+ 個のコードスタイル、カスタム CSS、カスタムフォント
+
+:name> premium_privilege_image
+:text> 写真撮影、画像の切り抜き、フィルター、画像の変換など。
+
+:name> premium_privilege_export
+:text> メモを Markdown、HTML、画像、PDF としてエクスポートします。
+
+:name> premium_privilege_appwidgets
+:text> デスクトップ ウィジェットとクイック ショートカットをメモに追加します。
+
+:name> premium_privilege_sync
+:text> 同期方法（WebDAV、DropBox、OneDrive）、およびリアルタイム同期機能
+
+:name> premium_privilege_webnote
+:text> 网页转笔记: 知識ベースを構築する
+
+:name> premium_privilege_encryption
+:text> ノートのエンドツーエンド暗号化
+
+:name> premium_privilege_ai
+:text> ライティングアシスタント: AIサーバーの設定
+
+:name> premium_privilege_future
+:text> 今後開発されるすべての機能
+
+:name> premium_payway_others
+:text> その他
+
+:name> premium_payway_others_sub_title
+:text> 無料で試用したり、引き換えコードを使用することも可能です。
+
+:name> premium_contact_us
+:text> お問い合わせ
+
+:name> premium_contact_us_sub_title
+:text> 以下の方法で連絡を取ることができます。
+
+:name> search_empty_tip
+:text> 探しているものが見つかりませんでしたか?\n語彙を変えてみる
+
+:name> search_include_encrypted
+:text> 暗号化されたメモを含める
+
+:name> compose_note_button_order
+:text> 並べ替えのショートカット
+
+:name> compose_tag_empty_title
+:text> タグが見つかりません!\n最初のタグを作成するにはクリックしてください。
+
+:name> compose_note_un_finish_recover_tip
+:text> 歴史から回復する。
+
+:name> compose_note_structure_empty
+:text> 空の構造
+
+:name> compose_setting_folder_change
+:text> ノートフォルダの変更
+
+:name> compose_setting_folder_clear
+:text> クリアノートフォルダー
+
+:name> compose_setting_quick_note_folder_tip
+:text> ヒント: \"%s\" の下のノート設定で、クイックノートを保存するフォルダを変更できます。
+
+:name> compose_setting_quick_note_folder_summary
+:text> ホームページのチャット入力ボックスに入力されたメモは、このディレクトリに保存されます: %s
+
+:name> note_encrypt_enable
+:text> ノートの暗号化を有効にする
+
+:name> note_encrypt_enable_summary
+:text> この機能を有効にすると、新しく作成されたメモは保存前に暗号化されます。
+
+:name> note_encrypt_key
+:text> 暗号化キー
+
+:name> note_encrypt_key_summary
+:text> 暗号化キーはメモの暗号化と復号化に使用されます。
+
+:name> note_encrypt_key_change_title
+:text> 暗号化キーを変更しますか?
+
+:name> note_encrypt_key_change_message
+:text> キーを変更すると、以前のキーで暗号化されたすべてのファイルが再暗号化されます。続行しますか？
+
+:name> note_encrypt_re_encrypting
+:text> [%s]。プロセスが完了するまでお待ちください。
+
+:name> note_encrypt_re_encrypt_done
+:text> 再暗号化が完了しました!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> 再暗号化サービス
+
+:name> note_encrypt_re_encrypt_title
+:text> 再暗号化中
+…
+
+:name> note_encrypt_key_required
+:text> 暗号化キーが必要です!
+
+:name> note_encrypt_key_invalid
+:text> 暗号化キーが無効です。もう一度お試しください。
+
+:name> note_encrypt_key_change_tip
+:text> 暗号化されたファイルはすべて、キーを変更する前に再暗号化する必要があります。そのため、暗号化キーは一度だけ設定することをお勧めします。
+
+:name> note_encrypt_key_tip_chars
+:text> 8文字以上（数字と大文字・小文字のみ）入力してください。
+
+:name> note_encrypt_write_key
+:text> 暗号化キーの書き込み
+
+:name> note_encrypt_write_key_summary
+:text> この機能を有効にすると、鍵は非対称暗号化され、暗号化ファイルに書き込まれます。パスワードを忘れた場合の復旧問題を防ぐため、この機能を有効にしておくことを強くお勧めします。
+
+:name> note_encrypt_auth
+:text> 本人確認
+
+:name> note_encrypt_auth_failed
+:text> 本人確認に失敗しました。
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>注意: 最初にアプリ パスワードを設定する必要があります。設定しないと有効になりません。
+
+:name> note_encrypt_preview
+:text> プレビューを非表示
+
+:name> note_encrypt_preview_placeholder
+:text> [暗号化メモ]
+
+:name> note_encrypt_preview_summary
+:text> この機能を無効にすると、暗号化されたノートのプレビュー情報がノートリストに表示されなくなります。
+
+:name> set_ai
+:text> 人工知能
+
+:name> set_ai_summary
+:text> AIライティングアシスタント
+
+:name> set_ai_source
+:text> AIプラットフォーム
+
+:name> set_ai_source_summary
+:text> ノートチャットで使用するAIを設定します。
+
+:name> set_ai_source_clear
+:text> AI設定をクリア
+
+:name> set_ai_source_reset
+:text> AI設定を変更する
+
+:name> set_ai_notice
+:text> 知らせ
+
+:name> set_ai_notice_summary
+:text> 当アプリは、AIトレーニングのためにユーザーデータを収集または使用することは一切ありません。すべてのユーザーデータは、デバイス上のローカルまたはユーザーが指定したクラウドドライブに保存されます。さらに、ユーザーは信頼できるAIプラットフォームに接続したり、AIを完全に無効にしたりすることで、データのプライバシーとストレージの自律性を完全に制御できます。
+
+:name> set_ai_disable
+:text> 無効にする
+
+:name> set_ai_disable_summary
+:text> 1 回のタップでどこでも AI をオフにできます。
+
+:name> set_ai_provider_custom
+:text> Custom
+
+:name> set_ai_provider_custom_tip
+:text> カスタムAIはOpenAIのAPI仕様に準拠する必要があります。詳細についてはクリックしてください。
+
+:name> set_ai_model
+:text> AIモデル
+
+:name> set_ai_custom_input_rquire
+:text> \"%s\"を入力してください。
+
+:name> set_ai_prompt
+:text> Note Chat Context
+
+:name> set_ai_prompt_tip
+:text> プレースホルダー「%s」は、AI と会話するときにメモの内容に置き換えられます。
+
+:name> set_security_applock
+:text> アプリロック
+
+:name> set_encrypt_note
+:text> ノート暗号化
+
+:name> set_theme_and_style_summary
+:text> アプリのテーマ、エディターのテーマ、フォント、コード スタイル、CSS など。
+
+:name> set_theme_theme_lunar_new_year
+:text> あけましておめでとう
+
+:name> set_theme_theme_yellow_gray
+:text> ライトブラウン
+
+:name> set_font_title
+:text> フォント
+
+:name> set_font_clear
+:text> クリアフォント
+
+:name> set_font_reset
+:text> フォントの変更
+
+:name> set_note_sub
+:text> ノートの編集と表示に関する設定。
+
+:name> set_export_sub
+:text> この機能のメンテナンスを中止し、代わりに同期機能のご利用を推奨いたします。アプリのノートデータを初期化する場合のみ、同期機能をご利用いただくことをお勧めします。
+
+:name> set_note_list_summary
+:text> アプリのホームページ上のノートリストに関連するすべてのもの
+
+:name> set_note_mathjax
+:text> MathJaxを有効にする
+
+:name> set_note_mermaid
+:text> Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> この機能が必要ない場合は、オフにすることができます。これにより、ノートのレンダリング速度が向上します。
+
+:name> set_extensions_tip
+:text> カスタム拡張子を入力し、複数の拡張子を \",\" で分割します。
+
+:name> set_extensions_note_tip
+:text> カスタム拡張子を入力し、複数の拡張子を「",\」で分割します。\'lnmd\' と \'lntxt\' は、アプリの暗号化されたファイル拡張子であることに注意してください。
+
+:name> set_text_extensions
+:text> テキストファイルの拡張名
+
+:name> set_text_extensions_summary
+:text> 指定した拡張名を使用したファイルはテキストに従って読み込まれ、表示されます
+
+:name> set_support_extensions
+:text> サポートされているファイルの拡張名
+
+:name> set_support_extensions_summary
+:text> 指定した拡張子名を使用したファイルがノートリストに表示されます
+
+:name> set_note_folders
+:text> カスタムデータ保存フォルダ
+
+:name> set_file_summary
+:text> ファイルの命名規則、拡張子など。
+
+:name> set_file_naming_title
+:text> ファイル名
+
+:name> set_image_ocr_statement
+:text> 従来のOCR機能は削除されました。代替のOCR実装方法を検討中です。
+
+:name> set_sync_summary
+:text> クラウド サーバー (DropBox、WebDAV、OneDrive) と同期構成、同期の問題の処理など。
+
+:name> set_sync_server_connect_failed
+:text> 接続テストに失敗しました。設定情報を確認してもう一度お試しください。
+
+:name> set_sync_server_chooser_title
+:text> クラウドサーバーを選択
+
+:name> set_sync_server_change
+:text> クラウドサーバーの変更
+
+:name> set_sync_server_clear
+:text> サーバー構成をクリアする
+
+:name> set_sync_server_clear_message
+:text> サーバー構成をクリアしてもよろしいですか? これにより同期キャッシュデータも削除され、同期時間が長くなる可能性があります。
+
+:name> set_sync_server_summary
+:text> WebDAV、Dropbox、OneDrive の同期をサポートするクラウド同期サーバーを構成します。
+
+:name> set_sunc_dropbox_configured_tip
+:text> Dropboxはすでに設定されています。設定を更新する必要がある場合は、まず現在の設定をクリアしてから再設定してください。
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive が接続されました。\nサインアウトするには下のボタンをクリックしてください。
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive からサインアウトしました。
+
+:name> set_sync_onedrive_root_tip
+:text> アプリはOneDriveのルート下の「%s」ディレクトリにメモを同期します。変更するには下のボタンをクリックしてください。
+
+:name> set_sync_onedrive_root_change
+:text> 同期ディレクトリの変更
+
+:name> set_sync_delay_sub
+:text> %dms (過剰なリクエストによるサーバーのブロックを防ぐために、ファイル同期中にスロットルを追加します)。
+
+:name> set_sync_now_title
+:text> 今すぐ同期
+
+:name> set_sync_now_summary
+:text> この機能を有効にすると、ユーザーがメモを変更するとすぐに、メモがクラウド サーバーに自動的に同期されます。
+
+:name> sync_note_remote_change_tip
+:text> ノートは現在サーバーのバージョンに遅れて
+いますが、最新バージョンに更新されますか？
+
+:name> sync_force_upload
+:text> アップロード
+
+:name> sync_force_upload_tip
+:text> これにより、ローカルファイルでクラウドファイルが強制的に上書きされます。続行してもよろしいですか？
+
+:name> sync_force_download
+:text> ダウンロード
+
+:name> sync_force_download_tip
+:text> これにより、クラウドファイルによってローカルファイルが強制的に上書きされます。続行してもよろしいですか？
+
+:name> sync_force_diff
+:text> 差分
+
+:name> sync_force_delete_remote
+:text> クラウドファイルの削除
+
+:name> sync_force_delete_remote_tip
+:text> クラウドファイルが削除されます。続行してもよろしいですか?
+
+:name> sync_force_delete_local
+:text> ローカルファイルの削除
+
+:name> sync_force_delete_local_tip
+:text> ローカルファイルが削除されます。続行してもよろしいですか?
+
+:name> sync_failure_message
+:text> 問題: %s によりファイルの同期に失敗しました
+
+:name> sync_failure_handle
+:text> 同期の問題の処理
+
+:name> sync_failure_conflict
+:text> セキュリティ上の理由: ローカル ファイルとリモート ファイルに矛盾があります。
+
+:name> sync_failure_connect
+:text> ネットワーク接続またはサーバー構成。
+
+:name> sync_failure_upload
+:text> アップロードに失敗しました。
+
+:name> sync_failure_download
+:text> ダウンロードに失敗しました。
+
+:name> sync_failure_delete_local
+:text> ローカルファイルの削除に失敗しました。
+
+:name> sync_failure_delete_remote
+:text> リモートファイルの削除に失敗しました。
+
+:name> config_new_version_found
+:text> 新しいバージョンが見つかりました
+
+:name> config_ignore_this_version
+:text> このバージョンを無視
+
+:name> about_app_solgon
+:text> あなたのプライベートナレッジベース
+
+:name> viewer_double_tap_show_tip
+:text> メモを編集するには、ページをダブルタップします。
+
+:name> chat_room_name
+:text> ライターアシスタント
+
+:name> chat_default_message
+:text> こんにちは、ライターアシスタントです！何でも聞いてください
+…
+
+:name> chat_input_empty_toast
+:text> メッセージを入力してください。
+
+:name> chat_input_hint
+:text> 話し始める
+…
+
+:name> chat_prompt_default
+:text> あなたはライターアシスタントです。これは私の記事です:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> AI は最後のメッセージを考えているため、現在のメッセージは無視されます。
+
+:name> chat_ai_thinking
+:text> 考えてみると
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI情報が設定されていません。メッセージは保存されますが、返信は行われません。
+
+:name> chat_ai_disable_tip
+:text> AIは無効です。メッセージは保存されますが、返信は行われません。
+
+:name> chage_message_delete_tip
+:text> このメッセージを削除してもよろしいですか?
+
+:name> datasource_datasource_summary
+:text> データ ソース、インポート/エクスポート、メモの保存パスなど。
+
+:name> datasource_external_tip
+:text> プラットフォームのレビュー規制を考慮して、外部ストレージの読み取りと書き込みの機能はオフラインになりました。
+

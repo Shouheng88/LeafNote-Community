@@ -1,0 +1,567 @@
+:name> text_discard
+:text> Verwerfen
+
+:name> text_save
+:text> Speichern
+
+:name> text_abort
+:text> Abbrechen
+
+:name> current_using_folder
+:text> Aktuell verwendetes Verzeichnis
+
+:name> text_new
+:text> Neu
+
+:name> text_exit
+:text> aufhören
+
+:name> common_sign_out
+:text> Abmelden
+
+:name> common_set_security_symmary
+:text> App-Sperre, Fingerabdruck- und Notizverschlüsselung usw.
+
+:name> common_set_security_biometric_not_match
+:text> Keine Übereinstimmung, %d Zeit verbleibend.
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 Lerne dich wieder kennen
+
+:name> common_app_intro_title_2
+:text> Cloud-Synchronisierung
+
+:name> common_app_intro_detail_2
+:text> Unterstützt die Synchronisierungsmethoden OneDrive, DropBox und WebDAV. Änderungen an Notizen können sofort mit dem Server synchronisiert werden.
+
+:name> common_app_intro_title_3
+:text> Sicherheit
+
+:name> common_app_intro_detail_3
+:text> App-Sperre und Ende-zu-Ende-Verschlüsselung für Notizen zum Schutz Ihrer Daten und Privatsphäre
+
+:name> common_app_intro_title_4
+:text> Beginnen Sie Ihre Wissensreise
+
+:name> common_failed_read_note
+:text> Notiz konnte nicht gelesen werden: %s
+
+:name> common_failed_write_note
+:text> Notiz konnte nicht geschrieben werden: %s
+
+:name> note_unreadable
+:text> Die Notizen sind unleserlich!
+
+:name> note_read_error
+:text> Fehler beim Lesen der Notiz
+
+:name> note_read_error_key_not_match
+:text> Nichtübereinstimmung des Verschlüsselungsschlüssels
+
+:name> note_read_error_file_format
+:text> Falsches Dateiformat
+
+:name> login_account_hint
+:text> E-Mail
+
+:name> sketch_title
+:text> Gekritzel
+
+:name> sketch_clear_tips
+:text> Bestätigen Sie, dass die Bitmap gelöscht werden soll?
+
+:name> sketch_stroke
+:text> Schlaganfall
+
+:name> sketch_opacity
+:text> Opazität
+
+:name> sketch_saturation
+:text> Sättigung
+
+:name> skecth_save_tip
+:text> Ihre Kreation speichern oder verwerfen?
+
+:name> audio_title
+:text> Audio-Notiz
+
+:name> audio_start
+:text> Aufnahme starten
+
+:name> audio_stop
+:text> Aufnahme beenden
+
+:name> audio_store_folder
+:text> Audionotizordner
+
+:name> audio_store_folder_summmary
+:text> Audionotizen werden in diesem Verzeichnis gespeichert: %s
+
+:name> capture_web_title
+:text> Web zu Notiz
+
+:name> capture_web_input_hint
+:text> Geben Sie hier eine Web-URL ein
+…
+
+:name> capture_web_tip
+:text> Geben Sie einen beliebigen Webseiten-Link ein und konvertieren Sie ihn in eine Markdown-Notiz.
+
+:name> capture_web_input_empty
+:text> Die URL sollte nicht leer sein
+…
+
+:name> capture_Web_invalid_urlr
+:text> Ungültige URL
+
+:name> capture_Web_error
+:text> Der Seitenaufruf ist fehlgeschlagen :(
+
+:name> capture_web_reading_html
+:text> Seiteninhalt wird gelesen
+…
+
+:name> capture_web_read_html
+:text> Seiteninhalte lesen und in Markdown konvertieren
+…
+
+:name> capture_web_saveing
+:text> Speicherhinweis
+…
+
+:name> capture_web_save_error
+:text> Beim Speichern der Notiz ist ein Fehler aufgetreten :(
+
+:name> capture_web_aborted
+:text> Vom Benutzer abgebrochen.
+
+:name> capture_web_folder
+:text> Ordner zum Speichern von „Web to Note“
+
+:name> capture_web_folder_summary
+:text> Aus Webseiten konvertierte Notizen werden in diesem Verzeichnis gespeichert: %s
+
+:name> capture_web_trial_tip
+:text> Diese Funktion ist ein Premium-Anspruch, der exklusiv der Professional-Version vorbehalten ist. Sie haben %d Testmöglichkeiten, bevor Sie Mitglied werden.
+
+:name> image_pictures
+:text> Bilder
+
+:name> image_picker_unavailable
+:text> Bildauswahl nicht verfügbar!
+
+:name> premium_join
+:text> VERBINDEN
+
+:name> premium_privilege_basic
+:text> Alle Grundfunktionen: Markdown, Audioaufnahme, mehrstufige Verzeichnisse, Mermaid-Flussdiagramme, MathJax usw.
+
+:name> premium_privilege_themes
+:text> %d+ App-Design, %d+ Editor-Designs, %d+ Code-Stil, benutzerdefiniertes CSS, benutzerdefinierte Schriftart
+
+:name> premium_privilege_image
+:text> Fotoaufnahme, Bildzuschneiden, Filter, Bildtransformation usw.
+
+:name> premium_privilege_export
+:text> Exportieren Sie Notizen als Markdown, HTML, Bilder und PDF.
+
+:name> premium_privilege_appwidgets
+:text> Fügen Sie Desktop-Widgets und Schnellverknüpfungen zu Notizen hinzu.
+
+:name> premium_privilege_sync
+:text> Synchronisierungsmethoden (WebDAV, DropBox
+&
+OneDrive) und Echtzeit-Synchronisierungsfunktion
+
+:name> premium_privilege_webnote
+:text> Zu beachtende Webseite: Bauen Sie Ihre Wissensdatenbank auf
+
+:name> premium_privilege_encryption
+:text> Ende-zu-Ende-Verschlüsselung für Notizen
+
+:name> premium_privilege_ai
+:text> Schreibassistent: AI-Server konfigurieren
+
+:name> premium_privilege_future
+:text> Alle Funktionen werden zukünftig weiterentwickelt
+
+:name> premium_payway_others
+:text> Sonstige
+
+:name> premium_payway_others_sub_title
+:text> Sie können es auch kostenlos testen oder einen Einlösungscode verwenden.
+
+:name> premium_contact_us
+:text> Kontaktieren Sie uns
+
+:name> premium_contact_us_sub_title
+:text> Sie können uns auf folgende Weise kontaktieren:
+
+:name> search_empty_tip
+:text> Haben Sie nicht gefunden, was Sie gesucht haben?\nVersuchen Sie, den Wortschatz zu ändern
+
+:name> search_include_encrypted
+:text> Verschlüsselte Notizen einschließen
+
+:name> compose_note_button_order
+:text> Sortierverknüpfungen
+
+:name> compose_tag_empty_title
+:text> Keine Tags gefunden!\nKlicken Sie hier, um das erste Tag zu erstellen.
+
+:name> compose_note_un_finish_recover_tip
+:text> Erholen Sie sich von der Geschichte.
+
+:name> compose_note_structure_empty
+:text> Leere Struktur
+
+:name> compose_setting_folder_change
+:text> Notizordner ändern
+
+:name> compose_setting_folder_clear
+:text> Notizordner leeren
+
+:name> compose_setting_quick_note_folder_tip
+:text> Tipp: Sie können den Ordner zum Speichern von Schnellnotizen in den Notizeinstellungen unter \"%s\" ändern.
+
+:name> compose_setting_quick_note_folder_summary
+:text> Schnell in das Chat-Eingabefeld auf der Startseite eingegebene Notizen werden in diesem Verzeichnis gespeichert: %s
+
+:name> note_encrypt_enable
+:text> Notizverschlüsselung aktivieren
+
+:name> note_encrypt_enable_summary
+:text> Nach dem Aktivieren dieser Funktion werden neu erstellte Notizen vor der Speicherung verschlüsselt.
+
+:name> note_encrypt_key
+:text> Verschlüsselungsschlüssel
+
+:name> note_encrypt_key_summary
+:text> Verschlüsselungsschlüssel werden zum Verschlüsseln und Entschlüsseln von Notizen verwendet.
+
+:name> note_encrypt_key_change_title
+:text> Möchten Sie den Verschlüsselungsschlüssel wirklich ändern?
+
+:name> note_encrypt_key_change_message
+:text> Beim Ändern des Schlüssels werden alle mit dem vorherigen Schlüssel verschlüsselten Dateien erneut verschlüsselt. Bestätigen Sie, dass Sie fortfahren möchten?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. Bitte warten Sie, bis der Vorgang abgeschlossen ist.
+
+:name> note_encrypt_re_encrypt_done
+:text> Neuverschlüsselung abgeschlossen!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> Neuverschlüsselungsdienst
+
+:name> note_encrypt_re_encrypt_title
+:text> Neuverschlüsseln
+…
+
+:name> note_encrypt_key_required
+:text> Verschlüsselungsschlüssel ist erforderlich!
+
+:name> note_encrypt_key_invalid
+:text> Ungültiger Verschlüsselungsschlüssel, bitte versuchen Sie es erneut.
+
+:name> note_encrypt_key_change_tip
+:text> Alle verschlüsselten Dateien müssen vor der Schlüsseländerung erneut verschlüsselt werden. Daher wird empfohlen, den Verschlüsselungsschlüssel nur einmal festzulegen.
+
+:name> note_encrypt_key_tip_chars
+:text> Bitte geben Sie mindestens 8 Zeichen ein (nur Zahlen sowie Groß- und Kleinbuchstaben).
+
+:name> note_encrypt_write_key
+:text> Verschlüsselungsschlüssel schreiben
+
+:name> note_encrypt_write_key_summary
+:text> Wenn diese Funktion aktiviert ist, wird der Schlüssel asymmetrisch verschlüsselt und in die verschlüsselte Datei geschrieben. Um Wiederherstellungsprobleme zu vermeiden, falls Sie Ihr Passwort vergessen, empfehlen wir dringend, diese Funktion aktiviert zu lassen.
+
+:name> note_encrypt_auth
+:text> Identitätsprüfung
+
+:name> note_encrypt_auth_failed
+:text> Identitätsprüfung fehlgeschlagen.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>Hinweis: Sie müssen zuerst ein App-Passwort festlegen, sonst wird es nicht wirksam.
+
+:name> note_encrypt_preview
+:text> Vorschau ausblenden
+
+:name> note_encrypt_preview_placeholder
+:text> [Notiz verschlüsseln]
+
+:name> note_encrypt_preview_summary
+:text> Wenn Sie diese Funktion deaktivieren, werden in der Notizliste keine Vorschauinformationen zu verschlüsselten Notizen mehr angezeigt.
+
+:name> set_ai
+:text> KI
+
+:name> set_ai_summary
+:text> KI-Schreibassistent
+
+:name> set_ai_source
+:text> KI-Plattform
+
+:name> set_ai_source_summary
+:text> Richten Sie die beim Notiz-Chat verwendete KI ein.
+
+:name> set_ai_source_clear
+:text> KI-Einstellungen löschen
+
+:name> set_ai_source_reset
+:text> KI-Einstellungen ändern
+
+:name> set_ai_notice
+:text> Beachten
+
+:name> set_ai_notice_summary
+:text> Unsere App sammelt oder verwendet niemals Benutzerdaten für KI-Training. Alle Benutzerdaten werden lokal auf Geräten oder in benutzerdefinierten Cloud-Laufwerken gespeichert. Darüber hinaus können Benutzer sich mit vertrauenswürdigen KI-Plattformen verbinden oder KI vollständig deaktivieren, um die volle Kontrolle über Datenschutz und Speicherautonomie zu gewährleisten.
+
+:name> set_ai_disable
+:text> Deaktivieren
+
+:name> set_ai_disable_summary
+:text> Schalten Sie KI überall mit einem einzigen Fingertipp aus.
+
+:name> set_ai_provider_custom
+:text> Brauch
+
+:name> set_ai_provider_custom_tip
+:text> Benutzerdefinierte KI muss den API-Spezifikationen von OpenAI entsprechen. Klicken Sie hier, um mehr zu erfahren!
+
+:name> set_ai_model
+:text> KI-Modell
+
+:name> set_ai_custom_input_rquire
+:text> Bitte geben Sie \"%s\" ein.
+
+:name> set_ai_prompt
+:text> Note Chat Context
+
+:name> set_ai_prompt_tip
+:text> Der Platzhalter \"%s\" wird durch den Inhalt Ihrer Notiz ersetzt, wenn Sie mit der KI sprechen.
+
+:name> set_security_applock
+:text> App-Sperre
+
+:name> set_encrypt_note
+:text> Hinweis Verschlüsseln
+
+:name> set_theme_and_style_summary
+:text> App-Themen, Editor-Themen, Schriftarten, Code-Stile und CSS usw.
+
+:name> set_theme_theme_lunar_new_year
+:text> Frohes Neues Jahr
+
+:name> set_theme_theme_yellow_gray
+:text> Hellbraun
+
+:name> set_font_title
+:text> Schriftart
+
+:name> set_font_clear
+:text> Klare Schriftart
+
+:name> set_font_reset
+:text> Schriftart ändern
+
+:name> set_note_sub
+:text> Einstellungen zur Bearbeitung und Anzeige von Notizen.
+
+:name> set_export_sub
+:text> Wir haben beschlossen, diese Funktion nicht mehr zu pflegen und empfehlen stattdessen die Verwendung der Synchronisierungsfunktion. Wir empfehlen, diese nur beim Initialisieren der Notizdaten der App zu verwenden.
+
+:name> set_note_list_summary
+:text> Alles rund um die Notizliste auf der Startseite der App
+
+:name> set_note_mathjax
+:text> MathJax aktivieren
+
+:name> set_note_mermaid
+:text> Mermaid aktivieren
+
+:name> set_note_disable_to_accelerate_tip
+:text> Wenn Sie diese Funktion nicht benötigen, können Sie sie deaktivieren. Dadurch wird die Rendergeschwindigkeit der Notizen verbessert.
+
+:name> set_extensions_tip
+:text> Geben Sie benutzerdefinierte Erweiterungen ein und teilen Sie mehrere Erweiterungen durch \",\" auf.
+
+:name> set_extensions_note_tip
+:text> Geben Sie benutzerdefinierte Erweiterungen ein und teilen Sie mehrere Erweiterungen durch \",\" auf. Beachten Sie, dass \'lnmd\' und \'lntxt\' verschlüsselte Dateierweiterungen unserer APP sind.
+
+:name> set_text_extensions
+:text> Textdateierweiterung
+
+:name> set_text_extensions_summary
+:text> Dateien mit der angegebenen Erweiterung werden gelesen und als Text angezeigt
+
+:name> set_support_extensions
+:text> Unterstützte Dateierweiterungen
+
+:name> set_support_extensions_summary
+:text> Dateien mit der angegebenen Erweiterung werden in der Notizliste angezeigt
+
+:name> set_note_folders
+:text> Benutzerdefinierte Datenspeicherordner
+
+:name> set_file_summary
+:text> Dateibenennungsregeln, Erweiterungen usw.
+
+:name> set_file_naming_title
+:text> Dateibenennung
+
+:name> set_image_ocr_statement
+:text> Die ursprüngliche OCR-Funktion wurde entfernt. Wir prüfen alternative OCR-Implementierungsmethoden.
+
+:name> set_sync_summary
+:text> Cloud-Server (DropBox, WebDAV und OneDrive) und Synchronisierungskonfigurationen sowie Behandlung von Synchronisierungsproblemen usw.
+
+:name> set_sync_server_connect_failed
+:text> Verbindungstest fehlgeschlagen. Bitte überprüfen Sie Ihre Konfigurationsinformationen und versuchen Sie es erneut.
+
+:name> set_sync_server_chooser_title
+:text> Wählen Sie einen Cloud-Server
+
+:name> set_sync_server_change
+:text> Cloud-Server wechseln
+
+:name> set_sync_server_clear
+:text> Serverkonfigurationen löschen
+
+:name> set_sync_server_clear_message
+:text> Möchten Sie die Serverkonfigurationen wirklich löschen? Dadurch werden auch die Synchronisierungs-Cache-Daten gelöscht, was zu längeren Synchronisierungszeiten führen kann.
+
+:name> set_sync_server_summary
+:text> Konfigurieren Sie Cloud-Synchronisierungsserver, die die Synchronisierung von WebDAV, Dropbox und OneDrive unterstützen.
+
+:name> set_sunc_dropbox_configured_tip
+:text> Sie haben Dropbox bereits konfiguriert. Wenn Sie die Konfiguration aktualisieren müssen, löschen Sie zunächst die aktuellen Einstellungen und konfigurieren Sie Dropbox anschließend neu.
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive ist verbunden!\nSie können auf die Schaltfläche unten klicken, um sich abzumelden.
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive abgemeldet!
+
+:name> set_sync_onedrive_root_tip
+:text> Die App synchronisiert Notizen mit dem Verzeichnis „%s“ im Stammverzeichnis Ihres OneDrive. Klicken Sie auf die Schaltfläche unten, um dies zu ändern.
+
+:name> set_sync_onedrive_root_change
+:text> Synchronisierungsverzeichnis ändern
+
+:name> set_sync_delay_sub
+:text> %dms (Fügen Sie während der Dateisynchronisierung eine Drosselung hinzu, um eine Serverblockierung aufgrund übermäßiger Anfragen zu verhindern.)
+
+:name> set_sync_now_title
+:text> Jetzt synchronisieren
+
+:name> set_sync_now_summary
+:text> Wenn diese Funktion aktiviert ist, werden Notizen automatisch mit dem Cloud-Server synchronisiert, sobald der Benutzer sie ändert.
+
+:name> sync_force_upload
+:text> Hochladen
+
+:name> sync_force_upload_tip
+:text> Dadurch werden lokale Dateien gezwungen, Cloud-Dateien zu überschreiben. Möchten Sie wirklich fortfahren?
+
+:name> sync_force_download
+:text> Herunterladen
+
+:name> sync_force_download_tip
+:text> Dadurch werden lokale Dateien aus der Cloud überschrieben. Möchten Sie wirklich fortfahren?
+
+:name> sync_force_diff
+:text> Unterschied
+
+:name> sync_force_delete_remote
+:text> Cloud-Datei löschen
+
+:name> sync_force_delete_remote_tip
+:text> Dadurch werden Cloud-Dateien gelöscht. Möchten Sie wirklich fortfahren?
+
+:name> sync_force_delete_local
+:text> Lokale Datei löschen
+
+:name> sync_force_delete_local_tip
+:text> Dadurch werden lokale Dateien gelöscht. Möchten Sie wirklich fortfahren?
+
+:name> sync_failure_message
+:text> Die Datei konnte nicht mit dem Problem synchronisiert werden: %s
+
+:name> sync_failure_handle
+:text> Behandeln Sie das Synchronisierungsproblem
+
+:name> sync_failure_conflict
+:text> Sicherheitsgrund: Lokale und Remote-Dateien sind inkonsistent.
+
+:name> sync_failure_connect
+:text> Netzwerkverbindung oder Serverkonfiguration.
+
+:name> sync_failure_upload
+:text> Hochladen fehlgeschlagen.
+
+:name> sync_failure_download
+:text> Download fehlgeschlagen.
+
+:name> sync_failure_delete_local
+:text> Lokale Datei konnte nicht gelöscht werden.
+
+:name> sync_failure_delete_remote
+:text> Das Löschen der Remote-Datei ist fehlgeschlagen.
+
+:name> set_export_export_done
+:text> Datenexport
+abgeschlossen
+
+:name> config_new_version_found
+:text> Neue Version gefunden
+
+:name> config_ignore_this_version
+:text> Diese Version ignorieren
+
+:name> about_app_solgon
+:text> Ihre private Wissensdatenbank
+
+:name> viewer_double_tap_show_tip
+:text> Tippen Sie doppelt auf die Seite, um die Notiz zu bearbeiten.
+
+:name> chat_room_name
+:text> Autorassistent
+
+:name> chat_default_message
+:text> Hallo, ich bin Ihr Schreibassistent! Sie können mich alles fragen
+…
+
+:name> chat_input_empty_toast
+:text> Bitte geben Sie Ihre Nachricht ein.
+
+:name> chat_input_hint
+:text> Fangen Sie an zu reden
+…
+
+:name> chat_prompt_default
+:text> Sie sind ein Autorenassistent. Dies ist mein Artikel:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> Da die KI an Ihre letzte Nachricht denkt, wird die aktuelle Nachricht ignoriert.
+
+:name> chat_ai_thinking
+:text> Denken
+…
+
+:name> chat_ai_not_configured_tip
+:text> KI-Informationen nicht konfiguriert. Ihre Nachrichten werden gespeichert, es werden jedoch keine Antworten bereitgestellt.
+
+:name> chat_ai_disable_tip
+:text> KI ist deaktiviert. Ihre Nachrichten werden gespeichert, es werden jedoch keine Antworten bereitgestellt.
+
+:name> chage_message_delete_tip
+:text> Möchten Sie diese Nachricht wirklich löschen?
+
+:name> datasource_datasource_summary
+:text> Datenquellen, Import/Export, Notizspeicherpfade usw.
+
+:name> datasource_external_tip
+:text> Im Hinblick auf die Überprüfungsbestimmungen der Plattform wurde die Funktionalität zum Lesen von und Schreiben auf externe Speicher offline genommen.
+

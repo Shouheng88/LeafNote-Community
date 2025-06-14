@@ -1,0 +1,563 @@
+:name> text_discard
+:text> 丟棄
+
+:name> text_save
+:text> 保存
+
+:name> text_abort
+:text> 中止
+
+:name> current_using_folder
+:text> 目前使用的目錄
+
+:name> text_new
+:text> 新
+
+:name> text_exit
+:text> 退出
+
+:name> common_sign_out
+:text> 登出
+
+:name> common_set_security_symmary
+:text> 應用鎖定、指紋、筆記加密等
+
+:name> common_set_security_biometric_not_match
+:text> 不匹配，剩餘 %d 次。
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 重新認識你
+
+:name> common_app_intro_title_2
+:text> 雲端同步
+
+:name> common_app_intro_detail_2
+:text> 支援OneDrive、DropBox 和WebDAV 三種同步方式，筆記修改可以立即同步到伺服器
+
+:name> common_app_intro_title_3
+:text> 安全
+
+:name> common_app_intro_detail_3
+:text> 應用鎖定和筆記端對端加密，保障你的資料和隱私安全
+
+:name> common_app_intro_title_4
+:text> 開啟你的知識之旅
+
+:name> common_failed_read_note
+:text> 無法讀取筆記：%s
+
+:name> common_failed_write_note
+:text> 無法寫入筆記：%s
+
+:name> note_unreadable
+:text> 筆記不可讀！
+
+:name> note_read_error
+:text> 筆記讀取錯誤
+
+:name> note_read_error_key_not_match
+:text> 加密金鑰不匹配
+
+:name> note_read_error_file_format
+:text> 文件格式錯誤
+
+:name> login_account_hint
+:text> 信箱
+
+:name> sketch_title
+:text> 塗鴉
+
+:name> sketch_clear_tips
+:text> 確認清除圖片嗎？
+
+:name> sketch_stroke
+:text> 寬度
+
+:name> sketch_opacity
+:text> 透明度
+
+:name> sketch_saturation
+:text> 飽和度
+
+:name> skecth_save_tip
+:text> 保存您的創作還是丟棄？
+
+:name> audio_title
+:text> 音訊筆記
+
+:name> audio_start
+:text> 開始錄製
+
+:name> audio_stop
+:text> 停止錄製
+
+:name> audio_store_folder
+:text> 音訊筆記資料夾
+
+:name> audio_store_folder_summmary
+:text> 音訊筆記將儲存在此目錄中：%s
+
+:name> capture_web_title
+:text> 網頁筆記
+
+:name> capture_web_input_hint
+:text> 在此輸入網址
+…
+
+:name> capture_web_tip
+:text> 輸入任意網頁鏈接，轉換成Markdown筆記。
+
+:name> capture_web_input_empty
+:text> url 不能為空
+…
+
+:name> capture_Web_invalid_urlr
+:text> 無效網址
+
+:name> capture_Web_error
+:text> 無法存取該頁面:(
+
+:name> capture_web_reading_html
+:text> 正在讀取頁面內容
+…
+
+:name> capture_web_read_html
+:text> 讀取頁面內容並轉換為 markdown
+…
+
+:name> capture_web_saveing
+:text> 正在儲存筆記
+…
+
+:name> capture_web_save_error
+:text> 保存筆記失敗 :(
+
+:name> capture_web_aborted
+:text> 被用戶中止。
+
+:name> capture_web_folder
+:text> 儲存「Web to Note」的資料夾
+
+:name> capture_web_folder_summary
+:text> 從網頁轉換的筆記將儲存在此目錄中：%s
+
+:name> capture_web_trial_tip
+:text> 此功能是專業版獨有的進階權限。成為會員前，您有 %d 次試用機會。
+
+:name> image_pictures
+:text> 圖片
+
+:name> image_picker_unavailable
+:text> 影像選擇器不可用！
+
+:name> premium_free_trial_days_left
+:text> 剩餘 %d 天
+
+:name> premium_join
+:text> 加入
+
+:name> premium_privilege_basic
+:text> 所有基本功能：Markdown、錄音、多層目錄、Mermaid 流程圖、MathJax 等。
+
+:name> premium_privilege_themes
+:text> %d+ 應用程式主題、%d+ 編輯器主題、%d+ 程式碼樣式、自訂 CSS、自訂字體
+
+:name> premium_privilege_image
+:text> 拍照、影像裁切、濾鏡、影像轉換等。
+
+:name> premium_privilege_export
+:text> 將筆記匯出為 Markdown、HTML、圖片和 PDF。
+
+:name> premium_privilege_appwidgets
+:text> 在筆記中新增桌面小工具和快捷方式。
+
+:name> premium_privilege_sync
+:text> 同步方法（WebDAV、DropBox 和 OneDrive）和即時同步功能
+
+:name> premium_privilege_webnote
+:text> 網頁轉筆記：建立您的知識庫
+
+:name> premium_privilege_encryption
+:text> 筆記的端對端加密
+
+:name> premium_privilege_ai
+:text> 寫作小幫手：配置AI伺服器
+
+:name> premium_privilege_future
+:text> 所有未來待開發的功能
+
+:name> premium_payway_others
+:text> 其他
+
+:name> premium_payway_others_sub_title
+:text> 您也可以免費試用或使用兌換碼。
+
+:name> premium_contact_us
+:text> 聯絡我們
+
+:name> premium_contact_us_sub_title
+:text> 您可以透過以下方式聯絡：
+
+:name> search_empty_tip
+:text> 沒有找到要搜尋的內容\n換個詞彙試試
+
+:name> search_include_encrypted
+:text> 包含加密筆記
+
+:name> compose_note_button_order
+:text> 排序快捷方式
+
+:name> compose_tag_empty_title
+:text> 未找到標籤！\n點擊以建立第一個標籤。
+
+:name> compose_note_un_finish_recover_tip
+:text> 從歷史中恢復。
+
+:name> compose_note_structure_empty
+:text> 空目錄結構
+
+:name> compose_setting_folder_change
+:text> 更改筆記資料夾
+
+:name> compose_setting_folder_clear
+:text> 清除筆記資料夾
+
+:name> compose_setting_quick_note_folder_tip
+:text> 提示：您可以在「%s」下的筆記設定中變更儲存快速筆記的資料夾。
+
+:name> compose_setting_quick_note_folder_summary
+:text> 在首頁聊天輸入框中快速輸入的筆記將儲存到此目錄：%s
+
+:name> note_encrypt_enable
+:text> 啟用筆記加密
+
+:name> note_encrypt_enable_summary
+:text> 啟用該功能後，新建立的筆記將被加密後再儲存。
+
+:name> note_encrypt_key
+:text> 加密金鑰
+
+:name> note_encrypt_key_summary
+:text> 加密密鑰用於加密和解密筆記。
+
+:name> note_encrypt_key_change_title
+:text> 確定要更改加密金鑰嗎？
+
+:name> note_encrypt_key_change_message
+:text> 修改密鑰時，所有使用先前密鑰加密的檔案都將重新加密。您確認繼續嗎？
+
+:name> note_encrypt_re_encrypting
+:text> [%s]。請等待該過程完成。
+
+:name> note_encrypt_re_encrypt_done
+:text> 重新加密完成！
+
+:name> note_encrypt_re_encrypt_serivce
+:text> 重新加密服務
+
+:name> note_encrypt_re_encrypt_title
+:text> 正在重新加密
+…
+
+:name> note_encrypt_key_required
+:text> 需要加密金鑰！
+
+:name> note_encrypt_key_invalid
+:text> 加密金鑰無效，請重試。
+
+:name> note_encrypt_key_change_tip
+:text> 所有加密檔案在修改金鑰前都需要重新加密，因此建議只設定一次加密金鑰。
+
+:name> note_encrypt_key_tip_chars
+:text> 請輸入不少於8個字元（僅限數字和大小寫字母）。
+
+:name> note_encrypt_write_key
+:text> 寫入加密金鑰
+
+:name> note_encrypt_write_key_summary
+:text> 如果啟用此功能，金鑰將進行非對稱加密並寫入加密檔案。為防止您忘記密碼時出現恢復問題，我們強烈建議您保持此功能啟用。
+
+:name> note_encrypt_auth
+:text> 身份驗證
+
+:name> note_encrypt_auth_failed
+:text> 身份驗證失敗。
+
+:name> note_encrypt_auth_summary
+:text> 若已啟用，每次使用加密筆記前將需要身分驗證。<b>注意：您需要先設定應用程式密碼，否則它將不會生效。
+
+:name> note_encrypt_preview
+:text> 隱藏預覽
+
+:name> note_encrypt_preview_placeholder
+:text> [加密筆記]
+
+:name> note_encrypt_preview_summary
+:text> 停用該功能將停止在筆記清單中顯示加密筆記的預覽資訊。
+
+:name> set_ai
+:text> 人工智慧
+
+:name> set_ai_summary
+:text> 人工智慧寫作助手
+
+:name> set_ai_source
+:text> 人工智慧平台
+
+:name> set_ai_source_summary
+:text> 設定筆記聊天中使用的AI。
+
+:name> set_ai_source_clear
+:text> 清除AI設定
+
+:name> set_ai_source_reset
+:text> 更改AI設定
+
+:name> set_ai_notice
+:text> 注意
+
+:name> set_ai_notice_summary
+:text> 我們的應用程式絕不會收集或使用使用者資料進行 AI 訓練。所有使用者資料均儲存在裝置本機或使用者指定的雲端盤中。此外，用戶可以連接到值得信賴的 AI 平台或完全停用 AI，從而確保完全掌控資料隱私和儲存自主權。
+
+:name> set_ai_disable
+:text> 停用
+
+:name> set_ai_disable_summary
+:text> 只需輕輕一按即可關閉所有 AI。
+
+:name> set_ai_provider_custom
+:text> 自訂化
+
+:name> set_ai_provider_custom_tip
+:text> 自訂AI必須符合OpenAI的API規範。點擊了解更多！
+
+:name> set_ai_model
+:text> 人工智慧模型
+
+:name> set_ai_custom_input_rquire
+:text> 請輸入“%s”。
+
+:name> set_ai_prompt
+:text> 聊天語境設定
+
+:name> set_ai_prompt_tip
+:text> 當你與AI對話時，佔位符「%s」將被你的筆記內容取代。
+
+:name> set_security_applock
+:text> 應用鎖
+
+:name> set_encrypt_note
+:text> 筆記加密
+
+:name> set_theme_and_style_summary
+:text> 應用程式主題、編輯器主題、字體、程式碼樣式和 CSS 等。
+
+:name> set_theme_theme_yellow_gray
+:text> 淺棕色
+
+:name> set_font_title
+:text> 字體
+
+:name> set_font_clear
+:text> 清除字體
+
+:name> set_font_reset
+:text> 更改字體
+
+:name> set_note_sub
+:text> 與筆記編輯和顯示相關的設定。
+
+:name> set_export_sub
+:text> 我們已決定停止維護此功能，並建議使用同步功能。我們建議僅在初始化應用的筆記資料時使用它。
+
+:name> set_note_list_summary
+:text> 應用程式主頁上與筆記列表相關的所有內容
+
+:name> set_note_mathjax
+:text> 啟用 MathJax
+
+:name> set_note_mermaid
+:text> 啟用 Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> 如果您不需要此功能，可以將其關閉。這將提高筆記的渲染速度。
+
+:name> set_extensions_tip
+:text> 輸入自訂副檔名，多個副檔名以\”，\”分隔。
+
+:name> set_extensions_note_tip
+:text> 輸入自訂副檔名，多個副檔名之間以“,”分隔。注意，\'lnmd\'
+&
+\'lntxt\' 是我們APP的加密檔案副檔名。
+
+:name> set_text_extensions
+:text> 支援打開的副檔名
+
+:name> set_text_extensions_summary
+:text> 指定副檔名結尾的檔將會被以文字文件的形式讀取
+
+:name> set_support_extensions
+:text> 支援的文件的副檔名
+
+:name> set_support_extensions_summary
+:text> 使用指定的副檔名的文件將會展示到筆記列表中
+
+:name> set_note_folders
+:text> 自訂資料儲存資料夾
+
+:name> set_file_summary
+:text> 檔案命名規則、副檔名等
+
+:name> set_file_naming_title
+:text> 文件命名
+
+:name> set_image_ocr_statement
+:text> 原有的 OCR 功能已被移除，我們正在考慮提供其他 OCR 實現方式。
+
+:name> set_sync_summary
+:text> 雲端伺服器（DropBox、WebDAV 和 OneDrive）和同步配置，以及同步問題處理等。
+
+:name> set_sync_server_connect_failed
+:text> 連線測試失敗。請檢查您的配置信息，然後重試。
+
+:name> set_sync_server_chooser_title
+:text> 選擇雲端伺服器
+
+:name> set_sync_server_change
+:text> 更換雲端伺服器
+
+:name> set_sync_server_clear
+:text> 清除伺服器配置
+
+:name> set_sync_server_clear_message
+:text> 您確定要清除伺服器配置嗎？這也會刪除同步快取數據，從而可能導致同步時間延長。
+
+:name> set_sync_server_summary
+:text> 設定雲端同步伺服器，支援WebDAV、Dropbox、OneDrive同步。
+
+:name> set_sunc_dropbox_configured_tip
+:text> 您已設定 Dropbox。如果需要更新配置，請先清除目前設置，然後重新配置。
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive 已連線！ \n您可以點選下方按鈕退出。
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive 已退出！
+
+:name> set_sync_onedrive_root_tip
+:text> 該應用程式會將筆記同步到 OneDrive 根目錄下的「%s」目錄。您可以點擊下方按鈕進行更改。
+
+:name> set_sync_onedrive_root_change
+:text> 變更同步目錄
+
+:name> set_sync_delay_sub
+:text> %dms（檔案同步時新增限制，防止請求過多導致伺服器阻塞）。
+
+:name> set_sync_now_title
+:text> 立即同步
+
+:name> set_sync_now_summary
+:text> 開啟功能後，使用者修改筆記後會立即自動同步到雲端伺服器。
+
+:name> sync_force_upload
+:text> 上傳
+
+:name> sync_force_upload_tip
+:text> 這將強製本地文件覆蓋雲端文件。您確定要繼續嗎？
+
+:name> sync_force_download
+:text> 下載
+
+:name> sync_force_download_tip
+:text> 這將強制雲端文件覆蓋本地文件。您確定要繼續嗎？
+
+:name> sync_force_diff
+:text> 對比
+
+:name> sync_force_delete_remote
+:text> 刪除雲端文件
+
+:name> sync_force_delete_remote_tip
+:text> 這將刪除雲端檔案。您確定要繼續嗎？
+
+:name> sync_force_delete_local
+:text> 刪除本機文件
+
+:name> sync_force_delete_local_tip
+:text> 這將刪除本地文件。您確定要繼續嗎？
+
+:name> sync_failure_message
+:text> 同步檔案失敗，問題：%s
+
+:name> sync_failure_handle
+:text> 處理同步問題
+
+:name> sync_failure_conflict
+:text> 安全原因：本機和遠端檔案不一致。
+
+:name> sync_failure_connect
+:text> 網路連線或伺服器配置。
+
+:name> sync_failure_upload
+:text> 上傳失敗。
+
+:name> sync_failure_download
+:text> 下載失敗。
+
+:name> sync_failure_delete_local
+:text> 無法刪除本機檔案。
+
+:name> sync_failure_delete_remote
+:text> 無法刪除遠端檔案。
+
+:name> config_new_version_found
+:text> 發現新版本
+
+:name> config_ignore_this_version
+:text> 忽略此版本
+
+:name> about_app_solgon
+:text> 您的私人知識庫
+
+:name> viewer_double_tap_show_tip
+:text> 雙擊頁面即可編輯筆記。
+
+:name> chat_room_name
+:text> 寫作助理
+
+:name> chat_default_message
+:text> 你好，我是你的寫作助理！你可以問我任何問題
+…
+
+:name> chat_input_empty_toast
+:text> 請輸入您的留言。
+
+:name> chat_input_hint
+:text> 開始說話
+…
+
+:name> chat_prompt_default
+:text> 您是寫作助理。這是我的文章：\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> 由於 AI 正在思考您的最後一條訊息，因此當前訊息將被忽略。
+
+:name> chat_ai_thinking
+:text> 思考
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI 資訊未配置。您的訊息將被存儲，但不會提供任何回應。
+
+:name> chat_ai_disable_tip
+:text> AI 已停用。您的訊息將被存儲，但不會提供任何回應。
+
+:name> chage_message_delete_tip
+:text> 確定刪除此訊息嗎？
+
+:name> datasource_datasource_summary
+:text> 資料來源、匯入/匯出、筆記儲存路徑等。
+
+:name> datasource_external_tip
+:text> 根據平台審核規定，外部儲存讀寫功能已下線。
+

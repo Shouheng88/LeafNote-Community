@@ -1,0 +1,563 @@
+:name> text_discard
+:text> 丢弃
+
+:name> text_save
+:text> 保存
+
+:name> text_abort
+:text> 中止
+
+:name> current_using_folder
+:text> 当前使用的目录
+
+:name> text_new
+:text> 新
+
+:name> text_exit
+:text> 退出
+
+:name> common_sign_out
+:text> 登出
+
+:name> common_set_security_symmary
+:text> 应用锁、指纹、笔记加密等
+
+:name> common_set_security_biometric_not_match
+:text> 不匹配，剩余 %d 次。
+
+:name> common_app_intro_subtitle
+:text> 5.0.0 重新认识你
+
+:name> common_app_intro_title_2
+:text> 云同步
+
+:name> common_app_intro_detail_2
+:text> 支持 OneDrive、DropBox 和 WebDAV 三种同步方式，笔记修改可以立即同步到服务器
+
+:name> common_app_intro_title_3
+:text> 安全
+
+:name> common_app_intro_detail_3
+:text> 应用锁和笔记端到端加密，保障你的数据和隐私安全
+
+:name> common_app_intro_title_4
+:text> 开启你的知识之旅
+
+:name> common_failed_read_note
+:text> 无法读取笔记：%s
+
+:name> common_failed_write_note
+:text> 无法写入笔记：%s
+
+:name> note_unreadable
+:text> 笔记不可读！
+
+:name> note_read_error
+:text> 笔记读取错误
+
+:name> note_read_error_key_not_match
+:text> 加密密钥不匹配
+
+:name> note_read_error_file_format
+:text> 文件格式错误
+
+:name> login_account_hint
+:text> 邮箱
+
+:name> sketch_title
+:text> 涂鸦
+
+:name> sketch_clear_tips
+:text> 确认清除图片吗？
+
+:name> sketch_stroke
+:text> 宽度
+
+:name> sketch_opacity
+:text> 透明度
+
+:name> sketch_saturation
+:text> 饱和度
+
+:name> skecth_save_tip
+:text> 保存您的创作还是丢弃？
+
+:name> audio_title
+:text> 音频笔记
+
+:name> audio_start
+:text> 开始录制
+
+:name> audio_stop
+:text> 停止录制
+
+:name> audio_store_folder
+:text> 音频笔记文件夹
+
+:name> audio_store_folder_summmary
+:text> 音频笔记将存储在此目录中：%s
+
+:name> capture_web_title
+:text> 网页笔记
+
+:name> capture_web_input_hint
+:text> 在此处输入网址
+…
+
+:name> capture_web_tip
+:text> 输入任意网页链接，转换成Markdown笔记。
+
+:name> capture_web_input_empty
+:text> url 不能为空
+…
+
+:name> capture_Web_invalid_urlr
+:text> 无效网址
+
+:name> capture_Web_error
+:text> 无法访问该页面:(
+
+:name> capture_web_reading_html
+:text> 正在读取页面内容
+…
+
+:name> capture_web_read_html
+:text> 读取页面内容并转换为 markdown
+…
+
+:name> capture_web_saveing
+:text> 正在保存注释
+…
+
+:name> capture_web_save_error
+:text> 保存注释失败 :(
+
+:name> capture_web_aborted
+:text> 被用户中止。
+
+:name> capture_web_folder
+:text> 保存“Web to Note”的文件夹
+
+:name> capture_web_folder_summary
+:text> 从网页转换的笔记将存储在此目录中：%s
+
+:name> capture_web_trial_tip
+:text> 此功能是专业版独有的高级权限。成为会员前，您有 %d 次试用机会。
+
+:name> image_pictures
+:text> 图片
+
+:name> image_picker_unavailable
+:text> 图像选择器不可用！
+
+:name> premium_join
+:text> 加入
+
+:name> premium_privilege_basic
+:text> 所有基本功能：Markdown、录音、多级目录、Mermaid 流程图、MathJax 等。
+
+:name> premium_privilege_themes
+:text> %d+ 应用主题、%d+ 编辑器主题、%d+ 代码样式、自定义 CSS、自定义字体
+
+:name> premium_privilege_image
+:text> 拍照、图像裁剪、滤镜、图像转换等。
+
+:name> premium_privilege_export
+:text> 将笔记导出为 Markdown、HTML、图像和 PDF。
+
+:name> premium_privilege_appwidgets
+:text> 向笔记添加桌面小部件和快捷方式。
+
+:name> premium_privilege_sync
+:text> 同步方法（WebDAV、DropBox 和 OneDrive）和实时同步功能
+
+:name> premium_privilege_webnote
+:text> 需要注意的网页：构建您的知识库
+
+:name> premium_privilege_encryption
+:text> 笔记的端到端加密
+
+:name> premium_privilege_ai
+:text> 写作助手：配置 AI 服务器
+
+:name> premium_privilege_future
+:text> 所有未来待开发的功能
+
+:name> premium_payway_others
+:text> 其他
+
+:name> premium_payway_others_sub_title
+:text> 您还可以免费试用或使用兑换码。
+
+:name> premium_contact_us
+:text> 联系我们
+
+:name> premium_contact_us_sub_title
+:text> 您可以通过以下方式联系：
+
+:name> search_empty_tip
+:text> 没有找到要搜索的内容\n换个词汇试试
+
+:name> search_include_encrypted
+:text> 包含加密笔记
+
+:name> compose_note_button_order
+:text> 排序快捷方式
+
+:name> compose_tag_empty_title
+:text> 未找到标签！\n单击以创建第一个标签。
+
+:name> compose_note_un_finish_recover_tip
+:text> 从历史中恢复。
+
+:name> compose_note_structure_empty
+:text> 空目录
+
+:name> compose_setting_folder_change
+:text> 更改笔记文件夹
+
+:name> compose_setting_folder_clear
+:text> 清除笔记文件夹
+
+:name> compose_setting_quick_note_folder_tip
+:text> 提示：您可以在“%s”下的笔记设置中更改保存快速笔记的文件夹。
+
+:name> compose_setting_quick_note_folder_summary
+:text> 在首页聊天输入框中快速输入的笔记将保存到此目录：%s
+
+:name> note_encrypt_enable
+:text> 启用笔记加密
+
+:name> note_encrypt_enable_summary
+:text> 启用该功能后，新创建的笔记将被加密后再存储。
+
+:name> note_encrypt_key
+:text> 加密密钥
+
+:name> note_encrypt_key_summary
+:text> 加密密钥用于加密和解密笔记。
+
+:name> note_encrypt_key_change_title
+:text> 确定要更改加密密钥吗？
+
+:name> note_encrypt_key_change_message
+:text> 修改密钥时，所有使用先前密钥加密的文件都将被重新加密。您确认继续吗？
+
+:name> note_encrypt_re_encrypting
+:text> [%s]。请等待该过程完成。
+
+:name> note_encrypt_re_encrypt_done
+:text> 重新加密完成！
+
+:name> note_encrypt_re_encrypt_serivce
+:text> 重新加密服务
+
+:name> note_encrypt_re_encrypt_title
+:text> 正在重新加密
+…
+
+:name> note_encrypt_key_required
+:text> 需要加密密钥！
+
+:name> note_encrypt_key_invalid
+:text> 加密密钥无效，请重试。
+
+:name> note_encrypt_key_change_tip
+:text> 所有加密文件在修改密钥前都需要重新加密，因此建议只设置一次加密密钥。
+
+:name> note_encrypt_key_tip_chars
+:text> 请输入不少于 8 个字符（仅限数字和大小写字母）。
+
+:name> note_encrypt_write_key
+:text> 写入加密密钥
+
+:name> note_encrypt_write_key_summary
+:text> 如果启用此功能，密钥将进行非对称加密并写入加密文件。为防止您忘记密码时出现恢复问题，我们强烈建议您保持此功能启用。
+
+:name> note_encrypt_auth
+:text> 身份验证
+
+:name> note_encrypt_auth_failed
+:text> 身份验证失败。
+
+:name> note_encrypt_auth_summary
+:text> 如果启用，则每次使用加密笔记之前都需要进行身份验证。<b>注意：您需要先设置应用密码，否则它将不会生效。
+
+:name> note_encrypt_preview
+:text> 隐藏预览
+
+:name> note_encrypt_preview_placeholder
+:text> [加密笔记]
+
+:name> note_encrypt_preview_summary
+:text> 禁用该功能将停止在笔记列表中显示加密笔记的预览信息。
+
+:name> set_ai
+:text> 人工智能
+
+:name> set_ai_summary
+:text> 人工智能写作助手
+
+:name> set_ai_source
+:text> 人工智能平台
+
+:name> set_ai_source_summary
+:text> 设置笔记聊天中使用的AI。
+
+:name> set_ai_source_clear
+:text> 清除AI设置
+
+:name> set_ai_source_reset
+:text> 更改AI设置
+
+:name> set_ai_notice
+:text> 注意
+
+:name> set_ai_notice_summary
+:text> 我们的应用绝不会收集或使用用户数据进行 AI 训练。所有用户数据均存储在设备本地或用户指定的云盘中。此外，用户可以连接到值得信赖的 AI 平台或完全禁用 AI，从而确保完全掌控数据隐私和存储自主权。
+
+:name> set_ai_disable
+:text> 禁用
+
+:name> set_ai_disable_summary
+:text> 只需轻轻一按即可关闭所有地方的 AI。
+
+:name> set_ai_provider_custom
+:text> 自訂化
+
+:name> set_ai_provider_custom_tip
+:text> 自定义AI必须符合OpenAI的API规范。点击了解更多！
+
+:name> set_ai_model
+:text> 人工智能模型
+
+:name> set_ai_custom_input_rquire
+:text> 请输入“%s”。
+
+:name> set_ai_prompt
+:text> 聊天语境设定
+
+:name> set_ai_prompt_tip
+:text> 当你与AI对话时，占位符“%s”将被你的笔记内容替换。
+
+:name> set_security_applock
+:text> 应用锁
+
+:name> set_encrypt_note
+:text> 笔记加密
+
+:name> set_theme_and_style_summary
+:text> 应用程序主题、编辑器主题、字体、代码样式和 CSS 等。
+
+:name> set_theme_theme_yellow_gray
+:text> 浅棕色
+
+:name> set_font_title
+:text> 字体
+
+:name> set_font_clear
+:text> 清除字体
+
+:name> set_font_reset
+:text> 更改字体
+
+:name> set_note_sub
+:text> 与笔记编辑和显示相关的设置。
+
+:name> set_export_sub
+:text> 我们已决定停止维护此功能，并建议使用同步功能。我们建议仅在初始化应用的笔记数据时使用它。
+
+:name> set_note_list_summary
+:text> 应用程序主页上与笔记列表相关的所有内容
+
+:name> set_note_mathjax
+:text> 启用 MathJax
+
+:name> set_note_mermaid
+:text> 启用 Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> 如果您不需要此功能，可以将其关闭。这将提高笔记的渲染速度。
+
+:name> set_extensions_tip
+:text> 输入自定义扩展名，多个扩展名以\”,\”分隔。
+
+:name> set_extensions_note_tip
+:text> 输入自定义扩展名，多个扩展名之间以“,”分隔。注意，\'lnmd\'
+&
+\'lntxt\' 是我们APP的加密文件扩展名。
+
+:name> set_text_extensions
+:text> 文本文件的拓展名
+
+:name> set_text_extensions_summary
+:text> 使用指定拓展名的文件将会被按照文本读取和展示
+
+:name> set_support_extensions
+:text> 支持的文件的拓展名
+
+:name> set_support_extensions_summary
+:text> 使用指定的拓展名的文件将会展示到笔记列表中
+
+:name> set_note_folders
+:text> 自定义数据存储文件夹
+
+:name> set_file_summary
+:text> 文件命名规则、扩展名等
+
+:name> set_file_naming_title
+:text> 文件命名
+
+:name> set_image_extensions
+:text> 图片文件的拓展名
+
+:name> set_image_ocr_statement
+:text> 原来的OCR功能被移除，我们在考虑提供其他OCR实现方式
+
+:name> set_sync_summary
+:text> 云服务器（DropBox、WebDAV 和 OneDrive）和同步配置，以及同步问题处理等。
+
+:name> set_sync_server_connect_failed
+:text> 连接测试失败。请检查您的配置信息，然后重试。
+
+:name> set_sync_server_chooser_title
+:text> 选择云服务器
+
+:name> set_sync_server_change
+:text> 更换云服务器
+
+:name> set_sync_server_clear
+:text> 清除服务器配置
+
+:name> set_sync_server_clear_message
+:text> 您确定要清除服务器配置吗？这还会删除同步缓存数据，从而可能导致同步时间延长。
+
+:name> set_sync_server_summary
+:text> 配置云同步服务器，支持 WebDAV、Dropbox、OneDrive 同步。
+
+:name> set_sunc_dropbox_configured_tip
+:text> 您已配置 Dropbox。如果需要更新配置，请先清除当前设置，然后重新配置。
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive 已连接！\n您可以点击下方按钮退出。
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive 已退出！
+
+:name> set_sync_onedrive_root_tip
+:text> 该应用会将笔记同步到 OneDrive 根目录下的\“%s\”目录。您可以点击下方按钮进行更改。
+
+:name> set_sync_onedrive_root_change
+:text> 更改同步目录
+
+:name> set_sync_delay_sub
+:text> %dms（文件同步时添加限制，防止因请求过多而导致服务器屏蔽）。
+
+:name> set_sync_now_title
+:text> 立即同步
+
+:name> set_sync_now_summary
+:text> 开启该功能后，用户修改笔记后会立即自动同步到云服务器。
+
+:name> sync_force_upload
+:text> 上传
+
+:name> sync_force_upload_tip
+:text> 这将强制本地文件覆盖云文件。您确定要继续吗？
+
+:name> sync_force_download
+:text> 下载
+
+:name> sync_force_download_tip
+:text> 这将强制云文件覆盖本地文件。您确定要继续吗？
+
+:name> sync_force_diff
+:text> 对比
+
+:name> sync_force_delete_remote
+:text> 删除云文件
+
+:name> sync_force_delete_remote_tip
+:text> 这将删除云文件。您确定要继续吗？
+
+:name> sync_force_delete_local
+:text> 删除本地文件
+
+:name> sync_force_delete_local_tip
+:text> 这将删除本地文件。您确定要继续吗？
+
+:name> sync_failure_message
+:text> 同步文件失败，问题：%s
+
+:name> sync_failure_handle
+:text> 处理同步问题
+
+:name> sync_failure_conflict
+:text> 安全原因：本地和远程文件不一致。
+
+:name> sync_failure_connect
+:text> 网络连接或服务器配置。
+
+:name> sync_failure_upload
+:text> 上传失败。
+
+:name> sync_failure_download
+:text> 下载失败。
+
+:name> sync_failure_delete_local
+:text> 无法删除本地文件。
+
+:name> sync_failure_delete_remote
+:text> 无法删除远程文件。
+
+:name> config_new_version_found
+:text> 发现新版本
+
+:name> config_ignore_this_version
+:text> 忽略此版本
+
+:name> about_app_solgon
+:text> 您的私人知识库
+
+:name> viewer_double_tap_show_tip
+:text> 双击页面即可编辑笔记。
+
+:name> chat_room_name
+:text> 写作助理
+
+:name> chat_default_message
+:text> 你好，我是你的写作助理！你可以问我任何问题
+…
+
+:name> chat_input_empty_toast
+:text> 请输入您的留言。
+
+:name> chat_input_hint
+:text> 开始说话
+…
+
+:name> chat_prompt_default
+:text> 您是写作助理。这是我的文章：\n%s
+
+:name> chat_ignore_by_ai_toast
+:text> 由于 AI 正在思考您的最后一条消息，因此当前消息将被忽略。
+
+:name> chat_ai_thinking
+:text> 思考
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI 信息未配置。您的消息将被存储，但不会提供任何回复。
+
+:name> chat_ai_disable_tip
+:text> AI 已禁用。您的消息将被存储，但不会提供任何回复。
+
+:name> chage_message_delete_tip
+:text> 确定删除此消息吗？
+
+:name> datasource_datasource_summary
+:text> 数据来源、导入/导出、笔记存储路径等。
+
+:name> datasource_external_tip
+:text> 根据平台审核规定，外部存储读写功能已下线。
+
