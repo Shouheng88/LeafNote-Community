@@ -1,4 +1,7 @@
 ## 5.0.0 
+ - 014c08fe fix: notes adapter
+- cdc8146f fix: url load
+## 5.0.0 
  - bfdc4a35 fix: note en state
 - c144a6e4 fix: en state set error
 - 6e6c9fb9 fix: log
