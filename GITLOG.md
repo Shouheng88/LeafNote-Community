@@ -1,4 +1,8 @@
 ## 5.0.0 
+ - a1b15181 feat: docs
+- e24aaa16 feat: add premium dialog test
+- daab0556 fix: npe
+## 5.0.0 
  - 014c08fe fix: notes adapter
 - cdc8146f fix: url load
 ## 5.0.0 
