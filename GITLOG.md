@@ -1,3 +1,5 @@
+## 5.0.4 
+ - 72881f21 feat: add onedrive failure toast
 ## 5.0.3 
  - 14cb3945 feat: add snapshot repo
 - 54abc881 fix: webdav move issue
