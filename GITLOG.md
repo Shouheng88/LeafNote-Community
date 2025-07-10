@@ -1,3 +1,6 @@
+## 5.0.5 
+ - 56b3bdbe feat: add breaker biz
+- 010cb104 fix: onedrive login issue
 ## 5.0.4 
  - 
 ## 5.0.4 
