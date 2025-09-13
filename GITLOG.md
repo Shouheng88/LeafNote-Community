@@ -1,3 +1,33 @@
+## 5.1.0 
+ - 3b4d6189 feat: support page 16kb
+- 0699e006 feat: allow to switch between google and chinese mainland
+- 3ee84eca fix: error notify for premium vm
+- fd43f177 fix: error key for config
+- 8a28d700 feat: log level
+- 9b0dfbd4 rfct: code
+- 746cf4c0 rfct: premium ui
+- 4b3607a6 rfct: premium data
+- e222da09 rfct: premium page
+- a62b93c0 rfct: billing biz
+- 1e9f9bf7 rfct: billing biz
+- 2f8630b1 rfct: billing biz
+- 6936a7b6 rfct: billing biz
+- 4449bfda feat: change build gralde
+- a62be239 feat: remove useless
+- 887bc833 rfct: upgrade billing library version
+- 5405b829 feat: hide aliyun oss info
+- bdeda2d0 rfct: upgrade build versions
+- 1b12990a Merge pull request #193 from Shouheng88/feature-v5.0.0
+- 598ef355 Merge branch 'master' into feature-v5.0.0
+- 63fa3f11 Merge pull request #192 from Shouheng88/feature-v5.1.0
+- a6e29353 feat: add new channel method
+- a66a4789 feat: doc
+- 107bde58 feat: doc
+- fa6d6a23 Merge pull request #189 from Shouheng88/feature-v5.1.0
+- a1b15181 feat: docs
+- e24aaa16 feat: add premium dialog test
+- daab0556 fix: npe
+- 014c08fe fix: notes adapter
 ## 5.0.5 
  - 
 ## 5.0.5 
