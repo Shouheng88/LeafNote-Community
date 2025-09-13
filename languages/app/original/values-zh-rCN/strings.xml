@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">点击条目选择支付方式</string>
     <string name="premium_payway_others">其他</string>
     <string name="premium_payway_others_sub_title">您还可以免费试用或使用兑换码。</string>
+    <string name="premium_payway_google_billing">Google Play 结算方式</string>
+    <string name="premium_payway_alipay_wechat">应用宝 &amp; 微信 支付方式</string>
+    <string name="premium_payways">选择支付方式</string>
     <string name="premium_review_title">用户评价</string>
     <string name="premium_contact_us">联系我们</string>
     <string name="premium_contact_us_sub_title">您可以通过以下方式联系：</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">数据源</string>
     <string name="datasource_datasource_summary">数据来源、导入/导出、笔记存储路径等。</string>
     <string name="datasource_external">使用外部数据源</string>
-    <string name="datasource_external_tip">根据平台审核规定，外部存储读写功能已下线。</string>
+    <string name="datasource_external_tip">根据平台审核规定，当前版本不支持外部存储读写功能。你可以阅读帮助文档来了解更多信息 ;)</string>
     <string name="datasource_useit">使用此文件夹</string>
     <string name="datasource_restart">重启</string>
     <string name="datasource_restart_message">请重启 App 才能继续使用。</string>

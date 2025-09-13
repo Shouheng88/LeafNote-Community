@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">Klicken Sie auf den Artikel, um die Zahlungsart auszuwählen</string>
     <string name="premium_payway_others">Sonstige</string>
     <string name="premium_payway_others_sub_title">Sie können es auch kostenlos testen oder einen Einlösungscode verwenden.</string>
+    <string name="premium_payway_google_billing">Google Play-Abrechnung</string>
+    <string name="premium_payway_alipay_wechat">AliPay und WeChat</string>
+    <string name="premium_payways">Zahlungsmethode auswählen</string>
     <string name="premium_review_title">Benutzerbewertungen</string>
     <string name="premium_contact_us">Kontaktieren Sie uns</string>
     <string name="premium_contact_us_sub_title">Sie können uns auf folgende Weise kontaktieren:</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">Datenquelle</string>
     <string name="datasource_datasource_summary">Datenquellen, Import/Export, Notizspeicherpfade usw.</string>
     <string name="datasource_external">Externe Datenquelle verwenden</string>
-    <string name="datasource_external_tip">Im Hinblick auf die Überprüfungsbestimmungen der Plattform wurde die Funktionalität zum Lesen von und Schreiben auf externe Speicher offline genommen.</string>
+    <string name="datasource_external_tip">Gemäß den Plattform-Überprüfungsbestimmungen unterstützt die aktuelle Version keine Lese- und Schreibfunktionen für externen Speicher. Weitere Informationen finden Sie in der Hilfedokumentation. ;)</string>
     <string name="datasource_useit">Diesen Ordner verwenden</string>
     <string name="datasource_restart">Neustart</string>
     <string name="datasource_restart_message">Bitte starten Sie die App neu, um sie weiterhin zu verwenden.</string>

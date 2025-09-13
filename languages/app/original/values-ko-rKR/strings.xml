@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">항목을 클릭하여 지불 방식을 선택하다</string>
     <string name="premium_payway_others">기타</string>
     <string name="premium_payway_others_sub_title">무료로 체험해 보거나 교환 코드를 사용할 수도 있습니다.</string>
+    <string name="premium_payway_google_billing">Google Play 결제</string>
+    <string name="premium_payway_alipay_wechat">알리페이 &amp; 위챗</string>
+    <string name="premium_payways">결제 방법 선택</string>
     <string name="premium_review_title">사용자 평가</string>
     <string name="premium_contact_us">문의하기</string>
     <string name="premium_contact_us_sub_title">다음 방법을 통해 연락하실 수 있습니다.</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">데이터 소스</string>
     <string name="datasource_datasource_summary">데이터 소스, 가져오기/내보내기, 메모 저장 경로 등</string>
     <string name="datasource_external">외부 데이터 소스 사용</string>
-    <string name="datasource_external_tip">플랫폼의 검토 규정에 따라 외부 저장소에서 읽고 쓰는 기능이 오프라인으로 전환되었습니다.</string>
+    <string name="datasource_external_tip">플랫폼 검토 규정에 따라 현재 버전은 외부 저장소 읽기 및 쓰기 기능을 지원하지 않습니다. 자세한 내용은 도움말 문서를 참조하세요 ;)</string>
     <string name="datasource_useit">이 폴더 사용</string>
     <string name="datasource_restart">다시 시작</string>
     <string name="datasource_restart_message">계속 사용하려면 앱을 다시 시작하세요.</string>

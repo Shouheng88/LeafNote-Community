@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">Cliquez sur l\'article pour sélectionner le mode de paiement</string>
     <string name="premium_payway_others">Autres</string>
     <string name="premium_payway_others_sub_title">Vous pouvez également l\'essayer gratuitement ou utiliser un code d\'échange.</string>
+    <string name="premium_payway_google_billing">Facturation Google Play</string>
+    <string name="premium_payway_alipay_wechat">AliPay et WeChat</string>
+    <string name="premium_payways">Sélectionnez le mode de paiement</string>
     <string name="premium_review_title">Critiques d\'utilisateurs</string>
     <string name="premium_contact_us">Contactez-nous</string>
     <string name="premium_contact_us_sub_title">Vous pouvez nous contacter par les moyens suivants :</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">Source des données</string>
     <string name="datasource_datasource_summary">Sources de données, importation/exportation et chemins de stockage des notes, etc.</string>
     <string name="datasource_external">Utiliser une source de données externe</string>
-    <string name="datasource_external_tip">À la lumière des réglementations de révision de la plateforme, la fonctionnalité de lecture et d\'écriture vers un stockage externe a été mise hors ligne.</string>
+    <string name="datasource_external_tip">Conformément aux réglementations en vigueur concernant les plateformes, la version actuelle ne prend pas en charge les fonctions de lecture et d\'écriture sur le stockage externe. Consultez la documentation d\'aide pour en savoir plus ;)</string>
     <string name="datasource_useit">Utiliser ce dossier</string>
     <string name="datasource_restart">Redémarrage</string>
     <string name="datasource_restart_message">Veuillez redémarrer l\'application pour continuer à l\'utiliser.</string>

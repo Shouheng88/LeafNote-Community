@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">エントリをクリックして支払い方法を選択</string>
     <string name="premium_payway_others">その他</string>
     <string name="premium_payway_others_sub_title">無料で試用したり、引き換えコードを使用することも可能です。</string>
+    <string name="premium_payway_google_billing">Google Play 請求</string>
+    <string name="premium_payway_alipay_wechat">アリペイとWeChat</string>
+    <string name="premium_payways">支払い方法を選択</string>
     <string name="premium_review_title">ユーザ評価</string>
     <string name="premium_contact_us">お問い合わせ</string>
     <string name="premium_contact_us_sub_title">以下の方法で連絡を取ることができます。</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">データソース</string>
     <string name="datasource_datasource_summary">データ ソース、インポート/エクスポート、メモの保存パスなど。</string>
     <string name="datasource_external">外部データソースを使用する</string>
-    <string name="datasource_external_tip">プラットフォームのレビュー規制を考慮して、外部ストレージの読み取りと書き込みの機能はオフラインになりました。</string>
+    <string name="datasource_external_tip">プラットフォーム審査規定により、現バージョンでは外部ストレージの読み書き機能はサポートされていません。詳細についてはヘルプドキュメントをご覧ください。</string>
     <string name="datasource_useit">このフォルダを使用する</string>
     <string name="datasource_restart">再起動</string>
     <string name="datasource_restart_message">引き続き使用するにはアプリを再起動してください。</string>

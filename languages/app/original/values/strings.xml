@@ -852,7 +852,7 @@
     <string name="datasource_datasource">Data Source</string>
     <string name="datasource_datasource_summary">Data sources, import/export, and note storage paths, etc.</string>
     <string name="datasource_external">Use External Data Source</string>
-    <string name="datasource_external_tip">In light of the platform\'s review regulations, the functionality for reading from and writing to external storage has been taken offline.</string>
+    <string name="datasource_external_tip">According to the platform review regulations, the current version does not support external storage read and write functions. You can read the help documentation to learn more information ;)</string>
     <string name="datasource_useit">Use This Folder</string>
     <string name="datasource_restart">Restart</string>
     <string name="datasource_restart_message">Please restart the App to continue to use.</string>

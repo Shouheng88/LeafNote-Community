@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">Нажмите на товар, чтобы выбрать способ оплаты</string>
     <string name="premium_payway_others">Другие</string>
     <string name="premium_payway_others_sub_title">Вы также можете попробовать его бесплатно или использовать промокод.</string>
+    <string name="premium_payway_google_billing">Google Play Биллинг</string>
+    <string name="premium_payway_alipay_wechat">AliPay и WeChat</string>
+    <string name="premium_payways">Выберите способ оплаты</string>
     <string name="premium_review_title">Отзывы Пользователей</string>
     <string name="premium_contact_us">Связаться с нами</string>
     <string name="premium_contact_us_sub_title">Связаться с нами можно следующими способами:</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">Источник данных</string>
     <string name="datasource_datasource_summary">Источники данных, импорт/экспорт, пути хранения заметок и т. д.</string>
     <string name="datasource_external">Использовать внешний источник данных</string>
-    <string name="datasource_external_tip">В связи с правилами обзора платформы функциональность чтения и записи на внешние хранилища была отключена.</string>
+    <string name="datasource_external_tip">Согласно правилам обзора платформы, текущая версия не поддерживает чтение и запись на внешние накопители. Подробнее см. в справочной документации ;)</string>
     <string name="datasource_useit">Использовать эту папку</string>
     <string name="datasource_restart">Перезапуск</string>
     <string name="datasource_restart_message">Пожалуйста, перезапустите приложение, чтобы продолжить использование.</string>

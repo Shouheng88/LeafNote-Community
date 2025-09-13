@@ -289,6 +289,9 @@
     <string name="premium_payway_sub_title">Clique na entrada para selecionar o método de pagamento</string>
     <string name="premium_payway_others">Outros</string>
     <string name="premium_payway_others_sub_title">Você também pode experimentar gratuitamente ou usar um código de resgate.</string>
+    <string name="premium_payway_google_billing">Faturamento do Google Play</string>
+    <string name="premium_payway_alipay_wechat">AliPay e WeChat</string>
+    <string name="premium_payways">Selecione o método de pagamento</string>
     <string name="premium_review_title">Revisões dos utilizadores</string>
     <string name="premium_contact_us">Contate-nos</string>
     <string name="premium_contact_us_sub_title">Você pode entrar em contato pelos seguintes meios:</string>
@@ -834,7 +837,7 @@
     <string name="datasource_datasource">Fonte de dados</string>
     <string name="datasource_datasource_summary">Fontes de dados, importação/exportação e caminhos de armazenamento de notas, etc.</string>
     <string name="datasource_external">Usar fonte de dados externa</string>
-    <string name="datasource_external_tip">À luz dos regulamentos de revisão da plataforma, a funcionalidade de leitura e gravação em armazenamento externo foi retirada do ar.</string>
+    <string name="datasource_external_tip">De acordo com os regulamentos de revisão da plataforma, a versão atual não suporta funções de leitura e gravação em armazenamento externo. Você pode ler a documentação de ajuda para obter mais informações ;)</string>
     <string name="datasource_useit">Use esta pasta</string>
     <string name="datasource_restart">Reiniciar</string>
     <string name="datasource_restart_message">Reinicie o aplicativo para continuar usando.</string>
