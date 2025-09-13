@@ -1,0 +1,14 @@
+:name> premium_payway_google_billing
+:text> Google Play Billing
+
+:name> premium_payway_alipay_wechat
+:text> AliPay
+&
+WeChat
+
+:name> premium_payways
+:text> Select Payment Method
+
+:name> chat_ai_not_configured_tip
+:text> AI information not configured. Your messages will be stored, but no responses will be provided.
+
