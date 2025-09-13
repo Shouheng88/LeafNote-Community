@@ -1,0 +1,16 @@
+:name> premium_payway_google_billing
+:text> Facturación de Google Play
+
+:name> premium_payway_alipay_wechat
+:text> AliPay y WeChat
+
+:name> premium_payways
+:text> Seleccione el método de pago
+
+:name> set_export_import_done_with_error
+:text> Importación de datos completada, %d arch
+ivo debe procesarse manualmente
+
+:name> datasource_external_tip
+:text> Según las normas de revisión de la plataforma, la versión actual no admite funciones de lectura y escritura en almacenamiento externo. Puedes consultar la documentación de ayuda para obtener más información.
+

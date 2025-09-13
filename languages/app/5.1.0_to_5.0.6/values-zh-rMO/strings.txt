@@ -1,0 +1,15 @@
+:name> premium_payway_google_billing
+:text> Google Play 結算方式
+
+:name> premium_payway_alipay_wechat
+:text> 應用寶
+&
+微信 支付方式
+
+:name> premium_payways
+:text> 選擇支付方式
+
+:name> datasource_external_tip
+:text> 根據平台審核規定，目前版本暫不支援外部儲存讀寫功能。您可以閱讀說明文件以了解更多資
+訊 ;)
+

@@ -1,0 +1,15 @@
+:name> premium_payway_google_billing
+:text> Fatturazione di Google Play
+
+:name> premium_payway_alipay_wechat
+:text> AliPay e WeChat
+
+:name> premium_payways
+:text> Seleziona il metodo di pagamento
+
+:name> set_conflict_resolve
+:text> Elaborare i file manualmente
+
+:name> datasource_external_tip
+:text> Secondo le normative di revisione della piattaforma, la versione attuale non supporta le funzioni di lettura e scrittura su dispositivi di archiviazione esterni. Puoi consultare la documentazione di supporto per ulteriori informazioni ;)
+

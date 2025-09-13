@@ -1,0 +1,15 @@
+:name> premium_payway_google_billing
+:text> Faturamento do Google Play
+
+:name> premium_payway_alipay_wechat
+:text> AliPay e WeChat
+
+:name> premium_payways
+:text> Selecione o método de pagamento
+
+:name> trash_box_delete_tip
+:text> Você tem certeza de excluir completamente este arquivo / diretório?
+
+:name> datasource_external_tip
+:text> De acordo com os regulamentos de revisão da plataforma, a versão atual não suporta funções de leitura e gravação em armazenamento externo. Você pode ler a documentação de ajuda para obter mais informações ;)
+

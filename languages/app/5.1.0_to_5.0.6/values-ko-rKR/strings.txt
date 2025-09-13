@@ -1,0 +1,18 @@
+:name> premium_payway_google_billing
+:text> Google Play 결제
+
+:name> premium_payway_alipay_wechat
+:text> 알리페이
+&
+위챗
+
+:name> premium_payways
+:text> 결제 방법 선택
+
+:name> trash_box_delete_tip
+:text> 파일 / 디렉토리를 완
+전히 삭제하시겠습니까?
+
+:name> datasource_external_tip
+:text> 플랫폼 검토 규정에 따라 현재 버전은 외부 저장소 읽기 및 쓰기 기능을 지원하지 않습니다. 자세한 내용은 도움말 문서를 참조하세요 ;)
+

@@ -1,0 +1,3 @@
+:name> datasource_external_tip
+:text> According to the platform review regulations, the current version does not support external storage read and write functions. You can read the help documentation to learn more information ;)
+

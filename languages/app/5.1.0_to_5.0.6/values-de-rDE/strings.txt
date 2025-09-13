@@ -1,0 +1,19 @@
+:name> premium_payway_google_billing
+:text> Google Play-Abrechnung
+
+:name> premium_payway_alipay_wechat
+:text> AliPay und WeChat
+
+:name> premium_payways
+:text> Zahlungsmethode auswählen
+
+:name> set_export_import_sub
+:text> Importie
+ren Sie Daten aus einem externen Speicher
+
+:name> set_export_export_done
+:text> Datenexport abgeschlossen
+
+:name> datasource_external_tip
+:text> Gemäß den Plattform-Überprüfungsbestimmungen unterstützt die aktuelle Version keine Lese- und Schreibfunktionen für externen Speicher. Weitere Informationen finden Sie in der Hilfedokumentation. ;)
+

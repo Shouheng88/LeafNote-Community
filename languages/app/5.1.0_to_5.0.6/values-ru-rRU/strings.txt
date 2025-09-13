@@ -1,0 +1,19 @@
+:name> premium_payway_google_billing
+:text> Google Play Биллинг
+
+:name> premium_payway_alipay_wechat
+:text> AliPay и WeChat
+
+:name> premium_payways
+:text> Выберите способ оплаты
+
+:name> set_extensions_tip
+:text> Введите п
+ользовательские расширения, разделите несколько расширений символами \",\".
+
+:name> set_extensions_note_tip
+:text> Введите пользовательские расширения, разделите несколько расширений на \",\". Обратите внимание, что \'lnmd\' и \'lntxt\' являются зашифрованными расширениями файлов нашего приложения.
+
+:name> datasource_external_tip
+:text> Согласно правилам обзора платформы, текущая версия не поддерживает чтение и запись на внешние накопители. Подробнее см. в справочной документации ;)
+

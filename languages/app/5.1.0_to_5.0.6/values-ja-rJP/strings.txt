@@ -1,0 +1,19 @@
+:name> premium_payway_google_billing
+:text> Google Play 請求
+
+:name> premium_payway_alipay_wechat
+:text> アリペイとWeChat
+
+:name> premium_payways
+:text> 支払い方法を選択
+
+:name> sync_version_upgrade_tip
+:text> 1.新しい同期ロジックは古いロジックと互換性がありません。複数のデバイス間で同期する必要がある場合は、複数のデバイスのアプリケーションを新しいバージョン（4.0以上）にアップグレードしてください \n2.新しい同期方式を初めて使用する場合は、時間がかか
+る場合があります。
+
+:name> sync_note_remote_change_tip
+:text> ノートは現在サーバーのバージョンに遅れていますが、最新バージョンに更新されますか？
+
+:name> datasource_external_tip
+:text> プラットフォーム審査規定により、現バージョンでは外部ストレージの読み書き機能はサポートされていません。詳細についてはヘルプドキュメントをご覧ください。
+
