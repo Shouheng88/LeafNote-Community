@@ -290,6 +290,9 @@
     <string name="premium_payway_sub_title">Click item below to choose a pay way</string>
     <string name="premium_payway_others">Others</string>
     <string name="premium_payway_others_sub_title">You can also try it for free or use a redemption code.</string>
+    <string name="premium_payway_google_billing">Google Play Billing</string>
+    <string name="premium_payway_alipay_wechat">AliPay &amp; WeChat</string>
+    <string name="premium_payways">Select Payment Method</string>
     <string name="premium_review_title">User Reviews</string>
     <string name="premium_contact_us">Contact Us</string>
     <string name="premium_contact_us_sub_title">You can contact by following means:</string>
