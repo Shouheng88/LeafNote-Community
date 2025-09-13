@@ -1,3 +1,8 @@
+## 5.0.6 
+ - 3002bbc5 feat: to platform help page
+- 898de8fc feat: texts
+- 1a77bdd8 feat: texts
+- 6684f16f fix: release minify issue
 ## 5.1.0 
  - 3b4d6189 feat: support page 16kb
 - 0699e006 feat: allow to switch between google and chinese mainland
