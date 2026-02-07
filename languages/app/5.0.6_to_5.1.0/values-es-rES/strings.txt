@@ -1,0 +1,41 @@
+:name> image_effect_beauty
+:text> Efecto de filtro.
+Belleza
+
+:name> image_effect_sharpen
+:text> Acentuar
+
+:name> image_effect_denoise
+:text> Denoise
+
+:name> image_effect_sepia
+:text> Efectos de filtro.
+Nostalgia
+
+:name> image_effect_cold
+:text> Efecto de filtro.
+Frío
+
+:name> image_effect_warm
+:text> Efecto de filtro.
+Cálido
+
+:name> image_effect_vignette
+:text> Vignette
+
+:name> image_effect_otsu
+:text> Efecto de filtro.
+Otsu
+
+:name> note_encrypt_key_summary
+:text> La clave de cifrado se utiliza para cifrar y descifrar notas. Sugerencia: cuanto más larga sea la clave, mayor será la seguridad.
+
+:name> note_encrypt_write_key_summary
+:text> Se utiliza para evitar olvidar la contraseña. Si se activa esta función, la clave se cifrará asimétricamente y se escribirá en un archivo.
+
+:name> sync_server_onedrive
+:text> OneDrive (Personal)
+
+:name> set_export_import_done_with_error
+:text> Importación de datos completada, %d archivo debe procesarse manualmente
+

@@ -1,0 +1,36 @@
+:name> image_effect_beauty
+:text> 美化
+
+:name> image_effect_sharpen
+:text> 銳化
+
+:name> image_effect_denoise
+:text> 去雜訊
+
+:name> image_effect_sepia
+:text> 懷舊
+
+:name> image_effect_cold
+:text> 冷
+
+:name> image_effect_warm
+:text> 溫暖
+
+:name> image_effect_vignette
+:text> 暈影
+
+:name> image_effect_otsu
+:text> Otsu
+
+:name> note_encrypt_key_summary
+:text> 加密密鑰用於加密和解密筆記。提示：密鑰越長則安全性越高。
+
+:name> note_encrypt_write_key_summary
+:text> 用於防止忘記密碼。如果啟用此功能，將對金鑰進行非對稱加密並寫入檔案。
+
+:name> sync_server_onedrive
+:text> OneDrive（個人）
+
+:name> datasource_external_tip
+:text> 根據平台審核規定，目前版本暫不支援外部儲存讀寫功能。您可以閱讀說明文件以了解更多資訊 ;)
+

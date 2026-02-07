@@ -1,0 +1,42 @@
+:name> image_effect_beauty
+:text> Efeito de filtro.
+Beleza
+
+:name> image_effect_sharpen
+:text> Acentuar
+
+:name> image_effect_denoise
+:text> Redução de ruído
+
+:name> image_effect_sepia
+:text> Efeito do filtro.
+Sépia
+
+:name> image_effect_cold
+:text> Efeito do filtro.
+Frio
+
+:name> image_effect_warm
+:text> Efeito do filtro.
+Quente
+
+:name> image_effect_vignette
+:text> Efeito de vinheta.
+
+:name> image_effect_otsu
+:text> Efeito do filtro.
+Otsu
+
+:name> note_encrypt_key_summary
+:text> A chave de criptografia é usada para criptografar e descriptografar notas. Dica: quanto mais longa for a chave, maior será a segurança.
+
+:name> note_encrypt_write_key_summary
+:text> Usado para evitar esquecer a senha. Se esta função for ativada, a chave será criptografada de forma assimétrica e gravada em um arquivo.
+
+:name> sync_server_onedrive
+:text> OneDrive (Pessoal)
+
+:name> set_report_no_conflict
+:text> Parabéns, todos os arquivos foram sincronizados com o servidor
+!
+

@@ -1,0 +1,33 @@
+:name> image_effect_beauty
+:text> Beauty
+
+:name> image_effect_sharpen
+:text> Sharpen
+
+:name> image_effect_denoise
+:text> Denoise
+
+:name> image_effect_sepia
+:text> Sepia
+
+:name> image_effect_cold
+:text> Cold
+
+:name> image_effect_warm
+:text> Warm
+
+:name> image_effect_vignette
+:text> Vignette
+
+:name> image_effect_otsu
+:text> Otsu
+
+:name> note_encrypt_key_summary
+:text> Encryption keys are used to encrypt and decrypt notes. Tip: The longer the key, the more secure it is.
+
+:name> note_encrypt_write_key_summary
+:text> Used to prevent forgotten passwords. If this feature is enabled, the key will be asymmetrically encrypted and written to the file.
+
+:name> sync_server_onedrive
+:text> OneDrive (Personal)
+

@@ -1,0 +1,42 @@
+:name> image_effect_beauty
+:text> Эффекты фильтра
+Красота
+
+:name> image_effect_sharpen
+:text> Увеличить резкость
+
+:name> image_effect_denoise
+:text> Шумоподавление
+
+:name> image_effect_sepia
+:text> Сепия
+
+:name> image_effect_cold
+:text> Холод
+
+:name> image_effect_warm
+:text> Теплый
+
+:name> image_effect_vignette
+:text> Виньетка
+
+:name> image_effect_otsu
+:text> Эффект фильтра.
+Otsu
+
+:name> note_encrypt_key_summary
+:text> Ключ шифрования используется для шифрования и расшифровки заметок. Подсказка: чем длиннее ключ, тем выше безопасность.
+
+:name> note_encrypt_write_key_summary
+:text> Используется для предотвращения забывания пароля. Если эта функция включена, ключ будет зашифрован с использованием асимметричного шифрования и записан в файл.
+
+:name> set_note_yaml_sub
+:text> Преамбула — это специальный формат
+синтаксиса, используемый для добавления метаданных в Markdown.
+
+:name> set_extensions_tip
+:text> Введите пользовательские расширения, разделите несколько расширений символами \",\".
+
+:name> sync_server_onedrive
+:text> OneDrive (личный)
+

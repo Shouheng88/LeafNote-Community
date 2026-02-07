@@ -1,0 +1,40 @@
+:name> image_effect_beauty
+:text> Beauty
+
+:name> image_effect_sharpen
+:text> Schärfen
+
+:name> image_effect_denoise
+:text> Rauschunterdrückung
+
+:name> image_effect_sepia
+:text> Nostalgie
+
+:name> image_effect_cold
+:text> Kalt
+
+:name> image_effect_warm
+:text> Warm
+
+:name> image_effect_vignette
+:text> Vignette
+
+:name> image_effect_otsu
+:text> Otsu
+
+:name> note_encrypt_key_summary
+:text> Der Verschlüsselungsschlüssel wird zum Verschlüsseln und Entschlüsseln von Notizen verwendet. Hinweis: Je länger der Schlüssel ist, desto höher ist die Sicherheit.
+
+:name> note_encrypt_write_key_summary
+:text> Wird verwendet, um das Vergessen des Passworts zu verhindern. Wenn diese Funktion aktiviert ist, wird der Schlüssel asymmetrisch verschlüsselt und in eine Datei geschrieben.
+
+:name> sync_server_onedrive
+:text> OneDrive (Persönlich)
+
+:name> sync_failure_delete_local
+:text> Lokale Datei konnte nicht
+gelöscht werden.
+
+:name> set_export_import_sub
+:text> Importieren Sie Daten aus einem externen Speicher
+

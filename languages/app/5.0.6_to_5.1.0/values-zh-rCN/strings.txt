@@ -1,0 +1,33 @@
+:name> image_effect_beauty
+:text> 美化
+
+:name> image_effect_sharpen
+:text> 锐化
+
+:name> image_effect_denoise
+:text> 降噪
+
+:name> image_effect_sepia
+:text> 怀旧
+
+:name> image_effect_cold
+:text> 冷
+
+:name> image_effect_warm
+:text> 暖色
+
+:name> image_effect_vignette
+:text> 晕影
+
+:name> image_effect_otsu
+:text> Otsu
+
+:name> note_encrypt_key_summary
+:text> 加密密钥用于加密和解密笔记。提示：密钥越长则安全性越高。
+
+:name> note_encrypt_write_key_summary
+:text> 用于防止忘记密码。如果启用此功能，将对密钥进行非对称加密并写入文件。
+
+:name> sync_server_onedrive
+:text> OneDrive（个人）
+

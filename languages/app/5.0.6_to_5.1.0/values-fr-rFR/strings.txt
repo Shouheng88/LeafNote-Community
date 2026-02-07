@@ -1,0 +1,41 @@
+:name> image_effect_beauty
+:text> Effet de filtre.
+Beauté
+
+:name> image_effect_sharpen
+:text> Accentuer
+
+:name> image_effect_denoise
+:text> Désaturation
+
+:name> image_effect_sepia
+:text> Sépia
+
+:name> image_effect_cold
+:text> Filtre effet.
+Froid
+
+:name> image_effect_warm
+:text> Effet de filtre.
+Chaud
+
+:name> image_effect_vignette
+:text> Vignette
+
+:name> image_effect_otsu
+:text> Effet de filtre.
+Otsu
+
+:name> note_encrypt_key_summary
+:text> La clé de chiffrement est utilisée pour chiffrer et déchiffrer les notes. Astuce : plus la clé est longue, plus la sécurité est élevée.
+
+:name> note_encrypt_write_key_summary
+:text> Utilisé pour éviter d’oublier le mot de passe. Si cette fonctionnalité est activée, la clé sera chiffrée de manière asymétrique et écrite dans un fichier.
+
+:name> sync_force_delete_remote
+:text> Suppr
+imer le fichier Cloud
+
+:name> sync_server_onedrive
+:text> OneDrive (Personnel)
+

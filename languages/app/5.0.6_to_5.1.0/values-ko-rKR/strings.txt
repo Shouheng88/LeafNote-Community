@@ -1,0 +1,40 @@
+:name> image_effect_beauty
+:text> 뷰티
+
+:name> image_effect_sharpen
+:text> 선명하게
+
+:name> image_effect_denoise
+:text> 노이즈 제거
+
+:name> image_effect_sepia
+:text> 세피아
+
+:name> image_effect_cold
+:text> 필터 효과
+
+:name> image_effect_warm
+:text> 웜
+
+:name> image_effect_vignette
+:text> 비네팅
+
+:name> image_effect_otsu
+:text> 오츠
+
+:name> note_encrypt_key_summary
+:text> 암호화 키는 메모를 암호화하고 복호화하는 데 사용됩니다. 참고: 키가 길수록 보안성이 높아집니다.
+
+:name> note_encrypt_write_key_summary
+:text> 비밀번호를 잊어버리는 것을 방지하기 위해 사용됩니다. 이 기능을 활성화하면 키가 비대칭 암호화되어 파일에 쓰여집니다.
+
+:name> sync_server_onedrive
+:text> OneDrive(개인)
+
+:name> set_conflict_path_tips
+:text> 가능한 이유:\n1. 폴더 이름이 불법입니다(예: 불법 문자 포함). 폴더 이름을 수정하고 다시 시도하는 것이
+좋습니다.\n2. 클라이언트가 너무 자주 요청합니다. 전에 잠시 중지하십시오. 동기화 간격을 동기화하고 조정합니다.
+
+:name> trash_box_delete_tip
+:text> 파일 / 디렉토리를 완전히 삭제하시겠습니까?
+

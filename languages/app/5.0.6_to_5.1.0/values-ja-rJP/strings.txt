@@ -1,0 +1,36 @@
+:name> image_effect_beauty
+:text> ビューティー
+
+:name> image_effect_sharpen
+:text> シャープネス
+
+:name> image_effect_denoise
+:text> ノイズ除去
+
+:name> image_effect_sepia
+:text> セピア
+
+:name> image_effect_cold
+:text> 寒い
+
+:name> image_effect_warm
+:text> ウォーム
+
+:name> image_effect_vignette
+:text> ビネット
+
+:name> image_effect_otsu
+:text> 大津法
+
+:name> note_encrypt_key_summary
+:text> 暗号化キーは、ノートの暗号化および復号に使用されます。ヒント：キーが長いほど、セキュリティが高くなります。
+
+:name> note_encrypt_write_key_summary
+:text> パスワードを忘れるのを防ぐために使用されます。この機能を有効にすると、鍵が非対称暗号化され、ファイルに書き込まれます。
+
+:name> sync_version_upgrade_tip
+:text> 1.新しい同期ロジックは古いロジックと互換性がありません。複数のデバイス間で同期する必要がある場合は、複数のデバイスのアプリケーションを新しいバージョン（4.0以上）にアップグレードしてください \n2.新しい同期方式を初めて使用する場合は、時間がかかる場合があります。
+
+:name> sync_server_onedrive
+:text> OneDrive（個人）
+
