@@ -1,3 +1,11 @@
+## 5.1.0 
+ - 8a1e7f22 texts
+- fef0c297 add gitignore
+- 20e9a700 use new image lib
+- 200cba8e texts
+- 31c5b23e texts
+- c533c761 fix crash to start activity
+- 8b7992f2 Merge pull request #194 from Shouheng88/feature-v5.2.0
 ## 5.0.6 
  - 3002bbc5 feat: to platform help page
 - 898de8fc feat: texts
