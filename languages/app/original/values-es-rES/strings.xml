@@ -223,6 +223,19 @@
     <string name="image_effect_round_corner">Esquinas redondeadas</string>
     <string name="image_effect_add_color">Colorante</string>
     <string name="image_comment_add_hint">Añade algunos recuerdos &#8230;</string>
+    <string name="image_effect_beauty">Efecto de filtro.  
+Belleza</string>
+    <string name="image_effect_sharpen">Acentuar</string>
+    <string name="image_effect_denoise">Denoise</string>
+    <string name="image_effect_sepia">Efectos de filtro.  
+Nostalgia</string>
+    <string name="image_effect_cold">Efecto de filtro.  
+Frío</string>
+    <string name="image_effect_warm">Efecto de filtro.  
+Cálido</string>
+    <string name="image_effect_vignette">Vignette</string>
+    <string name="image_effect_otsu">Efecto de filtro.  
+Otsu</string>
     <string name="image_comment_add_title">Agregar información de descripción a las imágenes.</string>
     <string name="image_comment_post">Enviar</string>
     <string name="image_ocr_configure_first">Primero debe configurar la API de OCR</string>
@@ -481,7 +494,7 @@
     <string name="note_encrypt_enable">Habilitar el cifrado de notas</string>
     <string name="note_encrypt_enable_summary">Después de habilitar esta función, las notas recién creadas se cifrarán antes de almacenarse.</string>
     <string name="note_encrypt_key">Clave de cifrado</string>
-    <string name="note_encrypt_key_summary">Las claves de cifrado se utilizan para cifrar y descifrar notas.</string>
+    <string name="note_encrypt_key_summary">La clave de cifrado se utiliza para cifrar y descifrar notas. Sugerencia: cuanto más larga sea la clave, mayor será la seguridad.</string>
     <string name="note_encrypt_key_change_title">¿Está seguro de cambiar la clave de cifrado?</string>
     <string name="note_encrypt_key_change_message">Al modificar la clave, se volverán a cifrar todos los archivos cifrados con la clave anterior. ¿Confirma continuar?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Por favor, espere a que se complete el proceso.</string>
@@ -493,7 +506,7 @@
     <string name="note_encrypt_key_change_tip">Todos los archivos cifrados deben volver a cifrarse antes de cambiar la clave. Por lo tanto, se recomienda configurar la clave de cifrado solo una vez.</string>
     <string name="note_encrypt_key_tip_chars">Ingrese no menos de 8 caracteres (sólo números y letras mayúsculas y minúsculas).</string>
     <string name="note_encrypt_write_key">Escribir clave de cifrado</string>
-    <string name="note_encrypt_write_key_summary">Si esta función está habilitada, la clave se cifrará asimétricamente y se escribirá en el archivo cifrado. Para evitar problemas de recuperación en caso de olvidar la contraseña, recomendamos mantener esta función habilitada.</string>
+    <string name="note_encrypt_write_key_summary">Se utiliza para evitar olvidar la contraseña. Si se activa esta función, la clave se cifrará asimétricamente y se escribirá en un archivo.</string>
     <string name="note_encrypt_auth">Verificación de identidad</string>
     <string name="note_encrypt_auth_failed">La verificación de identidad falló.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Nota: Primero debes establecer una contraseña para la aplicación; de lo contrario, no tendrá efecto.]]></string>
@@ -716,6 +729,7 @@
     <string name="sync_force_delete_remote">Eliminar archivo de la nube</string>
     <string name="sync_force_delete_remote_tip">Esto eliminará los archivos de la nube. ¿Estás seguro de continuar?</string>
     <string name="sync_force_delete_local">Eliminar archivo local</string>
+    <string name="sync_server_onedrive">OneDrive (Personal)</string>
     <string name="sync_force_delete_local_tip">Esto eliminará los archivos locales. ¿Estás seguro de continuar?</string>
     <string name="sync_failure_message">No se pudo sincronizar el archivo con el problema: %s</string>
     <string name="sync_failure_handle">Manejar problema de sincronización</string>

@@ -223,6 +223,19 @@
     <string name="image_effect_round_corner">Filé</string>
     <string name="image_effect_add_color">Colorir</string>
     <string name="image_comment_add_hint">Adicione algumas memórias &#8230;</string>
+    <string name="image_effect_beauty">Efeito de filtro.  
+Beleza</string>
+    <string name="image_effect_sharpen">Acentuar</string>
+    <string name="image_effect_denoise">Redução de ruído</string>
+    <string name="image_effect_sepia">Efeito do filtro.  
+Sépia</string>
+    <string name="image_effect_cold">Efeito do filtro.  
+Frio</string>
+    <string name="image_effect_warm">Efeito do filtro.  
+Quente</string>
+    <string name="image_effect_vignette">Efeito de vinheta.</string>
+    <string name="image_effect_otsu">Efeito do filtro.  
+Otsu</string>
     <string name="image_comment_add_title">Adicionar informação descritiva à imagem</string>
     <string name="image_comment_post">Enviar</string>
     <string name="image_ocr_configure_first">Você precisa configurar a API OCR primeiro</string>
@@ -481,7 +494,7 @@
     <string name="note_encrypt_enable">Habilitar criptografia de notas</string>
     <string name="note_encrypt_enable_summary">Após habilitar esse recurso, as notas recém-criadas serão criptografadas antes do armazenamento.</string>
     <string name="note_encrypt_key">Chave de criptografia</string>
-    <string name="note_encrypt_key_summary">Chaves de criptografia são usadas para criptografar e descriptografar notas.</string>
+    <string name="note_encrypt_key_summary">A chave de criptografia é usada para criptografar e descriptografar notas. Dica: quanto mais longa for a chave, maior será a segurança.</string>
     <string name="note_encrypt_key_change_title">Tem certeza de que deseja alterar a chave de criptografia?</string>
     <string name="note_encrypt_key_change_message">Ao modificar a chave, todos os arquivos criptografados com a chave anterior serão criptografados novamente. Você confirma que deseja prosseguir?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Aguarde a conclusão do processo.</string>
@@ -493,7 +506,7 @@
     <string name="note_encrypt_key_change_tip">Todos os arquivos criptografados precisam ser criptografados novamente antes de alterar a chave. Portanto, é recomendável definir a chave de criptografia apenas uma vez.</string>
     <string name="note_encrypt_key_tip_chars">Insira no mínimo 8 caracteres (somente números e letras maiúsculas e minúsculas).</string>
     <string name="note_encrypt_write_key">Escrever chave de criptografia</string>
-    <string name="note_encrypt_write_key_summary">Se este recurso estiver habilitado, a chave será criptografada assimetricamente e gravada no arquivo criptografado. Para evitar problemas de recuperação caso você esqueça sua senha, recomendamos fortemente que você mantenha este recurso habilitado.</string>
+    <string name="note_encrypt_write_key_summary">Usado para evitar esquecer a senha. Se esta função for ativada, a chave será criptografada de forma assimétrica e gravada em um arquivo.</string>
     <string name="note_encrypt_auth">Verificação de identidade</string>
     <string name="note_encrypt_auth_failed">A verificação de identidade falhou.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Observação: você precisa definir uma senha para o aplicativo primeiro, caso contrário, ela não terá efeito.]]></string>
@@ -716,6 +729,7 @@
     <string name="sync_force_delete_remote">Excluir arquivo na nuvem</string>
     <string name="sync_force_delete_remote_tip">Isso excluirá os arquivos da nuvem. Tem certeza de que deseja prosseguir?</string>
     <string name="sync_force_delete_local">Excluir arquivo local</string>
+    <string name="sync_server_onedrive">OneDrive (Pessoal)</string>
     <string name="sync_force_delete_local_tip">Isso excluirá os arquivos locais. Tem certeza de que deseja prosseguir?</string>
     <string name="sync_failure_message">falha ao sincronizar o arquivo com problema: %s</string>
     <string name="sync_failure_handle">Lidar com o problema de sincronização</string>

@@ -223,6 +223,14 @@
     <string name="image_effect_round_corner">圓角</string>
     <string name="image_effect_add_color">著色</string>
     <string name="image_comment_add_hint">增加一些回憶吧 &#8230;</string>
+    <string name="image_effect_beauty">美化</string>
+    <string name="image_effect_sharpen">銳化</string>
+    <string name="image_effect_denoise">降噪</string>
+    <string name="image_effect_sepia">懷舊</string>
+    <string name="image_effect_cold">冷</string>
+    <string name="image_effect_warm">溫暖</string>
+    <string name="image_effect_vignette">暈影</string>
+    <string name="image_effect_otsu">Otsu</string>
     <string name="image_comment_add_title">為圖片添加描述訊息</string>
     <string name="image_comment_post">發佈</string>
     <string name="image_ocr_configure_first">你需要先設定 OCR API</string>
@@ -481,7 +489,7 @@
     <string name="note_encrypt_enable">啟用筆記加密</string>
     <string name="note_encrypt_enable_summary">啟用該功能後，新建立的筆記將被加密後再儲存。</string>
     <string name="note_encrypt_key">加密金鑰</string>
-    <string name="note_encrypt_key_summary">加密密鑰用於加密和解密筆記。</string>
+    <string name="note_encrypt_key_summary">加密密鑰用於加密和解密筆記。提示：密鑰越長則安全性越高。</string>
     <string name="note_encrypt_key_change_title">確定要更改加密金鑰嗎？</string>
     <string name="note_encrypt_key_change_message">修改密鑰時，所有使用先前密鑰加密的檔案都將重新加密。您確認繼續嗎？</string>
     <string name="note_encrypt_re_encrypting">[%s]。請等待該過程完成。</string>
@@ -493,7 +501,7 @@
     <string name="note_encrypt_key_change_tip">所有加密檔案在修改金鑰前都需要重新加密，因此建議只設定一次加密金鑰。</string>
     <string name="note_encrypt_key_tip_chars">請輸入不少於8個字元（僅限數字和大小寫字母）。</string>
     <string name="note_encrypt_write_key">寫入加密金鑰</string>
-    <string name="note_encrypt_write_key_summary">如果啟用此功能，金鑰將進行非對稱加密並寫入加密檔案。為防止您忘記密碼時出現恢復問題，我們強烈建議您保持此功能啟用。</string>
+    <string name="note_encrypt_write_key_summary">用於防止遺忘密碼。如果啟用此功能，將對密鑰進行非對稱加密並寫入檔案。</string>
     <string name="note_encrypt_auth">身份驗證</string>
     <string name="note_encrypt_auth_failed">身份驗證失敗。</string>
     <string name="note_encrypt_auth_summary"><![CDATA[若已啟用，每次使用加密筆記前將需要身分驗證。<b>注意：您需要先設定應用程式密碼，否則它將不會生效。]]></string>
@@ -716,6 +724,7 @@
     <string name="sync_force_delete_remote">刪除雲端文件</string>
     <string name="sync_force_delete_remote_tip">這將刪除雲端檔案。您確定要繼續嗎？</string>
     <string name="sync_force_delete_local">刪除本機文件</string>
+    <string name="sync_server_onedrive">OneDrive（個人）</string>
     <string name="sync_force_delete_local_tip">這將刪除本地文件。您確定要繼續嗎？</string>
     <string name="sync_failure_message">同步檔案失敗，問題：%s</string>
     <string name="sync_failure_handle">處理同步問題</string>

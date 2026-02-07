@@ -223,6 +223,14 @@
     <string name="image_effect_round_corner">Abgerundete Ecken</string>
     <string name="image_effect_add_color">Färbung</string>
     <string name="image_comment_add_hint">Fügen Sie einige Erinnerungen hinzu &#8230;</string>
+    <string name="image_effect_beauty">Beauty</string>
+    <string name="image_effect_sharpen">Schärfen</string>
+    <string name="image_effect_denoise">Rauschunterdrückung</string>
+    <string name="image_effect_sepia">Nostalgie</string>
+    <string name="image_effect_cold">Kalt</string>
+    <string name="image_effect_warm">Warm</string>
+    <string name="image_effect_vignette">Vignette</string>
+    <string name="image_effect_otsu">Otsu</string>
     <string name="image_comment_add_title">Fügen Sie Beschreibungsinformationen zu Bildern hinzu</string>
     <string name="image_comment_post">Schicken</string>
     <string name="image_ocr_configure_first">Sie müssen zuerst die OCR-API konfigurieren</string>
@@ -481,7 +489,7 @@
     <string name="note_encrypt_enable">Notizverschlüsselung aktivieren</string>
     <string name="note_encrypt_enable_summary">Nach dem Aktivieren dieser Funktion werden neu erstellte Notizen vor der Speicherung verschlüsselt.</string>
     <string name="note_encrypt_key">Verschlüsselungsschlüssel</string>
-    <string name="note_encrypt_key_summary">Verschlüsselungsschlüssel werden zum Verschlüsseln und Entschlüsseln von Notizen verwendet.</string>
+    <string name="note_encrypt_key_summary">Der Verschlüsselungsschlüssel wird zum Verschlüsseln und Entschlüsseln von Notizen verwendet. Hinweis: Je länger der Schlüssel ist, desto höher ist die Sicherheit.</string>
     <string name="note_encrypt_key_change_title">Möchten Sie den Verschlüsselungsschlüssel wirklich ändern?</string>
     <string name="note_encrypt_key_change_message">Beim Ändern des Schlüssels werden alle mit dem vorherigen Schlüssel verschlüsselten Dateien erneut verschlüsselt. Bestätigen Sie, dass Sie fortfahren möchten?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Bitte warten Sie, bis der Vorgang abgeschlossen ist.</string>
@@ -493,7 +501,7 @@
     <string name="note_encrypt_key_change_tip">Alle verschlüsselten Dateien müssen vor der Schlüsseländerung erneut verschlüsselt werden. Daher wird empfohlen, den Verschlüsselungsschlüssel nur einmal festzulegen.</string>
     <string name="note_encrypt_key_tip_chars">Bitte geben Sie mindestens 8 Zeichen ein (nur Zahlen sowie Groß- und Kleinbuchstaben).</string>
     <string name="note_encrypt_write_key">Verschlüsselungsschlüssel schreiben</string>
-    <string name="note_encrypt_write_key_summary">Wenn diese Funktion aktiviert ist, wird der Schlüssel asymmetrisch verschlüsselt und in die verschlüsselte Datei geschrieben. Um Wiederherstellungsprobleme zu vermeiden, falls Sie Ihr Passwort vergessen, empfehlen wir dringend, diese Funktion aktiviert zu lassen.</string>
+    <string name="note_encrypt_write_key_summary">Wird verwendet, um das Vergessen des Passworts zu verhindern. Wenn diese Funktion aktiviert ist, wird der Schlüssel asymmetrisch verschlüsselt und in eine Datei geschrieben.</string>
     <string name="note_encrypt_auth">Identitätsprüfung</string>
     <string name="note_encrypt_auth_failed">Identitätsprüfung fehlgeschlagen.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Hinweis: Sie müssen zuerst ein App-Passwort festlegen, sonst wird es nicht wirksam.]]></string>
@@ -716,6 +724,7 @@
     <string name="sync_force_delete_remote">Cloud-Datei löschen</string>
     <string name="sync_force_delete_remote_tip">Dadurch werden Cloud-Dateien gelöscht. Möchten Sie wirklich fortfahren?</string>
     <string name="sync_force_delete_local">Lokale Datei löschen</string>
+    <string name="sync_server_onedrive">OneDrive (Persönlich)</string>
     <string name="sync_force_delete_local_tip">Dadurch werden lokale Dateien gelöscht. Möchten Sie wirklich fortfahren?</string>
     <string name="sync_failure_message">Die Datei konnte nicht mit dem Problem synchronisiert werden: %s</string>
     <string name="sync_failure_handle">Behandeln Sie das Synchronisierungsproblem</string>

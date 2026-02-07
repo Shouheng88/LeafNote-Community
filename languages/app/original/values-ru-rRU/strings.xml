@@ -223,6 +223,16 @@
     <string name="image_effect_round_corner">Закругленные углы</string>
     <string name="image_effect_add_color">Раскраска</string>
     <string name="image_comment_add_hint">Добавьте немного воспоминаний &#8230;</string>
+    <string name="image_effect_beauty">Эффекты фильтра  
+Красота</string>
+    <string name="image_effect_sharpen">Увеличить резкость</string>
+    <string name="image_effect_denoise">Шумоподавление</string>
+    <string name="image_effect_sepia">Сепия</string>
+    <string name="image_effect_cold">Холод</string>
+    <string name="image_effect_warm">Теплый</string>
+    <string name="image_effect_vignette">Виньетка</string>
+    <string name="image_effect_otsu">Эффект фильтра.  
+Otsu</string>
     <string name="image_comment_add_title">Добавьте описание к изображениям</string>
     <string name="image_comment_post">Отправлять</string>
     <string name="image_ocr_configure_first">Сначала вам необходимо настроить API OCR</string>
@@ -481,7 +491,7 @@
     <string name="note_encrypt_enable">Включить шифрование заметок</string>
     <string name="note_encrypt_enable_summary">После включения этой функции вновь созданные заметки будут шифроваться перед сохранением.</string>
     <string name="note_encrypt_key">Ключ шифрования</string>
-    <string name="note_encrypt_key_summary">Ключи шифрования используются для шифрования и дешифрования заметок.</string>
+    <string name="note_encrypt_key_summary">Ключ шифрования используется для шифрования и расшифровки заметок. Подсказка: чем длиннее ключ, тем выше безопасность.</string>
     <string name="note_encrypt_key_change_title">Хотите изменить ключ шифрования?</string>
     <string name="note_encrypt_key_change_message">При изменении ключа все файлы, зашифрованные предыдущим ключом, будут зашифрованы заново. Вы подтверждаете, что хотите продолжить?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Пожалуйста, дождитесь завершения процесса.</string>
@@ -493,7 +503,7 @@
     <string name="note_encrypt_key_change_tip">Все зашифрованные файлы необходимо перешифровать перед сменой ключа. Поэтому рекомендуется устанавливать ключ шифрования только один раз.</string>
     <string name="note_encrypt_key_tip_chars">Введите не менее 8 символов (только цифры, а также заглавные и строчные буквы).</string>
     <string name="note_encrypt_write_key">Записать ключ шифрования</string>
-    <string name="note_encrypt_write_key_summary">Если эта функция включена, ключ будет асимметрично зашифрован и записан в зашифрованный файл. Чтобы предотвратить проблемы с восстановлением в случае, если вы забудете пароль, мы настоятельно рекомендуем оставить эту функцию включенной.</string>
+    <string name="note_encrypt_write_key_summary">Используется для предотвращения забывания пароля. Если эта функция включена, ключ будет зашифрован с использованием асимметричного шифрования и записан в файл.</string>
     <string name="note_encrypt_auth">Проверка личности</string>
     <string name="note_encrypt_auth_failed">Проверка личности не удалась.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Примечание: сначала вам необходимо установить пароль приложения, иначе он не вступит в силу.]]></string>
@@ -716,6 +726,7 @@
     <string name="sync_force_delete_remote">Удалить файл облака</string>
     <string name="sync_force_delete_remote_tip">Это удалит файлы облака. Вы уверены, что хотите продолжить?</string>
     <string name="sync_force_delete_local">Удалить локальный файл</string>
+    <string name="sync_server_onedrive">OneDrive (личный)</string>
     <string name="sync_force_delete_local_tip">Это удалит локальные файлы. Вы уверены, что хотите продолжить?</string>
     <string name="sync_failure_message">не удалось синхронизировать файл из-за проблемы: %s</string>
     <string name="sync_failure_handle">Устранение неполадок синхронизации</string>

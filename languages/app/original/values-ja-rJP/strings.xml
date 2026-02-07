@@ -223,6 +223,14 @@
     <string name="image_effect_round_corner">フィレット</string>
     <string name="image_effect_add_color">ちゃくしょく</string>
     <string name="image_comment_add_hint">思い出を追加しよう &#8230;</string>
+    <string name="image_effect_beauty">ビューティー</string>
+    <string name="image_effect_sharpen">シャープネス</string>
+    <string name="image_effect_denoise">ノイズ除去</string>
+    <string name="image_effect_sepia">セピア</string>
+    <string name="image_effect_cold">寒い</string>
+    <string name="image_effect_warm">ウォーム</string>
+    <string name="image_effect_vignette">ビネット</string>
+    <string name="image_effect_otsu">大津法</string>
     <string name="image_comment_add_title">画像に説明情報を追加する</string>
     <string name="image_comment_post">送信</string>
     <string name="image_ocr_configure_first">OCR APIを設定する必要があります</string>
@@ -481,7 +489,7 @@
     <string name="note_encrypt_enable">ノートの暗号化を有効にする</string>
     <string name="note_encrypt_enable_summary">この機能を有効にすると、新しく作成されたメモは保存前に暗号化されます。</string>
     <string name="note_encrypt_key">暗号化キー</string>
-    <string name="note_encrypt_key_summary">暗号化キーはメモの暗号化と復号化に使用されます。</string>
+    <string name="note_encrypt_key_summary">暗号化キーは、ノートの暗号化および復号に使用されます。ヒント：キーが長いほど、セキュリティが高くなります。</string>
     <string name="note_encrypt_key_change_title">暗号化キーを変更しますか?</string>
     <string name="note_encrypt_key_change_message">キーを変更すると、以前のキーで暗号化されたすべてのファイルが再暗号化されます。続行しますか？</string>
     <string name="note_encrypt_re_encrypting">[%s]。プロセスが完了するまでお待ちください。</string>
@@ -493,7 +501,7 @@
     <string name="note_encrypt_key_change_tip">暗号化されたファイルはすべて、キーを変更する前に再暗号化する必要があります。そのため、暗号化キーは一度だけ設定することをお勧めします。</string>
     <string name="note_encrypt_key_tip_chars">8文字以上（数字と大文字・小文字のみ）入力してください。</string>
     <string name="note_encrypt_write_key">暗号化キーの書き込み</string>
-    <string name="note_encrypt_write_key_summary">この機能を有効にすると、鍵は非対称暗号化され、暗号化ファイルに書き込まれます。パスワードを忘れた場合の復旧問題を防ぐため、この機能を有効にしておくことを強くお勧めします。</string>
+    <string name="note_encrypt_write_key_summary">パスワードを忘れるのを防ぐために使用されます。この機能を有効にすると、鍵が非対称暗号化され、ファイルに書き込まれます。</string>
     <string name="note_encrypt_auth">本人確認</string>
     <string name="note_encrypt_auth_failed">本人確認に失敗しました。</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>注意: 最初にアプリ パスワードを設定する必要があります。設定しないと有効になりません。]]></string>
@@ -716,6 +724,7 @@
     <string name="sync_force_delete_remote">クラウドファイルの削除</string>
     <string name="sync_force_delete_remote_tip">クラウドファイルが削除されます。続行してもよろしいですか?</string>
     <string name="sync_force_delete_local">ローカルファイルの削除</string>
+    <string name="sync_server_onedrive">OneDrive（個人）</string>
     <string name="sync_force_delete_local_tip">ローカルファイルが削除されます。続行してもよろしいですか?</string>
     <string name="sync_failure_message">問題: %s によりファイルの同期に失敗しました</string>
     <string name="sync_failure_handle">同期の問題の処理</string>

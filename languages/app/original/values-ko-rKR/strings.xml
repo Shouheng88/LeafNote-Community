@@ -223,6 +223,14 @@
     <string name="image_effect_round_corner">필렛</string>
     <string name="image_effect_add_color">음영처리</string>
     <string name="image_comment_add_hint">추억 좀 추가하세요 &#8230;</string>
+    <string name="image_effect_beauty">뷰티</string>
+    <string name="image_effect_sharpen">선명하게</string>
+    <string name="image_effect_denoise">노이즈 제거</string>
+    <string name="image_effect_sepia">세피아</string>
+    <string name="image_effect_cold">필터 효과</string>
+    <string name="image_effect_warm">웜</string>
+    <string name="image_effect_vignette">비네팅</string>
+    <string name="image_effect_otsu">오츠</string>
     <string name="image_comment_add_title">그림에 설명 추가</string>
     <string name="image_comment_post">발송</string>
     <string name="image_ocr_configure_first">OCR API를 먼저 구성해야 합니다.</string>
@@ -481,7 +489,7 @@
     <string name="note_encrypt_enable">메모 암호화 활성화</string>
     <string name="note_encrypt_enable_summary">이 기능을 활성화하면 새로 생성된 메모는 저장되기 전에 암호화됩니다.</string>
     <string name="note_encrypt_key">암호화 키</string>
-    <string name="note_encrypt_key_summary">암호화 키는 메모를 암호화하고 해독하는 데 사용됩니다.</string>
+    <string name="note_encrypt_key_summary">암호화 키는 메모를 암호화하고 복호화하는 데 사용됩니다. 참고: 키가 길수록 보안성이 높아집니다.</string>
     <string name="note_encrypt_key_change_title">암호화 키를 변경하시겠습니까?</string>
     <string name="note_encrypt_key_change_message">키를 수정하면 이전 키로 암호화된 모든 파일이 다시 암호화됩니다. 계속하시겠습니까?</string>
     <string name="note_encrypt_re_encrypting">[%s]. 프로세스가 완료될 때까지 기다려 주세요.</string>
@@ -493,7 +501,7 @@
     <string name="note_encrypt_key_change_tip">암호화된 모든 파일은 키를 변경하기 전에 다시 암호화해야 합니다. 따라서 암호화 키는 한 번만 설정하는 것이 좋습니다.</string>
     <string name="note_encrypt_key_tip_chars">최소 8자 이상 입력해 주세요(숫자, 대문자, 소문자만 가능).</string>
     <string name="note_encrypt_write_key">암호화 키 쓰기</string>
-    <string name="note_encrypt_write_key_summary">이 기능을 활성화하면 키가 비대칭 암호화되어 암호화된 파일에 저장됩니다. 비밀번호를 잊어버렸을 경우 복구 문제를 방지하려면 이 기능을 활성화해 두는 것이 좋습니다.</string>
+    <string name="note_encrypt_write_key_summary">비밀번호를 잊어버리는 것을 방지하기 위해 사용됩니다. 이 기능을 활성화하면 키가 비대칭 암호화되어 파일에 쓰여집니다.</string>
     <string name="note_encrypt_auth">신원 확인</string>
     <string name="note_encrypt_auth_failed">본인 확인에 실패했습니다.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>참고: 먼저 앱 비밀번호를 설정해야 합니다. 그렇지 않으면 적용되지 않습니다.]]></string>
@@ -716,6 +724,7 @@
     <string name="sync_force_delete_remote">클라우드 파일 삭제</string>
     <string name="sync_force_delete_remote_tip">클라우드 파일이 삭제됩니다. 계속하시겠습니까?</string>
     <string name="sync_force_delete_local">로컬 파일 삭제</string>
+    <string name="sync_server_onedrive">OneDrive(개인)</string>
     <string name="sync_force_delete_local_tip">로컬 파일이 삭제됩니다. 계속하시겠습니까?</string>
     <string name="sync_failure_message">%s 문제로 인해 파일 동기화에 실패했습니다.</string>
     <string name="sync_failure_handle">동기화 문제 처리</string>

@@ -223,6 +223,14 @@
     <string name="image_effect_round">Round</string>
     <string name="image_effect_round_corner">Round corner</string>
     <string name="image_effect_add_color">Add color</string>
+    <string name="image_effect_beauty">Beauty</string>
+    <string name="image_effect_sharpen">Sharpen</string>
+    <string name="image_effect_denoise">Denoise</string>
+    <string name="image_effect_sepia">Sepia</string>
+    <string name="image_effect_cold">Cold</string>
+    <string name="image_effect_warm">Warm</string>
+    <string name="image_effect_vignette">Vignette</string>
+    <string name="image_effect_otsu">Otsu</string>
     <string name="image_comment_add_hint">Add some memories &#8230;</string>
     <string name="image_comment_add_title">Add Some Memories</string>
     <string name="image_comment_post">POST</string>
@@ -483,7 +491,7 @@
     <string name="note_encrypt_enable">Enable Note Encryption</string>
     <string name="note_encrypt_enable_summary">After enabling this feature, newly created notes will be encrypted before storage.</string>
     <string name="note_encrypt_key">Encryption Key</string>
-    <string name="note_encrypt_key_summary">Encryption keys are used for encrypting and decrypting notes.</string>
+    <string name="note_encrypt_key_summary">Encryption keys are used to encrypt and decrypt notes. Tip: The longer the key, the more secure it is.</string>
     <string name="note_encrypt_key_change_title">Sure to Change Encryption Key?</string>
     <string name="note_encrypt_key_change_message">When modifying the key, all files encrypted with the previous key will be re-encrypted. Do you confirm to proceed?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Please wait for the process to complete.</string>
@@ -495,7 +503,7 @@
     <string name="note_encrypt_key_change_tip">All encrypted files need to be re-encrypted before changing the key. Therefore, you are advised to set the encryption key only once.</string>
     <string name="note_encrypt_key_tip_chars">Please enter no less than 8 characters (numbers and upper and lower case letters only).</string>
     <string name="note_encrypt_write_key">Write Encryption Key</string>
-    <string name="note_encrypt_write_key_summary">If this feature is enabled, the key will be asymmetrically encrypted and write to the encrypted file. To prevent recovery issues in case you forget your password, we strongly recommend keeping this feature enabled.</string>
+    <string name="note_encrypt_write_key_summary">Used to prevent forgotten passwords. If this feature is enabled, the key will be asymmetrically encrypted and written to the file.</string>
     <string name="note_encrypt_auth">Identity Verification</string>
     <string name="note_encrypt_auth_failed">Identity verification failed.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Note: You need to set an app password first otherwise it won\'t take effect.</b>]]></string>
@@ -716,6 +724,7 @@
     <string name="set_sync_without_notification">Sync Directly</string>
     <string name="set_sync_sync_state_hint">Show Sync State</string>
     <string name="set_sync_sync_state_hint_sub">If note modified locally but not synced, a small sync prompt will appear in note list.</string>
+    <string name="sync_server_onedrive">OneDrive (Personal)</string>
     <string name="sync_interrupted">Sync Interrupted by User</string>
     <string name="sync_version_upgrade_tip">1. The new sync logic is not compatible with the old, so if you need to sync between multiple devices, please upgrade Apps on all devices to the latest version (4.0 and above).\n2. If it\'s first time you use the new sync logic, it might take a few time to complete.</string>
     <string name="sync_note_updated">Note Updated!</string>

@@ -223,6 +223,19 @@
     <string name="image_effect_round_corner">Angoli arrotondati</string>
     <string name="image_effect_add_color">Colorazione</string>
     <string name="image_comment_add_hint">Aggiungi qualche ricordo &#8230;</string>
+    <string name="image_effect_beauty">Effetto filtro.  
+Bellezza</string>
+    <string name="image_effect_sharpen">Affina</string>
+    <string name="image_effect_denoise">Riduzione del rumore</string>
+    <string name="image_effect_sepia">Effetto filtro.  
+Seppia</string>
+    <string name="image_effect_cold">Effetto filtro.  
+Freddo</string>
+    <string name="image_effect_warm">Effetto filtro.  
+Caldo</string>
+    <string name="image_effect_vignette">Effetto vignetta</string>
+    <string name="image_effect_otsu">Effetto filtro.  
+Otsu</string>
     <string name="image_comment_add_title">Aggiungi informazioni descrittive alle immagini</string>
     <string name="image_comment_post">Inviare</string>
     <string name="image_ocr_configure_first">È necessario prima configurare l\'API OCR</string>
@@ -481,7 +494,7 @@
     <string name="note_encrypt_enable">Abilita crittografia note</string>
     <string name="note_encrypt_enable_summary">Dopo aver abilitato questa funzione, le note appena create verranno crittografate prima di essere archiviate.</string>
     <string name="note_encrypt_key">Chiave di crittografia</string>
-    <string name="note_encrypt_key_summary">Le chiavi di crittografia vengono utilizzate per crittografare e decrittografare le note.</string>
+    <string name="note_encrypt_key_summary">La chiave di crittografia viene utilizzata per crittografare e decrittografare le note. Suggerimento: maggiore è la lunghezza della chiave, maggiore è la sicurezza.</string>
     <string name="note_encrypt_key_change_title">Vuoi davvero cambiare la chiave di crittografia?</string>
     <string name="note_encrypt_key_change_message">Quando si modifica la chiave, tutti i file crittografati con la chiave precedente verranno nuovamente crittografati. Confermi di procedere?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Attendi il completamento del processo.</string>
@@ -493,7 +506,7 @@
     <string name="note_encrypt_key_change_tip">Tutti i file crittografati devono essere nuovamente crittografati prima di modificare la chiave. Pertanto, si consiglia di impostare la chiave di crittografia una sola volta.</string>
     <string name="note_encrypt_key_tip_chars">Inserisci almeno 8 caratteri (solo numeri e lettere maiuscole e minuscole).</string>
     <string name="note_encrypt_write_key">Scrivi la chiave di crittografia</string>
-    <string name="note_encrypt_write_key_summary">Se questa funzione è abilitata, la chiave verrà crittografata in modo asimmetrico e verrà scritta nel file crittografato. Per evitare problemi di recupero nel caso in cui si dimentichi la password, si consiglia vivamente di mantenere questa funzione abilitata.</string>
+    <string name="note_encrypt_write_key_summary">Utilizzato per prevenire la perdita della password. Se questa funzione è abilitata, la chiave verrà crittografata in modo asimmetrico e scritta su file.</string>
     <string name="note_encrypt_auth">Verifica dell\'identità</string>
     <string name="note_encrypt_auth_failed">Verifica dell\'identità non riuscita.</string>
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Nota: è necessario impostare prima una password per l\'app, altrimenti non avrà effetto.]]></string>
@@ -716,6 +729,7 @@
     <string name="sync_force_delete_remote">Elimina file cloud</string>
     <string name="sync_force_delete_remote_tip">Questo eliminerà i file nel cloud. Vuoi procedere?</string>
     <string name="sync_force_delete_local">Elimina file locale</string>
+    <string name="sync_server_onedrive">OneDrive (Personale)</string>
     <string name="sync_force_delete_local_tip">Questo eliminerà i file locali. Vuoi procedere?</string>
     <string name="sync_failure_message">impossibile sincronizzare il file con problema: %s</string>
     <string name="sync_failure_handle">Problema di sincronizzazione della maniglia</string>
