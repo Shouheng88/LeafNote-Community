@@ -1,3 +1,5 @@
+## 5.1.1 
+ - 8a38e80b fix: crash
 ## 5.1.0 
  - 8a1e7f22 texts
 - fef0c297 add gitignore
