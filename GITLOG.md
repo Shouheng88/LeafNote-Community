@@ -1,4 +1,8 @@
 ## 5.2.0 
+ - 1af4c377 texts
+- 9deb9dca image host available check
+- 7c81ae73 change gradle version
+## 5.2.0 
  - 42f767fb texts
 - c82ad2ce texts
 - 692880c7 texts
