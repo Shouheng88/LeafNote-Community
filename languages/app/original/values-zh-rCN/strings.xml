@@ -318,7 +318,7 @@
     <string name="premium_privilege_sync">同步方法（WebDAV、DropBox 和 OneDrive）和实时同步功能</string>
     <string name="premium_privilege_multi_data_sources">添加多个数据源。</string>
     <string name="premium_privilege_image_upload">添加图床并自动上传笔记中的图片。</string>
-    <string name="premium_privilege_webnote">需要注意的网页：构建您的知识库</string>
+    <string name="premium_privilege_webnote">网页转笔记：构建您的知识库</string>
     <string name="premium_privilege_encryption">笔记的端到端加密</string>
     <string name="premium_privilege_ai">写作助手：配置 AI 服务器</string>
     <string name="premium_privilege_future">所有未来待开发的功能</string>
