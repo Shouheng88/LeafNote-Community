@@ -1,3 +1,74 @@
+## 5.2.0 
+ - 42f767fb texts
+- c82ad2ce texts
+- 692880c7 texts
+- 706b14b2 new privileges
+- 3f54d7d8 datasource limit
+- 8f6000dd add image uploader
+- 9b21ad0e add image uploader
+- 3086146c add image uploader
+- 7babe3d7 add image uploader
+- dedc34ae add image uploader
+- 915fbe76 add image uploader
+- 9018b1cf add image uploader
+- 6400b5fd add image uploader
+- 93f5c8f3 add image uploader
+- 292caded add image uploader
+- c23f3509 add image uploader
+- c13b2e6c add image uploader
+- 821e43a4 add image uploader
+- e4ffb3b4 add image uploader
+- efe93e64 add image uploader
+- 15ff9cb9 add image uploader
+- 03ad26d5 del merged notes
+- 91e69efb add batch process ui
+- e262b729 folder create biz
+- f214e05d time disp
+- 29ee31a5 review fix
+- 3fc1d0f7 review fix
+- a250588f review fix
+- 49393e84 flomo import temp
+- f693338d flomo import temp
+- 4bd4ef20 flomo import temp
+- b5b7f006 flomo import temp
+- a9da9f1b flomo import temp
+- 572be5ba flomo import temp
+- 3d85daf1 flomo import temp
+- 8fa60a9c flomo import scan
+- 4b99f21f flomo import base ui
+- c579eacb flomo import base ui
+- de55ca0a quicknote save path
+- 084d36de webnote save path
+- 07cc661a audio save path
+- a7f0852b audio save path
+- 6345f187 add custom file name setting
+- 6809cb86 add sync log out
+- f508320e add logs
+- 3d793d89 add review biz
+- 044ce5ee add review biz
+- 9ecb4b5e add review biz
+- f3208098 add review biz
+- 777db276 add review biz
+- c214e4cd add statistics
+- f9491492 add statistics
+- 61ea8610 add statistics
+- c9bc309b add statistics
+- aaf74518 add statistics
+- 1e614d82 add statistics
+- d8f09cca add statistics
+- a9b900b6 change drawer button positions
+- e19f49bc feat: get usage duration
+- 31865476 feat: add review and statistics entrance
+- 6ad9e22a fix: app recommend fetch issues
+- ea203e7c datasource dir display
+- 7d8ce966 add image compress quality
+- 8e4de852 cal app usage duration
+- 09460659 clear sync states
+- da0c4bf3 completed multi-datasource biz
+- 9102bba7 methods name
+- f113963a add biz of change internal root dir name
+- a9de5e18 moved docs folder
+- 019497de Merge pull request #196 from Shouheng88/feature-v5.1.0
 ## 5.1.1 
  - 8a38e80b fix: crash
 ## 5.1.0 
