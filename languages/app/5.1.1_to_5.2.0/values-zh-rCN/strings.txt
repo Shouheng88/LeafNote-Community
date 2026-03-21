@@ -1,0 +1,265 @@
+:name> create_folder_tip
+:text> 请输入目录名称
+
+:name> create_folder_to
+:text> 创建目录到：%s
+
+:name> datasource_internal
+:text> 使用内部数据源
+
+:name> data_statistics
+:text> 数据统计
+
+:name> review
+:text> 回顾
+
+:name> unit_day
+:text> 天
+
+:name> unit_year
+:text> 年
+
+:name> statistics_new_notes_this_month
+:text> 本月新增笔记
+
+:name> statistics_top_tags
+:text> Top 5 标签
+
+:name> statistics_storage
+:text> 存储占用
+
+:name> batch_processing
+:text> 批量处理
+
+:name> set_image_host_enable
+:text> 启用图床
+
+:name> set_image_host_enable_sub
+:text> 启用之后，插入到笔记中的图片将优先保存到图床
+
+:name> set_image_host
+:text> 图床平台
+
+:name> set_image_host_config
+:text> 图床参数配置
+
+:name> set_image_host_config_summary
+:text> 为选定的图床平台配置必要的参数
+
+:name> set_image_host_not_configured
+:text> 未配置
+
+:name> set_image_host_configured
+:text> 已配置
+
+:name> set_image_host_test
+:text> 测试连接
+
+:name> set_image_host_test_tip
+:text> 保存前请先测试是否连通
+
+:name> set_image_host_test_success
+:text> 测试成功
+
+:name> set_image_host_test_failed
+:text> 测试失败: %s
+
+:name> set_image_host_save_confirm
+:text> 您是否已经通过测试？建议测试通过后再保存。
+
+:name> set_image_host_config_title
+:text> 配置 %s
+
+:name> set_image_host_input_hint
+:text> 请输入 %s
+
+:name> set_image_host_beta_notice
+:text> 图床功能目前处于beta测试阶段，如果你发现有任何问题，可以联系我们。
+
+:name> set_image_host_no_config_found
+:text> 未发现图床配置: %s
+
+:name> set_image_host_select_first
+:text> 请先选择一个图床平台
+
+:name> image_host_uploading
+:text> 正在上传...
+
+:name> image_host_upload_failed
+:text> 上传失败: %s
+
+:name> merge
+:text> 合并
+
+:name> please_select_items
+:text> 请先选择条目
+
+:name> please_select_at_least_two_notes
+:text> 请至少选择 2 篇笔记进行合并
+
+:name> merge_notes_confirmation_title
+:text> 确认合并
+
+:name> merge_notes_confirmation_message
+:text> 这将把所有选中的笔记合并到一个新的笔记中，并且原始笔记将被删除。此操作无法撤销。是否继续？
+
+:name> audio_store_folder_prefix
+:text> 音频存储的目录：%s
+
+:name> audio_store_folder_placeholder
+:text> 音频存储的目录：xxx
+
+:name> web_note_store_folder_prefix
+:text> 网页笔记存储目录：%s
+
+:name> web_note_store_folder_placeholder
+:text> 网页笔记存储目录：xxx
+
+:name> premium_privilege_multi_data_sources
+:text> 添加多个数据源。
+
+:name> premium_privilege_image_upload
+:text> 添加图床并自动上传笔记中的图片。
+
+:name> set_file_naming_custom
+:text> 自定义
+
+:name> set_file_naming_custom_tip
+:text> Y 代表“年”，M 代表“月”，D 代表“日”，H 代表“时”，m 代表“分”，s 代表“秒”，S 代表“毫秒”
+
+:name> set_image_sub
+:text> 图片、相机与图片托管
+
+:name> set_note_image_compress_quality
+:text> 图片压缩率
+
+:name> set_note_image_compress_quality_sub
+:text> 当前存储的压缩率：%d
+
+:name> set_note_image_compress_quality_tip
+:text> 输入范围 0-100，值越大，图片清晰度越高，相应地占用的存储空间也越大
+
+:name> set_sync_clear_status
+:text> 清理同步状态
+
+:name> set_sync_clear_status_summary
+:text> 清理全部的同步数据缓存，重置文件的同步状态，下次同步时会花费稍多的时间重建同步状态。你可以在同步状态出现问题的时候使用它。
+
+:name> set_sync_clear_status_message
+:text> 确定要清理同步状态吗？清理后，下次同步时会花费稍多的时间重建同步状态。
+
+:name> set_sync_log
+:text> 同步日志
+
+:name> set_sync_log_dialog_title
+:text> 选择日志文件
+
+:name> datasource_default_dir
+:text> 默认目录
+
+:name> datasource_default_dir_suffix
+:text> （默认目录）
+
+:name> datasource_internal_summary_template
+:text> 可以通过新增内部目录实现多数据源。当前使用的数据源：%s
+
+:name> review_type_today
+:text> 今天
+
+:name> review_type_yesterday
+:text> 昨天
+
+:name> review_type_last_today
+:text> 往日今日
+
+:name> review_type_this_week
+:text> 本周
+
+:name> review_type_last_week
+:text> 上周
+
+:name> review_type_this_month
+:text> 本月
+
+:name> review_type_last_month
+:text> 上月
+
+:name> datasource_restart_message
+:text> 请重启应用程序以继续使用。\n\n注意：由于您已更改笔记根目录，您需要手动相应地更改云同步服务器信息（如果您之前设置过）。
+
+:name> review_type_this_year
+:text> 今年
+
+:name> review_type_custom
+:text> 自定义
+
+:name> input_panel_more
+:text> 更多
+
+:name> input_panel_storage_location
+:text> 存储位置
+
+:name> input_panel_enable_encryption
+:text> 是否启用加密
+
+:name> datasource_use_internal
+:text> 切换笔记根目录
+
+:name> datasource_use_internal_message
+:text> 确定将此目录用作内部笔记根目录吗？
+
+:name> set_import_flomo
+:text> 从 flomo 导入笔记
+
+:name> set_import_flomo_sub
+:text> 点击从 flomo 导出的 zip 文件导入笔记
+
+:name> import_flomo_title
+:text> 从 flomo 导入笔记
+
+:name> import_flomo_select_zip
+:text> 选择 zip 文件
+
+:name> import_flomo_select_zip_sub
+:text> 选择你从 flomo 中导出的 zip 文件
+
+:name> import_flomo_option_title
+:text> 导入选项
+
+:name> import_flomo_encrypt
+:text> 是否加密
+
+:name> import_flomo_encrypt_no_key
+:text> 您尚未设置加密 key，请先前往安全设置中设置
+
+:name> import_flomo_organize_method
+:text> 笔记整理方式
+
+:name> import_flomo_organize_by_month
+:text> 每月创建一个目录
+
+:name> import_flomo_organize_by_month_sub
+:text> 每个月的 flomo 笔记会用一个单独的目录存储，每个笔记创建一个文档。
+
+:name> import_flomo_organize_no
+:text> 不按月整理
+
+:name> import_flomo_organize_no_sub
+:text> 所有的笔记全部导入到该目录下，每个笔记创建一个文档。
+
+:name> import_flomo_each_note_desc
+:text> 每个笔记会创建一个文档
+
+:name> import_flomo_target_dir
+:text> 导入到的目录
+
+:name> import_flomo_start_import
+:text> 开始导入
+
+:name> import_flomo_scan_result
+:text> 扫描完成：共 %1$d 条笔记，%2$d 个文件
+
+:name> import_flomo_scanning
+:text> 正在扫描
+…
+

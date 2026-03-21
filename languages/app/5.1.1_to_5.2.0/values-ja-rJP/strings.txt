@@ -1,0 +1,267 @@
+:name> create_folder_tip
+:text> フォルダー名を入力してください
+
+:name> create_folder_to
+:text> フォルダーを作成する場所: %s
+
+:name> datasource_internal
+:text> 内部データソースを使用
+
+:name> data_statistics
+:text> データ統計
+
+:name> review
+:text> レビュー
+
+:name> unit_day
+:text> 日
+
+:name> unit_year
+:text> 年
+
+:name> statistics_new_notes_this_month
+:text> 今月の新規ノート
+
+:name> statistics_top_tags
+:text> 上位5つのタグ
+
+:name> statistics_storage
+:text> ストレージ
+
+:name> set_image_host_enable
+:text> 画像ホストを有効化
+
+:name> set_image_host_enable_sub
+:text> 有効化後、ノートに挿入された画像は、優先順位に従って画像ホスティングサービスに保存されます。
+
+:name> set_image_host
+:text> 画像ホスト
+
+:name> set_image_host_config
+:text> 画像ホスト設定
+
+:name> set_image_host_config_summary
+:text> 選択した画像ホストのパラメーターを設定します
+
+:name> set_image_host_not_configured
+:text> 未設定
+
+:name> set_image_host_configured
+:text> 設定済み
+
+:name> set_image_host_test
+:text> 接続テスト
+
+:name> set_image_host_test_tip
+:text> 保存前のテスト
+
+:name> set_image_host_test_success
+:text> テスト成功
+
+:name> set_image_host_test_failed
+:text> テスト失敗: %s
+
+:name> set_image_host_save_confirm
+:text> テストに合格しましたか？テストに合格した後に保存することをお勧めします。
+
+:name> set_image_host_config_title
+:text> %s を設定
+
+:name> set_image_host_input_hint
+:text> %s を入力してください
+
+:name> set_image_host_beta_notice
+:text> 画像ホスティング機能は現在ベータ版です。問題が見つかった場合は、お問い合わせください。
+
+:name> set_image_host_no_config_found
+:text> ホスト「%s」の画像アップロード設定が見つかりません。
+
+:name> set_image_host_select_first
+:text> まず画像ホストを選択してください
+
+:name> image_host_uploading
+:text> アップロード中
+…
+
+:name> image_host_upload_failed
+:text> アップロードに失敗しました: %s
+
+:name> batch_processing
+:text> バッチ処理
+
+:name> merge
+:text> マージ
+
+:name> please_select_items
+:text> まず項目を選択してください
+
+:name> please_select_at_least_two_notes
+:text> 少なくとも2つのノートを選択してください。
+
+:name> merge_notes_confirmation_title
+:text> マージを確認
+
+:name> merge_notes_confirmation_message
+:text> これにより、選択されたすべてのノートが新しいノートに統合され、元のノートは削除されます。この操作は取り消せません。続行しますか？
+
+:name> audio_store_folder_prefix
+:text> 音声ストレージフォルダー: %s
+
+:name> audio_store_folder_placeholder
+:text> 音声ストレージフォルダー: xxx
+
+:name> web_note_store_folder_prefix
+:text> Webノート保存フォルダ: %s
+
+:name> web_note_store_folder_placeholder
+:text> Webノート保存フォルダ: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> 複数のデータソースを追加します。
+
+:name> premium_privilege_image_upload
+:text> 画像ホストを追加し、ノートの画像を自動的にアップロードします。
+
+:name> set_file_naming_custom
+:text> カスタム
+
+:name> set_file_naming_custom_tip
+:text> Y：年、M：月、D：日、H：時、m：分、s：秒、S：ミリ秒
+
+:name> set_image_sub
+:text> 画像、カメラおよび画像ホスティング
+
+:name> set_note_image_compress_quality
+:text> 画像圧縮品質
+
+:name> set_note_image_compress_quality_sub
+:text> 現在の品質: %d
+
+:name> set_note_image_compress_quality_tip
+:text> 範囲を 0～100 で入力してください。数値が大きいほど画像の鮮明度が向上しますが、より多くのストレージ容量を消費します。
+
+:name> set_sync_clear_status
+:text> 同期ステータスをクリア
+
+:name> set_sync_clear_status_summary
+:text> すべての同期データキャッシュをクリアし、ファイルの同期ステータスをリセットします。次回の同期時に同期ステータスを再構築するのに少し時間がかかります。同期ステータスに問題がある場合に使用できます。
+
+:name> set_sync_clear_status_message
+:text> 同期ステータスをクリアしてもよろしいですか？次回の同期時に同期ステータスを再構築するのに、少し時間がかかります。
+
+:name> set_sync_log
+:text> 同期ログ
+
+:name> set_sync_log_dialog_title
+:text> ログファイルの選択
+
+:name> datasource_restart_message
+:text> アプリを再起動して、使用を続行してください。\n\n注意：ノートのルートディレクトリを変更したため、クラウド同期サーバー情報も手動で同様に変更する必要があります（以前に設定している場合）。
+
+:name> datasource_use_internal
+:text> ノートのルートディレクトリを切り替える
+
+:name> datasource_use_internal_message
+:text> このディレクトリを内部ノートのルートディレクトリとして使用してもよろしいですか？
+
+:name> review_type_today
+:text> 今日
+
+:name> review_type_yesterday
+:text> 昨日
+
+:name> review_type_last_today
+:text> 今日の歴史
+
+:name> review_type_this_week
+:text> 今週
+
+:name> review_type_last_week
+:text> 先週
+
+:name> review_type_this_month
+:text> 今月
+
+:name> review_type_last_month
+:text> 先月
+
+:name> review_type_this_year
+:text> 今年
+
+:name> review_type_custom
+:text> カスタム
+
+:name> input_panel_more
+:text> もっと
+
+:name> input_panel_storage_location
+:text> ストレージ場所
+
+:name> input_panel_enable_encryption
+:text> 暗号化を有効にする
+
+:name> set_import_flomo
+:text> flomo からインポート
+
+:name> set_import_flomo_sub
+:text> flomo からエクスポートされた ZIP ファイルからノートをインポートするには、ここをクリックしてください
+
+:name> import_flomo_title
+:text> flomo からインポート
+
+:name> datasource_default_dir
+:text> デフォルトディレクトリ
+
+:name> datasource_default_dir_suffix
+:text> （デフォルトディレクトリ）
+
+:name> datasource_internal_summary_template
+:text> 内部ディレクトリを追加することで、複数のデータソースを実現できます。現在使用中のデータソース: %s
+
+:name> import_flomo_select_zip
+:text> zipファイルを選択
+
+:name> import_flomo_select_zip_sub
+:text> flomo からエクスポートした ZIP ファイルを選択してください
+
+:name> import_flomo_option_title
+:text> インポート オプション
+
+:name> import_flomo_encrypt
+:text> ノートを暗号化
+
+:name> import_flomo_encrypt_no_key
+:text> 暗号化キーが設定されていません。まずセキュリティ設定で設定してください。
+
+:name> import_flomo_organize_method
+:text> ノートの整理方法
+
+:name> import_flomo_organize_by_month
+:text> 月ごとにディレクトリを作成
+
+:name> import_flomo_organize_by_month_sub
+:text> 各月のFlomoノートは個別のディレクトリに保存されます。各ノートは1つのドキュメントとして作成されます。
+
+:name> import_flomo_organize_no
+:text> 月ごとに整理しないでください
+
+:name> import_flomo_organize_no_sub
+:text> すべてのノートがこのディレクトリにインポートされます。各ノートは1つのドキュメントとして作成されます。
+
+:name> import_flomo_each_note_desc
+:text> 各ノートはドキュメントを作成します
+
+:name> import_flomo_target_dir
+:text> ターゲットディレクトリ
+
+:name> import_flomo_start_import
+:text> インポートを開始
+
+:name> import_flomo_scan_result
+:text> %d 個のノート、%d 個のファイルが見つかりました
+
+:name> import_flomo_scanning
+:text> スキャン中
+&
+#8230;
+

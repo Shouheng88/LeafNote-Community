@@ -1,0 +1,267 @@
+:name> create_folder_tip
+:text> Please enter folder name
+
+:name> create_folder_to
+:text> Create folder to: %s
+
+:name> datasource_internal
+:text> Use internal data source
+
+:name> data_statistics
+:text> Data Statistics
+
+:name> review
+:text> Review
+
+:name> unit_day
+:text> days
+
+:name> unit_year
+:text> years
+
+:name> statistics_new_notes_this_month
+:text> New Notes This Month
+
+:name> statistics_top_tags
+:text> Top 5 Tags
+
+:name> statistics_storage
+:text> Storage
+
+:name> set_image_host_enable
+:text> Enable Image Host
+
+:name> set_image_host_enable_sub
+:text> After enabling, images inserted into notes will be saved to the image host by priority
+
+:name> set_image_host
+:text> Image Host
+
+:name> set_image_host_config
+:text> Image Host Configuration
+
+:name> set_image_host_config_summary
+:text> Configure parameters for the selected image host
+
+:name> set_image_host_not_configured
+:text> Not Configured
+
+:name> set_image_host_configured
+:text> Configured
+
+:name> set_image_host_test
+:text> Test Connection
+
+:name> set_image_host_test_tip
+:text> Test before saving
+
+:name> set_image_host_test_success
+:text> Test Success
+
+:name> set_image_host_test_failed
+:text> Test Failed: %s
+
+:name> set_image_host_save_confirm
+:text> Have you passed the test? It is recommended to save after passing the test.
+
+:name> set_image_host_config_title
+:text> Configure %s
+
+:name> set_image_host_input_hint
+:text> Please enter %s
+
+:name> set_image_host_beta_notice
+:text> The image host feature is currently in beta. If you find any issues, please contact us.
+
+:name> set_image_host_no_config_found
+:text> No image upload config found for host: %s
+
+:name> set_image_host_select_first
+:text> Please select an image host first
+
+:name> image_host_uploading
+:text> Uploading...
+
+:name> image_host_upload_failed
+:text> Upload failed: %s
+
+:name> batch_processing
+:text> Batch Processing
+
+:name> merge
+:text> Merge
+
+:name> please_select_items
+:text> Please select items first
+
+:name> please_select_at_least_two_notes
+:text> Please select at least 2 notes to merge
+
+:name> merge_notes_confirmation_title
+:text> Confirm Merge
+
+:name> merge_notes_confirmation_message
+:text> This will merge all selected notes into a new note, and the original notes will be deleted. This action cannot be undone. Continue?
+
+:name> audio_store_folder_prefix
+:text> Audio storage folder: %s
+
+:name> audio_store_folder_placeholder
+:text> Audio storage folder: xxx
+
+:name> web_note_store_folder_prefix
+:text> Web note storage folder: %s
+
+:name> web_note_store_folder_placeholder
+:text> Web note storage folder: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> Add multiple data sources.
+
+:name> premium_privilege_image_upload
+:text> Add image host and upload note images automatically.
+
+:name> set_file_naming_custom
+:text> Custom
+
+:name> set_file_naming_custom_tip
+:text> Y: Year, M: Month, D: Day, H: Hour, m: Minute, s: Second, S: Millisecond
+
+:name> set_image_sub
+:text> Image, camera
+&
+image host
+
+:name> set_note_image_compress_quality
+:text> Image Compression Quality
+
+:name> set_note_image_compress_quality_sub
+:text> Current quality: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Enter range 0-100. Higher values mean better image clarity but consume more storage space.
+
+:name> set_sync_clear_status
+:text> Clear Sync Status
+
+:name> set_sync_clear_status_summary
+:text> Clear all sync data cache, reset the sync status of files, it will take a little longer to rebuild the sync status during the next sync. You can use it when there is a problem with the sync status.
+
+:name> set_sync_clear_status_message
+:text> Are you sure to clear the sync status? It will take a little longer to rebuild the sync status during the next sync.
+
+:name> set_sync_log
+:text> Sync Log
+
+:name> set_sync_log_dialog_title
+:text> Select Log File
+
+:name> datasource_restart_message
+:text> Please restart the App to continue to use.\n\nNote: since you have changed the notes root directory, you need to manually change the cloud sync server info accordingly (if you have before).
+
+:name> datasource_use_internal
+:text> Switch Notes Root Directory
+
+:name> datasource_use_internal_message
+:text> Sure to use this directory as internal notes root directory?
+
+:name> datasource_default_dir
+:text> Default directory
+
+:name> datasource_default_dir_suffix
+:text> (Default directory)
+
+:name> datasource_internal_summary_template
+:text> You can achieve multiple data sources by adding internal directories. Currently used data source: %s
+
+:name> review_type_today
+:text> Today
+
+:name> review_type_yesterday
+:text> Yesterday
+
+:name> review_type_last_today
+:text> Today in History
+
+:name> review_type_this_week
+:text> This Week
+
+:name> review_type_last_week
+:text> Last Week
+
+:name> review_type_this_month
+:text> This Month
+
+:name> review_type_last_month
+:text> Last Month
+
+:name> review_type_this_year
+:text> This Year
+
+:name> review_type_custom
+:text> Custom
+
+:name> input_panel_more
+:text> More
+
+:name> input_panel_storage_location
+:text> Storage Location
+
+:name> input_panel_enable_encryption
+:text> Enable Encryption
+
+:name> set_import_flomo
+:text> Import from flomo
+
+:name> set_import_flomo_sub
+:text> Click to import notes from flomo exported zip file
+
+:name> import_flomo_title
+:text> Import from flomo
+
+:name> import_flomo_select_zip
+:text> Select zip file
+
+:name> import_flomo_select_zip_sub
+:text> Select the zip file you exported from flomo
+
+:name> import_flomo_option_title
+:text> Import options
+
+:name> import_flomo_encrypt
+:text> Encrypt notes
+
+:name> import_flomo_encrypt_no_key
+:text> You haven\'t set an encryption key, please set it in security settings first
+
+:name> import_flomo_organize_method
+:text> Note organization method
+
+:name> import_flomo_organize_by_month
+:text> Create a directory per month
+
+:name> import_flomo_organize_by_month_sub
+:text> Flomo notes for each month will be stored in a separate directory; each note will create a document.
+
+:name> import_flomo_organize_no
+:text> Do not organize by month
+
+:name> import_flomo_organize_no_sub
+:text> All notes will be imported into this directory; each note will create a document.
+
+:name> import_flomo_each_note_desc
+:text> Each note will create a document
+
+:name> import_flomo_target_dir
+:text> Target directory
+
+:name> import_flomo_start_import
+:text> Start import
+
+:name> import_flomo_scan_result
+:text> Found %d notes, %d files
+
+:name> import_flomo_scanning
+:text> Scanning
+…
+

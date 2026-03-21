@@ -1,0 +1,268 @@
+:name> create_folder_tip
+:text> Por favor, introduzca el nombre de la carpeta
+
+:name> create_folder_to
+:text> Crear carpeta en: %s
+
+:name> datasource_internal
+:text> Usar fuente de datos interna
+
+:name> data_statistics
+:text> Estadísticas de datos
+
+:name> review
+:text> Revisar
+
+:name> unit_day
+:text> días
+
+:name> unit_year
+:text> años
+
+:name> statistics_new_notes_this_month
+:text> Nuevas notas este mes
+
+:name> statistics_top_tags
+:text> 5 etiquetas principales
+
+:name> statistics_storage
+:text> Almacenamiento
+
+:name> set_image_host_enable
+:text> Habilitar alojamiento de imágenes
+
+:name> set_image_host_enable_sub
+:text> Después de habilitarlo, las imágenes insertadas en las notas se guardarán en el servidor de imágenes por orden de prioridad.
+
+:name> set_image_host
+:text> Alojamiento de imágenes
+
+:name> set_image_host_config
+:text> Configuración del alojamiento de imágenes
+
+:name> set_image_host_config_summary
+:text> Configurar los parámetros para el host de imágenes seleccionado
+
+:name> set_image_host_not_configured
+:text> No configurado
+
+:name> set_image_host_configured
+:text> Configurado
+
+:name> set_image_host_test
+:text> Probar conexión
+
+:name> set_image_host_test_tip
+:text> Probar antes de guardar
+
+:name> set_image_host_test_success
+:text> Prueba exitosa
+
+:name> set_image_host_test_failed
+:text> Prueba fallida: %s
+
+:name> set_image_host_save_confirm
+:text> ¿Ha superado la prueba? Se recomienda guardar después de superar la prueba.
+
+:name> set_image_host_config_title
+:text> Configurar %s
+
+:name> set_image_host_input_hint
+:text> Por favor, introduzca %s
+
+:name> set_image_host_beta_notice
+:text> La función de alojamiento de imágenes actualmente está en versión beta. Si encuentras algún problema, ponte en contacto con nosotros.
+
+:name> set_image_host_no_config_found
+:text> No se encontró configuración de carga de imágenes para el host: %s
+
+:name> set_image_host_select_first
+:text> Por favor, seleccione primero un servidor de imágenes.
+
+:name> image_host_uploading
+:text> Subiendo
+…
+
+:name> image_host_upload_failed
+:text> Subida fallida: %s
+
+:name> batch_processing
+:text> Procesamiento por lotes
+
+:name> merge
+:text> Combinar
+
+:name> please_select_items
+:text> Seleccione primero los elementos
+
+:name> please_select_at_least_two_notes
+:text> Seleccione al menos 2 notas para fusionar
+
+:name> merge_notes_confirmation_title
+:text> Confirmar fusión
+
+:name> merge_notes_confirmation_message
+:text> Esta acción fusionará todas las notas seleccionadas en una nueva nota y se eliminarán las notas originales. Esta acción no se puede deshacer. ¿Continuar?
+
+:name> audio_store_folder_prefix
+:text> Carpeta de almacenamiento de audio: %s
+
+:name> audio_store_folder_placeholder
+:text> Carpeta de almacenamiento de audio: xxx
+
+:name> web_note_store_folder_prefix
+:text> Carpeta de almacenamiento de notas web: %s
+
+:name> web_note_store_folder_placeholder
+:text> Carpeta de almacenamiento de notas web: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> Agregar múltiples fuentes de datos.
+
+:name> premium_privilege_image_upload
+:text> Agregar host de imágenes y cargar automáticamente las imágenes de las notas.
+
+:name> set_file_naming_custom
+:text> Personalizado
+
+:name> set_file_naming_custom_tip
+:text> Y: Año, M: Mes, D: Día, H: Hora, m: Minuto, s: Segundo, S: Milisegundo
+
+:name> set_image_sub
+:text> Imagen, cámara y alojamiento de imágenes
+
+:name> set_note_image_compress_quality
+:text> Calidad de compresión de imagen
+
+:name> set_note_image_compress_quality_sub
+:text> Calidad actual: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Introduzca un rango de 0 a 100. Los valores más altos significan una mayor claridad de la imagen, pero consumen más espacio de almacenamiento.
+
+:name> set_sync_clear_status
+:text> Borrar estado de sincronización
+
+:name> set_sync_clear_status_summary
+:text> Borrar toda la caché de datos de sincronización y restablecer el estado de sincronización de los archivos; la próxima vez que se realice la sincronización, tardará un poco más en reconstruir el estado de sincronización. Puede utilizar esta opción cuando haya un problema con el estado de sincronización.
+
+:name> set_sync_clear_status_message
+:text> ¿Está seguro de que desea borrar el estado de sincronización? Tardará un poco más en reconstruirse el estado de sincronización durante la próxima sincronización.
+
+:name> set_sync_log
+:text> Registro de sincronización
+
+:name> set_sync_log_dialog_title
+:text> Seleccionar archivo de registro
+
+:name> datasource_restart_message
+:text> Reinicie la aplicación para continuar usándola.
+Nota: dado que ha cambiado el directorio raíz de las notas, deberá cambiar manualmente la información del servidor de sincronización en la nube en consecuencia (si lo había configurado anteriormente).
+
+:name> datasource_use_internal
+:text> Cambiar el directorio raíz de las notas
+
+:name> datasource_use_internal_message
+:text> ¿Está seguro de usar este directorio como directorio raíz para las notas internas?
+
+:name> review_type_today
+:text> Hoy
+
+:name> review_type_yesterday
+:text> Ayer
+
+:name> review_type_last_today
+:text> Hoy en la Historia
+
+:name> review_type_this_week
+:text> Esta semana
+
+:name> review_type_last_week
+:text> Semana pasada
+
+:name> review_type_this_month
+:text> Este mes
+
+:name> review_type_last_month
+:text> El mes pasado
+
+:name> review_type_this_year
+:text> Este año
+
+:name> review_type_custom
+:text> Personalizado
+
+:name> input_panel_more
+:text> Más
+
+:name> input_panel_storage_location
+:text> Ubicación de almacenamiento
+
+:name> input_panel_enable_encryption
+:text> Habilitar cifrado
+
+:name> set_import_flomo
+:text> Importar desde flomo
+
+:name> set_import_flomo_sub
+:text> Haga clic para importar notas desde el archivo zip exportado de flomo
+
+:name> import_flomo_title
+:text> Importar desde flomo
+
+:name> datasource_default_dir
+:text> Directorio predeterminado
+
+:name> datasource_default_dir_suffix
+:text> (Directorio predeterminado)
+
+:name> datasource_internal_summary_template
+:text> Puede lograr múltiples fuentes de datos al agregar directorios internos. Fuente de datos actualmente utilizada: %s
+
+:name> import_flomo_select_zip
+:text> Seleccionar archivo zip
+
+:name> import_flomo_select_zip_sub
+:text> Seleccione el archivo zip que exportó desde flomo
+
+:name> import_flomo_option_title
+:text> Opciones de importación
+
+:name> import_flomo_encrypt
+:text> Cifrar notas
+
+:name> import_flomo_encrypt_no_key
+:text> No ha establecido una clave de cifrado; configure una primero en la configuración de seguridad.
+
+:name> import_flomo_organize_method
+:text> Método de organización de notas
+
+:name> import_flomo_organize_by_month
+:text> Crear un directorio por mes
+
+:name> import_flomo_organize_by_month_sub
+:text> Las notas de Flomo de cada mes se almacenarán en un directorio separado; cada nota creará un documento.
+
+:name> import_flomo_organize_no
+:text> No organizar por mes
+
+:name> import_flomo_organize_no_sub
+:text> Todas las notas se importarán en este directorio; cada nota creará un documento.
+
+:name> import_flomo_each_note_desc
+:text> Cada nota creará un documento
+
+:name> import_flomo_target_dir
+:text> Directorio de destino
+
+:name> import_flomo_start_import
+:text> Iniciar importación
+
+:name> import_flomo_scan_result
+:text> Encontradas %d notas, %d archivos
+
+:name> import_flomo_scanning
+:text> Escaneando
+&
+#8230;
+

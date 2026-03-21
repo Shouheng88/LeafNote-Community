@@ -1,0 +1,9 @@
+:name> key_set_import_flomo
+:text> key_set_import_flomo
+
+:name> key_set_sync_log
+:text> __set_sync_log_key__
+
+:name> key_image_compress_quality
+:text> __image_compress_quality
+

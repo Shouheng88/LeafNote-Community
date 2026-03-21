@@ -1,0 +1,271 @@
+:name> create_folder_tip
+:text> Пожалуйста, введите имя папки
+
+:name> create_folder_to
+:text> Создать папку в: %s
+
+:name> datasource_internal
+:text> Использовать внутренний источник данных
+
+:name> data_statistics
+:text> Статистика данных
+
+:name> review
+:text> Просмотр
+
+:name> unit_day
+:text> дней
+
+:name> unit_year
+:text> лет
+
+:name> statistics_new_notes_this_month
+:text> Новые заметки в этом месяце
+
+:name> statistics_top_tags
+:text> Топ-5 тегов
+
+:name> statistics_storage
+:text> Хранилище
+
+:name> set_image_host_enable
+:text> Включить хостинг изображений
+
+:name> set_image_host_enable_sub
+:text> После включения изображения, вставленные в заметки, будут сохраняться на хостинге изображений с приоритетом.
+
+:name> set_image_host
+:text> Хостинг изображений
+
+:name> set_image_host_config
+:text> Конфигурация хоста изображений
+
+:name> set_image_host_config_summary
+:text> Настройте параметры выбранного хоста изображений
+
+:name> set_image_host_not_configured
+:text> Не настроено
+
+:name> set_image_host_configured
+:text> Настроено
+
+:name> set_image_host_test
+:text> Проверить подключение
+
+:name> set_image_host_test_tip
+:text> Тест перед сохранением
+
+:name> set_image_host_test_success
+:text> Тест пройден успешно
+
+:name> set_image_host_test_failed
+:text> Тест не пройден: %s
+
+:name> set_image_host_save_confirm
+:text> Вы прошли тест? Рекомендуется сохранить после прохождения теста.
+
+:name> set_image_host_config_title
+:text> Настроить %s
+
+:name> set_image_host_input_hint
+:text> Пожалуйста, введите %s
+
+:name> set_image_host_beta_notice
+:text> Функция хостинга изображений находится в бета-версии. Если вы обнаружите какие-либо проблемы, пожалуйста, свяжитесь с нами.
+
+:name> set_image_host_no_config_found
+:text> Конфигурация загрузки изображений не найдена для хоста: %s
+
+:name> set_image_host_select_first
+:text> Пожалуйста, сначала выберите хост для изображений
+
+:name> image_host_uploading
+:text> Загрузка
+…
+
+:name> image_host_upload_failed
+:text> Ошибка отправки: %s
+
+:name> batch_processing
+:text> Пакетная обработка
+
+:name> merge
+:text> Объединить
+
+:name> please_select_items
+:text> Пожалуйста, сначала выберите элементы
+
+:name> please_select_at_least_two_notes
+:text> Пожалуйста, выберите как минимум 2 заметки для объединения
+
+:name> merge_notes_confirmation_title
+:text> Подтвердить объединение
+
+:name> merge_notes_confirmation_message
+:text> Это объединит все выбранные заметки в новую заметку, а исходные заметки будут удалены. Это действие невозможно отменить. Продолжить?
+
+:name> audio_store_folder_prefix
+:text> Папка для хранения аудиофайлов: %s
+
+:name> audio_store_folder_placeholder
+:text> Папка для хранения аудиофайлов: xxx
+
+:name> web_note_store_folder_prefix
+:text> Папка для хранения веб-заметок: %s
+
+:name> web_note_store_folder_placeholder
+:text> Веб-папка для хранения заметок: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> Добавить несколько источников данных.
+
+:name> premium_privilege_image_upload
+:text> Добавить хост для изображений и автоматически загружать изображения из заметок.
+
+:name> set_note_yaml_sub
+:text> Преамбула — это специальный формат синтаксиса, используемый для добавления метаданных в Markdown.
+
+:name> set_file_naming_custom
+:text> Пользовательский
+
+:name> set_file_naming_custom_tip
+:text> Г: Год, М: Месяц, Д: День, Ч: Час, м: Минута, с: Секунда, мс: Миллисекунда
+
+:name> set_image_sub
+:text> Изображение, камера и хостинг изображений
+
+:name> set_note_image_compress_quality
+:text> Качество сжатия изображений
+
+:name> set_note_image_compress_quality_sub
+:text> Текущее качество: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Введите диапазон 0–100. Более высокие значения означают лучшую четкость изображения, но требуют больше места для хранения.
+
+:name> set_sync_clear_status
+:text> Очистить статус синхронизации
+
+:name> set_sync_clear_status_summary
+:text> Очистить весь кеш данных синхронизации и сбросить статус синхронизации файлов. При следующей синхронизации повторное построение статуса синхронизации займет немного больше времени. Используйте эту функцию, если возникла проблема со статусом синхронизации.
+
+:name> set_sync_clear_status_message
+:text> Вы действительно хотите очистить статус синхронизации? При следующей синхронизации восстановление статуса синхронизации займет немного больше времени.
+
+:name> set_sync_log
+:text> Журнал синхронизации
+
+:name> set_sync_log_dialog_title
+:text> Выберите файл журнала
+
+:name> datasource_restart_message
+:text> Пожалуйста, перезапустите приложение, чтобы продолжить его использование.
+Примечание. Поскольку вы изменили корневую директорию заметок, вам необходимо вручную изменить соответствующую информацию о сервере облачной синхронизации (если она была настроена ранее).
+
+:name> datasource_use_internal
+:text> Сменить корневую директорию заметок
+
+:name> datasource_use_internal_message
+:text> Уверены, что использовать эту директорию в качестве корневой директории внутренних заметок?
+
+:name> review_type_today
+:text> Сегодня
+
+:name> review_type_yesterday
+:text> Вчера
+
+:name> review_type_last_today
+:text> Сегодня в истории
+
+:name> review_type_this_week
+:text> Эта неделя
+
+:name> review_type_last_week
+:text> Прошлая неделя
+
+:name> review_type_this_month
+:text> Этот месяц
+
+:name> review_type_last_month
+:text> Прошлый месяц
+
+:name> review_type_this_year
+:text> Этот год
+
+:name> review_type_custom
+:text> Пользовательский
+
+:name> input_panel_more
+:text> Еще
+
+:name> input_panel_storage_location
+:text> Местоположение хранилища
+
+:name> input_panel_enable_encryption
+:text> Включить шифрование
+
+:name> set_import_flomo
+:text> Импортировать из flomo
+
+:name> set_import_flomo_sub
+:text> Нажмите, чтобы импортировать заметки из ZIP-файла, экспортированного из flomo
+
+:name> import_flomo_title
+:text> Импортировать из flomo
+
+:name> datasource_default_dir
+:text> Каталог по умолчанию
+
+:name> datasource_default_dir_suffix
+:text> (Каталог по умолчанию)
+
+:name> datasource_internal_summary_template
+:text> Вы можете использовать несколько источников данных, добавив внутренние каталоги. Текущий используемый источник данных: %s
+
+:name> import_flomo_select_zip
+:text> Выберите ZIP-файл
+
+:name> import_flomo_select_zip_sub
+:text> Выберите ZIP-файл, который вы экспортировали из flomo
+
+:name> import_flomo_option_title
+:text> Параметры импорта
+
+:name> import_flomo_encrypt
+:text> Шифровать заметки
+
+:name> import_flomo_encrypt_no_key
+:text> Вы ещё не задали ключ шифрования, сначала задайте его в настройках безопасности.
+
+:name> import_flomo_organize_method
+:text> Метод организации заметок
+
+:name> import_flomo_organize_by_month
+:text> Создавать каталог для каждого месяца
+
+:name> import_flomo_organize_by_month_sub
+:text> Заметки Flomo за каждый месяц будут храниться в отдельной директории; каждая заметка создаст отдельный документ.
+
+:name> import_flomo_organize_no
+:text> Не группировать по месяцам
+
+:name> import_flomo_organize_no_sub
+:text> Все заметки будут импортированы в этот каталог; каждая заметка создаст документ.
+
+:name> import_flomo_each_note_desc
+:text> Каждая заметка создаст документ
+
+:name> import_flomo_target_dir
+:text> Целевая директория
+
+:name> import_flomo_start_import
+:text> Начать импорт
+
+:name> import_flomo_scan_result
+:text> Найдено %d заметок, %d файлов
+
+:name> import_flomo_scanning
+:text> Сканирование
+&
+#8230;
+

@@ -1,0 +1,267 @@
+:name> create_folder_tip
+:text> 請輸入資料夾名稱
+
+:name> create_folder_to
+:text> 建立資料夾至：%s
+
+:name> datasource_internal
+:text> 使用內部資料來源
+
+:name> data_statistics
+:text> 資料統計
+
+:name> review
+:text> 複習
+
+:name> unit_day
+:text> 天
+
+:name> unit_year
+:text> 年
+
+:name> statistics_new_notes_this_month
+:text> 本月新增筆記
+
+:name> statistics_top_tags
+:text> 前 5 個標籤
+
+:name> statistics_storage
+:text> 儲存
+
+:name> set_image_host_enable
+:text> 啟用圖像托管
+
+:name> set_image_host_enable_sub
+:text> 啟用後，插入筆記中的圖片將優先儲存至圖床。
+
+:name> set_image_host
+:text> 圖像托管
+
+:name> set_image_host_config
+:text> 圖像主機設定
+
+:name> set_image_host_config_summary
+:text> 設定所選圖床的參數
+
+:name> set_image_host_not_configured
+:text> 未設定
+
+:name> set_image_host_configured
+:text> 已設定
+
+:name> set_image_host_test
+:text> 測試連線
+
+:name> set_image_host_test_tip
+:text> 儲存前測試
+
+:name> set_image_host_test_success
+:text> 測試成功
+
+:name> set_image_host_test_failed
+:text> 測試失敗：%s
+
+:name> set_image_host_save_confirm
+:text> 你通過測試了嗎？建議在通過測試後儲存。
+
+:name> set_image_host_config_title
+:text> 設定 %s
+
+:name> set_image_host_input_hint
+:text> 請輸入 %s
+
+:name> set_image_host_beta_notice
+:text> 圖片托管功能目前處於測試階段。如果您發現任何問題，請與我們聯繫。
+
+:name> set_image_host_no_config_found
+:text> 未找到主機「%s」的圖片上傳設定
+
+:name> set_image_host_select_first
+:text> 請先選擇一個圖床
+
+:name> image_host_uploading
+:text> 上傳中
+…
+
+:name> image_host_upload_failed
+:text> 上傳失敗：%s
+
+:name> batch_processing
+:text> 批次處理
+
+:name> merge
+:text> 合併
+
+:name> please_select_items
+:text> 請先選擇項目
+
+:name> please_select_at_least_two_notes
+:text> 請至少選取 2 篇筆記進行合併
+
+:name> merge_notes_confirmation_title
+:text> 確認合併
+
+:name> merge_notes_confirmation_message
+:text> 這將會把所有選取的筆記合併成一篇新筆記，而原始筆記將被刪除。此動作無法復原。是否繼續？
+
+:name> audio_store_folder_prefix
+:text> 音訊儲存資料夾：%s
+
+:name> audio_store_folder_placeholder
+:text> 音訊儲存資料夾：xxx
+
+:name> web_note_store_folder_prefix
+:text> 網頁筆記儲存資料夾：%s
+
+:name> web_note_store_folder_placeholder
+:text> Web 筆記儲存資料夾：xxx
+
+:name> premium_privilege_multi_data_sources
+:text> 新增多個資料來源。
+
+:name> premium_privilege_image_upload
+:text> 新增圖床，並自動上傳筆記中的圖片。
+
+:name> set_file_naming_custom
+:text> 自訂
+
+:name> set_file_naming_custom_tip
+:text> Y：年，M：月，D：日，H：小時，m：分鐘，s：秒，S：毫秒
+
+:name> set_image_sub
+:text> 圖片、相機與圖片托管
+
+:name> set_note_image_compress_quality
+:text> 圖片壓縮品質
+
+:name> set_note_image_compress_quality_sub
+:text> 目前品質：%d
+
+:name> set_note_image_compress_quality_tip
+:text> 輸入範圍 0-100。數值越高表示影像清晰度越好，但會消耗更多儲存空間。
+
+:name> set_sync_clear_status
+:text> 清除同步狀態
+
+:name> set_sync_clear_status_summary
+:text> 清除所有同步資料快取，重設檔案的同步狀態，下次同步時重建同步狀態將會花費較長時間。當同步狀態出現問題時可使用此功能。
+
+:name> set_sync_clear_status_message
+:text> 確定要清除同步狀態嗎？下次同步時重建同步狀態將需要較長的時間。
+
+:name> set_sync_log
+:text> 同步記錄
+
+:name> set_sync_log_dialog_title
+:text> 選取記錄檔
+
+:name> datasource_default_dir
+:text> 預設目錄
+
+:name> datasource_default_dir_suffix
+:text> （預設目錄）
+
+:name> datasource_internal_summary_template
+:text> 可以通過新增內部目錄實現多數據源。當前使用的數據源：%s
+
+:name> datasource_restart_message
+:text> 請重新啟動應用程式以繼續使用。\n\n注意：由於您已變更筆記根目錄，若您先前已設定雲端同步伺服器資訊，則需手動更新相應的伺服器資訊。
+
+:name> datasource_use_internal
+:text> 切換筆記根目錄
+
+:name> datasource_use_internal_message
+:text> 確定要使用此目錄作為內部筆記的根目錄嗎？
+
+:name> review_type_today
+:text> 今天
+
+:name> review_type_yesterday
+:text> 昨天
+
+:name> review_type_last_today
+:text> 今日歷史
+
+:name> review_type_this_week
+:text> 本週
+
+:name> review_type_last_week
+:text> 上週
+
+:name> review_type_this_month
+:text> 本月
+
+:name> review_type_last_month
+:text> 上個月
+
+:name> review_type_this_year
+:text> 今年
+
+:name> review_type_custom
+:text> 自訂
+
+:name> input_panel_more
+:text> 更多
+
+:name> input_panel_storage_location
+:text> 儲存位置
+
+:name> input_panel_enable_encryption
+:text> 啟用加密
+
+:name> set_import_flomo
+:text> 從 flomo 匯入
+
+:name> set_import_flomo_sub
+:text> 點擊從 flomo 匯出的 ZIP 檔案匯入筆記
+
+:name> import_flomo_title
+:text> 從 flomo 匯入
+
+:name> import_flomo_select_zip
+:text> 選取 zip 檔案
+
+:name> import_flomo_select_zip_sub
+:text> 選取您從 flomo 匯出的 zip 檔案
+
+:name> import_flomo_option_title
+:text> 匯入選項
+
+:name> import_flomo_encrypt
+:text> 加密筆記
+
+:name> import_flomo_encrypt_no_key
+:text> 您尚未設定加密金鑰，請先於安全性設定中設定。
+
+:name> import_flomo_organize_method
+:text> 筆記組織方式
+
+:name> import_flomo_organize_by_month
+:text> 每月建立一個目錄
+
+:name> import_flomo_organize_by_month_sub
+:text> 每月的 Flomo 記錄將儲存在獨立的資料夾中；每則記錄將建立一份文件。
+
+:name> import_flomo_organize_no
+:text> 不要按月份組織
+
+:name> import_flomo_organize_no_sub
+:text> 所有筆記將匯入此目錄；每則筆記將建立一份文件。
+
+:name> import_flomo_each_note_desc
+:text> 每則筆記將建立一份文件
+
+:name> import_flomo_target_dir
+:text> 目標目錄
+
+:name> import_flomo_start_import
+:text> 開始匯入
+
+:name> import_flomo_scan_result
+:text> 找到 %d 筆筆記，%d 個檔案
+
+:name> import_flomo_scanning
+:text> 掃描中
+&
+#8230;
+

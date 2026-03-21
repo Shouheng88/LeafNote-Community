@@ -1,0 +1,273 @@
+:name> create_folder_tip
+:text> Bitte Ordnername eingeben
+
+:name> create_folder_to
+:text> Ordner erstellen in: %s
+
+:name> datasource_internal
+:text> Interne Datenquelle verwenden
+
+:name> data_statistics
+:text> Datenstatistik
+
+:name> review
+:text> Überprüfung
+
+:name> unit_day
+:text> Tage
+
+:name> unit_year
+:text> Jahre
+
+:name> statistics_new_notes_this_month
+:text> Neue Notizen diesen Monat
+
+:name> statistics_top_tags
+:text> Top 5 Tags
+
+:name> statistics_storage
+:text> Speicher
+
+:name> set_image_host_enable
+:text> Bildhoster aktivieren
+
+:name> set_image_host_enable_sub
+:text> Nach Aktivierung werden Bilder, die in Notizen eingefügt werden, priorisiert auf dem Bildhost gespeichert.
+
+:name> set_image_host
+:text> Bildhost
+
+:name> set_image_host_config
+:text> Konfiguration des Bildhosts
+
+:name> set_image_host_config_summary
+:text> Parameter für den ausgewählten Bildhost konfigurieren
+
+:name> set_image_host_not_configured
+:text> Nicht konfiguriert
+
+:name> set_image_host_configured
+:text> Konfiguriert
+
+:name> set_image_host_test
+:text> Verbindung testen
+
+:name> set_image_host_test_tip
+:text> Testen vor dem Speichern
+
+:name> set_image_host_test_success
+:text> Test erfolgreich
+
+:name> set_image_host_test_failed
+:text> Test fehlgeschlagen: %s
+
+:name> set_image_host_save_confirm
+:text> Haben Sie den Test bestanden? Es wird empfohlen, nach dem Bestehen des Tests zu speichern.
+
+:name> set_image_host_config_title
+:text> Konfigurieren Sie %s
+
+:name> set_image_host_input_hint
+:text> Bitte geben Sie %s ein
+
+:name> set_image_host_beta_notice
+:text> Die Bildhosting-Funktion befindet sich derzeit in der Beta-Phase. Falls Sie Probleme feststellen, kontaktieren Sie uns bitte.
+
+:name> set_image_host_no_config_found
+:text> Keine Bild-Upload-Konfiguration für Host gefunden: %s
+
+:name> set_image_host_select_first
+:text> Bitte wählen Sie zuerst einen Bildhost aus.
+
+:name> image_host_uploading
+:text> Wird hochgeladen
+…
+
+:name> image_host_upload_failed
+:text> Upload fehlgeschlagen: %s
+
+:name> batch_processing
+:text> Batch-Verarbeitung
+
+:name> merge
+:text> Zusammenführen
+
+:name> please_select_items
+:text> Bitte wählen Sie zuerst Elemente aus.
+
+:name> please_select_at_least_two_notes
+:text> Bitte wählen Sie mindestens 2 Notizen zum Zusammenführen aus.
+
+:name> merge_notes_confirmation_title
+:text> Zusammenführung bestätigen
+
+:name> merge_notes_confirmation_message
+:text> Dadurch werden alle ausgewählten Notizen in einer neuen Notiz zusammengeführt, und die ursprünglichen Notizen werden gelöscht. Diese Aktion kann nicht rückgängig gemacht werden. Fortfahren?
+
+:name> audio_store_folder_prefix
+:text> Audio-Speicherordner: %s
+
+:name> audio_store_folder_placeholder
+:text> Audio-Speicherordner: xxx
+
+:name> web_note_store_folder_prefix
+:text> Web-Notizspeicherordner: %s
+
+:name> web_note_store_folder_placeholder
+:text> Web-Notizspeicherordner: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> Mehrere Datenquellen hinzufügen.
+
+:name> premium_privilege_image_upload
+:text> Bildhost hinzufügen und Notizbilder automatisch hochladen.
+
+:name> set_file_naming_custom
+:text> Benutzerdefiniert
+
+:name> set_file_naming_custom_tip
+:text> J: Jahr, M: Monat, T: Tag, H: Stunde, m: Minute, s: Sekunde, S: Millisekunde
+
+:name> set_image_sub
+:text> Bild, Kamera
+&
+Bild-Hosting
+
+:name> set_note_image_compress_quality
+:text> Bildkomprimierungsqualität
+
+:name> set_note_image_compress_quality_sub
+:text> Aktuelle Qualität: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Geben Sie einen Bereich von 0–100 ein. Höhere Werte bedeuten eine bessere Bildschärfe, verbrauchen jedoch mehr Speicherplatz.
+
+:name> set_sync_clear_status
+:text> Sync-Status löschen
+
+:name> set_sync_clear_status_summary
+:text> Löschen Sie den gesamten Cache für Synchronisationsdaten und setzen Sie den Synchronisationsstatus der Dateien zurück. Beim nächsten Synchronisierungsvorgang dauert es etwas länger, den Synchronisationsstatus neu aufzubauen. Verwenden Sie diese Funktion, wenn Probleme mit dem Synchronisationsstatus auftreten.
+
+:name> set_sync_clear_status_message
+:text> Sind Sie sicher, dass der Synchronisierungsstatus gelöscht werden soll? Beim nächsten Synchronisierungsvorgang dauert es etwas länger, den Synchronisierungsstatus neu aufzubauen.
+
+:name> set_sync_log
+:text> Sync-Protokoll
+
+:name> set_sync_log_dialog_title
+:text> Logdatei auswählen
+
+:name> sync_failure_delete_local
+:text> Lokale Datei konnte nicht gelöscht werden.
+
+:name> datasource_restart_message
+:text> Bitte starten Sie die App neu, um die Nutzung fortzusetzen.
+Hinweis: Da Sie das Stammverzeichnis für Notizen geändert haben, müssen Sie die Informationen zum Cloud-Synchronisierungsserver entsprechend manuell anpassen (sofern Sie dies zuvor eingerichtet hatten).
+
+:name> datasource_use_internal
+:text> Notiz-Stammverzeichnis wechseln
+
+:name> datasource_use_internal_message
+:text> Sicher, dieses Verzeichnis als Stammverzeichnis für interne Notizen zu verwenden?
+
+:name> review_type_today
+:text> Heute
+
+:name> review_type_yesterday
+:text> Gestern
+
+:name> review_type_last_today
+:text> Heute in der Geschichte
+
+:name> review_type_this_week
+:text> Diese Woche
+
+:name> review_type_last_week
+:text> Letzte Woche
+
+:name> review_type_this_month
+:text> Dieser Monat
+
+:name> review_type_last_month
+:text> Letzter Monat
+
+:name> review_type_this_year
+:text> Dieses Jahr
+
+:name> review_type_custom
+:text> Benutzerdefiniert
+
+:name> input_panel_more
+:text> Mehr
+
+:name> input_panel_storage_location
+:text> Speicherort
+
+:name> input_panel_enable_encryption
+:text> Verschlüsselung aktivieren
+
+:name> set_import_flomo
+:text> Aus flomo importieren
+
+:name> set_import_flomo_sub
+:text> Klicken Sie hier, um Notizen aus einer von flomo exportierten ZIP-Datei zu importieren
+
+:name> import_flomo_title
+:text> Aus flomo importieren
+
+:name> datasource_default_dir
+:text> Standardverzeichnis
+
+:name> datasource_default_dir_suffix
+:text> (Standardverzeichnis)
+
+:name> datasource_internal_summary_template
+:text> Sie können mehrere Datenquellen erreichen, indem Sie interne Verzeichnisse hinzufügen. Derzeit verwendete Datenquelle: %s
+
+:name> import_flomo_select_zip
+:text> ZIP-Datei auswählen
+
+:name> import_flomo_select_zip_sub
+:text> Wählen Sie die ZIP-Datei aus, die Sie von flomo exportiert haben.
+
+:name> import_flomo_option_title
+:text> Importoptionen
+
+:name> import_flomo_encrypt
+:text> Notizen verschlüsseln
+
+:name> import_flomo_encrypt_no_key
+:text> Sie haben noch keinen Verschlüsselungsschlüssel festgelegt. Bitte legen Sie diesen zunächst in den Sicherheitseinstellungen fest.
+
+:name> import_flomo_organize_method
+:text> Noten-Organisationsmethode
+
+:name> import_flomo_organize_by_month
+:text> Erstellen Sie pro Monat ein Verzeichnis
+
+:name> import_flomo_organize_by_month_sub
+:text> Flomo-Notizen für jeden Monat werden in einem separaten Verzeichnis gespeichert; jede Notiz erstellt ein Dokument.
+
+:name> import_flomo_organize_no
+:text> Nicht nach Monat organisieren
+
+:name> import_flomo_organize_no_sub
+:text> Alle Notizen werden in dieses Verzeichnis importiert; jede Notiz erstellt ein Dokument.
+
+:name> import_flomo_each_note_desc
+:text> Jede Notiz erstellt ein Dokument
+
+:name> import_flomo_target_dir
+:text> Zielverzeichnis
+
+:name> import_flomo_start_import
+:text> Import starten
+
+:name> import_flomo_scan_result
+:text> Gefunden %d Notizen, %d Dateien
+
+:name> import_flomo_scanning
+:text> Scanning
+&
+#8230;
+

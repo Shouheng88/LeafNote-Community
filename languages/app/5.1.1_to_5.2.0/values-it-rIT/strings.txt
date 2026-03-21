@@ -1,0 +1,271 @@
+:name> create_folder_tip
+:text> Inserisci il nome della cartella
+
+:name> create_folder_to
+:text> Crea cartella in: %s
+
+:name> datasource_internal
+:text> Usa la fonte dati interna
+
+:name> data_statistics
+:text> Statistiche dei dati
+
+:name> review
+:text> Revisione
+
+:name> unit_day
+:text> giorni
+
+:name> unit_year
+:text> anni
+
+:name> statistics_new_notes_this_month
+:text> Nuove note questo mese
+
+:name> statistics_top_tags
+:text> Top 5 Tag
+
+:name> statistics_storage
+:text> Archiviazione
+
+:name> set_image_host_enable
+:text> Abilita l\'host delle immagini
+
+:name> set_image_host_enable_sub
+:text> Dopo l’attivazione, le immagini inserite nelle note verranno salvate sull’host delle immagini in base alla priorità.
+
+:name> set_image_host
+:text> Host immagini
+
+:name> set_image_host_config
+:text> Configurazione dell’host delle immagini
+
+:name> set_image_host_config_summary
+:text> Configura i parametri per l\'host delle immagini selezionato
+
+:name> set_image_host_not_configured
+:text> Non configurato
+
+:name> set_image_host_configured
+:text> Configurato
+
+:name> set_image_host_test
+:text> Test Connessione
+
+:name> set_image_host_test_tip
+:text> Test prima del salvataggio
+
+:name> set_image_host_test_success
+:text> Test riuscito
+
+:name> set_image_host_test_failed
+:text> Test non riuscito: %s
+
+:name> set_image_host_save_confirm
+:text> Hai superato il test? Si consiglia di salvare dopo aver superato il test.
+
+:name> set_image_host_config_title
+:text> Configura %s
+
+:name> set_image_host_input_hint
+:text> Inserisci %s
+
+:name> set_image_host_beta_notice
+:text> La funzione di hosting delle immagini è attualmente in versione beta. Se riscontri problemi, ti preghiamo di contattarci.
+
+:name> set_image_host_no_config_found
+:text> Nessuna configurazione di caricamento immagini trovata per l\'host: %s
+
+:name> set_image_host_select_first
+:text> Seleziona prima un host per le immagini
+
+:name> image_host_uploading
+:text> Caricamento in corso
+…
+
+:name> image_host_upload_failed
+:text> Caricamento non riuscito: %s
+
+:name> batch_processing
+:text> Elaborazione batch
+
+:name> merge
+:text> Unisci
+
+:name> please_select_items
+:text> Selezionare prima gli elementi
+
+:name> please_select_at_least_two_notes
+:text> Seleziona almeno 2 note da unire
+
+:name> merge_notes_confirmation_title
+:text> Conferma unione
+
+:name> merge_notes_confirmation_message
+:text> Questa operazione unirà tutte le note selezionate in una nuova nota e le note originali verranno eliminate. Questa azione non può essere annullata. Continuare?
+
+:name> audio_store_folder_prefix
+:text> Cartella di archiviazione audio: %s
+
+:name> audio_store_folder_placeholder
+:text> Cartella di archiviazione audio: xxx
+
+:name> web_note_store_folder_prefix
+:text> Cartella di archiviazione delle note web: %s
+
+:name> web_note_store_folder_placeholder
+:text> Cartella di archiviazione delle note web: xxx
+
+:name> premium_privilege_multi_data_sources
+:text> Aggiungi più fonti di dati.
+
+:name> premium_privilege_image_upload
+:text> Aggiungi un host per le immagini e carica automaticamente le immagini delle note.
+
+:name> set_file_naming_custom
+:text> Personalizzato
+
+:name> set_file_naming_custom_tip
+:text> Y: Anno, M: Mese, D: Giorno, H: Ora, m: Minuto, s: Secondo, S: Millisecondo
+
+:name> set_image_sub
+:text> Immagine, fotocamera e hosting immagini
+
+:name> set_note_image_compress_quality
+:text> Qualità della compressione dell\'immagine
+
+:name> set_note_image_compress_quality_sub
+:text> Qualità corrente: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Inserisci un intervallo da 0 a 100. Valori più elevati significano una maggiore chiarezza dell\'immagine, ma consumano più spazio di archiviazione.
+
+:name> set_sync_clear_status
+:text> Cancella stato sincronizzazione
+
+:name> set_sync_clear_status_summary
+:text> Canc
+ella tutta la cache dei dati di sincronizzazione e reimposta lo stato di sincronizzazione dei file; la ricostruzione dello stato di sincronizzazione richiederà un po’ più di tempo durante la prossima sincronizzazione. Puoi utilizzare questa funzione in caso di problemi con lo stato di sincronizzazione.
+
+:name> set_sync_clear_status_message
+:text> Sei sicuro di voler cancellare lo stato di sincronizzazione? La ricostruzione dello stato di sincronizzazione richiederà più tempo durante la prossima sincronizzazione.
+
+:name> set_sync_log
+:text> Registro sincronizzazione
+
+:name> set_sync_log_dialog_title
+:text> Seleziona file di log
+
+:name> set_export_export_num_with
+:text> Il file %d è stato esportato
+
+:name> datasource_restart_message
+:text> Riavviare l\'app per continuare a utilizzarla.\n\nNota: poiché è stata modificata la cartella radice delle note, è necessario modificare manualmente le informazioni del server di sincronizzazione cloud di conseguenza (se precedentemente configurato).
+
+:name> datasource_use_internal
+:text> Cambia la directory radice delle note
+
+:name> datasource_use_internal_message
+:text> Vuoi sicuramente utilizzare questa directory come directory radice per le note interne?
+
+:name> review_type_today
+:text> Oggi
+
+:name> review_type_yesterday
+:text> Ieri
+
+:name> review_type_last_today
+:text> Oggi nella storia
+
+:name> review_type_this_week
+:text> Questa settimana
+
+:name> review_type_last_week
+:text> Settimana scorsa
+
+:name> review_type_this_month
+:text> Questo mese
+
+:name> review_type_last_month
+:text> Lo scorso mese
+
+:name> review_type_this_year
+:text> Questo anno
+
+:name> review_type_custom
+:text> Personalizzato
+
+:name> input_panel_more
+:text> Altro
+
+:name> input_panel_storage_location
+:text> Posizione di archiviazione
+
+:name> input_panel_enable_encryption
+:text> Abilita crittografia
+
+:name> set_import_flomo
+:text> Importa da flomo
+
+:name> set_import_flomo_sub
+:text> Clicca per importare le note dal file zip esportato da flomo
+
+:name> import_flomo_title
+:text> Importa da flomo
+
+:name> datasource_default_dir
+:text> Cartella predefinita
+
+:name> datasource_default_dir_suffix
+:text> (Directory predefinita)
+
+:name> datasource_internal_summary_template
+:text> È possibile ottenere più fonti di dati aggiungendo directory interne. Fonte di dati attualmente utilizzata: %s
+
+:name> import_flomo_select_zip
+:text> Seleziona file zip
+
+:name> import_flomo_select_zip_sub
+:text> Seleziona il file zip che hai esportato da flomo
+
+:name> import_flomo_option_title
+:text> Opzioni di importazione
+
+:name> import_flomo_encrypt
+:text> Cifrare le note
+
+:name> import_flomo_encrypt_no_key
+:text> Non hai impostato una chiave di crittografia, per favore impostala prima nelle impostazioni di sicurezza.
+
+:name> import_flomo_organize_method
+:text> Metodo di organizzazione delle note
+
+:name> import_flomo_organize_by_month
+:text> Crea una directory per mese
+
+:name> import_flomo_organize_by_month_sub
+:text> Le note Flomo per ogni mese verranno archiviate in una directory separata; ogni nota creerà un documento.
+
+:name> import_flomo_organize_no
+:text> Non organizzare per mese
+
+:name> import_flomo_organize_no_sub
+:text> Tutte le note verranno importate in questa directory; ogni nota creerà un documento.
+
+:name> import_flomo_each_note_desc
+:text> Ogni nota creerà un documento
+
+:name> import_flomo_target_dir
+:text> Cartella di destinazione
+
+:name> import_flomo_start_import
+:text> Inizia importazione
+
+:name> import_flomo_scan_result
+:text> Trovate %d note, %d file
+
+:name> import_flomo_scanning
+:text> Scansione
+&
+#8230;
+
