@@ -1,0 +1,49 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Citação\n«»
+
+:name> compose_edit_option_quote_format
+:text> «%s»
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Trechos de Notas
+
+:name> compose_edit_note_snippet_title
+:text> Selecionar Trecho de Nota
+
+:name> set_note_snippet
+:text> Trechos de Notas
+
+:name> set_note_snippet_summary
+:text> Trechos de notas podem ser usados como fragmentos de notas ou como modelos de notas a serem inseridos na nota que você está editando.
+
+:name> note_snippet_drag_to_reorder
+:text> Arraste para reordenar
+
+:name> note_snippet_content
+:text> Conteúdo
+
+:name> set_sync_clear_status_summary
+:text> Limpar todo o cache de dados de sincronização, redefinir o status de sincronização dos arquivos; levará um pouco mais de tempo para reconstruir o status de sincronização durante a pró
+xima sincronização. Você pode usá-lo quando houver um problema com o status de sincronização.
+
+:name> folder_pick_long_press_hint
+:text> Você pode pressionar longamente para editar as informações da pasta
+
+:name> input_panel_save_as_snippet
+:text> Salvar como Trecho de Nota
+
+:name> input_panel_clear_input
+:text> Limpar Entrada
+
+:name> input_panel_save_snippet_success
+:text> Snippet salvo com sucesso!
+
+:name> note_review_title
+:text> Revisão da Nota
+
+:name> note_review_message
+:text> Descubra aqueles pensamentos e eventos brilhantes do passado através da revisão.
+
+:name> note_review_continue
+:text> Continuar
+

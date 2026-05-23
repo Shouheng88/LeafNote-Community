@@ -1,0 +1,48 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 인용문\n“”
+
+:name> compose_edit_option_quote_format
+:text> “%s”
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> 노트 스니펫
+
+:name> compose_edit_note_snippet_title
+:text> 노트 조각 선택
+
+:name> set_note_snippet
+:text> 노트 스니펫
+
+:name> set_note_snippet_summary
+:text> 노트 조각은 노트 단편으로 사용하거나 편집 중인 노트에 삽입할 노트 템플릿으로 사용할 수 있습니다.
+
+:name> note_snippet_drag_to_reorder
+:text> 드래그하여 순서를 재정렬하세요
+
+:name> note_snippet_content
+:text> 콘텐츠
+
+:name> set_sync_without_notification
+:text> 직접 동기화 시작
+
+:name> folder_pick_long_press_hint
+:text> 폴더 정보를 편집하려면 길게 누르세요.
+
+:name> input_panel_save_as_snippet
+:text> 노트 스니펫으로 저장
+
+:name> input_panel_clear_input
+:text> 입력 지우기
+
+:name> input_panel_save_snippet_success
+:text> 코드 조각이 성공적으로 저장되었습니다!
+
+:name> note_review_title
+:text> 노트 검토
+
+:name> note_review_message
+:text> 과거의 빛나는 생각과 사건을 리뷰를 통해 발견하세요.
+
+:name> note_review_continue
+:text> 계속
+

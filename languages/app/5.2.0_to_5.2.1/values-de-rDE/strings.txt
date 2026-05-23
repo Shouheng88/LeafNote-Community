@@ -1,0 +1,45 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Zitat\n„“
+
+:name> compose_edit_option_quote_format
+:text> „%s“
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Notiz-Snippets
+
+:name> compose_edit_note_snippet_title
+:text> Notiz-Auszug auswählen
+
+:name> set_note_snippet
+:text> Notiz-Snippets
+
+:name> set_note_snippet_summary
+:text> Notiz-Snippets können als Notizfragmente oder als Notizvorlagen verwendet werden, die in die gerade bearbeitete Notiz eingefügt werden.
+
+:name> note_snippet_drag_to_reorder
+:text> Ziehen, um die Reihenfolge zu ändern
+
+:name> note_snippet_content
+:text> Inhalt
+
+:name> folder_pick_long_press_hint
+:text> Sie können lange drücken, um die Ordnerinformationen zu bearbeiten.
+
+:name> input_panel_save_as_snippet
+:text> Als Notiz-Snippet speichern
+
+:name> input_panel_clear_input
+:text> Eingabe löschen
+
+:name> input_panel_save_snippet_success
+:text> Code-Snippet erfolgreich gespeichert!
+
+:name> note_review_title
+:text> Notizüberprüfung
+
+:name> note_review_message
+:text> Entdecken Sie jene leuchtenden Gedanken und Ereignisse aus der Vergangenheit durch die Überprüfung.
+
+:name> note_review_continue
+:text> Fortfahren
+

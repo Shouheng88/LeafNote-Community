@@ -1,0 +1,49 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Citation\n« »
+
+:name> compose_edit_option_quote_format
+:text> « %s »
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Extraits de notes
+
+:name> compose_edit_note_snippet_title
+:text> Sélectionner un extrait de note
+
+:name> set_note_snippet
+:text> Extraits de notes
+
+:name> set_note_snippet_summary
+:text> Les extraits de note peuvent être utilisés comme fragments de note ou comme modèles de note à insérer dans la note que vous êtes en train de modifier.
+
+:name> note_snippet_drag_to_reorder
+:text> Faites glisser pour réorganiser
+
+:name> note_snippet_content
+:text> Contenu
+
+:name> set_sunc_dropbox_configured_tip
+:text> Vous avez déjà configuré Dropbox. Si vous devez mettre à jour la configuration, effacez d\'abord les paramètres
+actuels, puis reconfigurez-la.
+
+:name> folder_pick_long_press_hint
+:text> Vous pouvez appuyer longuement pour modifier les informations du dossier
+
+:name> input_panel_save_as_snippet
+:text> Enregistrer sous extrait de note
+
+:name> input_panel_clear_input
+:text> Effacer la saisie
+
+:name> input_panel_save_snippet_success
+:text> Extrait enregistré avec succès !
+
+:name> note_review_title
+:text> Relecture de la note
+
+:name> note_review_message
+:text> Découvrez ces pensées et événements étincelants du passé grâce à la révision.
+
+:name> note_review_continue
+:text> Continuer
+

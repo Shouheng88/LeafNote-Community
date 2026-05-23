@@ -1,0 +1,49 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Cita\n«»
+
+:name> compose_edit_option_quote_format
+:text> «%s»
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Fragmentos de notas
+
+:name> compose_edit_note_snippet_title
+:text> Seleccionar fragmento de nota
+
+:name> set_note_snippet
+:text> Fragmentos de notas
+
+:name> set_note_snippet_summary
+:text> Los fragmentos de notas se pueden utilizar como fragmentos de notas o como plantillas de notas que se insertarán en la nota que está editando.
+
+:name> note_snippet_drag_to_reorder
+:text> Arrastrar para reordenar
+
+:name> note_snippet_content
+:text> Contenido
+
+:name> set_sync_done
+:text> Sincr
+onización de datos completada
+
+:name> folder_pick_long_press_hint
+:text> Puede mantener presionado para editar la información de la carpeta
+
+:name> input_panel_save_as_snippet
+:text> Guardar como fragmento de nota
+
+:name> input_panel_clear_input
+:text> Borrar entrada
+
+:name> input_panel_save_snippet_success
+:text> ¡Fragmento guardado correctamente!
+
+:name> note_review_title
+:text> Revisión de notas
+
+:name> note_review_message
+:text> Descubra esos pensamientos y eventos brillantes del pasado mediante la revisión.
+
+:name> note_review_continue
+:text> Continuar
+

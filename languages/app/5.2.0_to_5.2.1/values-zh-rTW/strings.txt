@@ -1,0 +1,45 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用\n“”
+
+:name> compose_edit_option_quote_format
+:text> “%s”
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> 筆記碎片
+
+:name> compose_edit_note_snippet_title
+:text> 選擇筆記碎片
+
+:name> set_note_snippet
+:text> 筆記片段
+
+:name> set_note_snippet_summary
+:text> 筆記片段可用作筆記片段，或作為筆記範本插入至您正在編輯的筆記中。
+
+:name> note_snippet_drag_to_reorder
+:text> 拖曳以重新排序
+
+:name> note_snippet_content
+:text> 內容
+
+:name> folder_pick_long_press_hint
+:text> 您可以長按以編輯資料夾資訊
+
+:name> input_panel_save_as_snippet
+:text> 儲存為筆記片段
+
+:name> input_panel_clear_input
+:text> 清除輸入
+
+:name> input_panel_save_snippet_success
+:text> 程式碼片段已成功儲存！
+
+:name> note_review_title
+:text> 筆記複習
+
+:name> note_review_message
+:text> 透過回顧，發掘過去那些閃耀的思緒與事件。
+
+:name> note_review_continue
+:text> 繼續
+

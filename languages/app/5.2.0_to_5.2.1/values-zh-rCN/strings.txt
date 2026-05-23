@@ -1,0 +1,49 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用\n“”
+
+:name> compose_edit_option_quote_format
+:text> “%s”
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> 笔记碎片
+
+:name> compose_edit_note_snippet_title
+:text> 选择笔记碎片
+
+:name> set_note_snippet
+:text> 笔记碎片
+
+:name> set_note_snippet_summary
+:text> 笔记碎片可以用作笔记片段或者作为笔记模版插入到你正在编辑的笔记中
+
+:name> note_snippet_drag_to_reorder
+:text> 可以拖动进行排序
+
+:name> note_snippet_content
+:text> 内容
+
+:name> feedback_thank
+:text> 反馈成功！\n感谢你的反馈和支持
+！
+
+:name> folder_pick_long_press_hint
+:text> 你可以通过长按来修改目录信息
+
+:name> input_panel_save_as_snippet
+:text> 存储为“笔记碎片”
+
+:name> input_panel_clear_input
+:text> 清空输入
+
+:name> input_panel_save_snippet_success
+:text> 碎片保存成功！
+
+:name> note_review_title
+:text> 笔记回顾
+
+:name> note_review_message
+:text> 通过回顾发现过去那些熠熠生辉的想法和事件。
+
+:name> note_review_continue
+:text> 继续
+

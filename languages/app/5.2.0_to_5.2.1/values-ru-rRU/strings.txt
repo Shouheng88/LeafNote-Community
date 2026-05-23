@@ -1,0 +1,45 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Цитата\n«»
+
+:name> compose_edit_option_quote_format
+:text> «%s»
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Фрагменты заметок
+
+:name> compose_edit_note_snippet_title
+:text> Выберите фрагмент заметки
+
+:name> set_note_snippet
+:text> Фрагменты заметок
+
+:name> set_note_snippet_summary
+:text> Фрагменты заметок могут использоваться в качестве фрагментов заметок или в качестве шаблонов заметок, которые будут вставлены в редактируемую заметку.
+
+:name> note_snippet_drag_to_reorder
+:text> Перетащите для изменения порядка
+
+:name> note_snippet_content
+:text> Содержимое
+
+:name> folder_pick_long_press_hint
+:text> Вы можете долго нажимать, чтобы изменить информацию о папке
+
+:name> input_panel_save_as_snippet
+:text> Сохранить как фрагмент заметки
+
+:name> input_panel_clear_input
+:text> Очистить ввод
+
+:name> input_panel_save_snippet_success
+:text> Фрагмент успешно сохранён!
+
+:name> note_review_title
+:text> Просмотр заметок
+
+:name> note_review_message
+:text> Откройте для себя те сияющие мысли и события из прошлого с помощью повторного просмотра.
+
+:name> note_review_continue
+:text> Продолжить
+

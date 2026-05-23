@@ -1,0 +1,42 @@
+:name> compose_edit_option_quote_format
+:text> \"%s\"
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Note Snippets
+
+:name> compose_edit_note_snippet_title
+:text> Select Note Snippet
+
+:name> set_note_snippet
+:text> Note Snippets
+
+:name> set_note_snippet_summary
+:text> Note snippets can be used as note fragments or as note templates to be inserted into the note you are editing
+
+:name> note_snippet_drag_to_reorder
+:text> Drag to reorder
+
+:name> note_snippet_content
+:text> Content
+
+:name> folder_pick_long_press_hint
+:text> You can long press to edit folder information
+
+:name> input_panel_save_as_snippet
+:text> Save as Note Snippet
+
+:name> input_panel_clear_input
+:text> Clear Input
+
+:name> input_panel_save_snippet_success
+:text> Snippet saved successfully!
+
+:name> note_review_title
+:text> Note Review
+
+:name> note_review_message
+:text> Discover those shining thoughts and events from the past through review.
+
+:name> note_review_continue
+:text> Continue
+

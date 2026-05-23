@@ -1,0 +1,48 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Citazione\n«»
+
+:name> compose_edit_option_quote_format
+:text> «%s»
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Frammenti di note
+
+:name> compose_edit_note_snippet_title
+:text> Seleziona frammento di nota
+
+:name> set_note_snippet
+:text> Frammenti di note
+
+:name> set_note_snippet_summary
+:text> I frammenti di nota possono essere utilizzati come frammenti di nota o come modelli di nota da inserire nella nota che si sta modificando.
+
+:name> note_snippet_drag_to_reorder
+:text> Trascina per riordinare
+
+:name> note_snippet_content
+:text> Contenuto
+
+:name> set_sync_clear_status_summary
+:text> Cancella tutta la cache dei dati di sincronizzazione e reimposta lo stato di sincronizzazione dei file; la ricostruzione dello stato di sincronizzazione richiederà un po’ più di tempo durante la prossima sincronizzazione. Puoi utilizzare questa funzione in caso di problemi con lo stato di sincronizzazione.
+
+:name> folder_pick_long_press_hint
+:text> Puoi tenere premuto a lungo per modificare le informazioni della cartella
+
+:name> input_panel_save_as_snippet
+:text> Salva come frammento di nota
+
+:name> input_panel_clear_input
+:text> Cancella input
+
+:name> input_panel_save_snippet_success
+:text> Snippet salvato correttamente!
+
+:name> note_review_title
+:text> Revisione nota
+
+:name> note_review_message
+:text> Scopri quei pensieri ed eventi luminosi del passato attraverso la revisione.
+
+:name> note_review_continue
+:text> Continua
+

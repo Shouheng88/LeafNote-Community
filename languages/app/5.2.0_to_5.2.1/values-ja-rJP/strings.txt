@@ -1,0 +1,49 @@
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用\n「」
+
+:name> compose_edit_option_quote_format
+:text> 「%s」
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> ノートスニペット
+
+:name> compose_edit_note_snippet_title
+:text> ノートスニペットの選択
+
+:name> set_note_snippet
+:text> ノートスニペット
+
+:name> set_note_snippet_summary
+:text> ノートスニペットは、ノートの断片として、または編集中のノートに挿入するためのノートテンプレートとして使用できます。
+
+:name> note_snippet_drag_to_reorder
+:text> ドラッグして並べ替え
+
+:name> note_snippet_content
+:text> コンテンツ
+
+:name> set_sync_server_clear
+:text> サーバー構成をク
+リアする
+
+:name> folder_pick_long_press_hint
+:text> フォルダ情報の編集には、長押ししてください。
+
+:name> input_panel_save_as_snippet
+:text> ノートスニペットとして保存
+
+:name> input_panel_clear_input
+:text> 入力をクリア
+
+:name> input_panel_save_snippet_success
+:text> スニペットを正常に保存しました！
+
+:name> note_review_title
+:text> ノートのレビュー
+
+:name> note_review_message
+:text> 過去のレビューを通じて、それら輝かしい思考や出来事を発見しましょう。
+
+:name> note_review_continue
+:text> 続行
+
