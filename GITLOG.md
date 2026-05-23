@@ -1,3 +1,42 @@
+## 5.2.1 
+ - cfac861e texts
+- b58bd1ae add event trakcing
+- 0c512a2c review page change
+- 12543bf9 review page change
+- b552e4ba review page change
+- acfc42e4 review page change
+- 478f2524 review entrance dialog
+- 6f02108e review fab in home page
+- c3893918 add event track
+- a7db8cd6 add note last sync to info dialog
+- 9bb2d25d quotation fix
+- c27d8efa note snippet select biz
+- f3cb308f note snippet select biz
+- 4d29c672 feat: use format for snippet
+- 2d77feec feat: add note snippet format options
+- 922f408f feat: add note snippet manage page
+- 8f0f9dda fix: item click crash
+- 40761d8c feat: note snippets manage page
+- e9da5244 feat: save note as snippet
+- e8a1b7bc fix: home editor float more menu hide issue
+- 01bb6830 code
+- 511ec25b home edit more ui
+- 9dfa8a37 disable old track
+- 9fc47e6e disable old track
+- 36c35ff6 .. old track
+- 4a49520f Deprecated old track methods
+- b2e8ab0c add event track
+- e07a356f folder long drag hint
+- 814a42f8 allow change folder in top dialog
+- f63fe285 home menu merge
+- 2ad59503 feat: add click event track
+- 69afe86c fix: db change
+- 9d696d3a add page track for fragment
+- c8deed3c feat: add page track for activities
+- 4aee7bf3 feat: add page track biz
+- 50cb8ce2 feat: add event track apis
+- 2d468670 add event report models and api
+- e3ae03d0 add google order filed
 ## 5.2.0 
  - 1af4c377 texts
 - 9deb9dca image host available check
