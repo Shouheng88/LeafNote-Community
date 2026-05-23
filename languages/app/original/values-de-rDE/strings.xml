@@ -517,9 +517,12 @@
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">Kleine Klammern</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Mittlere Klammern</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Große Klammern</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Zitat\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Zitat\n„“</string>
+    <string name="compose_edit_option_quote_format">„%s“</string>
     <string name="compose_edit_find_replace">ersetzen</string>
     <string name="compose_edit_find_replace_all">Alles ersetzen</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">Notiz-Snippets</string>
+    <string name="compose_edit_note_snippet_title">Notiz-Auszug auswählen</string>
     <string name="compose_edit_find_results">%d Ergebnisse</string>
     <string name="compose_setting_quick_note_folder">Ordner zum Speichern der Kurznotiz</string>
     <string name="compose_setting_folder_change">Notizordner ändern</string>
@@ -655,6 +658,10 @@
     <string name="set_text_extensions_summary">Dateien mit der angegebenen Erweiterung werden gelesen und als Text angezeigt</string>
     <string name="set_support_extensions">Unterstützte Dateierweiterungen</string>
     <string name="set_support_extensions_summary">Dateien mit der angegebenen Erweiterung werden in der Notizliste angezeigt</string>
+    <string name="set_note_snippet">Notiz-Snippets</string>
+    <string name="set_note_snippet_summary">Notiz-Snippets können als Notizfragmente oder als Notizvorlagen verwendet werden, die in die gerade bearbeitete Notiz eingefügt werden.</string>
+    <string name="note_snippet_drag_to_reorder">Ziehen, um die Reihenfolge zu ändern</string>
+    <string name="note_snippet_content">Inhalt</string>
     <string name="set_illegal_charset">Unzulässige Zeichen im Namen der Konfigurationsdatei</string>
     <string name="set_illegal_charset_sub">Wenn Sie auf hier konfigurierte illegale Zeichen stoßen, wird die Anwendung diese automatisch behandeln, um verschiedene Fehler zu vermeiden.</string>
     <string name="set_note_show_date">Zeitinformationen anzeigen</string>
@@ -943,4 +950,11 @@ Hinweis: Da Sie das Stammverzeichnis für Notizen geändert haben, müssen Sie d
     <string name="import_flomo_start_import">Import starten</string>
     <string name="import_flomo_scan_result">Gefunden %d Notizen, %d Dateien</string>
     <string name="import_flomo_scanning">Scanning &amp;#8230;</string>
+    <string name="folder_pick_long_press_hint">Sie können lange drücken, um die Ordnerinformationen zu bearbeiten.</string>
+    <string name="input_panel_save_as_snippet">Als Notiz-Snippet speichern</string>
+    <string name="input_panel_clear_input">Eingabe löschen</string>
+    <string name="input_panel_save_snippet_success">Code-Snippet erfolgreich gespeichert!</string>
+    <string name="note_review_title">Notizüberprüfung</string>
+    <string name="note_review_message">Entdecken Sie jene leuchtenden Gedanken und Ereignisse aus der Vergangenheit durch die Überprüfung.</string>
+    <string name="note_review_continue">Fortfahren</string>
 </resources>

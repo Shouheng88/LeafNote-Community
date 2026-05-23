@@ -519,7 +519,10 @@
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Middle Parentheses</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Big Parentheses</string>
     <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Quote\n\"\"</string>
+    <string name="compose_edit_option_quote_format">\"%s\"</string>
     <string name="compose_edit_option_name_FORMAT_ID_MERMAID" translatable="false">Mermaid</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">Note Snippets</string>
+    <string name="compose_edit_note_snippet_title">Select Note Snippet</string>
     <string name="compose_edit_find_replace">Replace</string>
     <string name="compose_edit_find_replace_all">Replace All</string>
     <string name="compose_edit_find_results">%d results</string>
@@ -653,6 +656,10 @@
     <string name="set_export_sub">We have decided to discontinue maintenance of this feature and recommend using the sync function instead. We suggest using it only when initializing the app\'s note data.</string>
     <string name="set_note_list">Note List</string>
     <string name="set_note_list_summary">Everything related to the note list on the app\'s home page</string>
+    <string name="set_note_snippet">Note Snippets</string>
+    <string name="set_note_snippet_summary">Note snippets can be used as note fragments or as note templates to be inserted into the note you are editing</string>
+    <string name="note_snippet_drag_to_reorder">Drag to reorder</string>
+    <string name="note_snippet_content">Content</string>
     <string name="set_note_mathjax">Enable MathJax</string>
     <string name="set_note_mermaid">Enable Mermaid</string>
     <string name="set_note_disable_to_accelerate_tip">If you don\'t need this feature, you can turn it off. This will improve the rendering speed of notes.</string>
@@ -956,4 +963,11 @@
     <string name="import_flomo_start_import">Start import</string>
     <string name="import_flomo_scan_result">Found %d notes, %d files</string>
     <string name="import_flomo_scanning">Scanning &#8230;</string>
+    <string name="folder_pick_long_press_hint">You can long press to edit folder information</string>
+    <string name="input_panel_save_as_snippet">Save as Note Snippet</string>
+    <string name="input_panel_clear_input">Clear Input</string>
+    <string name="input_panel_save_snippet_success">Snippet saved successfully!</string>
+    <string name="note_review_title">Note Review</string>
+    <string name="note_review_message">Discover those shining thoughts and events from the past through review.</string>
+    <string name="note_review_continue">Continue</string>
 </resources>

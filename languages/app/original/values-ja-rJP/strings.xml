@@ -517,9 +517,12 @@
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">小さな括弧</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括弧</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大きな括弧</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n「」</string>
+    <string name="compose_edit_option_quote_format">「%s」</string>
     <string name="compose_edit_find_replace">交換する</string>
     <string name="compose_edit_find_replace_all">すべて置き換える</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">ノートスニペット</string>
+    <string name="compose_edit_note_snippet_title">ノートスニペットの選択</string>
     <string name="compose_edit_find_results">%d 件の結果</string>
     <string name="compose_setting_quick_note_folder">クイックノートの保存先フォルダー</string>
     <string name="compose_setting_folder_change">ノートフォルダの変更</string>
@@ -655,6 +658,10 @@
     <string name="set_text_extensions_summary">指定した拡張名を使用したファイルはテキストに従って読み込まれ、表示されます</string>
     <string name="set_support_extensions">サポートされているファイルの拡張名</string>
     <string name="set_support_extensions_summary">指定した拡張子名を使用したファイルがノートリストに表示されます</string>
+    <string name="set_note_snippet">ノートスニペット</string>
+    <string name="set_note_snippet_summary">ノートスニペットは、ノートの断片として、または編集中のノートに挿入するためのノートテンプレートとして使用できます。</string>
+    <string name="note_snippet_drag_to_reorder">ドラッグして並べ替え</string>
+    <string name="note_snippet_content">コンテンツ</string>
     <string name="set_illegal_charset">プロファイル名の不正な文字</string>
     <string name="set_illegal_charset_sub">ここに設定されている不正な文字に遭遇した場合は、さまざまなエラーを回避するためにアプリケーションが自動的に処理します。</string>
     <string name="set_note_show_date">時間情報を表示</string>
@@ -941,4 +948,11 @@
     <string name="import_flomo_start_import">インポートを開始</string>
     <string name="import_flomo_scan_result">%d 個のノート、%d 個のファイルが見つかりました</string>
     <string name="import_flomo_scanning">スキャン中 &amp;#8230;</string>
+    <string name="folder_pick_long_press_hint">フォルダ情報の編集には、長押ししてください。</string>
+    <string name="input_panel_save_as_snippet">ノートスニペットとして保存</string>
+    <string name="input_panel_clear_input">入力をクリア</string>
+    <string name="input_panel_save_snippet_success">スニペットを正常に保存しました！</string>
+    <string name="note_review_title">ノートのレビュー</string>
+    <string name="note_review_message">過去のレビューを通じて、それら輝かしい思考や出来事を発見しましょう。</string>
+    <string name="note_review_continue">続行</string>
 </resources>

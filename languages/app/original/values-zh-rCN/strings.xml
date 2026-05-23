@@ -517,7 +517,10 @@
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">小括号</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括号</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大括号</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n“”</string>
+    <string name="compose_edit_option_quote_format">“%s”</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">笔记碎片</string>
+    <string name="compose_edit_note_snippet_title">选择笔记碎片</string>
     <string name="compose_edit_find_replace">替换</string>
     <string name="compose_edit_find_replace_all">全部替换</string>
     <string name="compose_edit_find_results">%d 个结果</string>
@@ -640,6 +643,10 @@
     <string name="set_export_sub">我们已决定停止维护此功能，并建议使用同步功能。我们建议仅在初始化应用的笔记数据时使用它。</string>
     <string name="set_note_list">笔记列表</string>
     <string name="set_note_list_summary">应用程序主页上与笔记列表相关的所有内容</string>
+    <string name="set_note_snippet">笔记碎片</string>
+    <string name="set_note_snippet_summary">笔记碎片可以用作笔记片段或者作为笔记模版插入到你正在编辑的笔记中</string>
+    <string name="note_snippet_drag_to_reorder">可以拖动进行排序</string>
+    <string name="note_snippet_content">内容</string>
     <string name="set_note_mathjax">启用 MathJax</string>
     <string name="set_note_mermaid">启用 Mermaid</string>
     <string name="set_note_disable_to_accelerate_tip">如果您不需要此功能，可以将其关闭。这将提高笔记的渲染速度。</string>
@@ -941,4 +948,11 @@
     <string name="import_flomo_start_import">开始导入</string>
     <string name="import_flomo_scan_result">扫描完成：共 %1$d 条笔记，%2$d 个文件</string>
     <string name="import_flomo_scanning">正在扫描 &#8230;</string>
+    <string name="folder_pick_long_press_hint">你可以通过长按来修改目录信息</string>
+    <string name="input_panel_save_as_snippet">存储为“笔记碎片”</string>
+    <string name="input_panel_clear_input">清空输入</string>
+    <string name="input_panel_save_snippet_success">碎片保存成功！</string>
+    <string name="note_review_title">笔记回顾</string>
+    <string name="note_review_message">通过回顾发现过去那些熠熠生辉的想法和事件。</string>
+    <string name="note_review_continue">继续</string>
 </resources>

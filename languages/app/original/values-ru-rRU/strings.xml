@@ -519,9 +519,12 @@ Otsu</string>
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">Маленькие круглые скобки</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Средние скобки</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Большие круглые скобки</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Цитата\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Цитата\n«»</string>
+    <string name="compose_edit_option_quote_format">«%s»</string>
     <string name="compose_edit_find_replace">заменять</string>
     <string name="compose_edit_find_replace_all">Заменить все</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">Фрагменты заметок</string>
+    <string name="compose_edit_note_snippet_title">Выберите фрагмент заметки</string>
     <string name="compose_edit_find_results">%d результатов</string>
     <string name="compose_setting_quick_note_folder">Папка для сохранения краткой заметки</string>
     <string name="compose_setting_folder_change">Изменить папку заметок</string>
@@ -657,6 +660,10 @@ Otsu</string>
     <string name="set_text_extensions_summary">Файлы с указанным расширением будут читаться и отображаться в виде текста.</string>
     <string name="set_support_extensions">Поддерживаемые расширения файлов</string>
     <string name="set_support_extensions_summary">Файлы с указанным расширением будут отображаться в списке заметок.</string>
+    <string name="set_note_snippet">Фрагменты заметок</string>
+    <string name="set_note_snippet_summary">Фрагменты заметок могут использоваться в качестве фрагментов заметок или в качестве шаблонов заметок, которые будут вставлены в редактируемую заметку.</string>
+    <string name="note_snippet_drag_to_reorder">Перетащите для изменения порядка</string>
+    <string name="note_snippet_content">Содержимое</string>
     <string name="set_illegal_charset">Недопустимые символы в имени файла конфигурации.</string>
     <string name="set_illegal_charset_sub">При обнаружении недопустимых символов, настроенных здесь, приложение автоматически обработает это, чтобы вы могли избежать различных ошибок.</string>
     <string name="set_note_show_date">Показать информацию о времени</string>
@@ -945,4 +952,11 @@ Otsu</string>
     <string name="import_flomo_start_import">Начать импорт</string>
     <string name="import_flomo_scan_result">Найдено %d заметок, %d файлов</string>
     <string name="import_flomo_scanning">Сканирование &amp;#8230;</string>
+    <string name="folder_pick_long_press_hint">Вы можете долго нажимать, чтобы изменить информацию о папке</string>
+    <string name="input_panel_save_as_snippet">Сохранить как фрагмент заметки</string>
+    <string name="input_panel_clear_input">Очистить ввод</string>
+    <string name="input_panel_save_snippet_success">Фрагмент успешно сохранён!</string>
+    <string name="note_review_title">Просмотр заметок</string>
+    <string name="note_review_message">Откройте для себя те сияющие мысли и события из прошлого с помощью повторного просмотра.</string>
+    <string name="note_review_continue">Продолжить</string>
 </resources>

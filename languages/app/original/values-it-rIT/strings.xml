@@ -522,9 +522,12 @@ Otsu</string>
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">Piccole parentesi</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Parentesi centrali</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Grandi parentesi</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Citazione\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Citazione\n«»</string>
+    <string name="compose_edit_option_quote_format">«%s»</string>
     <string name="compose_edit_find_replace">sostituire</string>
     <string name="compose_edit_find_replace_all">Sostituisci tutto</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">Frammenti di note</string>
+    <string name="compose_edit_note_snippet_title">Seleziona frammento di nota</string>
     <string name="compose_edit_find_results">%d risultati</string>
     <string name="compose_setting_quick_note_folder">Cartella in cui salvare la nota rapida</string>
     <string name="compose_setting_folder_change">Cambia cartella note</string>
@@ -660,6 +663,10 @@ Otsu</string>
     <string name="set_text_extensions_summary">I file con l\'estensione specificata verranno letti e visualizzati come testo</string>
     <string name="set_support_extensions">Estensioni di file supportate</string>
     <string name="set_support_extensions_summary">I file con l\'estensione specificata verranno visualizzati nell\'elenco delle note</string>
+    <string name="set_note_snippet">Frammenti di note</string>
+    <string name="set_note_snippet_summary">I frammenti di nota possono essere utilizzati come frammenti di nota o come modelli di nota da inserire nella nota che si sta modificando.</string>
+    <string name="note_snippet_drag_to_reorder">Trascina per riordinare</string>
+    <string name="note_snippet_content">Contenuto</string>
     <string name="set_illegal_charset">Caratteri non validi nel nome del file di configurazione</string>
     <string name="set_illegal_charset_sub">Quando si incontrano caratteri illegali configurati qui, l\'applicazione li gestirà automaticamente per evitare vari errori.</string>
     <string name="set_note_show_date">Mostra informazioni sull\'ora</string>
@@ -946,4 +953,11 @@ Otsu</string>
     <string name="import_flomo_start_import">Inizia importazione</string>
     <string name="import_flomo_scan_result">Trovate %d note, %d file</string>
     <string name="import_flomo_scanning">Scansione &amp;#8230;</string>
+    <string name="folder_pick_long_press_hint">Puoi tenere premuto a lungo per modificare le informazioni della cartella</string>
+    <string name="input_panel_save_as_snippet">Salva come frammento di nota</string>
+    <string name="input_panel_clear_input">Cancella input</string>
+    <string name="input_panel_save_snippet_success">Snippet salvato correttamente!</string>
+    <string name="note_review_title">Revisione nota</string>
+    <string name="note_review_message">Scopri quei pensieri ed eventi luminosi del passato attraverso la revisione.</string>
+    <string name="note_review_continue">Continua</string>
 </resources>

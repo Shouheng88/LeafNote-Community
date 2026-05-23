@@ -517,7 +517,10 @@
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">小括號</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">中括號</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">大括號</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">引用\n“”</string>
+    <string name="compose_edit_option_quote_format">“%s”</string>
+    <string name="compose_edit_option_name_NOTE_SNIPPET">筆記碎片</string>
+    <string name="compose_edit_note_snippet_title">選擇筆記碎片</string>
     <string name="compose_edit_find_replace">替換</string>
     <string name="compose_edit_find_replace_all">全部替換</string>
     <string name="compose_edit_find_results">%d 個結果</string>
@@ -653,6 +656,10 @@
     <string name="set_note_extensions_sub">使用了指定的副檔名的檔將被應用辨識為筆記</string>
     <string name="set_text_extensions">支援打開的副檔名</string>
     <string name="set_text_extensions_summary">指定副檔名結尾的檔將會被以文字文件的形式讀取</string>
+    <string name="set_note_snippet">筆記片段</string>
+    <string name="set_note_snippet_summary">筆記片段可用作筆記片段，或用作插入至您正在編輯之筆記的筆記範本。</string>
+    <string name="note_snippet_drag_to_reorder">拖曳以重新排序</string>
+    <string name="note_snippet_content">內容</string>
     <string name="set_support_extensions">支援的文件的副檔名</string>
     <string name="set_support_extensions_summary">使用指定的副檔名的文件將會展示到筆記列表中</string>
     <string name="set_illegal_charset">設定檔案名稱的非法字元</string>
@@ -941,4 +948,11 @@
     <string name="import_flomo_start_import">開始匯入</string>
     <string name="import_flomo_scan_result">已找到 %d 則筆記、%d 個檔案</string>
     <string name="import_flomo_scanning">正在掃描 &amp;#8230;</string>
+    <string name="folder_pick_long_press_hint">你可以長按以編輯資料夾資訊</string>
+    <string name="input_panel_save_as_snippet">儲存為筆記片段</string>
+    <string name="input_panel_clear_input">清除輸入</string>
+    <string name="input_panel_save_snippet_success">程式碼片段已成功儲存！</string>
+    <string name="note_review_title">筆記複習</string>
+    <string name="note_review_message">透過回顧，發掘過去那些閃耀的思緒與事件。</string>
+    <string name="note_review_continue">繼續</string>
 </resources>

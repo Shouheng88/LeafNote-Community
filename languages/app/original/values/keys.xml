@@ -15,6 +15,7 @@
     <string name="key_set_universal" translatable="false">key_set_universal</string>
     <string name="key_set_list" translatable="false">key_set_list</string>
     <string name="key_set_note" translatable="false">key_set_note</string>
+    <string name="key_set_note_snippet" translatable="false">key_set_note_snippet</string>
     <string name="key_set_image" translatable="false">key_set_image</string>
     <string name="key_set_image_ocr_type" translatable="false">___hooooops_set_image_ocr_type</string>
     <string name="key_set_image_ocr_configuration" translatable="false">___hooooops_set_image_ocr_configuration_</string>
