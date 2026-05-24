@@ -662,6 +662,7 @@ Otsu</string>
     <string name="set_support_extensions_summary">Файлы с указанным расширением будут отображаться в списке заметок.</string>
     <string name="set_note_snippet">Фрагменты заметок</string>
     <string name="set_note_snippet_summary">Фрагменты заметок могут использоваться в качестве фрагментов заметок или в качестве шаблонов заметок, которые будут вставлены в редактируемую заметку.</string>
+    <string name="note_snippet_create">Создать фрагмент заметки</string>
     <string name="note_snippet_drag_to_reorder">Перетащите для изменения порядка</string>
     <string name="note_snippet_content">Содержимое</string>
     <string name="set_illegal_charset">Недопустимые символы в имени файла конфигурации.</string>

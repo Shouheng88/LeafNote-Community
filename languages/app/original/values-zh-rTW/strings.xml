@@ -660,6 +660,7 @@
     <string name="set_note_snippet_summary">筆記片段可用作筆記片段，或作為筆記範本插入至您正在編輯的筆記中。</string>
     <string name="note_snippet_drag_to_reorder">拖曳以重新排序</string>
     <string name="note_snippet_content">內容</string>
+    <string name="note_snippet_create">建立筆記片段</string>
     <string name="set_support_extensions">支援的文件的副檔名</string>
     <string name="set_support_extensions_summary">使用指定的副檔名的文件將會展示到筆記列表中</string>
     <string name="set_illegal_charset">設定檔案名稱的非法字元</string>

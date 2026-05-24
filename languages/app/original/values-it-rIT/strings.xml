@@ -665,6 +665,7 @@ Otsu</string>
     <string name="set_support_extensions_summary">I file con l\'estensione specificata verranno visualizzati nell\'elenco delle note</string>
     <string name="set_note_snippet">Frammenti di note</string>
     <string name="set_note_snippet_summary">I frammenti di nota possono essere utilizzati come frammenti di nota o come modelli di nota da inserire nella nota che si sta modificando.</string>
+    <string name="note_snippet_create">Crea frammento di nota</string>
     <string name="note_snippet_drag_to_reorder">Trascina per riordinare</string>
     <string name="note_snippet_content">Contenuto</string>
     <string name="set_illegal_charset">Caratteri non validi nel nome del file di configurazione</string>

@@ -664,6 +664,7 @@ Otsu</string>
     <string name="set_support_extensions_summary">Les fichiers avec l\'extension spécifiée seront affichés dans la liste de notes</string>
     <string name="set_note_snippet">Extraits de notes</string>
     <string name="set_note_snippet_summary">Les extraits de note peuvent être utilisés comme fragments de note ou comme modèles de note à insérer dans la note que vous êtes en train de modifier.</string>
+    <string name="note_snippet_create">Créer un extrait de note</string>
     <string name="note_snippet_drag_to_reorder">Faites glisser pour réorganiser</string>
     <string name="note_snippet_content">Contenu</string>
     <string name="set_illegal_charset">Caractères illégaux dans le nom du fichier de configuration</string>

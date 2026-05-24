@@ -660,6 +660,7 @@
     <string name="set_note_extensions_sub">使用指定拓展名的文件将被应用识别为笔记</string>
     <string name="set_text_extensions">文本文件的拓展名</string>
     <string name="set_text_extensions_summary">使用指定拓展名的文件将会被按照文本读取和展示</string>
+    <string name="note_snippet_create">创建笔记片段</string>
     <string name="set_support_extensions">支持的文件的拓展名</string>
     <string name="set_support_extensions_summary">使用指定的拓展名的文件将会展示到笔记列表中</string>
     <string name="set_illegal_charset">配置文件名的非法字符</string>

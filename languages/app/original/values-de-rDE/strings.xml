@@ -660,6 +660,7 @@
     <string name="set_support_extensions_summary">Dateien mit der angegebenen Erweiterung werden in der Notizliste angezeigt</string>
     <string name="set_note_snippet">Notiz-Snippets</string>
     <string name="set_note_snippet_summary">Notiz-Snippets können als Notizfragmente oder als Notizvorlagen verwendet werden, die in die gerade bearbeitete Notiz eingefügt werden.</string>
+    <string name="note_snippet_create">Notiz-Snippet erstellen</string>
     <string name="note_snippet_drag_to_reorder">Ziehen, um die Reihenfolge zu ändern</string>
     <string name="note_snippet_content">Inhalt</string>
     <string name="set_illegal_charset">Unzulässige Zeichen im Namen der Konfigurationsdatei</string>

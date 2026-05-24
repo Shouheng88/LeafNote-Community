@@ -660,6 +660,7 @@
     <string name="set_support_extensions_summary">指定した拡張子名を使用したファイルがノートリストに表示されます</string>
     <string name="set_note_snippet">ノートスニペット</string>
     <string name="set_note_snippet_summary">ノートスニペットは、ノートの断片として、または編集中のノートに挿入するためのノートテンプレートとして使用できます。</string>
+    <string name="note_snippet_create">ノートスニペットを作成</string>
     <string name="note_snippet_drag_to_reorder">ドラッグして並べ替え</string>
     <string name="note_snippet_content">コンテンツ</string>
     <string name="set_illegal_charset">プロファイル名の不正な文字</string>

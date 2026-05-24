@@ -660,6 +660,7 @@
     <string name="set_note_snippet_summary">Note snippets can be used as note fragments or as note templates to be inserted into the note you are editing</string>
     <string name="note_snippet_drag_to_reorder">Drag to reorder</string>
     <string name="note_snippet_content">Content</string>
+    <string name="note_snippet_create">Create Note Snippet</string>
     <string name="set_note_mathjax">Enable MathJax</string>
     <string name="set_note_mermaid">Enable Mermaid</string>
     <string name="set_note_disable_to_accelerate_tip">If you don\'t need this feature, you can turn it off. This will improve the rendering speed of notes.</string>

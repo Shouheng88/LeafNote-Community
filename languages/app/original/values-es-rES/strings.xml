@@ -665,6 +665,7 @@ Otsu</string>
     <string name="set_support_extensions_summary">Los archivos con la extensión especificada se mostrarán en la lista de notas.</string>
     <string name="set_note_snippet">Fragmentos de notas</string>
     <string name="set_note_snippet_summary">Los fragmentos de notas se pueden utilizar como fragmentos de notas o como plantillas de notas que se insertarán en la nota que está editando.</string>
+    <string name="note_snippet_create">Crear fragmento de nota</string>
     <string name="note_snippet_drag_to_reorder">Arrastrar para reordenar</string>
     <string name="note_snippet_content">Contenido</string>
     <string name="set_illegal_charset">Caracteres ilegales en el nombre del archivo de configuración</string>
