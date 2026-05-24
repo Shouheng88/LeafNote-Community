@@ -1,0 +1,7 @@
+:name> note_snippet_create
+:text> Notiz-Snippet erstellen
+
+:name> set_sync_single_sub
+:text> Synchronisieren S
+ie sofort, nachdem der Dateiinhalt geändert wurde
+

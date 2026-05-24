@@ -1,0 +1,10 @@
+:name> note_snippet_create
+:text> Crear fragmento de nota
+
+:name> set_sync_num_with
+:text> Se han
+sincronizado %d archivos
+
+:name> set_sync_done
+:text> Sincronización de datos completada
+

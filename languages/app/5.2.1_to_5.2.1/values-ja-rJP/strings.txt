@@ -1,0 +1,10 @@
+:name> note_snippet_create
+:text> ノートスニペットを作成
+
+:name> set_sync_server_change
+:text> クラウドサーバー
+の変更
+
+:name> set_sync_server_clear
+:text> サーバー構成をクリアする
+

@@ -1,0 +1,7 @@
+:name> note_snippet_create
+:text> Criar Trecho de Nota
+
+:name> set_sync_clear_status_summary
+:text> Limpar todo o cache de dados de sincronização, redefinir o status de sincronização dos arquivos; levará um pouco mais
+de tempo para reconstruir o status de sincronização durante a próxima sincronização. Você pode usá-lo quando houver um problema com o status de sincronização.
+

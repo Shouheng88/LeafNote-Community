@@ -1,0 +1,7 @@
+:name> note_snippet_create
+:text> Créer un extrait de note
+
+:name> set_sunc_dropbox_configured_tip
+:text> Vous avez déjà configuré Dropbox. Si vo
+us devez mettre à jour la configuration, effacez d\'abord les paramètres actuels, puis reconfigurez-la.
+

@@ -1,0 +1,6 @@
+:name> note_snippet_create
+:text> 创建笔记片段
+
+:name> feedback_thank
+:text> 反馈成功！\n感谢你的反馈和支持！
+

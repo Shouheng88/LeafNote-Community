@@ -1,0 +1,7 @@
+:name> note_snippet_create
+:text> Create Note Snippet
+
+:name> trash_box_empty_tip
+:text> Sure to empty the tras
+h box?
+
