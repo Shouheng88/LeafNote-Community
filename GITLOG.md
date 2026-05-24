@@ -1,4 +1,6 @@
 ## 5.2.1 
+ - 280af619 texts
+## 5.2.1 
  - cfac861e texts
 - b58bd1ae add event trakcing
 - 0c512a2c review page change
