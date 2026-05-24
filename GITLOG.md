@@ -1,4 +1,6 @@
 ## 5.2.1 
+ - 5ae9860e add event track disable config
+## 5.2.1 
  - 280af619 texts
 ## 5.2.1 
  - cfac861e texts
