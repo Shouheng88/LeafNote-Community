@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> AI가 비활성화되어 있습니다. AI를 활성화한 후 다시 시도해 주세요!
+
+:name> chat_ai_thinking_toast
+:text> AI가 지금 생각 중입니다. 잠시 후 다시 시도해 주세요!
+

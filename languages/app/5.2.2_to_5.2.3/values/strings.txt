@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> AI is disabled, please enable it and try again!
+
+:name> chat_ai_thinking_toast
+:text> AI is thinking now, please try again later!
+

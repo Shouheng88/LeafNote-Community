@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> AI 已禁用，请启用后重试！
+
+:name> chat_ai_thinking_toast
+:text> AI 正在思考中，请稍后再试！
+

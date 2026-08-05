@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> AIは無効になっています。有効にしてからもう一度お試しください！
+
+:name> chat_ai_thinking_toast
+:text> AI が現在考え中です。しばらくしてから再度お試しください！
+

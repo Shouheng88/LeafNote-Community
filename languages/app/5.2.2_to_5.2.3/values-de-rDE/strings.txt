@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> KI ist deaktiviert, bitte aktivieren Sie sie und versuchen Sie es erneut!
+
+:name> chat_ai_thinking_toast
+:text> KI denkt gerade, bitte versuchen Sie es später erneut!
+

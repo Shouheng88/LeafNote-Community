@@ -1,0 +1,6 @@
+:name> chat_ai_disable_toast
+:text> L\'IA è disabilitata, abilitala e riprova!
+
+:name> chat_ai_thinking_toast
+:text> L\'IA sta ragionando in questo momento, per favore riprova più tardi!
+
