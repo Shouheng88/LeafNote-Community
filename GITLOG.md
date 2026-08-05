@@ -1,3 +1,10 @@
+## 5.2.3 
+ - 5acc9aeb 文案
+- 79123b13 自定义AI服务器的baseurl提高兼容性
+- e876ab80 AI聊天中增加历史信息，优化聊天交互流程
+- eacc0b4c 日志上报移除多余的客户端信息
+- 4aa7e831 Merge pull request #198 from Shouheng88/feature-v5.2.0
+- 1ba2c616 Merge pull request #197 from Shouheng88/feature-v5.2.0
 ## 5.2.2 
  - 
 ## 5.2.1 
