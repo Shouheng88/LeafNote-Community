@@ -913,6 +913,8 @@ Otsu</string>
     <string name="datasource_change">Изменить источник данных</string>
     <string name="datasource_change_message">Вы уверены, что хотите использовать \"%s\" в качестве источника данных?</string>
     <string name="datasource_premium_required">Только для официального члена</string>
+    <string name="chat_ai_disable_toast">ИИ отключен, включите его и повторите попытку!</string>
+    <string name="chat_ai_thinking_toast">ИИ сейчас думает, попробуйте позже!</string>
     <string name="datasource_use_default">Использовать источник данных по умолчанию</string>
     <string name="datasource_use_default_message">Хотите переключиться на источник данных по умолчанию?</string>
     <string name="datasource_restart_message">Пожалуйста, перезапустите приложение, чтобы продолжить его использование.

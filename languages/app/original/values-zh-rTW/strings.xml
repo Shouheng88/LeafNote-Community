@@ -911,6 +911,8 @@
     <string name="datasource_change">變更資料來源</string>
     <string name="datasource_change_message">確定使用“%s”作為資料來源嗎？</string>
     <string name="datasource_premium_required">限正式會員</string>
+    <string name="chat_ai_disable_toast">AI 已停用，請啟用後再試一次！</string>
+    <string name="chat_ai_thinking_toast">AI 正在思考中，請稍後再試！</string>
     <string name="datasource_use_default">使用預設資料來源</string>
     <string name="datasource_use_default_message">確定切換到預設資料來源嗎？</string>
     <string name="datasource_default_dir">預設目錄</string>

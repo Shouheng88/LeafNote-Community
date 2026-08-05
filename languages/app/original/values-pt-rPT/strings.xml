@@ -916,6 +916,8 @@ Otsu</string>
     <string name="datasource_change">Alterar fonte de dados</string>
     <string name="datasource_change_message">Tem certeza de que deseja usar \"%s\" como fonte de dados?</string>
     <string name="datasource_premium_required">Somente para membros formais</string>
+    <string name="chat_ai_disable_toast">A IA está desativada, por favor, ative-a e tente novamente!</string>
+    <string name="chat_ai_thinking_toast">A IA está pensando agora, por favor tente novamente mais tarde!</string>
     <string name="datasource_use_default">Usar fonte de dados padrão</string>
     <string name="datasource_use_default_message">Tem certeza de que deseja alternar para a fonte de dados padrão?</string>
     <string name="datasource_restart_message">Por favor, reinicie o aplicativo para continuar a usá-lo.\n\nObservação: como você alterou o diretório raiz das notas, precisará alterar manualmente as informações do servidor de sincronização em nuvem de acordo (se tiver feito isso anteriormente).</string>

@@ -911,6 +911,8 @@
     <string name="datasource_change">更改数据源</string>
     <string name="datasource_change_message">确定使用“%s”作为数据源吗？</string>
     <string name="datasource_premium_required">仅限正式会员</string>
+    <string name="chat_ai_disable_toast">AI 已禁用，请启用后重试！</string>
+    <string name="chat_ai_thinking_toast">AI 正在思考中，请稍后再试！</string>
     <string name="datasource_use_default">使用默认数据源</string>
     <string name="datasource_use_default_message">确定切换到默认数据源吗？</string>
     <string name="datasource_default_dir">默认目录</string>

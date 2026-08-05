@@ -911,6 +911,8 @@
     <string name="datasource_change">데이터 소스 변경</string>
     <string name="datasource_change_message">\"%s\" 를 데이터 소스로 사용하시겠습니까?</string>
     <string name="datasource_premium_required">정식 회원만 가능</string>
+    <string name="chat_ai_disable_toast">AI가 비활성화되어 있습니다. AI를 활성화한 후 다시 시도해 주세요!</string>
+    <string name="chat_ai_thinking_toast">AI가 지금 생각 중입니다. 잠시 후 다시 시도해 주세요!</string>
     <string name="datasource_use_default">기본 데이터 소스 사용</string>
     <string name="datasource_use_default_message">기본 데이터 소스로 전환하시겠습니까?</string>
     <string name="datasource_restart_message">계속 사용하려면 앱을 다시 시작하십시오.

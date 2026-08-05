@@ -915,6 +915,8 @@ Otsu</string>
     <string name="datasource_change">Changer la source de données</string>
     <string name="datasource_change_message">Êtes-vous sûr d\'utiliser \"%s\" comme source de données?</string>
     <string name="datasource_premium_required">Uniquement pour les membres officiels</string>
+    <string name="chat_ai_disable_toast">L’IA est désactivée, veuillez l’activer et réessayer !</string>
+    <string name="chat_ai_thinking_toast">L’IA réfléchit actuellement, veuillez réessayer plus tard !</string>
     <string name="datasource_use_default">Utiliser la source de données par défaut</string>
     <string name="datasource_use_default_message">Êtes-vous sûr de passer à la source de données par défaut?</string>
     <string name="datasource_restart_message">Veuillez redémarrer l’application pour continuer à l’utiliser.\n\nRemarque : comme vous avez modifié le répertoire racine des notes, vous devez modifier manuellement les informations du serveur de synchronisation dans le cloud en conséquence (si vous l’avez fait précédemment).</string>

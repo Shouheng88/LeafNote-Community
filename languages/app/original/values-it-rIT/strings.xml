@@ -916,6 +916,8 @@ Otsu</string>
     <string name="datasource_change">Cambia origine dati</string>
     <string name="datasource_change_message">Vuoi usare \"%s\" come origine dati?</string>
     <string name="datasource_premium_required">Solo per i membri formali</string>
+    <string name="chat_ai_disable_toast">L\'IA è disabilitata, abilitala e riprova!</string>
+    <string name="chat_ai_thinking_toast">L\'IA sta ragionando in questo momento, per favore riprova più tardi!</string>
     <string name="datasource_use_default">Usa origine dati predefinita</string>
     <string name="datasource_use_default_message">Vuoi davvero passare alla fonte dati predefinita?</string>
     <string name="datasource_restart_message">Riavviare l\'app per continuare a utilizzarla.\n\nNota: poiché è stata modificata la cartella radice delle note, è necessario modificare manualmente le informazioni del server di sincronizzazione cloud di conseguenza (se precedentemente configurato).</string>

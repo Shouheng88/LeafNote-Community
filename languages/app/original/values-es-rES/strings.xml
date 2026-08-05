@@ -916,6 +916,8 @@ Otsu</string>
     <string name="datasource_change">Cambiar fuente de datos</string>
     <string name="datasource_change_message">¿Está seguro de utilizar \"%s\" como fuente de datos?</string>
     <string name="datasource_premium_required">Solo para miembros formales</string>
+    <string name="chat_ai_disable_toast">La IA está desactivada, ¡por favor actívela e inténtelo de nuevo!</string>
+    <string name="chat_ai_thinking_toast">¡La IA está pensando ahora, ¡inténtelo de nuevo más tarde!</string>
     <string name="datasource_use_default">Usar fuente de datos predeterminada</string>
     <string name="datasource_use_default_message">¿Estás seguro de cambiar a la fuente de datos predeterminada?</string>
     <string name="datasource_restart_message">Reinicie la aplicación para continuar usándola.

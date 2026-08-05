@@ -911,6 +911,8 @@
     <string name="datasource_change">データソースの変更</string>
     <string name="datasource_change_message">\"%s\" をデータ ソースとして使用しますか?</string>
     <string name="datasource_premium_required">正式会員のみ</string>
+    <string name="chat_ai_disable_toast">AIは無効になっています。有効にしてからもう一度お試しください！</string>
+    <string name="chat_ai_thinking_toast">AI が現在考え中です。しばらくしてから再度お試しください！</string>
     <string name="datasource_use_default">デフォルトのデータソースを使用する</string>
     <string name="datasource_use_default_message">デフォルトのデータ ソースに切り替えてもよろしいですか?</string>
     <string name="datasource_restart_message">アプリを再起動して、使用を続行してください。\n\n注意：ノートのルートディレクトリを変更したため、クラウド同期サーバー情報も手動で同様に変更する必要があります（以前に設定している場合）。</string>
