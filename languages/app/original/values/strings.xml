@@ -41,13 +41,12 @@
     <string name="vip" translatable="false">VIP</string>
     <string name="available_with">Available: %s</string>
     <string name="saving">Saving &#8230;</string>
-    <string name="register">Sign In</string>
-    <string name="bind">Bind</string>
-    <string name="binding">Binding &#8230;</string>
-    <string name="unbind">Unbind</string>
+    <string name="register">Sign Up</string>
+    <string name="bind">Log In</string>
+    <string name="binding">Logging in &#8230;</string>
+    <string name="unbind">Log Out</string>
     <string name="next">Next</string>
     <string name="to_read">To read</string>
-    <string name="get_it">Get it</string>
     <string name="rate_app">Rate LeafNote</string>
     <string name="try_it">Try It</string>
     <string name="give_it_up">Give Up</string>
@@ -77,7 +76,7 @@
     <string name="pin_top_cancel">Cancel Pin</string>
     <string name="pin_pined">TOP</string>
     <string name="previous">Previous</string>
-    <string name="datasource_internal">Use internal data source</string>
+    <string name="datasource_internal">Use Internal Data Source</string>
     <string name="current_using_folder">Currently Used Directory</string>
     <string name="text_new">New</string>
     <string name="text_exit">Exit</string>
@@ -88,7 +87,7 @@
     <string name="common_theme_in_use">Using</string>
     <string name="common_cancel">Cancel</string>
     <string name="common_confirm">Confirm</string>
-    <string name="data_statistics">Data Statistics</string>
+    <string name="data_statistics">Statistics</string>
     <string name="review">Review</string>
     <string name="unit_day">days</string>
     <string name="unit_year">years</string>
@@ -119,7 +118,7 @@
     <string name="image_host_upload_failed">Upload failed: %s</string>
     <string name="batch_processing">Batch Processing</string>
     <string name="merge">Merge</string>
-    <string name="please_select_items">Please select items first</string>
+    <string name="please_select_items">Please select the note to process!</string>
     <string name="please_select_at_least_two_notes">Please select at least 2 notes to merge</string>
     <string name="merge_notes_confirmation_title">Confirm Merge</string>
     <string name="merge_notes_confirmation_message">This will merge all selected notes into a new note, and the original notes will be deleted. This action cannot be undone. Continue?</string>
@@ -131,7 +130,7 @@
     <string name="common_set_security_security_questions">Security Question</string>
     <string name="common_set_security_security_questions_question">question</string>
     <string name="common_set_security_security_questions_answer">Answer</string>
-    <string name="common_set_security_security_questions_added">added</string>
+    <string name="common_set_security_security_questions_added">Security questions have already been added.</string>
     <string name="common_set_security_security_questions_require_hint">Please add a security question</string>
     <string name="common_set_security_security_questions_answer_hint">Please enter the answer to the question</string>
     <string name="common_set_security_security_questions_answer_tip">Please answer: %s</string>
@@ -141,8 +140,8 @@
     <string name="common_set_security_biometric">Enable Biometric Verification</string>
     <string name="common_set_security_biometric_title">Please authenticate</string>
     <string name="common_set_security_biometric_not_match">Not match, %d time(s) left.</string>
-    <string name="common_set_security_biometric_summary">Such as fingerprint, iris, facial recognition, etc.</string>
-    <string name="common_app_intro_subtitle">5.0.0 Get to Know You Again</string>
+    <string name="common_set_security_biometric_summary">After configuration, biometric information can be directly used for identity verification.</string>
+    <string name="common_app_intro_subtitle">Rediscover You</string>
     <string name="common_app_intro_title_2">Cloud Synchronization</string>
     <string name="common_app_intro_detail_2">Supports three synchronization methods: OneDrive, DropBox and WebDAV. Note modifications can be synchronized to the server immediately</string>
     <string name="common_app_intro_title_3">Security</string>
@@ -157,15 +156,15 @@
     <string name="note_read_error_key_not_match">Encryption Key Not Match</string>
     <string name="note_read_error_file_format">File Format Error</string>
     <string name="share_by_text">Share text</string>
-    <string name="share_by_html">Share html</string>
-    <string name="share_by_image">Share image</string>
+    <string name="share_by_html">Share as Html</string>
+    <string name="share_by_image">Share Long Article Screenshot</string>
     <string name="export_by_text">Export text</string>
-    <string name="export_by_html">Export html</string>
+    <string name="export_by_html">Export as HTML</string>
     <string name="export_by_pdf">Print PDF</string>
-    <string name="export_by_image">Export image</string>
+    <string name="export_by_image">Export Long Article Screenshot</string>
     <string name="failed_parse_not_info">Failed to parse note info.</string>
     <string name="again_exit">Again to exit</string>
-    <string name="select_folder_move_to">Folder to move to</string>
+    <string name="select_folder_move_to">Target Folder</string>
     <string name="share_app">Share App</string>
     <string name="expand_with">Expand &gt;</string>
     <string name="fold_with">Fold &lt;</string>
@@ -180,7 +179,7 @@
     <string name="sync_job_started">Sync started!</string>
     <string name="name_already_in_use">Name existed!</string>
     <string name="print_not_support">This device does not support printing.</string>
-    <string name="login_title">Bind Account</string>
+    <string name="login_title">Log In</string>
     <string name="login_account_hint">Email</string>
     <string name="login_password_hint">Password</string>
     <string name="login_forget_password">Forget password</string>
@@ -195,8 +194,8 @@
     <string name="register_signing_in">Signing &#8230;</string>
     <string name="code_send_succeed">Code Sent</string>
     <string name="code_sent_message">Verification code sent. Please check your email. The code is valid in %d minutes. If you haven’t received it for a long time, please check your spam to prevent the email from being misjudged as spam.</string>
-    <string name="login_account_bind_tip">The account is only used to bind privileges.</string>
-    <string name="login_bind_state">Bind State</string>
+    <string name="login_account_bind_tip">Account is only used to bind membership benefits.</string>
+    <string name="login_bind_state">Account Information</string>
     <string name="login_premium_transfer">Transfer</string>
     <string name="login_transfer_tip">Are you sure to exchange privileges with this device?</string>
     <string name="login_premium_cancel_aux">Cancel auxiliary</string>
@@ -205,7 +204,7 @@
     <string name="login_device_already_bind_with">The device has already been bound with %s. Please unbind and then try again.</string>
     <string name="login_status">Account: %1$s\nCreated: %2$s\nExpire in: %3$s</string>
     <string name="login_at_first_tips">To continue, you need to login first.</string>
-    <string name="login_unbind_success_message">Unbind succeed!\nYou can login any time to use your privileges:)</string>
+    <string name="login_unbind_success_message">Logout successful!\nYou can log in again to enjoy your benefits. Thank you for using it!</string>
     <string name="note_sub_count">%1$2d Folders %2$2d Notes %3$2d Images</string>
     <string name="sketch_title">Doodle</string>
     <string name="sketch_clear_tips">Confirm to clear bitmap?</string>
@@ -216,10 +215,9 @@
     <string name="audio_title">Audio Note</string>
     <string name="audio_start">Start Recording</string>
     <string name="audio_stop">Stop Recording</string>
-    <string name="audio_store_folder">Audio Note Folder</string>
+    <string name="audio_store_folder">Audio Notes</string>
     <string name="audio_store_folder_summmary">Audio notes will be stored in this directory: %s</string>
     <string name="audio_store_folder_prefix">Audio storage folder: %s</string>
-    <string name="audio_store_folder_placeholder">Audio storage folder: xxx</string>
     <string name="capture_web_title">Web to Note</string>
     <string name="capture_web_input_hint">Input a web url here &#8230;</string>
     <string name="capture_web_tip">Enter any webpage link and convert it into a Markdown note.</string>
@@ -231,7 +229,7 @@
     <string name="capture_web_saveing">Saving note &#8230;</string>
     <string name="capture_web_save_error">Failed while saving note :(</string>
     <string name="capture_web_aborted">Aborted by user.</string>
-    <string name="capture_web_folder">Folder to Save \"Web to Note\"</string>
+    <string name="capture_web_folder">Web Clip Note</string>
     <string name="capture_web_folder_summary">Notes converted from webpages will be stored in this directory: %s</string>
     <string name="web_note_store_folder_prefix">Web note storage folder: %s</string>
     <string name="web_note_store_folder_placeholder">Web note storage folder: xxx</string>
@@ -275,10 +273,10 @@
     <string name="image_comment_post">POST</string>
     <string name="image_ocr_configure_first">You need to configure OCR API first.</string>
     <string name="image_ocr_result">OCR Result</string>
-    <string name="image_name_not_support">The extension is not support. \n\nHint: You are able to configure supported extensions in \"Setting-Image-Image extensions\".</string>
+    <string name="image_name_not_support">This image format is not supported yet: You can modify the configuration in “Settings &gt; Files &gt; Image Extensions” to support it.</string>
     <string name="image_compress_tips">Your images will be compressed now, you could disable it in settings.</string>
     <string name="image_compress_to_close">Close now</string>
-    <string name="image_pictures">Pictures</string>
+    <string name="image_pictures">Gallery</string>
     <string name="image_picker_unavailable">Image Picker Not Available!</string>
     <string name="premium_free">Free Version</string>
     <string name="premium_premium">Premium</string>
@@ -311,18 +309,18 @@
     <string name="premium_premium_required_sub">You need to become a premium member to use this feature!</string>
     <string name="premium_premium_become">Become a Premium Member</string>
     <string name="premium_professional_required">Professional required!</string>
-    <string name="premium_privilege_basic">All basic functions: Markdown, audio recording, multi-level directories, Mermaid flowcharts, MathJax, etc.</string>
-    <string name="premium_privilege_themes">%d+ app theme, %d+ editor themes, %d+ code style, custom CSS, custom font</string>
-    <string name="premium_privilege_image">Photo taking, image cropping, filters, image transformation, etc.</string>
-    <string name="premium_privilege_export">Export notes as Markdown, HTML, images, and PDF.</string>
-    <string name="premium_privilege_appwidgets">Add desktop widgets and quick shortcuts to notes.</string>
-    <string name="premium_privilege_multi_data_sources">Add multiple data sources.</string>
-    <string name="premium_privilege_image_upload">Add image host and upload note images automatically.</string>
-    <string name="premium_privilege_sync">Sync methods (WebDAV, DropBox &amp; OneDrive), and real-time sync functionality</string>
-    <string name="premium_privilege_webnote">Webpage to Note: build your knowledge base</string>
-    <string name="premium_privilege_encryption">End-to-End Encryption for Notes</string>
-    <string name="premium_privilege_ai">Writing Assistant: Configure AI Server</string>
-    <string name="premium_privilege_future">All functions to be developed in the future</string>
+    <string name="premium_privilege_basic">All basic features: Markdown, audio recording, multi-level directories, review, search, etc.</string>
+    <string name="premium_privilege_themes">Personalized Appearance: %d+ App Themes, %d+ Editor Themes, %d+ Code Styles, Custom CSS, Custom Fonts, etc.</string>
+    <string name="premium_privilege_image">Image Processing: Image Management, Taking Photos, Image Cropping, Adding Filters, Free Transformations, etc.</string>
+    <string name="premium_privilege_export">Export and Share: Convert notes to PDF, screenshots, HTML, etc., and share or export them.</string>
+    <string name="premium_privilege_appwidgets">Platform Features: Add desktop widgets, note shortcut icons, and quick recording, etc.</string>
+    <string name="premium_privilege_multi_data_sources">Multiple Data Sources: Allows creating multiple local data sources and freely switching between them.</string>
+    <string name="premium_privilege_image_upload">Image Hosting for Notes: Images added while editing notes are automatically uploaded to image hosting services and inserted into notes as image links.</string>
+    <string name="premium_privilege_sync">Cloud Sync: Multiple cloud storage synchronization methods (WebDAV, Dropbox, and OneDrive), full-disk synchronization, data changes are immediately synced to the cloud server.</string>
+    <string name="premium_privilege_webnote">Web-to-Note: Clip any web page into Markdown and save it locally, making it easy to bookmark any online article.</string>
+    <string name="premium_privilege_encryption">Data Security: App lock and end-to-end encryption for notes, comprehensively protecting your data security.</string>
+    <string name="premium_privilege_ai">Writing Assistant: An AI-powered writing assistant for content creation and AI interaction.</string>
+    <string name="premium_privilege_future">All future development features, no additional payment required.</string>
     <string name="premium_free_trial_requirement">Free trial request send successfully, please wait few minutes for it take effect!</string>
     <string name="premium_restore">Restore</string>
     <string name="premium_payway_freetrail">Free Trial</string>
@@ -337,25 +335,26 @@
     <string name="premium_versions_sub_title">Click item below to choose a plan</string>
     <string name="premium_payway_title">Choose A Pay Way</string>
     <string name="premium_payway_sub_title">Click item below to choose a pay way</string>
-    <string name="premium_payway_others">Others</string>
-    <string name="premium_payway_others_sub_title">You can also try it for free or use a redemption code.</string>
+    <string name="premium_payway_others">Other Ways to Obtain</string>
+    <string name="premium_payway_others_sub_title">You can also obtain a membership through a free trial or redemption code.</string>
     <string name="premium_payway_google_billing">Google Play Billing</string>
     <string name="premium_payway_alipay_wechat">AliPay &amp; WeChat</string>
     <string name="premium_payways">Select Payment Method</string>
     <string name="premium_review_title">User Reviews</string>
     <string name="premium_contact_us">Contact Us</string>
-    <string name="premium_contact_us_sub_title">You can contact by following means:</string>
+    <string name="premium_contact_us_sub_title">If you have any questions about membership or need any assistance, please contact us via any of the following methods:</string>
     <string name="premium_notice_title">Notice</string>
     <string name="premium_locked">Upgrade to unlock</string>
     <string name="premium_unlocked">Unlocked</string>
     <string name="premium_payment_info_title">Payment Detail</string>
     <string name="premium_payment_info">Final price: %1$s\nPay way: %2$s</string>
     <string name="premium_payment_continue_title">Continue Payment Flow</string>
-    <string name="premium_payment_continue_content">Succeed paid? Please continue to commit your serial :)</string>
+    <string name="premium_payment_continue_content">Payment already completed? Submit the order transaction ID to complete the payment process.</string>
     <string name="premium_payment_continue_not_paid">I Did\'t Pay</string>
     <string name="premium_payment_login_first">Please Login First</string>
-    <string name="premium_payment_login_first_content">The account is only used to bind membership rights so that you can use these rights on any platform.</string>
-    <string name="premium_payment_trail_gift_content">You have a gift for free trail!</string>
+    <string name="premium_payment_login_first_content">Our membership benefits are tied to your account. To enjoy membership benefits on other platforms, we recommend logging in to bind your membership benefits to your account. This account is used solely for binding membership benefits.</string>
+    <string name="premium_payment_trail_gift_content">You are entitled to a free trial of this software’s premium features!\n 
+This trial is designed to let users experience the premium features; it will be automatically canceled upon expiration and will not incur any charges.</string>
     <string name="premium_payment_continue_help_tip">NEED ANY HELP?</string>
     <string name="premium_payment_continue_help_content">If you have any questions about the premium or the purchase flow. We\'d glad to help :)</string>
     <string name="premium_payment_continue_help_required">Help</string>
@@ -365,7 +364,7 @@
     <string name="premium_error_pawway_not_selected">Please choose a pay way at first.</string>
     <string name="premium_error_google_billing_unavailable">Billing unavailable: due to google billing limitation or some reason. Please contact the developer if you need help.</string>
     <string name="premium_account_state_not_logged_in">Not Logged</string>
-    <string name="premium_account_state_not_logged_in_tip">Please login to restore purchase.</string>
+    <string name="premium_account_state_not_logged_in_tip">Membership benefits can be restored by logging in to your account!</string>
     <string name="premium_account_restore_guide_message">You can restore purchase by logging in. No matter what difficulties you encounter, please contact me to solve it.</string>
     <string name="premium_multi_platform_guide">We have recently developed the iOS version, and the membership benefits are shared with the Android version. You can download and give it a try!</string>
     <string name="pay_wechat_title_with_step">WeChat (Step: %s)</string>
@@ -385,10 +384,10 @@
     <string name="search_searching">Searching&#8230;</string>
     <string name="search_finish">Search completed</string>
     <string name="search_hint">Keyword to search</string>
-    <string name="search_empty_tip">No result found?\nYou could try another word!</string>
-    <string name="search_setting">Search settings</string>
+    <string name="search_empty_tip">Try another keyword or relax your search criteria?</string>
+    <string name="search_setting">Search Settings</string>
     <string name="search_ignore_case">Ignore Case</string>
-    <string name="search_on_given_folder">Search Folder</string>
+    <string name="search_on_given_folder">Search in Directory</string>
     <string name="search_title_only">Match Title Only</string>
     <string name="search_history">History</string>
     <string name="search_include_encrypted">Include Encrypted Notes</string>
@@ -464,7 +463,7 @@
     <string name="compose_note_info_updated">Updated</string>
     <string name="compose_note_info_path">File path</string>
     <string name="compose_note_info_encoding">Encoding</string>
-    <string name="compose_history_not_found">No history of current note found</string>
+    <string name="compose_history_not_found">No History</string>
     <string name="compose_history_confirm">Confirm to use the history (this will cover current content of editor)?</string>
     <string name="compose_create_file">Create File</string>
     <string name="compose_file_name_input">Input the file name (with extension)</string>
@@ -478,6 +477,10 @@
     <string name="compose_note_links">Note links</string>
     <string name="compose_note_linking">Quoted</string>
     <string name="compose_note_linking_empty">Not quoted</string>
+    <string name="note_links_outgoing_title">Outgoing links</string>
+    <string name="note_links_incoming_title">Incoming links</string>
+    <string name="note_links_empty_outgoing">No outgoing links</string>
+    <string name="note_links_empty_incoming">No incoming links</string>
     <string name="compose_note_structure">Structure</string>
     <string name="compose_note_structure_empty">Empty Structure</string>
     <string name="compose_diff_merge">Confirm to copy from left to right?</string>
@@ -485,32 +488,32 @@
     <string name="compose_note_auto_save_job_channel_name">Note safe saver</string>
     <string name="compose_note_sync_job_channel_name">Note sync worker</string>
     <string name="compose_note_export_job_channel_name">Note export worker</string>
-    <string name="compose_edit_option_name_H1">Header\n#</string>
-    <string name="compose_edit_option_name_H2">Header\n##</string>
-    <string name="compose_edit_option_name_H3">Header\n###</string>
-    <string name="compose_edit_option_name_H4">Header\n####</string>
-    <string name="compose_edit_option_name_H5">Header\n#####</string>
-    <string name="compose_edit_option_name_H6">Header\n######</string>
-    <string name="compose_edit_option_name_NORMAL_LIST">List\n *</string>
-    <string name="compose_edit_option_name_NUMBER_LIST">Numeric List\n -1.</string>
-    <string name="compose_edit_option_name_CHECKBOX">Check Box\n- [ ] </string>
-    <string name="compose_edit_option_name_CHECKBOX_FILLED">Checked Box\n- [x] </string>
+    <string name="compose_edit_option_name_H1">Header</string>
+    <string name="compose_edit_option_name_H2">Header</string>
+    <string name="compose_edit_option_name_H3">Header</string>
+    <string name="compose_edit_option_name_H4">Header</string>
+    <string name="compose_edit_option_name_H5">Header</string>
+    <string name="compose_edit_option_name_H6">Header</string>
+    <string name="compose_edit_option_name_NORMAL_LIST">List</string>
+    <string name="compose_edit_option_name_NUMBER_LIST">Numeric List</string>
+    <string name="compose_edit_option_name_CHECKBOX">Check Box</string>
+    <string name="compose_edit_option_name_CHECKBOX_FILLED">Checked Box</string>
     <string name="compose_edit_option_name_INDENT">Indent</string>
     <string name="compose_edit_option_name_DEDENT">Dedent</string>
-    <string name="compose_edit_option_name_QUOTE">Quote\n> </string>
-    <string name="compose_edit_option_name_CODE_INLINE">Inline Code\n`</string>
-    <string name="compose_edit_option_name_CODE_BLOCK">Block Code\n```</string>
-    <string name="compose_edit_option_name_STRIKE">Strike\n~~</string>
-    <string name="compose_edit_option_name_HORIZONTAL_LINE">Line\n-------</string>
-    <string name="compose_edit_option_name_ITALIC">Italic\n*</string>
-    <string name="compose_edit_option_name_BOLD">Bold\n**</string>
-    <string name="compose_edit_option_name_MARK">Mark\n==</string>
-    <string name="compose_edit_option_name_MATH_JAX">Math\n$$</string>
-    <string name="compose_edit_option_name_SUB_SCRIPT">Sub Script\n~</string>
-    <string name="compose_edit_option_name_SUPER_SCRIPT">Super Script\n^</string>
-    <string name="compose_edit_option_name_IMAGE">Image\n![]()</string>
-    <string name="compose_edit_option_name_LINK">Link\n[]()</string>
-    <string name="compose_edit_option_name_TABLE">Table\n|:---:|</string>
+    <string name="compose_edit_option_name_QUOTE">Quote</string>
+    <string name="compose_edit_option_name_CODE_INLINE">Inline Code</string>
+    <string name="compose_edit_option_name_CODE_BLOCK">Block Code</string>
+    <string name="compose_edit_option_name_STRIKE">Strike</string>
+    <string name="compose_edit_option_name_HORIZONTAL_LINE">Line</string>
+    <string name="compose_edit_option_name_ITALIC">Italic</string>
+    <string name="compose_edit_option_name_BOLD">Bold</string>
+    <string name="compose_edit_option_name_MARK">Mark</string>
+    <string name="compose_edit_option_name_MATH_JAX">Math</string>
+    <string name="compose_edit_option_name_SUB_SCRIPT">Sub Script</string>
+    <string name="compose_edit_option_name_SUPER_SCRIPT">Super Script</string>
+    <string name="compose_edit_option_name_IMAGE">Image</string>
+    <string name="compose_edit_option_name_LINK">Link</string>
+    <string name="compose_edit_option_name_TABLE">Table</string>
     <string name="compose_edit_option_name_FORMAT_ID_LEFT">Move Left</string>
     <string name="compose_edit_option_name_FORMAT_ID_RIGHT">Move Right</string>
     <string name="compose_edit_option_name_FORMAT_ID_TIME">Add Time</string>
@@ -518,15 +521,15 @@
     <string name="compose_edit_option_name_FORMAT_ID_SMALL_PARENTHESES">Small Parentheses</string>
     <string name="compose_edit_option_name_FORMAT_ID_MIDDLE_PARENTHESES">Middle Parentheses</string>
     <string name="compose_edit_option_name_FORMAT_ID_LARGE_PARENTHESES">Big Parentheses</string>
-    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Quote\n\"\"</string>
+    <string name="compose_edit_option_name_FORMAT_ID_QUOTE">Quote</string>
     <string name="compose_edit_option_quote_format">\"%s\"</string>
-    <string name="compose_edit_option_name_FORMAT_ID_MERMAID" translatable="false">Mermaid</string>
+    <string name="compose_edit_option_name_FORMAT_ID_MERMAID">Flowchart</string>
     <string name="compose_edit_option_name_NOTE_SNIPPET">Note Snippets</string>
     <string name="compose_edit_note_snippet_title">Select Note Snippet</string>
     <string name="compose_edit_find_replace">Replace</string>
     <string name="compose_edit_find_replace_all">Replace All</string>
     <string name="compose_edit_find_results">%d results</string>
-    <string name="compose_setting_quick_note_folder">Quick Note Folder</string>
+    <string name="compose_setting_quick_note_folder">Quick Notes</string>
     <string name="compose_setting_folder_change">Change Note Folder</string>
     <string name="compose_setting_folder_clear">Clear Note Folder</string>
     <string name="compose_setting_quick_note_folder_tip">Tip: You are able to change the folder to save quick note in note settings under \"%s\".</string>
@@ -535,7 +538,7 @@
     <string name="note_encrypt_enable">Enable Note Encryption</string>
     <string name="note_encrypt_enable_summary">After enabling this feature, newly created notes will be encrypted before storage.</string>
     <string name="note_encrypt_key">Encryption Key</string>
-    <string name="note_encrypt_key_summary">Encryption keys are used to encrypt and decrypt notes. Tip: The longer the key, the more secure it is.</string>
+    <string name="note_encrypt_key_summary">The key is used to encrypt and decrypt notes.</string>
     <string name="note_encrypt_key_change_title">Sure to Change Encryption Key?</string>
     <string name="note_encrypt_key_change_message">When modifying the key, all files encrypted with the previous key will be re-encrypted. Do you confirm to proceed?</string>
     <string name="note_encrypt_re_encrypting">[%s]. Please wait for the process to complete.</string>
@@ -546,6 +549,8 @@
     <string name="note_encrypt_key_invalid">Invalid encryption key, please try again.</string>
     <string name="note_encrypt_key_change_tip">All encrypted files need to be re-encrypted before changing the key. Therefore, you are advised to set the encryption key only once.</string>
     <string name="note_encrypt_key_tip_chars">Please enter no less than 8 characters (numbers and upper and lower case letters only).</string>
+    <string name="note_encrypt_mnemonic">Mnemonic</string>
+    <string name="note_encrypt_mnemonic_desc">A mnemonic helps you remember your encryption key. You can write down something associated with the key to aid recall. It is stored in plain text on the device.</string>
     <string name="note_encrypt_write_key">Write Encryption Key</string>
     <string name="note_encrypt_write_key_summary">Used to prevent forgotten passwords. If this feature is enabled, the key will be asymmetrically encrypted and written to the file.</string>
     <string name="note_encrypt_auth">Identity Verification</string>
@@ -553,7 +558,14 @@
     <string name="note_encrypt_auth_summary"><![CDATA[If enabled, identity verification will be required before using encrypted notes every time. <b>Note: You need to set an app password first otherwise it won\'t take effect.</b>]]></string>
     <string name="note_encrypt_preview">Hide Preview</string>
     <string name="note_encrypt_preview_placeholder">[Encrypt Note]</string>
-    <string name="note_encrypt_preview_summary">Disabling this feature will stop displaying preview information of encrypted notes in the note list.</string>
+    <string name="note_encrypt_preview_summary">After enabling, the preview information of encrypted notes will be hidden in the note list.</string>
+    <string name="note_encrypt_export_info">Export Encryption Recovery Info</string>
+    <string name="note_encrypt_export_info_summary">Export mnemonic and encrypted recovery information to a file to help you remember your password. Status: %s.</string>
+    <string name="note_encrypt_export_no_key">Please configure the encryption key before exporting.</string>
+    <string name="note_encrypt_export_succeed">Encryption recovery information exported successfully! Please keep the exported file safe.</string>
+    <string name="note_encrypt_export_failed">Export failed: %s</string>
+    <string name="note_encrypt_export_file_name_prefix">LeafNote_Encryption_Recovery_</string>
+    <string name="note_encrypt_export_notice"><![CDATA[<b>[Important Security Notice]</b><br/>This file contains your encrypted mnemonic and key verification information.<br/>Please keep it secure and never disclose or upload it to any public network.<br/><br/>If you forget your password:<br/>1. Use the <b>mnemonic</b> in this file to help recall it.<br/>2. The correct password is required to decrypt all your encrypted notes.]]></string>
     <string name="image_source_image_limit">Image size should be at least %1$dpx and size smaller than %2$dpx</string>
     <string name="comn_load_executing">Executing &#8230;</string>
     <string name="comn_load_loading">Data loading &#8230;</string>
@@ -587,7 +599,7 @@
     <string name="set_language_japanese" translatable="false">日本語 (AI)</string>
     <string name="set_language_korean" translatable="false">한국인 (AI)</string>
     <string name="set_language_portuguese" translatable="false">Português (AI)</string>
-    <string name="set_ai">AI</string>
+    <string name="set_ai">AI Assistant</string>
     <string name="set_ai_summary">AI Writing Assistant</string>
     <string name="set_ai_source">AI Platform</string>
     <string name="set_ai_source_summary">Set up the AI used in note chatting.</string>
@@ -604,8 +616,8 @@
     <string name="set_ai_prompt">Chat Context</string>
     <string name="set_ai_prompt_tip">The placeholder \"%s\" will be replaced by your note content when you talk with AI.</string>
     <string name="set_security_applock">App Lock</string>
-    <string name="set_encrypt_note">Note Encrypt</string>
-    <string name="set_theme_and_style">Theme &amp; Style</string>
+    <string name="set_encrypt_note">Note Encryption</string>
+    <string name="set_theme_and_style">Appearance</string>
     <string name="set_theme_and_style_summary">App themes, editor themes, fonts, code styles, and CSS, etc.</string>
     <string name="set_theme">Theme</string>
     <string name="set_theme_theme">App Theme</string>
@@ -657,17 +669,17 @@
     <string name="set_note_list">Note List</string>
     <string name="set_note_list_summary">Everything related to the note list on the app\'s home page</string>
     <string name="set_note_snippet">Note Snippets</string>
-    <string name="set_note_snippet_summary">Note snippets can be used as note fragments or as note templates to be inserted into the note you are editing</string>
-    <string name="note_snippet_drag_to_reorder">Drag to reorder</string>
+    <string name="set_note_snippet_summary">A note snippet is a customizable text paragraph that can be saved and reused, serving as a note template.</string>
+    <string name="note_snippet_drag_to_reorder">Tip: Press and drag the horizontal line on the left to sort note snippets.</string>
     <string name="note_snippet_content">Content</string>
     <string name="note_snippet_create">Create Note Snippet</string>
-    <string name="set_note_mathjax">Enable MathJax</string>
+    <string name="set_note_mathjax">Enable Mathjax</string>
     <string name="set_note_mermaid">Enable Mermaid</string>
     <string name="set_note_disable_to_accelerate_tip">If you don\'t need this feature, you can turn it off. This will improve the rendering speed of notes.</string>
-    <string name="set_note_yaml">Use Front Matter</string>
+    <string name="set_note_yaml">Use front matter</string>
     <string name="set_note_yaml_sub">Front Matter is a special syntax format in Markdown used to add metadata to a document.</string>
     <string name="set_note_title">Use Title Input</string>
-    <string name="set_note_title_sub">Enabling the title input box on the editing page may easily cause ambiguity. It is recommended to directly use Markdown to define the title.</string>
+    <string name="set_note_title_sub">After enabling, the title input box can be enabled on the note editing page. However, it is strongly discouraged to enable it, as title handling can easily cause significant ambiguity. If you want to input a title, we recommend directly using Markdown heading syntax or treating the first line of text as the title.</string>
     <string name="set_note_extensions">Note Extensions</string>
     <string name="set_extensions_tip">Input custom extensions, split multiple extensions by \",\".</string>
     <string name="set_extensions_note_tip">Input custom extensions, split multiple extensions by \",\". Note that the \'lnmd\' &amp; \'lntxt\' are encrypted file extensions of our APP.</string>
@@ -677,18 +689,18 @@
     <string name="set_support_extensions">Support Extensions</string>
     <string name="set_support_extensions_summary">Files with support extension will be load and displayed in notes list.</string>
     <string name="set_illegal_charset">Illegal Chars</string>
-    <string name="set_illegal_charset_sub">The APP will handle illegal chars automatically to avoid unexpected errors</string>
+    <string name="set_illegal_charset_sub">Invalid characters in file naming configuration; the application will automatically replace them according to your configuration.</string>
     <string name="set_note_show_date">Display Time Info</string>
     <string name="set_note_edit_directly">Quick Edit Mode</string>
-    <string name="set_note_edit_directly_sub">Directly navigate to edit page instead of preview page when click note</string>
-    <string name="set_note_auto_parsing_encoding">Parse note encoding automatically while reading notes. (You can also change note encoding manually in note settings dialog)</string>
+    <string name="set_note_edit_directly_sub">After enabling this option, clicking on a note will directly open the editing page (instead of the viewing page).</string>
+    <string name="set_note_auto_parsing_encoding">If enabled, the encoding format of notes will be automatically analyzed when loading notes.</string>
     <string name="set_note_display_note_file_name">Display File Name</string>
     <string name="set_note_display_note_file_name_sub">Display note file name instead of note title in notes list.</string>
     <string name="set_note_show_simplified_note_list">Simplify Note List</string>
-    <string name="set_note_hide_folders">Hide folders</string>
-    <string name="set_note_hide_folders_sub">Don\'t display selected folders in note list.</string>
+    <string name="set_note_hide_folders">Hide Folders</string>
+    <string name="set_note_hide_folders_sub">Select the directories you want to hide; the selected directories will not appear in the directory list.</string>
     <string name="set_note_folders_selection">Select folders</string>
-    <string name="set_note_folders">Custom Data Storage Folders</string>
+    <string name="set_note_folders">Storage Location</string>
     <string name="set_file">File</string>
     <string name="set_file_summary">File naming rules, extensions, etc.</string>
     <string name="set_file_naming_title">File Naming</string>
@@ -712,21 +724,21 @@
     <string name="set_camera_type_system">System camera</string>
     <string name="set_camera_type_build_in">Built-in camera</string>
     <string name="set_camera_type_title">Select Camera Type</string>
-    <string name="set_note_display_image">Display Image</string>
-    <string name="set_note_display_image_sub">Show or disable images in notes list.</string>
+    <string name="set_note_display_image">Display Images</string>
+    <string name="set_note_display_image_sub">After enabling, images will be displayed in the note list; otherwise, they will not be displayed.</string>
     <string name="set_note_image_default_name">Image Directory Name</string>
     <string name="set_note_display_image_tip">This require a restart and reload to become effective.</string>
     <string name="set_note_image_compress">Compress Image</string>
-    <string name="set_note_image_compress_sub">Set whether compress image inside App.</string>
+    <string name="set_note_image_compress_sub">If enabled, newly added images in the app will be compressed before being saved.</string>
     <string name="set_note_image_compress_quality">Image Compression Quality</string>
-    <string name="set_note_image_compress_quality_sub">Current quality: %d</string>
+    <string name="set_note_image_compress_quality_sub">Image compression quality. The higher the value, the higher the clarity and the larger the space occupied. Current value: %d</string>
     <string name="set_note_image_compress_quality_tip">Enter range 0-100. Higher values mean better image clarity but consume more storage space.</string>
     <string name="set_sync">Cloud Sync</string>
     <string name="set_sync_summary">Cloud server (DropBox, WebDAV &amp; OneDrive) and sync configurations, as well as sync issue handling, etc.</string>
-    <string name="set_sync_universal">Universal</string>
+    <string name="set_sync_universal">Settings</string>
     <string name="set_sync_sub">Sync to other platform by WebDAV</string>
-    <string name="set_sync_enable">Timely Sync</string>
-    <string name="set_sync_enable_sub">Synchronize all notes timely.</string>
+    <string name="set_sync_enable">Enable Sync</string>
+    <string name="set_sync_enable_sub">Closing it will disable the passive synchronization logic across the entire application.</string>
     <string name="set_sync_server">Server</string>
     <string name="set_sync_server_connect_failed">Connection test failed. Please check your configuration information and try again.</string>
     <string name="set_sync_server_chooser_title">Choose Cloud Server</string>
@@ -749,23 +761,23 @@
     <string name="set_sync_onedrive_sign_out">OneDrive signed out!</string>
     <string name="set_sync_onedrive_root_tip">The app will sync notes to the \"%s\" directory under the root of your OneDrive. You can click the button below to change it.</string>
     <string name="set_sync_onedrive_root_change">Change Sync Directory</string>
-    <string name="set_sync_interval">Timely Sync Interval</string>
-    <string name="set_sync_delay">Sync Delay Between Files</string>
-    <string name="set_sync_delay_sub">%dms (Add throttling during file synchronization to prevent server blocking due to excessive requests).</string>
+    <string name="set_sync_interval">Sync Interval</string>
+    <string name="set_sync_delay">Sync Delay</string>
+    <string name="set_sync_delay_sub">Some servers limit the request frequency. This setting reduces the request frequency by adding a delay to each request. Current: %d ms.</string>
     <string name="set_sync_only_wifi">Sync Only in Wi-Fi Mode</string>
     <string name="set_sync_single">Realtime Sync</string>
     <string name="set_sync_single_sub">Sync immediately after modified locally</string>
-    <string name="set_sync_info">Sync Info</string>
-    <string name="set_sync_clear_status">Clear Sync Status</string>
-    <string name="set_sync_clear_status_summary">Clear all sync data cache, reset the sync status of files, it will take a little longer to rebuild the sync status during the next sync. You can use it when there is a problem with the sync status.</string>
-    <string name="set_sync_clear_status_message">Are you sure to clear the sync status? It will take a little longer to rebuild the sync status during the next sync.</string>
+    <string name="set_sync_info">Status</string>
+    <string name="set_sync_clear_status">Clear Sync Cache</string>
+    <string name="set_sync_clear_status_summary">The synchronization cache records the status of local and remote files; the cache can accelerate the synchronization speed.</string>
+    <string name="set_sync_clear_status_message">Detected %d sync cache entries. Are you sure you want to clear all of them?\nThis may increase the time required for the next synchronization.</string>
     <string name="set_sync_last_time">Last Sync Time</string>
-    <string name="set_sync_last_info">Last Sync Info</string>
+    <string name="set_sync_last_info">Issue Handling</string>
     <string name="set_sync_log">Sync Log</string>
     <string name="set_sync_log_dialog_title">Select Log File</string>
     <string name="set_sync_num_with">%d files synced</string>
     <string name="set_sync_done">Sync Completed</string>
-    <string name="set_sync_done_with_error">Sync completed, %d files failed.</string>
+    <string name="set_sync_done_with_error">%d issues require attention.</string>
     <string name="set_sync_interval_0">Every 6 hours</string>
     <string name="set_sync_interval_1">Every 12 hours</string>
     <string name="set_sync_interval_2">Every Day</string>
@@ -788,7 +800,7 @@
     <string name="sync_version_upgrade_tip">1. The new sync logic is not compatible with the old, so if you need to sync between multiple devices, please upgrade Apps on all devices to the latest version (4.0 and above).\n2. If it\'s first time you use the new sync logic, it might take a few time to complete.</string>
     <string name="sync_note_updated">Note Updated!</string>
     <string name="sync_note_remote_change_tip">The note has been updated remotely. Sync it to latest version?</string>
-    <string name="sync_unable_to_handle_locally_yip">The failure is unable to be handled locally. This might occur due to a network or io error etc. You can try to sync again to resolve this failure.</string>
+    <string name="sync_unable_to_handle_locally_yip">This error may be caused by a network issue and cannot be handled locally. You can either directly remove this error or retry to resolve it.</string>
     <string name="sync_conflict_resolve_tip">The file has been modified locally and remotely. To resolve this failure by making a comparison?</string>
     <string name="sync_force_upload">Upload</string>
     <string name="sync_force_upload_tip">This will force local files to overwrite cloud files. Are you sure to proceed?</string>
@@ -807,7 +819,7 @@
     <string name="sync_failure_download">Failed to download.</string>
     <string name="sync_failure_delete_local">Failed to delete local file.</string>
     <string name="sync_failure_delete_remote">Failed to delete remote file.</string>
-    <string name="sync_confirm_message">Sure to start sync?</string>
+    <string name="sync_confirm_message">The synchronization task runs in the background and will not affect your normal usage.</string>
     <string name="set_export_export">Export</string>
     <string name="set_export_export_sub">Export notes to external storage.</string>
     <string name="set_export_import">Import</string>
@@ -822,8 +834,8 @@
     <string name="set_export_import_done">Import completed</string>
     <string name="set_export_executing">Export or import task executing</string>
     <string name="set_export_conflict_with">%d files failed</string>
-    <string name="set_report_no_conflict">Congrats, no failure found!</string>
-    <string name="set_conflict_resolve">Resolve Failure</string>
+    <string name="set_report_no_conflict">No Issues Found</string>
+    <string name="set_conflict_resolve">Sync Issues</string>
     <string name="set_conflict_path_tips">Might failed due to:\n 1.illegal file name (contains illegal chars etc): change the file name and try again.\n2.too much request: stop for a while and change the frequency of sync.</string>
     <string name="trash_box">Trash</string>
     <string name="trash_box_recover">Recover</string>
@@ -922,7 +934,7 @@
     <string name="datasource_datasource">Data Source</string>
     <string name="datasource_datasource_summary">Data sources, import/export, and note storage paths, etc.</string>
     <string name="datasource_external">Use External Data Source</string>
-    <string name="datasource_external_tip">According to the platform review regulations, the current version does not support external storage read and write functions. You can read the help documentation to learn more information ;)</string>
+    <string name="datasource_external_tip">According to the platform\'s review regulations, the current version does not support external storage read/write functionality. You can read the help documentation to learn more.</string>
     <string name="datasource_useit">Use This Folder</string>
     <string name="datasource_restart">Restart</string>
     <string name="datasource_restart_message">Please restart the App to continue to use.\n\nNote: since you have changed the notes root directory, you need to manually change the cloud sync server info accordingly (if you have before).</string>
@@ -948,9 +960,9 @@
     <string name="input_panel_more">More</string>
     <string name="input_panel_storage_location">Storage Location</string>
     <string name="input_panel_enable_encryption">Enable Encryption</string>
-    <string name="set_import_flomo">Import from flomo</string>
+    <string name="set_import_flomo">Import From Flomo</string>
     <string name="set_import_flomo_sub">Click to import notes from flomo exported zip file</string>
-    <string name="import_flomo_title">Import from flomo</string>
+    <string name="import_flomo_title">Import From Flomo</string>
     <string name="import_flomo_select_zip">Select zip file</string>
     <string name="import_flomo_select_zip_sub">Select the zip file you exported from flomo</string>
     <string name="import_flomo_option_title">Import options</string>
@@ -973,4 +985,149 @@
     <string name="note_review_title">Note Review</string>
     <string name="note_review_message">Discover those shining thoughts and events from the past through review.</string>
     <string name="note_review_continue">Continue</string>
+    <string name="note_setting_group_file_opt">File Operations</string>
+    <string name="note_setting_group_sync">Cloud synchronization</string>
+    <string name="create_child_folder">Create Subdirectory</string>
+    <string name="text_got_it">Got it</string>
+    <string name="set_note_list_cell_style_card_summary">Set the card style for the homepage note list. Current: %s</string>
+    <string name="set_note_list_show_folders_sub">After enabling, the directory will also be displayed in the note list; otherwise, it will not be shown.</string>
+    <string name="set_file_naming_summary">File naming rule when creating files, current: %s</string>
+    <string name="set_file_extensions_group">File Extension</string>
+    <string name="set_file_extensions_group_summary">File Extension Settings Description: Our application uses disk files as the medium for notes. Therefore, it is not only a note-taking application but also functions almost like a file management application. Our software uses file extensions to identify file types, which determines whether a file is treated as an image, text, or note. You can customize this setting, and your configuration for file extensions will determine how the software handles these files.</string>
+    <string name="text_explain">Description</string>
+    <string name="set_explain_sub">Feature description</string>
+    <string name="set_note_image_default_name_sub">Images added to notes will be stored in this directory. Current: %s</string>
+    <string name="note_snippet_option_title">Select Operation</string>
+    <string name="note_snippet_delete_confirm_message">The note snippet will be permanently deleted and cannot be recovered. Are you sure you want to delete it?</string>
+    <string name="set_note_auto_parsing_encoding_title">Detect Encoding</string>
+    <string name="set_group_basics">Basic</string>
+    <string name="set_group_data">Data</string>
+    <string name="set_group_others">Others</string>
+    <string name="common_set_security_applock_enable_sub">After enabling, identity verification is required when reopening the app.</string>
+    <string name="common_set_security_security_questions_sub">Security questions can be used to verify your identity if you forget your password.</string>
+    <string name="set_encrypt_key_desc">Before you set a password, we recommend that you:  \n\n
+1. The app’s key and encryption design is based on the premise that users manage their own data; encrypted information and notes are stored only on your device’s local disk.  \n\n
+2. For your data security, after setting a key, please keep it safe—lost keys cannot be recovered, and your data will become irretrievable. We recommend always setting a mnemonic phrase; you may use any text that helps you recall your key.  \n\n
+3. Uninstalling the app causes the system to delete all app data—including encrypted information—so we recommend always backing up your key. To assist with this, we provide an encrypted-data export feature. Using this function, you can export encrypted information (excluding the key).  \n\n
+4. Each time you modify your key, the app automatically re-encrypts all previously encrypted notes; therefore, we recommend setting your key only once.  \n\n
+5. Newer versions (5.3.0 and above) adopt standardized key derivation and encryption schemes, offering higher security—we recommend upgrading to this version.</string>
+    <string name="folder_create_succeed">Successfully created directory "%s"!</string>
+    <string name="flomo_import_zip_require">Please select the file to import!</string>
+    <string name="flomo_import_target_require">Please specify an import directory!</string>
+    <string name="flomo_import_memo_empty">No importable notes found. Please check whether the selected file contains notes!</string>
+    <string name="flomo_import_succeed">Data import completed!</string>
+    <string name="flomo_import_failed">Data import failed: Some notes or images may have failed to import!</string>
+    <string name="image_save_success">Images has been saved to "%s"</string>
+    <string name="notes_empty_title">No Notes Found</string>
+    <string name="notes_empty_subtitle">Try clicking the input box at the bottom of the homepage to quickly create a note!</string>
+    <string name="search_placeholder_desc">Search for the keyword you want and try Leaf Note’s powerful search capability!</string>
+    <string name="search_placeholder_title">Start Search</string>
+    <string name="search_empty_title">No Matching Notes Found</string>
+    <string name="search_result_count_tip">Found %d matching results in total</string>
+    <string name="search_show_left_count_tip">Show the remaining %d results</string>
+    <string name="batch_delete_items_tip">Ready to delete %d entries. Confirm execution?</string>
+    <string name="batch_delete_succeed_tip">%d entries deleted!</string>
+    <string name="premium_only">Premium</string>
+    <string name="note_setting_group_basic">Basic</string>
+    <string name="compose_note_setting_links">Bidirectional Links</string>
+    <string name="copy_from">Copied from:</string>
+    <string name="share_from">Shared from:</string>
+    <string name="share_by_file">Share as File</string>
+    <string name="note_not_editable_tip">This note is not editable!</string>
+    <string name="set_list_settings">List Settings</string>
+    <string name="set_all_settings">All Settings</string>
+    <string name="list_bottom_slogan_1">Welcome to "Leaf Note"!</string>
+    <string name="list_bottom_slogan_2">Leaf Note is Awesome!</string>
+    <string name="file_not_found_with">Please check if the file exists: %s</string>
+    <string name="route_failed_with">Unable to process: %s</string>
+    <string name="trash_box_empty_desc">After clearing, this content will be permanently deleted. Are you sure you want to clear it?</string>
+    <string name="trash_empty_title">Trash is empty</string>
+    <string name="trash_empty_desc">Deleted files will be moved to the trash.</string>
+    <string name="snippet_list_empty_title">No Note Snippets</string>
+    <string name="snippet_list_empty_sub">Note snippets can be created in both the editing box at the bottom of the home page and the Note Snippet Management page.</string>
+    <string name="folder_desc_title">Folder Usage</string>
+    <string name="folder_desc_detail">“Folder” management is a core feature of this software, helping you efficiently organize and manage your notes.\n\n
+
+Our folders are implemented based on the local file system and saved using standard file formats, adhering to the design principle of “data ownership belongs to the user.” You can freely create multi-level note folders.\n\n
+
+Common operations in the folder list:\n\n
+
+1. Click the left-facing arrow: Collapse or expand the folder;\n
+2. Click “More” on the far right: Perform management actions such as adding a subfolder, deleting, or renaming;\n
+3. Click the middle area: Select and set it as the “Working Folder.”\n\n
+
+👉 What is the Working Folder?\n\n
+
+The note list displayed on the Home page comes from the current Working Folder. New notes are saved here by default; features such as audio recording and web-to-note conversion support customizing the default save location via Settings.\n\n
+
+If you have any questions or suggestions while using the software, feel free to contact us!</string>
+    <string name="login_account_help_tip">If you need any assistance, please contact us via %s!</string>
+    <string name="login_subtitle">Restore membership benefits by logging in</string>
+    <string name="premium_dialog_free_trial_tip">A free trial is available.</string>
+    <string name="compose_history_not_found_sub">The history of notes will be automatically saved here as you edit.</string>
+    <string name="empty_image_title">No Image</string>
+    <string name="empty_image_subtitle">All local images will be displayed here. Try adding an image!</string>
+    <string name="set_report_no_conflict_sub">Congratulations! All your files have been successfully synchronized to the server!</string>
+    <string name="note_set_double_edit_desc">Double-clicking the note page also enters edit mode!</string>
+    <string name="set_sync_done_with_time">Last sync completed at %s.</string>
+    <string name="set_sync_done_without_error">Last sync completed at %s, no sync issues detected.</string>
+    <string name="set_sync_not_yet">Not synced yet</string>
+    <string name="set_sync_strict">Strict Mode</string>
+    <string name="set_sync_strict_sub">Disabling strict mode can significantly reduce the probability of sync issues. For detailed information about "strict mode," please refer to our documentation.</string>
+    <string name="sync_network_not_connect">Failed to sync data: Network not connected!</string>
+    <string name="sync_server_unavailable">Failed to sync data: Server is unavailable!</string>
+    <string name="sync_network_type_unavailable">Failed to sync data: Network type is unavailable!</string>
+    <string name="sync_confirm_title">Start syncing?</string>
+    <string name="sync_fail_network_type_title">Network environment mismatch</string>
+    <string name="sync_fail_network_type_message">Currently not in a Wi-Fi environment; data synchronization is unavailable. You can modify this setting in Settings or stop synchronization.</string>
+    <string name="sync_fail_server_title">Sync server is unavailable</string>
+    <string name="sync_fail_server_message">The synchronization server is unavailable. We recommend modifying the server configuration in Settings and trying again.</string>
+    <string name="set_sync_notification_title">Sync Task Notification</string>
+    <string name="set_sync_notification_message">Enable sync task notifications to better monitor task execution status.</string>
+    <string name="sync_desc_title">Synchronized Usage Instructions</string>
+    <string name="text_remove">Remove</string>
+    <string name="sync_force_diff_sub">By comparing, identify the differences between local and remote modifications, modify them, and resolve the issues.</string>
+    <string name="sync_force_upload_sub">Force using the local file to overwrite the remote file; ensure that the local file is the updated version, otherwise remote editing history may be lost.</string>
+    <string name="sync_force_download_sub">Force using the remote file to overwrite the local file; ensure that the remote file is the updated version, otherwise local editing records may be lost.</string>
+    <string name="sync_force_remove_sub">Remove this error directly from the error list.</string>
+    <string name="sync_force_remove_tip">Are you sure you want to remove this synchronization issue directly?</string>
+    <string name="sync_export_log">Export Sync Log</string>
+    <string name="sync_log_empty_tip">No sync logs found.</string>
+    <string name="sync_fail_fix_strict_tip">Too many synchronization issues; try disabling "%s"?</string>
+    <string name="sync_fail_options">Select Operation</string>
+    <string name="export_image_slogan_1">Your private knowledge base!</string>
+    <string name="export_image_slogan_2">Your Second Brain, Growing from Your Phone</string>
+    <string name="export_image_slogan_3">Markdown in your pocket. Encrypted by design.</string>
+    <string name="export_image_slogan_4">Not just notes — a thinking system, synced silently.</string>
+    <string name="review_read_continue">Click to continue reading</string>
+    <string name="note_review_intro">Hi there! Welcome to the “Review” feature!\n\n
+
+Do you often jot down daily notes one by one? Yet, for the vast majority of notes, the moment you hit “Save,” they effectively come to an end. As time passes, those once-vivid thoughts gradually fade, and the effort you invested in writing gets buried beneath layers of notes. Recording loses its purpose of reflection and consolidation.\n\n
+
+The “Review” feature is designed specifically to break this cycle. It will resurface notes you created during a past period, inviting you to re-read and reflect upon them once again.\n\n
+
+Let’s rediscover those brilliant ideas you once had—even amid our busy days.\n\n
+
+Let’s begin!</string>
+    <string name="note_review_intro_title">Learn about the "Review" feature</string>
+    <string name="review_empty_title">No notes to review</string>
+    <string name="review_empty_subtitle">Click the input box at the bottom of the homepage to create some notes and try it again~</string>
+    <string name="share_by_short_image">Share Short Article Screenshot</string>
+    <string name="export_by_short_image">Export Short Article Screenshot</string>
+    <string name="export_by_file">Export as File</string>
+    <string name="premium_review_subtitle">Launched 6 years ago, our app has received widespread acclaim from users.</string>
+    <string name="premium_privilege_devices">Multi-device: Pay once and enjoy membership benefits on Android, tablets, iPhone, and iPad.</string>
+    <string name="premium_payway_switch_tip">Payment Method: %s</string>
+    <string name="premium_payment_trail_gift_title">Free Trial Available</string>
+    <string name="premium_usage_desc">Terms</string>
+    <string name="process_text_empty">The pending text is empty!</string>
+    <string name="process_text_saving">Saving, please wait&#8230;</string>
+    <string name="process_text_saved">Leaf Note · Text saved to: %s!</string>
+    <string name="process_text_dlg_title">Edit Note</string>
+    <string name="process_text_dlg_hint">Edit the text and then save it.</string>
+    <string name="text_less">Less</string>
+    <string name="text_more">More</string>
+    <string name="text_not_exported">Not Exported</string>
+    <string name="logout_confirm_title">Confirm logout?</string>
+    <string name="logout_confirm_message">After logging out, you need to log in again to use your membership benefits. Are you sure you want to log out?</string>
 </resources>
