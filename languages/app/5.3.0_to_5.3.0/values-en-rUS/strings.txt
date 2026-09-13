@@ -1,0 +1,1633 @@
+:name> language
+:text> en
+
+:name> text_discard
+:text> Discard
+
+:name> text_save
+:text> Save
+
+:name> text_abort
+:text> Abort
+
+:name> vip
+:text> VIP
+
+:name> register
+:text> Sign Up
+
+:name> bind
+:text> Log In
+
+:name> binding
+:text> Logging in
+…
+
+:name> unbind
+:text> Log Out
+
+:name> create_folder_tip
+:text> Please enter folder name
+
+:name> create_folder_to
+:text> Create folder to: %s
+
+:name> datasource_internal
+:text> Use Internal Data Source
+
+:name> current_using_folder
+:text> Currently Used Directory
+
+:name> text_new
+:text> New
+
+:name> text_exit
+:text> Exit
+
+:name> common_sign_out
+:text> Sign Out
+
+:name> data_statistics
+:text> Statistics
+
+:name> review
+:text> Review
+
+:name> unit_day
+:text> days
+
+:name> unit_year
+:text> years
+
+:name> statistics_new_notes_this_month
+:text> New Notes This Month
+
+:name> statistics_top_tags
+:text> Top 5 Tags
+
+:name> statistics_storage
+:text> Storage
+
+:name> common_set_security_symmary
+:text> App lock, fingerprint, and note encryption, etc.
+
+:name> set_image_host_enable
+:text> Enable Image Host
+
+:name> set_image_host_enable_sub
+:text> After enabling, images inserted into notes will be saved to the image host by priority
+
+:name> set_image_host
+:text> Image Host
+
+:name> set_image_host_config
+:text> Image Host Configuration
+
+:name> set_image_host_config_summary
+:text> Configure parameters for the selected image host
+
+:name> set_image_host_not_configured
+:text> Not Configured
+
+:name> set_image_host_configured
+:text> Configured
+
+:name> set_image_host_test
+:text> Test Connection
+
+:name> set_image_host_test_tip
+:text> Test before saving
+
+:name> set_image_host_test_success
+:text> Test Success
+
+:name> set_image_host_test_failed
+:text> Test Failed: %s
+
+:name> set_image_host_save_confirm
+:text> Have you passed the test? It is recommended to save after passing the test.
+
+:name> set_image_host_config_title
+:text> Configure %s
+
+:name> set_image_host_input_hint
+:text> Please enter %s
+
+:name> set_image_host_beta_notice
+:text> The image host feature is currently in beta. If you find any issues, please contact us.
+
+:name> set_image_host_no_config_found
+:text> No image upload config found for host: %s
+
+:name> set_image_host_select_first
+:text> Please select an image host first
+
+:name> image_host_uploading
+:text> Uploading...
+
+:name> image_host_upload_failed
+:text> Upload failed: %s
+
+:name> batch_processing
+:text> Batch Processing
+
+:name> merge
+:text> Merge
+
+:name> please_select_items
+:text> Please select the note to process!
+
+:name> please_select_at_least_two_notes
+:text> Please select at least 2 notes to merge
+
+:name> merge_notes_confirmation_title
+:text> Confirm Merge
+
+:name> merge_notes_confirmation_message
+:text> This will merge all selected notes into a new note, and the original notes will be deleted. This action cannot be undone. Continue?
+
+:name> common_set_security_applock_enable
+:text> Enable App Lock
+
+:name> common_set_security_reset_password
+:text> Change Password
+
+:name> common_set_security_security_questions_added
+:text> Security questions have already been added.
+
+:name> common_set_security_security_questions_answer_wrong
+:text> Wrong answer! Please check your answers and try again!
+
+:name> common_set_security_biometric
+:text> Enable Biometric Verification
+
+:name> common_set_security_biometric_not_match
+:text> Not match, %d time(s) left.
+
+:name> common_set_security_biometric_summary
+:text> After configuration, biometric information can be directly used for identity verification.
+
+:name> common_app_intro_subtitle
+:text> Rediscover You
+
+:name> common_app_intro_title_2
+:text> Cloud Synchronization
+
+:name> common_app_intro_detail_2
+:text> Supports three synchronization methods: OneDrive, DropBox and WebDAV. Note modifications can be synchronized to the server immediately
+
+:name> common_app_intro_title_3
+:text> Security
+
+:name> common_app_intro_detail_3
+:text> App lock and notes are end-to-end encrypted to protect your data and privacy
+
+:name> common_app_intro_title_4
+:text> Start your journey of knowledge
+
+:name> common_failed_read_note
+:text> Failed to read note: %s
+
+:name> common_failed_write_note
+:text> Failed to write note: %s
+
+:name> note_unreadable
+:text> Note unreadable!
+
+:name> note_read_error
+:text> Error Reading Note
+
+:name> note_read_error_key_not_match
+:text> Encryption Key Not Match
+
+:name> note_read_error_file_format
+:text> File Format Error
+
+:name> share_by_html
+:text> Share as Html
+
+:name> share_by_image
+:text> Share Long Article Screenshot
+
+:name> export_by_html
+:text> Export as HTML
+
+:name> export_by_image
+:text> Export Long Article Screenshot
+
+:name> select_folder_move_to
+:text> Target Folder
+
+:name> login_title
+:text> Log In
+
+:name> login_account_bind_tip
+:text> Account is only used to bind membership benefits.
+
+:name> login_bind_state
+:text> Account Information
+
+:name> login_unbind_success_message
+:text> Logout successful!\nYou can log in again to enjoy your benefits. Thank you for using it!
+
+:name> sketch_title
+:text> Doodle
+
+:name> sketch_clear_tips
+:text> Confirm to clear bitmap?
+
+:name> sketch_stroke
+:text> Stroke
+
+:name> sketch_opacity
+:text> Opacity
+
+:name> sketch_saturation
+:text> Saturation
+
+:name> skecth_save_tip
+:text> Save your creation or discard?
+
+:name> audio_title
+:text> Audio Note
+
+:name> audio_start
+:text> Start Recording
+
+:name> audio_stop
+:text> Stop Recording
+
+:name> audio_store_folder
+:text> Audio Notes
+
+:name> audio_store_folder_summmary
+:text> Audio notes will be stored in this directory: %s
+
+:name> audio_store_folder_prefix
+:text> Audio storage folder: %s
+
+:name> capture_web_title
+:text> Web to Note
+
+:name> capture_web_input_hint
+:text> Input a web url here
+…
+
+:name> capture_web_tip
+:text> Enter any webpage link and convert it into a Markdown note.
+
+:name> capture_web_input_empty
+:text> The url should not be empty
+…
+
+:name> capture_Web_invalid_urlr
+:text> Invalid url
+
+:name> capture_Web_error
+:text> Failed to visit the page :(
+
+:name> capture_web_reading_html
+:text> Reading page content
+…
+
+:name> capture_web_read_html
+:text> Read page content and converting to markdown
+…
+
+:name> capture_web_saveing
+:text> Saving note
+…
+
+:name> capture_web_save_error
+:text> Failed while saving note :(
+
+:name> capture_web_aborted
+:text> Aborted by user.
+
+:name> capture_web_folder
+:text> Web Clip Note
+
+:name> capture_web_folder_summary
+:text> Notes converted from webpages will be stored in this directory: %s
+
+:name> web_note_store_folder_prefix
+:text> Web note storage folder: %s
+
+:name> web_note_store_folder_placeholder
+:text> Web note storage folder: xxx
+
+:name> capture_web_trial_tip
+:text> This feature is a premium entitlement exclusive to the professional version. You have %d trial opportunities before becoming a member.
+
+:name> image_effect_beauty
+:text> Beauty
+
+:name> image_effect_sharpen
+:text> Sharpen
+
+:name> image_effect_denoise
+:text> Denoise
+
+:name> image_effect_sepia
+:text> Sepia
+
+:name> image_effect_cold
+:text> Cold
+
+:name> image_effect_warm
+:text> Warm
+
+:name> image_effect_vignette
+:text> Vignette
+
+:name> image_effect_otsu
+:text> Otsu
+
+:name> image_name_not_support
+:text> This image format is not supported yet: You can modify the configuration in “Settings
+>
+Files
+>
+Image Extensions” to support it.
+
+:name> image_pictures
+:text> Gallery
+
+:name> image_picker_unavailable
+:text> Image Picker Not Available!
+
+:name> premium_join
+:text> JOIN
+
+:name> premium_privilege_basic
+:text> All basic features: Markdown, audio recording, multi-level directories, review, search, etc.
+
+:name> premium_privilege_themes
+:text> Personalized Appearance: %d+ App Themes, %d+ Editor Themes, %d+ Code Styles, Custom CSS, Custom Fonts, etc.
+
+:name> premium_privilege_image
+:text> Image Processing: Image Management, Taking Photos, Image Cropping, Adding Filters, Free Transformations, etc.
+
+:name> premium_privilege_export
+:text> Export and Share: Convert notes to PDF, screenshots, HTML, etc., and share or export them.
+
+:name> premium_privilege_appwidgets
+:text> Platform Features: Add desktop widgets, note shortcut icons, and quick recording, etc.
+
+:name> premium_privilege_multi_data_sources
+:text> Multiple Data Sources: Allows creating multiple local data sources and freely switching between them.
+
+:name> premium_privilege_image_upload
+:text> Image Hosting for Notes: Images added while editing notes are automatically uploaded to image hosting services and inserted into notes as image links.
+
+:name> premium_privilege_sync
+:text> Cloud Sync: Multiple cloud storage synchronization methods (WebDAV, Dropbox, and OneDrive), full-disk synchronization, data changes are immediately synced to the cloud server.
+
+:name> premium_privilege_webnote
+:text> Web-to-Note: Clip any web page into Markdown and save it locally, making it easy to bookmark any online article.
+
+:name> premium_privilege_encryption
+:text> Data Security: App lock and end-to-end encryption for notes, comprehensively protecting your data security.
+
+:name> premium_privilege_ai
+:text> Writing Assistant: An AI-powered writing assistant for content creation and AI interaction.
+
+:name> premium_privilege_future
+:text> All future development features, no additional payment required.
+
+:name> premium_payway_others
+:text> Other Ways to Obtain
+
+:name> premium_payway_others_sub_title
+:text> You can also obtain a membership through a free trial or redemption code.
+
+:name> premium_payway_google_billing
+:text> Google Play Billing
+
+:name> premium_payway_alipay_wechat
+:text> AliPay
+&
+WeChat
+
+:name> premium_payways
+:text> Select Payment Method
+
+:name> premium_contact_us
+:text> Contact Us
+
+:name> premium_contact_us_sub_title
+:text> If you have any questions about membership or need any assistance, please contact us via any of the following methods:
+
+:name> premium_payment_continue_content
+:text> Payment already completed? Submit the order transaction ID to complete the payment process.
+
+:name> premium_payment_login_first_content
+:text> Our membership benefits are tied to your account. To enjoy membership benefits on other platforms, we recommend logging in to bind your membership benefits to your account. This account is used solely for binding membership benefits.
+
+:name> premium_payment_trail_gift_content
+:text> You are entitled to a free trial of this software’s premium features!  \n
+This trial is designed to let users experience the premium features; it will be automatically canceled upon expiration and will not incur any charges.
+
+:name> premium_account_state_not_logged_in_tip
+:text> Membership benefits can be restored by logging in to your account!
+
+:name> search_empty_tip
+:text> Try another keyword or relax your search criteria?
+
+:name> search_setting
+:text> Search Settings
+
+:name> search_ignore_case
+:text> Ignore Case
+
+:name> search_on_given_folder
+:text> Search in Directory
+
+:name> search_include_encrypted
+:text> Include Encrypted Notes
+
+:name> compose_note_line_focus
+:text> Focus
+
+:name> compose_note_button_order
+:text> Sort Shortcuts
+
+:name> compose_tag_add
+:text> Add Tag
+
+:name> compose_tag_empty_title
+:text> No tags found!\nClick to create the first tag.
+
+:name> compose_history_not_found
+:text> No History
+
+:name> compose_note_un_finish_recover_tip
+:text> Recover from history.
+
+:name> note_links_outgoing_title
+:text> Quote Note
+
+:name> note_links_incoming_title
+:text> Referenced
+
+:name> note_links_empty_outgoing
+:text> No references to other notes
+
+:name> note_links_empty_incoming
+:text> No other notes reference yet
+
+:name> compose_note_structure_empty
+:text> Empty Structure
+
+:name> compose_edit_option_name_H1
+:text> Header
+
+:name> compose_edit_option_name_H2
+:text> Header
+
+:name> compose_edit_option_name_H3
+:text> Header
+
+:name> compose_edit_option_name_H4
+:text> Header
+
+:name> compose_edit_option_name_H5
+:text> Header
+
+:name> compose_edit_option_name_H6
+:text> Header
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> List
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Numeric List
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Check Box
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Checked Box
+
+:name> compose_edit_option_name_QUOTE
+:text> Quote
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Inline Code
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Block Code
+
+:name> compose_edit_option_name_STRIKE
+:text> Strike
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Line
+
+:name> compose_edit_option_name_ITALIC
+:text> Italic
+
+:name> compose_edit_option_name_BOLD
+:text> Bold
+
+:name> compose_edit_option_name_MARK
+:text> Mark
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Math
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Sub Script
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Super Script
+
+:name> compose_edit_option_name_IMAGE
+:text> Image
+
+:name> compose_edit_option_name_LINK
+:text> Link
+
+:name> compose_edit_option_name_TABLE
+:text> Table
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Quote
+
+:name> compose_edit_option_quote_format
+:text> \"%s\"
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> Flowchart
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> Note Snippets
+
+:name> compose_edit_note_snippet_title
+:text> Select Note Snippet
+
+:name> compose_setting_quick_note_folder
+:text> Quick Notes
+
+:name> compose_setting_folder_change
+:text> Change Note Folder
+
+:name> compose_setting_folder_clear
+:text> Clear Note Folder
+
+:name> compose_setting_quick_note_folder_tip
+:text> Tip: You are able to change the folder to save quick note in note settings under \"%s\".
+
+:name> compose_setting_quick_note_folder_summary
+:text> Notes quickly entered in the home page chat input box will be saved to this directory: %s
+
+:name> note_encrypt_enable
+:text> Enable Note Encryption
+
+:name> note_encrypt_enable_summary
+:text> After enabling this feature, newly created notes will be encrypted before storage.
+
+:name> note_encrypt_key
+:text> Encryption Key
+
+:name> note_encrypt_key_summary
+:text> The key is used to encrypt and decrypt notes.
+
+:name> note_encrypt_key_change_title
+:text> Sure to Change Encryption Key?
+
+:name> note_encrypt_key_change_message
+:text> When modifying the key, all files encrypted with the previous key will be re-encrypted. Do you confirm to proceed?
+
+:name> note_encrypt_re_encrypting
+:text> [%s]. Please wait for the process to complete.
+
+:name> note_encrypt_re_encrypt_done
+:text> Re-Encrypt Completed!
+
+:name> note_encrypt_re_encrypt_serivce
+:text> Re-Encrypt Service
+
+:name> note_encrypt_re_encrypt_title
+:text> Re-encrypting
+…
+
+:name> note_encrypt_key_required
+:text> Encryption key is required!
+
+:name> note_encrypt_key_invalid
+:text> Invalid encryption key, please try again.
+
+:name> note_encrypt_key_change_tip
+:text> All encrypted files need to be re-encrypted before changing the key. Therefore, you are advised to set the encryption key only once.
+
+:name> note_encrypt_key_tip_chars
+:text> Please enter no less than 8 characters (numbers and upper and lower case letters only).
+
+:name> note_encrypt_mnemonic
+:text> Mnemonic
+
+:name> note_encrypt_mnemonic_desc
+:text> A mnemonic helps you remember your encryption key. You can write down something associated with the key to aid recall. It is stored in plain text on the device.
+
+:name> note_encrypt_write_key
+:text> Write Encryption Key
+
+:name> note_encrypt_write_key_summary
+:text> Used to prevent forgotten passwords. If this feature is enabled, the key will be asymmetrically encrypted and written to the file.
+
+:name> note_encrypt_auth
+:text> Identity Verification
+
+:name> note_encrypt_auth_failed
+:text> Identity verification failed.
+
+:name> note_encrypt_auth_summary
+:text> If enabled, identity verification will be required before using encrypted notes every time. <b>Note: You need to set an app password first otherwise it won\'t take effect.</b>
+
+:name> note_encrypt_preview
+:text> Hide Preview
+
+:name> note_encrypt_preview_placeholder
+:text> [Encrypt Note]
+
+:name> note_encrypt_preview_summary
+:text> After enabling, the preview information of encrypted notes will be hidden in the note list.
+
+:name> note_encrypt_export_info
+:text> Export Encryption Recovery Info
+
+:name> note_encrypt_export_info_summary
+:text> Export mnemonic and encrypted recovery information to a file to help you remember your password. Status: %s.
+
+:name> note_encrypt_export_no_key
+:text> Please configure the encryption key before exporting.
+
+:name> note_encrypt_export_succeed
+:text> Encryption recovery information exported successfully! Please keep the exported file safe.
+
+:name> note_encrypt_export_failed
+:text> Export failed: %s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_Encryption_Recovery_
+
+:name> note_encrypt_export_notice
+:text> <b>[Important Security Notice
+]</b><br/>This file contains your encrypted mnemonic and key verification information.<br/>Please keep it secure and never disclose or upload it to any public network.<br/><br/>If you forget your password:<br/>1. Use the <b>mnemonic</b> in this file to help recall it.<br/>2. The correct password is required to decrypt all your encrypted notes.
+
+:name> set_language_english
+:text> English
+
+:name> set_language_chinese
+:text> 中文简体
+
+:name> set_language_traditional_chinese
+:text> 中文繁體
+
+:name> set_language_russian
+:text> Русский (AI)
+
+:name> set_language_german
+:text> Deutsch (AI)
+
+:name> set_language_spanish
+:text> Español (AI)
+
+:name> set_language_french
+:text> Français (AI)
+
+:name> set_language_italian
+:text> Italiano (AI)
+
+:name> set_language_japanese
+:text> 日本語 (AI)
+
+:name> set_language_korean
+:text> 한국인 (AI)
+
+:name> set_language_portuguese
+:text> Português (AI)
+
+:name> set_ai
+:text> AI Assistant
+
+:name> set_ai_summary
+:text> AI Writing Assistant
+
+:name> set_ai_source
+:text> AI Platform
+
+:name> set_ai_source_summary
+:text> Set up the AI used in note chatting.
+
+:name> set_ai_source_clear
+:text> Clear AI Settings
+
+:name> set_ai_source_reset
+:text> Change AI Settings
+
+:name> set_ai_notice
+:text> Notice
+
+:name> set_ai_notice_summary
+:text> Our app never collects or uses user data for AI training. All user data is stored locally on devices or in user-designated cloud drives. Additionally, users can connect with trusted AI platforms or disable AI entirely, ensuring full control over data privacy and storage autonomy.
+
+:name> set_ai_disable
+:text> Disable
+
+:name> set_ai_disable_summary
+:text> Turn off AI everywhere with a single tap.
+
+:name> set_ai_provider_custom
+:text> Custom
+
+:name> set_ai_provider_custom_tip
+:text> Custom AI must comply with OpenAI\'s API specifications. Click to learn more!
+
+:name> set_ai_model
+:text> AI Model
+
+:name> set_ai_custom_input_rquire
+:text> Please input the \"%s\".
+
+:name> set_ai_prompt
+:text> Chat Context
+
+:name> set_ai_prompt_tip
+:text> The placeholder \"%s\" will be replaced by your note content when you talk with AI.
+
+:name> set_security_applock
+:text> App Lock
+
+:name> set_encrypt_note
+:text> Note Encryption
+
+:name> set_theme_and_style
+:text> Appearance
+
+:name> set_theme_and_style_summary
+:text> App themes, editor themes, fonts, code styles, and CSS, etc.
+
+:name> set_theme_theme_lunar_new_year
+:text> Happy New Year
+
+:name> set_theme_theme_yellow_gray
+:text> Light Brown
+
+:name> set_font_title
+:text> Font
+
+:name> set_font_clear
+:text> Clear Font
+
+:name> set_font_reset
+:text> Change Font
+
+:name> set_note_sub
+:text> Settings related to note editing and display.
+
+:name> set_export_sub
+:text> We have decided to discontinue maintenance of this feature and recommend using the sync function instead. We suggest using it only when initializing the app\'s note data.
+
+:name> set_note_list_summary
+:text> Everything related to the note list on the app\'s home page
+
+:name> set_note_snippet
+:text> Note Snippets
+
+:name> set_note_snippet_summary
+:text> A note snippet is a customizable text paragraph that can be saved and reused, serving as a note template.
+
+:name> note_snippet_drag_to_reorder
+:text> Tip: Press and drag the horizontal line on the left to sort note snippets.
+
+:name> note_snippet_content
+:text> Content
+
+:name> note_snippet_create
+:text> Create Note Snippet
+
+:name> set_note_mathjax
+:text> Enable Mathjax
+
+:name> set_note_mermaid
+:text> Enable Mermaid
+
+:name> set_note_disable_to_accelerate_tip
+:text> If you don\'t need this feature, you can turn it off. This will improve the rendering speed of notes.
+
+:name> set_note_yaml
+:text> Use front matter
+
+:name> set_note_title_sub
+:text> After enabling, the title input box can be enabled on the note editing page. However, it is strongly discouraged to enable it, as title handling can easily cause significant ambiguity. If you want to input a title, we recommend directly using Markdown heading syntax or treating the first line of text as the title.
+
+:name> set_extensions_tip
+:text> Input custom extensions, split multiple extensions by \",\".
+
+:name> set_extensions_note_tip
+:text> Input custom extensions, split multiple extensions by \",\". Note that the \'lnmd\'
+&
+\'lntxt\' are encrypted file extensions of our APP.
+
+:name> set_text_extensions
+:text> Text Extensions
+
+:name> set_text_extensions_summary
+:text> Files with text extension will be read and displayed as text.
+
+:name> set_support_extensions
+:text> Support Extensions
+
+:name> set_support_extensions_summary
+:text> Files with support extension will be load and displayed in notes list.
+
+:name> set_illegal_charset_sub
+:text> Invalid characters in file naming configuration; the application will automatically replace them according to your configuration.
+
+:name> set_note_edit_directly_sub
+:text> After enabling this option, clicking on a note will directly open the editing page (instead of the viewing page).
+
+:name> set_note_auto_parsing_encoding
+:text> If enabled, the encoding format of notes will be automatically analyzed when loading notes.
+
+:name> set_note_hide_folders
+:text> Hide Folders
+
+:name> set_note_hide_folders_sub
+:text> Select the directories you want to hide; the selected directories will not appear in the directory list.
+
+:name> set_note_folders
+:text> Storage Location
+
+:name> set_file_summary
+:text> File naming rules, extensions, etc.
+
+:name> set_file_naming_title
+:text> File Naming
+
+:name> set_file_naming_custom
+:text> Custom
+
+:name> set_file_naming_custom_tip
+:text> Y: Year, M: Month, D: Day, H: Hour, m: Minute, s: Second, S: Millisecond
+
+:name> set_image_sub
+:text> Image, camera
+&
+image host
+
+:name> set_image_ocr
+:text> OCR
+
+:name> set_image_ocr_statement
+:text> The original OCR feature has been removed. We are considering alternative OCR implementation methods.
+
+:name> set_note_display_image
+:text> Display Images
+
+:name> set_note_display_image_sub
+:text> After enabling, images will be displayed in the note list; otherwise, they will not be displayed.
+
+:name> set_note_image_compress_sub
+:text> If enabled, newly added images in the app will be compressed before being saved.
+
+:name> set_note_image_compress_quality
+:text> Image Compression Quality
+
+:name> set_note_image_compress_quality_sub
+:text> Image compression quality. The higher the value, the higher the clarity and the larger the space occupied. Current value: %d
+
+:name> set_note_image_compress_quality_tip
+:text> Enter range 0-100. Higher values mean better image clarity but consume more storage space.
+
+:name> set_sync_summary
+:text> Cloud server (DropBox, WebDAV
+&
+OneDrive) and sync configurations, as well as sync issue handling, etc.
+
+:name> set_sync_universal
+:text> Settings
+
+:name> set_sync_enable
+:text> Enable Sync
+
+:name> set_sync_enable_sub
+:text> Closing it will disable the passive synchronization logic across the entire application.
+
+:name> set_sync_server_connect_failed
+:text> Connection test failed. Please check your configuration information and try again.
+
+:name> set_sync_server_chooser_title
+:text> Choose Cloud Server
+
+:name> set_sync_server_change
+:text> Change Cloud Server
+
+:name> set_sync_server_clear
+:text> Clear Server Configurations
+
+:name> set_sync_server_clear_message
+:text> Are you sure you want to clear server configurations? This will also delete sync cache data, which may cause longer sync times.
+
+:name> set_sync_server_summary
+:text> Configure cloud sync servers, supporting WebDAV, Dropbox, and OneDrive synchronization.
+
+:name> set_sync_webdav_server_host
+:text> Host
+
+:name> set_sync_webdav_server_path
+:text> Folder to Synchronize
+
+:name> set_sync_webdav_server_account
+:text> Account
+
+:name> set_sync_webdav_server_password
+:text> Password
+
+:name> set_sunc_dropbox_configured_tip
+:text> You\'ve already configured Dropbox. If you need to update the configuration, clear the current settings first and then reconfigure it.
+
+:name> set_sync_onedrive_connected_message
+:text> OneDrive is connected!\nYou can click the button below to sign out.
+
+:name> set_sync_onedrive_sign_out
+:text> OneDrive signed out!
+
+:name> set_sync_onedrive_root_tip
+:text> The app will sync notes to the \"%s\" directory under the root of your OneDrive. You can click the button below to change it.
+
+:name> set_sync_onedrive_root_change
+:text> Change Sync Directory
+
+:name> set_sync_interval
+:text> Sync Interval
+
+:name> set_sync_delay
+:text> Sync Delay
+
+:name> set_sync_delay_sub
+:text> Some servers limit the request frequency. This setting reduces the request frequency by adding a delay to each request. Current: %d ms.
+
+:name> set_sync_info
+:text> Status
+
+:name> set_sync_clear_status
+:text> Clear Sync Cache
+
+:name> set_sync_clear_status_summary
+:text> The synchronization cache records the status of local and remote files; the cache can accelerate the synchronization speed.
+
+:name> set_sync_clear_status_message
+:text> Detected %d sync cache entries. Are you sure you want to clear all of them?\nThis may increase the time required for the next synchronization.
+
+:name> set_sync_last_info
+:text> Issue Handling
+
+:name> set_sync_log
+:text> Sync Log
+
+:name> set_sync_log_dialog_title
+:text> Select Log File
+
+:name> set_sync_done_with_error
+:text> %d issues require attention.
+
+:name> set_sync_now_title
+:text> Sync Now
+
+:name> set_sync_now_summary
+:text> If this feature is enabled, notes will be automatically synced to the cloud server immediately after the user modifies them.
+
+:name> sync_server_onedrive
+:text> OneDrive (Personal)
+
+:name> sync_unable_to_handle_locally_yip
+:text> This error may be caused by a network issue and cannot be handled locally. You can either directly remove this error or retry to resolve it.
+
+:name> sync_force_upload
+:text> Upload
+
+:name> sync_force_upload_tip
+:text> This will force local files to overwrite cloud files. Are you sure to proceed?
+
+:name> sync_force_download
+:text> Download
+
+:name> sync_force_download_tip
+:text> This will force cloud files to overwrite local files. Are you sure to proceed?
+
+:name> sync_force_diff
+:text> Diff
+
+:name> sync_force_delete_remote
+:text> Delete Cloud File
+
+:name> sync_force_delete_remote_tip
+:text> This will delete cloud files. Are you sure to proceed?
+
+:name> sync_force_delete_local
+:text> Delete Local File
+
+:name> sync_force_delete_local_tip
+:text> This will delete local files. Are you sure to proceed?
+
+:name> sync_failure_message
+:text> failed to sync the file with issue: %s
+
+:name> sync_failure_handle
+:text> Handle Sync Issue
+
+:name> sync_failure_conflict
+:text> Security reason: Local and remote files are inconsistent.
+
+:name> sync_failure_connect
+:text> Network connection or server configuration.
+
+:name> sync_failure_upload
+:text> Failed to upload.
+
+:name> sync_failure_download
+:text> Failed to download.
+
+:name> sync_failure_delete_local
+:text> Failed to delete local file.
+
+:name> sync_failure_delete_remote
+:text> Failed to delete remote file.
+
+:name> sync_confirm_message
+:text> The synchronization task runs in the background and will not affect your normal usage.
+
+:name> set_report_no_conflict
+:text> No Issues Found
+
+:name> set_conflict_resolve
+:text> Sync Issues
+
+:name> trash_box
+:text> Trash
+
+:name> config_new_version_found
+:text> New Version Found
+
+:name> config_ignore_this_version
+:text> Ignore This Version
+
+:name> security_user_info_falsified
+:text> The system detected that the user info might be falsified illegally! We suggest you contact the developer to seek help!
+
+:name> about_app_solgon
+:text> Your Private Knowledge Base
+
+:name> viewer_double_tap_show_tip
+:text> Double tap the page to edit the note.
+
+:name> chat_room_name
+:text> Writer Assistant
+
+:name> chat_default_message
+:text> Hello, I\'m your writer assistant! You can ask me anything
+…
+
+:name> chat_input_empty_toast
+:text> Please input your message.
+
+:name> chat_input_hint
+:text> Begin to talk
+…
+
+:name> chat_prompt_default
+:text> You are a writer assistant. This is my article:\n %s
+
+:name> chat_ignore_by_ai_toast
+:text> Since AI is thinking your last message, current message will be ignored.
+
+:name> chat_ai_thinking
+:text> Thinking
+…
+
+:name> chat_ai_not_configured_tip
+:text> AI information not configured. Your messages will be stored, but no responses will be provided.
+
+:name> chat_ai_disable_tip
+:text> AI is disabled. Your messages will be stored, but no responses will be provided.
+
+:name> chat_ai_disable_toast
+:text> AI is disabled, please enable it and try again!
+
+:name> chat_ai_thinking_toast
+:text> AI is thinking now, please try again later!
+
+:name> chage_message_delete_tip
+:text> Sure to delete this message?
+
+:name> datasource_datasource_summary
+:text> Data sources, import/export, and note storage paths, etc.
+
+:name> datasource_external_tip
+:text> According to the platform\'s review regulations, the current version does not support external storage read/write functionality. You can read the help documentation to learn more.
+
+:name> datasource_restart_message
+:text> Please restart the App to continue to use.\n\nNote: since you have changed the notes root directory, you need to manually change the cloud sync server info accordingly (if you have before).
+
+:name> datasource_use_internal
+:text> Switch Notes Root Directory
+
+:name> datasource_use_internal_message
+:text> Sure to use this directory as internal notes root directory?
+
+:name> datasource_default_dir
+:text> Default directory
+
+:name> datasource_default_dir_suffix
+:text> (Default directory)
+
+:name> datasource_internal_summary_template
+:text> You can achieve multiple data sources by adding internal directories. Currently used data source: %s
+
+:name> review_type_today
+:text> Today
+
+:name> review_type_yesterday
+:text> Yesterday
+
+:name> review_type_last_today
+:text> Today in History
+
+:name> review_type_this_week
+:text> This Week
+
+:name> review_type_last_week
+:text> Last Week
+
+:name> review_type_this_month
+:text> This Month
+
+:name> review_type_last_month
+:text> Last Month
+
+:name> review_type_this_year
+:text> This Year
+
+:name> review_type_custom
+:text> Custom
+
+:name> input_panel_more
+:text> More
+
+:name> input_panel_storage_location
+:text> Storage Location
+
+:name> input_panel_enable_encryption
+:text> Enable Encryption
+
+:name> set_import_flomo
+:text> Import From Flomo
+
+:name> set_import_flomo_sub
+:text> Click to import notes from flomo exported zip file
+
+:name> import_flomo_title
+:text> Import From Flomo
+
+:name> import_flomo_select_zip
+:text> Select zip file
+
+:name> import_flomo_select_zip_sub
+:text> Select the zip file you exported from flomo
+
+:name> import_flomo_option_title
+:text> Import options
+
+:name> import_flomo_encrypt
+:text> Encrypt notes
+
+:name> import_flomo_encrypt_no_key
+:text> You haven\'t set an encryption key, please set it in security settings first
+
+:name> import_flomo_organize_method
+:text> Note organization method
+
+:name> import_flomo_organize_by_month
+:text> Create a directory per month
+
+:name> import_flomo_organize_by_month_sub
+:text> Flomo notes for each month will be stored in a separate directory; each note will create a document.
+
+:name> import_flomo_organize_no
+:text> Do not organize by month
+
+:name> import_flomo_organize_no_sub
+:text> All notes will be imported into this directory; each note will create a document.
+
+:name> import_flomo_each_note_desc
+:text> Each note will create a document
+
+:name> import_flomo_target_dir
+:text> Target directory
+
+:name> import_flomo_start_import
+:text> Start import
+
+:name> import_flomo_scan_result
+:text> Found %d notes, %d files
+
+:name> import_flomo_scanning
+:text> Scanning
+…
+
+:name> folder_pick_long_press_hint
+:text> You can long press to edit folder information
+
+:name> input_panel_save_as_snippet
+:text> Save as Note Snippet
+
+:name> input_panel_clear_input
+:text> Clear Input
+
+:name> input_panel_save_snippet_success
+:text> Snippet saved successfully!
+
+:name> note_review_title
+:text> Note Review
+
+:name> note_review_message
+:text> Discover those shining thoughts and events from the past through review.
+
+:name> note_review_continue
+:text> Continue
+
+:name> note_setting_group_file_opt
+:text> File Operations
+
+:name> note_setting_group_sync
+:text> Cloud synchronization
+
+:name> create_child_folder
+:text> Create Subdirectory
+
+:name> text_got_it
+:text> Got it
+
+:name> set_note_list_cell_style_card_summary
+:text> Set the card style for the homepage note list. Current: %s
+
+:name> set_note_list_show_folders_sub
+:text> After enabling, the directory will also be displayed in the note list; otherwise, it will not be shown.
+
+:name> set_file_naming_summary
+:text> File naming rule when creating files, current: %s
+
+:name> set_file_extensions_group
+:text> File Extension
+
+:name> set_file_extensions_group_summary
+:text> File Extension Settings Description: Our application uses disk files as the medium for notes. Therefore, it is not only a note-taking application but also functions almost like a file management application. Our software uses file extensions to identify file types, which determines whether a file is treated as an image, text, or note. You can customize this setting, and your configuration for file extensions will determine how the software handles these files.
+
+:name> text_explain
+:text> Description
+
+:name> set_explain_sub
+:text> Feature description
+
+:name> set_note_image_default_name_sub
+:text> Images added to notes will be stored in this directory. Current: %s
+
+:name> note_snippet_option_title
+:text> Select Operation
+
+:name> note_snippet_delete_confirm_message
+:text> The note snippet will be permanently deleted and cannot be recovered. Are you sure you want to delete it?
+
+:name> set_note_auto_parsing_encoding_title
+:text> Detect Encoding
+
+:name> set_group_basics
+:text> Basic
+
+:name> set_group_data
+:text> Data
+
+:name> set_group_others
+:text> Others
+
+:name> common_set_security_applock_enable_sub
+:text> After enabling, identity verification is required when reopening the app.
+
+:name> common_set_security_security_questions_sub
+:text> Security questions can be used to verify your identity if you forget your password.
+
+:name> set_encrypt_key_desc
+:text> Before you set a password, we recommend that you:  \n\n
+1. The app’s key and encryption design is based on the premise that users manage their own data; encrypted information and notes are stored only on your device’s local disk.  \n\n
+2. For your data security, after setting a key, please keep it safe—lost keys cannot be recovered, and your data will become irretrievable. We recommend always setting a mnemonic phrase; you may use any text that helps you recall your key.  \n\n
+3. Uninstalling the app causes the system to delete all app data—including encrypted information—so we recommend always backing up your key. To assist with this, we provide an encrypted-data export feature. Using this function, you can export encrypted information (excluding the key).  \n\n
+4. Each time you modify your key, the app automatically re-encrypts all previously encrypted notes; therefore, we recommend setting your key only once.  \n\n
+5. Newer versions (5.3.0 and above) adopt standardized key derivation and encryption schemes, offering higher security—we recommend upgrading to this version.
+
+:name> folder_create_succeed
+:text> Successfully created directory "%s"!
+
+:name> flomo_import_zip_require
+:text> Please select the file to import!
+
+:name> flomo_import_target_require
+:text> Please specify an import directory!
+
+:name> flomo_import_memo_empty
+:text> No importable notes found. Please check whether the selected file contains notes!
+
+:name> flomo_import_succeed
+:text> Data import completed!
+
+:name> flomo_import_failed
+:text> Data import failed: Some notes or images may have failed to import!
+
+:name> image_save_success
+:text> Images has been saved to "%s"
+
+:name> notes_empty_title
+:text> No Notes Found
+
+:name> notes_empty_subtitle
+:text> Try clicking the input box at the bottom of the homepage to quickly create a note!
+
+:name> search_placeholder_desc
+:text> Search for the keyword you want and try Leaf Note’s powerful search capability!
+
+:name> search_placeholder_title
+:text> Start Search
+
+:name> search_empty_title
+:text> No Matching Notes Found
+
+:name> search_result_count_tip
+:text> Found %d matching results in total
+
+:name> search_show_left_count_tip
+:text> Show the remaining %d results
+
+:name> batch_delete_items_tip
+:text> Ready to delete %d entries. Confirm execution?
+
+:name> batch_delete_succeed_tip
+:text> %d entries deleted!
+
+:name> premium_only
+:text> Premium
+
+:name> note_setting_group_basic
+:text> Basic
+
+:name> compose_note_setting_links
+:text> Bidirectional Links
+
+:name> copy_from
+:text> Copied from:
+
+:name> share_from
+:text> Shared from:
+
+:name> share_by_file
+:text> Share as File
+
+:name> note_not_editable_tip
+:text> This note is not editable!
+
+:name> set_list_settings
+:text> List Settings
+
+:name> set_all_settings
+:text> All Settings
+
+:name> list_bottom_slogan_1
+:text> Welcome to "Leaf Note"!
+
+:name> list_bottom_slogan_2
+:text> Leaf Note is Awesome!
+
+:name> file_not_found_with
+:text> Please check if the file exists: %s
+
+:name> route_failed_with
+:text> Unable to process: %s
+
+:name> trash_box_empty_desc
+:text> After clearing, this content will be permanently deleted. Are you sure you want to clear it?
+
+:name> trash_empty_title
+:text> Trash is empty
+
+:name> trash_empty_desc
+:text> Deleted files will be moved to the trash.
+
+:name> snippet_list_empty_title
+:text> No Note Snippets
+
+:name> snippet_list_empty_sub
+:text> Note snippets can be created in both the editing box at the bottom of the home page and the Note Snippet Management page.
+
+:name> folder_desc_title
+:text> Folder Usage
+
+:name> folder_desc_detail
+:text> “Folder” management is a core feature of this software, helping you efficiently organize and manage your notes.\n\n
+Our folders are implemented based on the local file system and saved using standard file formats, adhering to the design principle of “data ownership belongs to the user.” You can freely create multi-level note folders.\n\n
+Common operations in the folder list:\n\n
+1. Click the left-facing arrow: Collapse or expand the folder;\n
+2. Click “More” on the far right: Perform management actions such as adding a subfolder, deleting, or renaming;\n
+3. Click the middle area: Select and set it as the “Working Folder.”\n\n
+👉 What is the Working Folder?\n\n
+The note list displayed on the Home page comes from the current Working Folder. New notes are saved here by default; features such as audio recording and web-to-note conversion support customizing the default save location via Settings.\n\n
+If you have any questions or suggestions while using the software, feel free to contact us!
+
+:name> login_account_help_tip
+:text> If you need any assistance, please contact us via %s!
+
+:name> login_subtitle
+:text> Restore membership benefits by logging in
+
+:name> premium_dialog_free_trial_tip
+:text> A free trial is available.
+
+:name> compose_history_not_found_sub
+:text> The history of notes will be automatically saved here as you edit.
+
+:name> empty_image_title
+:text> No Image
+
+:name> empty_image_subtitle
+:text> All local images will be displayed here. Try adding an image!
+
+:name> set_report_no_conflict_sub
+:text> Congratulations! All your files have been successfully synchronized to the server!
+
+:name> note_set_double_edit_desc
+:text> Double-clicking the note page also enters edit mode!
+
+:name> set_sync_done_with_time
+:text> Last sync completed at %s.
+
+:name> set_sync_done_without_error
+:text> Last sync completed at %s, no sync issues detected.
+
+:name> set_sync_not_yet
+:text> Not synced yet
+
+:name> set_sync_strict
+:text> Strict Mode
+
+:name> set_sync_strict_sub
+:text> Disabling strict mode can significantly reduce the probability of sync issues. For detailed information about "strict mode," please refer to our documentation.
+
+:name> sync_network_not_connect
+:text> Failed to sync data: Network not connected!
+
+:name> sync_server_unavailable
+:text> Failed to sync data: Server is unavailable!
+
+:name> sync_network_type_unavailable
+:text> Failed to sync data: Network type is unavailable!
+
+:name> sync_confirm_title
+:text> Start syncing?
+
+:name> sync_fail_network_type_title
+:text> Network environment mismatch
+
+:name> sync_fail_network_type_message
+:text> Currently not in a Wi-Fi environment; data synchronization is unavailable. You can modify this setting in Settings or stop synchronization.
+
+:name> sync_fail_server_title
+:text> Sync server is unavailable
+
+:name> sync_fail_server_message
+:text> The synchronization server is unavailable. We recommend modifying the server configuration in Settings and trying again.
+
+:name> set_sync_notification_title
+:text> Sync Task Notification
+
+:name> set_sync_notification_message
+:text> Enable sync task notifications to better monitor task execution status.
+
+:name> sync_desc_title
+:text> Synchronized Usage Instructions
+
+:name> text_remove
+:text> Remove
+
+:name> sync_force_diff_sub
+:text> By comparing, identify the differences between local and remote modifications, modify them, and resolve the issues.
+
+:name> sync_force_upload_sub
+:text> Force using the local file to overwrite the remote file; ensure that the local file is the updated version, otherwise remote editing history may be lost.
+
+:name> sync_force_download_sub
+:text> Force using the remote file to overwrite the local file; ensure that the remote file is the updated version, otherwise local editing records may be lost.
+
+:name> sync_force_remove_sub
+:text> Remove this error directly from the error list.
+
+:name> sync_force_remove_tip
+:text> Are you sure you want to remove this synchronization issue directly?
+
+:name> sync_export_log
+:text> Export Sync Log
+
+:name> sync_log_empty_tip
+:text> No sync logs found.
+
+:name> sync_fail_fix_strict_tip
+:text> Too many synchronization issues; try disabling "%s"?
+
+:name> sync_fail_options
+:text> Select Operation
+
+:name> export_image_slogan_1
+:text> Your private knowledge base!
+
+:name> export_image_slogan_2
+:text> Your Second Brain, Growing from Your Phone
+
+:name> export_image_slogan_3
+:text> Markdown in your pocket. Encrypted by design.
+
+:name> export_image_slogan_4
+:text> Not just notes — a thinking system, synced silently.
+
+:name> review_read_continue
+:text> Click to continue reading
+
+:name> note_review_intro
+:text> Hi there! Welcome to the “Review” feature!\n\n
+Do you often jot down daily notes one by one? Yet, for the vast majority of notes, the moment you hit “Save,” they effectively come to an end. As time passes, those once-vivid thoughts gradually fade, and the effort you invested in writing gets buried beneath layers of notes. Recording loses its purpose of reflection and consolidation.\n\n
+The “Review” feature is designed specifically to break this cycle. It will resurface notes you created during a past period, inviting you to re-read and reflect upon them once again.\n\n
+Let’s rediscover those brilliant ideas you once had—even amid our busy days.\n\n
+Let’s begin!
+
+:name> note_review_intro_title
+:text> Learn about the "Review" feature
+
+:name> review_empty_title
+:text> No notes to review
+
+:name> review_empty_subtitle
+:text> Click the input box at the bottom of the homepage to create some notes and try it again~
+
+:name> share_by_short_image
+:text> Share Short Article Screenshot
+
+:name> export_by_short_image
+:text> Export Short Article Screenshot
+
+:name> export_by_file
+:text> Export as File
+
+:name> premium_review_subtitle
+:text> Launched 6 years ago, our app has received widespread acclaim from users.
+
+:name> premium_privilege_devices
+:text> Multi-device: Pay once and enjoy membership benefits on Android, tablets, iPhone, and iPad.
+
+:name> premium_payway_switch_tip
+:text> Payment Method: %s
+
+:name> premium_payment_trail_gift_title
+:text> Free Trial Available
+
+:name> premium_usage_desc
+:text> Terms
+
+:name> process_text_empty
+:text> The pending text is empty!
+
+:name> process_text_saving
+:text> Saving, please wait
+…
+
+:name> process_text_saved
+:text> Leaf Note · Text saved to: %s!
+
+:name> process_text_dlg_title
+:text> Edit Note
+
+:name> process_text_dlg_hint
+:text> Edit the text and then save it.
+
+:name> text_less
+:text> Less
+
+:name> text_more
+:text> More
+
+:name> text_not_exported
+:text> Not Exported
+
+:name> logout_confirm_title
+:text> Confirm logout?
+
+:name> logout_confirm_message
+:text> After logging out, you need to log in again to use your membership benefits. Are you sure you want to log out?
+

@@ -1,0 +1,737 @@
+:name> register
+:text> 注册
+
+:name> bind
+:text> 登录
+
+:name> binding
+:text> 正在登录
+…
+
+:name> unbind
+:text> 登出
+
+:name> data_statistics
+:text> 统计
+
+:name> please_select_items
+:text> 请选择要处理的笔记！
+
+:name> common_set_security_security_questions_added
+:text> 已经添加密保问题
+
+:name> common_set_security_biometric_summary
+:text> 设置之后可以直接使用生物信息进行身份校验。
+
+:name> common_app_intro_subtitle
+:text> 重新认识你
+
+:name> share_by_html
+:text> 分享为 HTML
+
+:name> share_by_image
+:text> 分享长文截图
+
+:name> export_by_html
+:text> 导出为 Html
+
+:name> export_by_image
+:text> 导出长文截图
+
+:name> select_folder_move_to
+:text> 目标文件夹
+
+:name> login_title
+:text> 登录
+
+:name> login_account_bind_tip
+:text> 1. 账号仅用于绑定会员权益；\n2. 受国内政策限制，不支持手机号注册（已注册的手机号仍然可以通过密码登录）。
+
+:name> login_bind_state
+:text> 账号信息
+
+:name> login_unbind_success_message
+:text> 退出成功！\n你可以再次登录以享受您的权益。感谢你的使用！
+
+:name> audio_store_folder
+:text> 音频笔记
+
+:name> capture_web_folder
+:text> 网页裁剪笔记
+
+:name> image_name_not_support
+:text> 尚不支持这种格式的图片：你可以在「设置-文件-图片拓展名」中修改配置来支持。
+
+:name> image_pictures
+:text> 图库
+
+:name> premium_privilege_basic
+:text> 所有的基础功能：Markdown、录音、多级目录、回顾、搜索等。
+
+:name> premium_privilege_themes
+:text> 个性外观：%d+ 应用主题、%d+ 编辑器主题、%d+ 代码样式、自定义 CSS、自定义字体等
+
+:name> premium_privilege_image
+:text> 图像处理：图片管理，拍照、图片裁剪、添加滤镜、自由变化等
+
+:name> premium_privilege_export
+:text> 导出和分享：将笔记转换为 PDF、截图、HTML 等并分享或导出
+
+:name> premium_privilege_appwidgets
+:text> 平台特性：添加桌面小部件、笔记快捷图标和快速记录等。
+
+:name> premium_privilege_sync
+:text> 云同步：多种云盘同步方式（WebDAV、DropBox 和 OneDrive），全盘同步，数据更改立即同步到云服务器。
+
+:name> premium_privilege_multi_data_sources
+:text> 多数据源：允许创建多个本地数据源，并可以多个数据源之间自由切换。
+
+:name> premium_privilege_image_upload
+:text> 笔记图床：编辑笔记时添加的图片自动上传到图床并以图片链接到形式插入到笔记。
+
+:name> premium_privilege_webnote
+:text> 网页转笔记：将任意网页裁剪为 Markdown 并存储到本地，方便你对任何网络文章进行收藏。
+
+:name> premium_privilege_encryption
+:text> 数据安全：应用锁和笔记端到端加密，全方位保护你的数据安全。
+
+:name> premium_privilege_ai
+:text> 写作助手：基于 AI 的写作助理，针对写作的内容和 AI 交流。
+
+:name> premium_privilege_future
+:text> 所有未来开发的功能，不需要再次付费。
+
+:name> premium_payway_others
+:text> 其他获取方式
+
+:name> premium_payway_others_sub_title
+:text> 你还可以通过免费试用或兑换码来获得会员。
+
+:name> premium_contact_us_sub_title
+:text> 如果你对会员有任何疑惑，或者需要任何帮助，请通过如下任意一种方式联系我们：
+
+:name> premium_payment_continue_content
+:text> 已经完成付款？提交订单流水号即可完成支付流程。
+
+:name> premium_payment_login_first_content
+:text> 我们的会员权益是与账号绑定的。为了能够在其他平台享受会员权益，我们建议您登录账号来绑定会员权益。该账号仅用于绑定会员权益。
+
+:name> premium_payment_trail_gift_content
+:text> 你有免费试用本软件付费功能的权益！\n该试用旨在让用户体验付费功能，到期自动取消，不会产生任何费用。
+
+:name> premium_account_state_not_logged_in_tip
+:text> 可通过登录账号恢复会员权益！
+
+:name> search_empty_tip
+:text> 换个关键词或者放宽搜索条件试一下？
+
+:name> search_on_given_folder
+:text> 在目录内搜索
+
+:name> compose_history_not_found
+:text> 没有历史记录
+
+:name> note_links_outgoing_title
+:text> 引用笔记
+
+:name> note_links_incoming_title
+:text> 被引用
+
+:name> note_links_empty_outgoing
+:text> 没有引用其他笔记
+
+:name> note_links_empty_incoming
+:text> 暂无其他笔记引用
+
+:name> compose_edit_option_name_H1
+:text> 标题
+
+:name> compose_edit_option_name_H2
+:text> 标题
+
+:name> compose_edit_option_name_H3
+:text> 标题
+
+:name> compose_edit_option_name_H4
+:text> 标题
+
+:name> compose_edit_option_name_H5
+:text> 标题
+
+:name> compose_edit_option_name_H6
+:text> 标题
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> 列表
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 数字列表
+
+:name> compose_edit_option_name_CHECKBOX
+:text> 复选框
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> 选中框
+
+:name> compose_edit_option_name_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> 内联代码
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> 块代码
+
+:name> compose_edit_option_name_STRIKE
+:text> 横划
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> 横线
+
+:name> compose_edit_option_name_ITALIC
+:text> 倾斜
+
+:name> compose_edit_option_name_BOLD
+:text> 加粗
+
+:name> compose_edit_option_name_MARK
+:text> 标记
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 公式
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> 下角标
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> 上角标
+
+:name> compose_edit_option_name_IMAGE
+:text> 图片
+
+:name> compose_edit_option_name_LINK
+:text> 链接
+
+:name> compose_edit_option_name_TABLE
+:text> 表格
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> 流程图
+
+:name> compose_setting_quick_note_folder
+:text> 快速笔记
+
+:name> note_encrypt_key_summary
+:text> 密钥用于加解密笔记
+
+:name> note_encrypt_mnemonic
+:text> 助记词
+
+:name> note_encrypt_mnemonic_desc
+:text> 助记词用于帮助您记住加密密钥。您可以记录与密钥相关的提示信息以便回忆。助记词将以明文形式保存在设备上。
+
+:name> note_encrypt_preview_summary
+:text> 启用之后将在笔记列表中隐藏加密笔记的预览信息。
+
+:name> note_encrypt_export_info
+:text> 导出加密恢复信息
+
+:name> note_encrypt_export_info_summary
+:text> 导出助记词和加密恢复信息到文件，帮助您回忆密码。状态：%s.
+
+:name> note_encrypt_export_no_key
+:text> 请先配置加密密钥后再导出。
+
+:name> note_encrypt_export_succeed
+:text> 加密恢复信息导出成功！请妥善保管导出的文件。
+
+:name> note_encrypt_export_failed
+:text> 导出失败：%s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_加密恢复信息_
+
+:name> note_encrypt_export_notice
+:text> <b>【重要安全提示】</b><br/>本文件包含您的加密助记词和密钥校验信息。<br/>请妥善保管，切勿泄露或上传到任何公共网络。<br/><br/>如果您忘记密码：<br/>1. 请使用文件中的<b>助记词</b>帮助回忆。<br/>2. 正确的密码可以解密您所有的加密笔记。
+
+:name> set_ai
+:text> AI 助理
+
+:name> set_note_snippet_summary
+:text> 笔记片段是自定义文字段落，能够保存复用，可用作笔记模板。
+
+:name> note_snippet_drag_to_reorder
+:text> 提示：按下左侧的横线并拖动可以对笔记片段进行排序。
+
+:name> set_note_mathjax
+:text> 启用 Mathjax
+
+:name> set_note_title_sub
+:text> 启用之后可在笔记编辑页面启用标题输入框。但是强烈不建议启用，因为标题的处理容易引起很大的歧义。如果想要输入标题，建议直接使用 Markdown 标题格式，或将第一行文本作为标题。
+
+:name> set_illegal_charset
+:text> 非法字符
+
+:name> set_illegal_charset_sub
+:text> 配置命名文件时的非法字符，应用会根据你的配置将其自动替换。
+
+:name> set_note_edit_directly_sub
+:text> 启用之后点击笔记的时候将会直接进入到编辑页面（而不是展示页面）。
+
+:name> set_note_auto_parsing_encoding
+:text> 如果启用，加载笔记的时候会自动分析笔记的编码格式。
+
+:name> set_note_hide_folders_sub
+:text> 选择你想要隐藏的目录，被选中的目录将不会出现在目录列表里。
+
+:name> set_note_folders
+:text> 存储位置
+
+:name> set_note_display_image_sub
+:text> 启用之后图片会展示在笔记列表中，否则不会展示。
+
+:name> set_note_image_default_name
+:text> 图片目录名称
+
+:name> set_note_image_compress_sub
+:text> 如果启用，新添加到应用中的图片将会被压缩之后再保存。
+
+:name> set_note_image_compress_quality_sub
+:text> 图片压缩的质量。数值越大，清晰度越高，占用空间越大。当前值为：%d
+
+:name> set_sync_universal
+:text> 设置
+
+:name> set_sync_enable
+:text> 启用同步
+
+:name> set_sync_enable_sub
+:text> 关闭之后将关闭整个应用中的被动同步逻辑。
+
+:name> set_sync_interval
+:text> 同步间隔
+
+:name> set_sync_delay
+:text> 同步延时
+
+:name> set_sync_delay_sub
+:text> 部分服务器会限制请求的频率。该配置通过每次请求的延时来降低请求的频率。当前：%dms.
+
+:name> set_sync_info
+:text> 状态
+
+:name> set_sync_clear_status
+:text> 清除同步缓存
+
+:name> set_sync_clear_status_summary
+:text> 同步缓存记录了本地和远程文件的状态，缓存可以加快同步速率。
+
+:name> set_sync_clear_status_message
+:text> 检测到 %d 条同步缓存，确定全部清空吗？\n这可能会让下次同步的时间变得更长。
+
+:name> set_sync_last_info
+:text> 问题处理
+
+:name> set_sync_done_with_error
+:text> %d 个问题需要关注。
+
+:name> sync_unable_to_handle_locally_yip
+:text> 该错误可能是网络问题造成的，无法在本地进行处理，你可以直接移除该错误或者重试来解决这个问题。
+
+:name> sync_confirm_message
+:text> 同步任务在后台执行，不会影响你的正常使用。
+
+:name> set_export_export_done_with_error
+:text> 数据导出完成，%d 文件需要手动处
+理
+
+:name> set_report_no_conflict
+:text> 未发现问题
+
+:name> set_conflict_resolve
+:text> 同步问题
+
+:name> datasource_external_tip
+:text> 根据平台审核规定，当前版本不支持外部存储读写功能。你可以阅读帮助文档来了解更多信息。
+
+:name> set_import_flomo
+:text> 从 Flomo 导入笔记
+
+:name> import_flomo_title
+:text> 从 Flomo 导入笔记
+
+:name> note_setting_group_file_opt
+:text> 文件操作
+
+:name> note_setting_group_sync
+:text> 云同步
+
+:name> create_child_folder
+:text> 创建子目录
+
+:name> text_got_it
+:text> 知道了
+
+:name> set_note_list_cell_style_card_summary
+:text> 设置首页笔记列表的卡片样式，当前：%s
+
+:name> set_note_list_show_folders_sub
+:text> 启用之后目录也将显示在笔记列表中，否则不会展示。
+
+:name> set_file_naming_summary
+:text> 创建文件时的文件名命名规则，当前：%s
+
+:name> set_file_extensions_group
+:text> 文件拓展名
+
+:name> set_file_extensions_group_summary
+:text> 文件拓展名设置的说明：我们的应用以磁盘文件作为笔记载体。所以，它不仅是一个笔记软件同时也近乎一个文件管理软件。我们的软件以文件的拓展名作为文件类型的标识。它将决定一个文件被当作图片、文本还是笔记处理。你可以对此进行自定义，同时，你对文件的设置将决定软件如何处理这些文件。
+
+:name> text_explain
+:text> 说明
+
+:name> set_explain_sub
+:text> 功能说明
+
+:name> set_note_image_default_name_sub
+:text> 添加到笔记的图片将会被存储到该目录。当前：%s
+
+:name> note_snippet_option_title
+:text> 选择操作
+
+:name> note_snippet_delete_confirm_message
+:text> 删除笔记片段之后无法恢复，确认删除吗？
+
+:name> set_note_auto_parsing_encoding_title
+:text> 检测编码
+
+:name> set_group_basics
+:text> 基础
+
+:name> set_group_data
+:text> 数据
+
+:name> set_group_others
+:text> 其他
+
+:name> common_set_security_applock_enable_sub
+:text> 启用之后，重新打开应用时需要进行身份校验。
+
+:name> common_set_security_security_questions_sub
+:text> 密保问题可在忘记密码时校验身份。
+
+:name> set_encrypt_key_desc
+:text> 在你设置密码之前，我们建议你：\n\n
+1. 本应用密钥和加密的设计是基于用户自己管理数据的前提，加密信息和笔记仅存储在手机本地磁盘上。\n\n
+2. 为了你的数据安全，设置密钥之后，请妥善保管自己的密钥，如密钥遗失，数据将无法找回。我们建议你总是设置一个助记词，你可以设置任意文本，只要它能够帮助你回忆起密钥。\n\n
+3. 卸载应用时系统会删除应用所有信息包括加密信息，因此我们建议你总是做好密钥的备份。为此，我们提供了加密信息导出的能力。你可以通过该功能导出加密信息（不含密钥）。\n\n
+4. 每次修改密钥之后应用会自动对之前的加密笔记进行重新加密，因此，我们建议你只设置一次密钥。\n\n
+5. 新版本（5.3.0及以上）采用标准的密钥派生和加密方案，安全性更高，我们推荐你升级到这个版本。
+
+:name> folder_create_succeed
+:text> 成功创建目录"%s"！
+
+:name> flomo_import_zip_require
+:text> 请选择要导入的文件！
+
+:name> flomo_import_target_require
+:text> 请指定一个导入目录！
+
+:name> flomo_import_memo_empty
+:text> 未发现可导入笔记，请检查下选择的文件里是否包含笔记！
+
+:name> flomo_import_succeed
+:text> 数据导入完成！
+
+:name> flomo_import_failed
+:text> 数据导入失败：可能存在部分笔记或者图片导入失败！
+
+:name> image_save_success
+:text> 图片已经存储到 "%s"
+
+:name> notes_empty_title
+:text> 没有找到笔记
+
+:name> notes_empty_subtitle
+:text> 试试点击首页底部输入框快速创建一个笔记吧！
+
+:name> search_placeholder_desc
+:text> 查询想要的关键词，试试「言叶」的强大搜索能力！
+
+:name> search_placeholder_title
+:text> 开始搜索
+
+:name> search_empty_title
+:text> 未找到匹配的笔记
+
+:name> search_result_count_tip
+:text> 共找到 %d 个匹配结果
+
+:name> search_show_left_count_tip
+:text> 展示剩下的 %d 个结果
+
+:name> batch_delete_items_tip
+:text> 准备删除 %d 个条目，确定执行？
+
+:name> batch_delete_succeed_tip
+:text> %d 个条目已删除！
+
+:name> premium_only
+:text> 仅限高级版
+
+:name> note_setting_group_basic
+:text> 基础
+
+:name> compose_note_setting_links
+:text> 双向链接
+
+:name> copy_from
+:text> 复制自：
+
+:name> share_from
+:text> 分享自：
+
+:name> share_by_file
+:text> 分享为文件
+
+:name> note_not_editable_tip
+:text> 该笔记不可编辑！
+
+:name> set_list_settings
+:text> 列表设置
+
+:name> set_all_settings
+:text> 全部设置
+
+:name> list_bottom_slogan_1
+:text> 欢迎使用「言叶」！
+
+:name> list_bottom_slogan_2
+:text> 「言叶」很酷！
+
+:name> file_not_found_with
+:text> 请检查文件是否存在：%s
+
+:name> route_failed_with
+:text> 无法处理：%s
+
+:name> trash_box_empty_desc
+:text> 清空之后这些内容将会被彻底删除，确定清空吗？
+
+:name> trash_empty_title
+:text> 垃圾箱为空
+
+:name> trash_empty_desc
+:text> 删除的文件将会被放进垃圾箱
+
+:name> snippet_list_empty_title
+:text> 没有笔记碎片
+
+:name> snippet_list_empty_sub
+:text> 在首页底部编辑框和笔记碎片管理页面均可创建笔记碎片
+
+:name> folder_desc_title
+:text> 目录使用说明
+
+:name> folder_desc_detail
+:text> 「目录」管理是本软件的核心功能，能够帮助你高效地组织、管理笔记。\n\n
+我们的目录依托本地文件系统实现，使用通用文件格式保存，贯彻「数据主权归用户所有」的设计原则。你可以自由创建多层级的笔记目录。\n\n
+目录列表的常用操作：\n\n
+1. 点击左侧箭头：折叠或展开目录；\n
+2. 点击最右侧「更多」：添加子目录、删除、重命名等管理操作；\n
+3. 点击中间区域：选中并设置为「工作目录」。\n\n
+👉 什么是工作目录？\n\n
+首页展示的笔记列表就来自当前工作目录。新建笔记会默认存入这里；录音、网页转笔记等功能，支持在设置里自定义默认存放目录。\n\n
+如果你在使用过程中有任何疑惑或者建议，可以联系我们！
+
+:name> login_account_help_tip
+:text> 如果你需要任何帮助，请通 %s 联系我们！
+
+:name> login_subtitle
+:text> 通过登录恢复会员权益
+
+:name> premium_dialog_free_trial_tip
+:text> 可以免费使用，无需订阅，到期自动取消
+
+:name> compose_history_not_found_sub
+:text> 笔记的历史记录会在你编辑时自动保存到这里
+
+:name> empty_image_title
+:text> 没有图片
+
+:name> empty_image_subtitle
+:text> 本地所有的图片会展示在这里，试试添加一张图片吧！
+
+:name> set_report_no_conflict_sub
+:text> 恭喜，你的所有文件已经成功同步到服务器！
+
+:name> note_set_double_edit_desc
+:text> 双击笔记页面也能进入编辑模式哦！
+
+:name> set_sync_done_with_time
+:text> 上次同步于 %s 完成。
+
+:name> set_sync_done_without_error
+:text> 上次同步于 %s 完成，未发现同步问题。
+
+:name> set_sync_not_yet
+:text> 尚未同步过
+
+:name> set_sync_strict
+:text> 严格模式
+
+:name> set_sync_strict_sub
+:text> 关闭严格模式能大幅降低出现同步问题的概率。关于「严格模式」的详细说明，请参考我们的文档。
+
+:name> sync_network_not_connect
+:text> 无法同步数据：网络未连接！
+
+:name> sync_server_unavailable
+:text> 无法同步数据：服务器不可用！
+
+:name> sync_network_type_unavailable
+:text> 无法同步数据：网络类型不可用！
+
+:name> sync_confirm_title
+:text> 开始同步？
+
+:name> sync_fail_network_type_title
+:text> 网络环境不匹配
+
+:name> sync_fail_network_type_message
+:text> 当前非 Wifi 环境，无法数据同步。你可以在设置中修改这一配置，或者取消同步。
+
+:name> sync_fail_server_title
+:text> 同步服务器不可用
+
+:name> sync_fail_server_message
+:text> 同步服务器无法使用，建议到设置中修改服务器配置，然后再次尝试。
+
+:name> set_sync_notification_title
+:text> 同步任务通知
+
+:name> set_sync_notification_message
+:text> 开启同步任务通知，更好地获取任务的执行状态。
+
+:name> sync_desc_title
+:text> 同步的使用说明
+
+:name> text_remove
+:text> 移除
+
+:name> sync_force_diff_sub
+:text> 通过对比发现本地和远程修改的差异，修改并解决问题。
+
+:name> sync_force_upload_sub
+:text> 强制使用本地文件覆盖远程文件，需要确保本地文件是更新的版本，否则可能导致远程的编辑记录丢失。
+
+:name> sync_force_download_sub
+:text> 强制使用远程的文件覆盖本地文件，需要确保远程的文件是更新的版本，否则可能会导致本地编辑记录丢失。
+
+:name> sync_force_remove_sub
+:text> 直接将该错误从错误列表中移除。
+
+:name> sync_force_remove_tip
+:text> 确定直接移除该同步问题吗？
+
+:name> sync_export_log
+:text> 导出同步日志
+
+:name> sync_log_empty_tip
+:text> 没有发现同步日志。
+
+:name> sync_fail_fix_strict_tip
+:text> 同步问题太多，关闭 "%s" 试一下？
+
+:name> sync_fail_options
+:text> 选择操作
+
+:name> export_image_slogan_1
+:text> 你的私人知识库！
+
+:name> export_image_slogan_2
+:text> 你的第二大脑，从手机开始生长
+
+:name> export_image_slogan_3
+:text> Markdown 在您的口袋中。天生加密。
+
+:name> export_image_slogan_4
+:text> 不仅只是笔记——而是一个静默同步的思考系统。
+
+:name> review_read_continue
+:text> 点击继续阅读
+
+:name> note_review_intro
+:text> 嗨，你好，欢迎来到「回顾」功能！\n\n
+你是否常常把日常记录一一写进笔记。可绝大多数笔记，在按下保存的那一刻，就画上了句号。随着时间推移，当时鲜活的想法慢慢模糊，辛苦写下的内容被淹没在笔记之中。记录失去了复盘与沉淀的意义。\n\n
+「回顾」功能为打破这个困境而设计。它会将你过去一段时间创建的笔记重新推送出来，邀请你再次阅读和复盘。
+让我们在忙碌的日子里发现那些曾经的熠熠闪光的想法。\n\n
+出发吧～
+
+:name> note_review_intro_title
+:text> 了解「回顾」功能
+
+:name> review_empty_title
+:text> 没有可回顾的笔记
+
+:name> review_empty_subtitle
+:text> 点击首页底部输入框，创建一些笔记再来试一下吧～
+
+:name> share_by_short_image
+:text> 分享短文截图
+
+:name> export_by_short_image
+:text> 导出短文截图
+
+:name> export_by_file
+:text> 导出为文件
+
+:name> premium_review_subtitle
+:text> 上线 6 年，我们的应用获得用户广泛的好评
+
+:name> premium_privilege_devices
+:text> 多设备：付费一次，可以在 Android, 平板, iPhone 和 iPad 四个平台使用会员权益。
+
+:name> premium_payway_switch_tip
+:text> 结算方式：%s
+
+:name> premium_payment_trail_gift_title
+:text> 免费试用可使用
+
+:name> premium_usage_desc
+:text> 条款
+
+:name> process_text_empty
+:text> 待处理的文本为空！
+
+:name> process_text_saving
+:text> 存储中，请稍等
+…
+
+:name> process_text_saved
+:text> 言叶 · 文本已保存到：%s！
+
+:name> process_text_dlg_title
+:text> 编辑笔记
+
+:name> process_text_dlg_hint
+:text> 编辑文本然后保存即可。
+
+:name> text_less
+:text> 少
+
+:name> text_more
+:text> 多
+
+:name> text_not_exported
+:text> 未导出
+
+:name> logout_confirm_title
+:text> 确定退出登录？
+
+:name> logout_confirm_message
+:text> 登出后，你需要重新登录才能使用会员权益。确定退出登录吗？
+

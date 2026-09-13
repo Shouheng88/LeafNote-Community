@@ -1,0 +1,789 @@
+:name> register
+:text> Registar
+
+:name> bind
+:text> Entrar
+
+:name> binding
+:text> Acessando
+…
+
+:name> unbind
+:text> Sair
+
+:name> datasource_internal
+:text> Usar Fonte De Dados Interna
+
+:name> data_statistics
+:text> Estatísticas
+
+:name> set_image_host_enable
+:text> Ativar Hospedagem De Imagens
+
+:name> set_image_host
+:text> Hospedeiro De Imagens
+
+:name> set_image_host_config
+:text> Configuração Do Servidor De Imagens
+
+:name> please_select_items
+:text> Por favor, selecione a nota a ser processada!
+
+:name> common_set_security_security_questions_added
+:text> Já adicionou uma pergunta de segurança.
+
+:name> common_set_security_biometric_summary
+:text> Após a configuração, é possível utilizar diretamente informações biométricas para verificação de identidade.
+
+:name> common_app_intro_subtitle
+:text> Reconhecer você novamente
+
+:name> share_by_html
+:text> Compartilhar como HTML
+
+:name> share_by_image
+:text> Compartilhar captura de tela de artigo longo
+
+:name> export_by_html
+:text> Exportar como HTML
+
+:name> export_by_image
+:text> Exportar captura de tela de texto longo
+
+:name> select_folder_move_to
+:text> Pasta De Destino
+
+:name> login_title
+:text> Entrar
+
+:name> login_account_bind_tip
+:text> A conta é utilizada apenas para vincular os benefícios do membro.
+
+:name> login_bind_state
+:text> Informações da conta
+
+:name> login_unbind_success_message
+:text> Saída bem-sucedida!
+Você pode fazer login novamente para desfrutar de seus benefícios. Obrigado por usar o aplicativo!
+
+:name> audio_store_folder
+:text> Nota de áudio
+
+:name> capture_web_folder
+:text> Recorte de página da web como nota
+
+:name> image_name_not_support
+:text> Este formato de imagem ainda não é suportado: você pode modificar a configuração em «Configurações → Arquivos → Extensões de imagens» para habilitar o suporte.
+
+:name> image_pictures
+:text> Galeria
+
+:name> premium_privilege_basic
+:text> Todas as funcionalidades básicas: Markdown, gravação de áudio, diretórios multinível, revisão, pesquisa, etc.
+
+:name> premium_privilege_themes
+:text> Aparência personalizada: %d+ temas de aplicativo, %d+ temas de editor, %d+ estilos de código, CSS personalizado, fontes personalizadas, etc.
+
+:name> premium_privilege_image
+:text> Processamento de imagens: gerenciamento de imagens, tirar fotos, recortar imagens, adicionar filtros, transformações livres, etc.
+
+:name> premium_privilege_export
+:text> Exportar e compartilhar: converta notas em PDF, capturas de tela, HTML, etc. e compartilhe ou exporte
+
+:name> premium_privilege_appwidgets
+:text> Recursos da plataforma: adicionar widgets de desktop, ícones de atalho para notas e gravação rápida, entre outros.
+
+:name> premium_privilege_sync
+:text> Sincronização em nuvem: vários métodos de sincronização com discos em nuvem (WebDAV, Dropbox e OneDrive), sincronização completa do disco e alterações nos dados são imediatamente sincronizadas com o servidor em nuvem.
+
+:name> premium_privilege_multi_data_sources
+:text> Várias fontes de dados: Permite criar várias fontes de dados locais e alternar livremente entre elas.
+
+:name> premium_privilege_image_upload
+:text> Servidor de imagens para notas: As imagens adicionadas ao editar uma nota são automaticamente enviadas para o servidor de imagens e inseridas na nota como links de imagem.
+
+:name> premium_privilege_webnote
+:text> Converter página web em nota: recorte qualquer página web para Markdown e armazene-a localmente, facilitando a sua coleção de quaisquer artigos da internet.
+
+:name> premium_privilege_encryption
+:text> Segurança de dados: bloqueio de aplicativo e criptografia de ponta a ponta para notas, protegendo integralmente a segurança dos seus dados.
+
+:name> premium_privilege_ai
+:text> Assistente de escrita: Assistente de escrita baseado em IA, projetado para interagir com o conteúdo escrito e com a IA.
+
+:name> premium_privilege_future
+:text> Todos os recursos futuros em desenvolvimento, sem necessidade de pagamento adicional.
+
+:name> premium_payway_others
+:text> Outros métodos de obtenção
+
+:name> premium_payway_others_sub_title
+:text> Você também pode obter a assinatura por meio de um período de teste gratuito ou de um código de resgate.
+
+:name> premium_contact_us_sub_title
+:text> Se tiver alguma dúvida sobre a assinatura ou precisar de ajuda, entre em contato conosco por qualquer um dos seguintes meios:
+
+:name> premium_payment_continue_content
+:text> Já concluiu o pagamento? Basta enviar o número de referência do pedido para concluir o processo de pagamento.
+
+:name> premium_payment_login_first_content
+:text> Nossos benefícios de membro estão vinculados à conta. Para desfrutar dos benefícios de membro em outras plataformas, recomendamos que você faça login na sua conta para vincular os benefícios de membro. Essa conta é utilizada exclusivamente para vincular os benefícios de membro.
+
+:name> premium_payment_trail_gift_content
+:text> Você tem o direito de experimentar gratuitamente os recursos pagos deste software!  \n
+Este período de teste destina-se a permitir que os usuários experimentem os recursos pagos; ele é automaticamente cancelado ao expirar e não gerará nenhum custo.
+
+:name> premium_account_state_not_logged_in_tip
+:text> Os benefícios de membro podem ser restaurados fazendo login na sua conta!
+
+:name> search_empty_tip
+:text> Tente com outra palavra-chave ou com critérios de pesquisa mais amplos?
+
+:name> search_setting
+:text> Configuração Da Pesquisa
+
+:name> search_on_given_folder
+:text> Pesquisar no diretório
+
+:name> compose_history_not_found
+:text> Sem Histórico
+
+:name> note_links_outgoing_title
+:text> Nota de referência
+
+:name> note_links_incoming_title
+:text> Citado
+
+:name> note_links_empty_outgoing
+:text> Não há referências a outras notas
+
+:name> note_links_empty_incoming
+:text> Nenhuma outra nota referenciada no momento
+
+:name> compose_edit_option_name_H1
+:text> Cabeçalho
+
+:name> compose_edit_option_name_H2
+:text> Cabeçalho
+
+:name> compose_edit_option_name_H3
+:text> Cabeçalho
+
+:name> compose_edit_option_name_H4
+:text> Cabeçalho
+
+:name> compose_edit_option_name_H5
+:text> Cabeçalho
+
+:name> compose_edit_option_name_H6
+:text> Cabeçalho
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> Lista
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Lista Numérica
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Caixa de seleção
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Caixa marcada
+
+:name> compose_edit_option_name_QUOTE
+:text> Citação
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Código embutido
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Código de bloqueio
+
+:name> compose_edit_option_name_STRIKE
+:text> Golpe
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Linho
+
+:name> compose_edit_option_name_ITALIC
+:text> Itálico
+
+:name> compose_edit_option_name_BOLD
+:text> Negrito
+
+:name> compose_edit_option_name_MARK
+:text> Marcar
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Matemática
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Subscript
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Superroteiro
+
+:name> compose_edit_option_name_IMAGE
+:text> Imagem
+
+:name> compose_edit_option_name_LINK
+:text> Ligação
+
+:name> compose_edit_option_name_TABLE
+:text> Tabela
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Citação
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> Fluxograma
+
+:name> compose_setting_quick_note_folder
+:text> Notas rápidas
+
+:name> note_encrypt_key_summary
+:text> A chave é usada para criptografar e descriptografar notas.
+
+:name> note_encrypt_mnemonic
+:text> Mnemônico
+
+:name> note_encrypt_mnemonic_desc
+:text> Um mnemônico ajuda você a lembrar sua chave de criptografia. Você pode anotar algo associado à chave para auxiliar na lembrança. Ele é armazenado em texto simples no dispositivo.
+
+:name> note_encrypt_preview_summary
+:text> Quando ativado, ocultará as informações de visualização das notas criptografadas na lista de notas.
+
+:name> note_encrypt_export_info
+:text> Exportar Informações de Recuperação de Criptografia
+
+:name> note_encrypt_export_no_key
+:text> Por favor, configure a chave de criptografia antes da exportação.
+
+:name> note_encrypt_export_succeed
+:text> Informações de recuperação de criptografia exportadas com sucesso! Por favor, guarde o arquivo exportado em segurança.
+
+:name> note_encrypt_export_failed
+:text> Exportação falhou: %s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_Criptografia_Restauração_
+
+:name> note_encrypt_export_notice
+:text> <b>【Aviso Importante de Segurança】</b><br/>Este arquivo contém sua frase de recuperação criptografada e informações de verificação de chave.<br/>Guarde-o com cuidado e nunca o revele ou envie para nenhuma rede pública.<br/><br/>Se você esquecer sua senha:<br/>1. Utilize a <b>frase de recuperação</b> contida neste arquivo para ajudá-lo a lembrar.<br/>2. A senha correta permitirá descriptografar todas as suas anotações criptografadas.
+
+:name> note_encrypt_export_info_summary
+:text> Exporte a frase mnemônica e as informações de recuperação criptografadas para um arquivo, ajudando-o a lembrar sua senha. Status: %s.
+
+:name> set_ai
+:text> Assistente de IA
+
+:name> set_encrypt_note
+:text> Criptografia de notas
+
+:name> set_theme_and_style
+:text> Aparência
+
+:name> set_note_mathjax
+:text> Habilitar Mathjax
+
+:name> set_note_title
+:text> Usar A Entrada De Título
+
+:name> set_note_title_sub
+:text> Quando ativado, permite habilitar a caixa de entrada de título na página de edição de notas. No entanto, não é fortemente recomendado ativar essa opção, pois o tratamento de títulos pode facilmente gerar grandes ambiguidades. Se desejar inserir um título, recomenda-se usar diretamente o formato de título em Markdown ou considerar a primeira linha do texto como o título.
+
+:name> set_note_extensions
+:text> Nome Da Extensão Do Ficheiro De Notas
+
+:name> set_text_extensions
+:text> Nome Da Extensão Do Ficheiro De Texto
+
+:name> set_support_extensions
+:text> Extensões De Ficheiros Suportadas
+
+:name> set_note_snippet_summary
+:text> Os trechos de notas são parágrafos personalizados de texto que podem ser salvos e reutilizados, podendo ser usados como modelos de notas.
+
+:name> note_snippet_drag_to_reorder
+:text> Dica: Pressione a linha horizontal à esquerda e arraste para reordenar os trechos de notas.
+
+:name> set_illegal_charset
+:text> Caracteres Ilegais
+
+:name> set_illegal_charset_sub
+:text> Caracteres inválidos ao configurar o nome do arquivo; o aplicativo os substituirá automaticamente com base na sua configuração.
+
+:name> set_note_edit_directly_sub
+:text> Após habilitar, clicar em uma nota levará diretamente à página de edição (em vez da página de exibição).
+
+:name> set_note_auto_parsing_encoding
+:text> Se ativado, o formato de codificação das notas será analisado automaticamente ao carregá-las.
+
+:name> set_note_hide_folders
+:text> Esconder Certas Pastas
+
+:name> set_note_hide_folders_sub
+:text> Selecione o diretório que deseja ocultar; os diretórios selecionados não aparecerão na lista de diretórios.
+
+:name> set_note_folders
+:text> Localização de armazenamento
+
+:name> set_file_naming_title
+:text> Nomeação De Arquivos
+
+:name> set_image_extensions
+:text> Extensão Da Imagem
+
+:name> set_camera_type
+:text> Tipo De Câmara
+
+:name> set_camera_type_title
+:text> Seleccionar O Tipo De Câmara
+
+:name> set_note_display_image
+:text> Exibir Imagens
+
+:name> set_note_display_image_sub
+:text> Quando ativado, as imagens serão exibidas na lista de notas; caso contrário, não serão exibidas.
+
+:name> set_note_image_default_name
+:text> Nome do Diretório de Imagens
+
+:name> set_note_image_compress
+:text> Comprimir As Imagens
+
+:name> set_note_image_compress_sub
+:text> Se ativado, as imagens novas adicionadas ao aplicativo serão compactadas antes de serem salvas.
+
+:name> set_sync_universal
+:text> Configurações
+
+:name> set_sync_enable
+:text> Ativar sincronização
+
+:name> set_sync_enable_sub
+:text> Ao fechar, toda a lógica de sincronização passiva na aplicação será desativada.
+
+:name> set_note_image_compress_quality
+:text> Qualidade De Compressão De Imagem
+
+:name> set_note_image_compress_quality_sub
+:text> Qualidade da compressão de imagens. Quanto maior o valor, maior a nitidez e maior o espaço ocupado. Valor atual: %d
+
+:name> set_sync_delay
+:text> Atraso de sincronização
+
+:name> set_sync_delay_sub
+:text> Alguns servidores limitam a frequência das solicitações. Essa configuração reduz a frequência das solicitações introduzindo um atraso em cada solicitação. Atualmente: %d ms.
+
+:name> set_sync_info
+:text> estado
+
+:name> set_sync_last_info
+:text> Tratamento de Problemas
+
+:name> set_sync_done_with_error
+:text> %d problemas precisam de atenção.
+
+:name> set_sync_clear_status
+:text> Limpar cache de sincronização
+
+:name> set_sync_clear_status_summary
+:text> O cache de sincronização registra o estado dos arquivos locais e remotos; o cache pode acelerar a taxa de sincronização.
+
+:name> set_sync_clear_status_message
+:text> Detectado %d itens no cache de sincronização. Tem certeza de que deseja limpar todos eles?\nIsso pode tornar a próxima sincronização mais demorada.
+
+:name> sync_unable_to_handle_locally_yip
+:text> Esse erro pode ser causado por um problema de rede e não pode ser resolvido localmente. Você pode remover diretamente esse erro ou tentar novamente para resolver o problema.
+
+:name> sync_confirm_message
+:text> A tarefa de sincronização é executada em segundo plano e não afetará seu uso normal.
+
+:name> set_report_no_conflict
+:text> Nenhum Problema Detectado
+
+:name> set_conflict_resolve
+:text> Problemas de sincronização
+
+:name> datasource_external_tip
+:text> De acordo com as regras de revisão da plataforma, a versão atual não suporta funcionalidades de leitura e gravação em armazenamento externo. Você pode ler a documentação de ajuda para obter mais informações.
+
+:name> set_import_flomo
+:text> Importar Do Flomo
+
+:name> import_flomo_title
+:text> Importar Do Flomo
+
+:name> note_setting_group_file_opt
+:text> Operações com arquivos
+
+:name> note_setting_group_sync
+:text> Sincronização em nuvem
+
+:name> create_child_folder
+:text> Criar subdiretório
+
+:name> text_got_it
+:text> Entendido
+
+:name> set_note_list_cell_style_card_summary
+:text> Definir o estilo de cartão da lista de notas da página inicial, atualmente: %s
+
+:name> set_note_list_show_folders_sub
+:text> Quando ativado, os diretórios também serão exibidos na lista de notas; caso contrário, não serão exibidos.
+
+:name> set_file_naming_summary
+:text> Regra de nomenclatura para nomes de arquivo ao criar arquivos, atualmente: %s
+
+:name> set_file_extensions_group
+:text> Extensão Do Arquivo
+
+:name> set_file_extensions_group_summary
+:text> Explicação das configurações de extensão de arquivo: Nossa aplicação utiliza arquivos no disco como suporte para as anotações. Portanto, ela não é apenas um software de anotações, mas também funciona quase como um software de gerenciamento de arquivos. Nosso software utiliza a extensão do arquivo como identificador do tipo de arquivo. Ela determinará se um arquivo será tratado como imagem, texto ou anotação. Você pode personalizar essa configuração, e as definições que você fizer para os arquivos determinarão como o software os tratará.
+
+:name> text_explain
+:text> Instruções
+
+:name> set_explain_sub
+:text> Funcionalidades
+
+:name> set_note_image_default_name_sub
+:text> As imagens adicionadas às notas serão armazenadas neste diretório. Atualmente: %s
+
+:name> note_snippet_option_title
+:text> Selecionar Operação
+
+:name> note_snippet_delete_confirm_message
+:text> Após excluir um trecho de nota, ele não poderá ser recuperado. Tem certeza de que deseja excluir?
+
+:name> set_note_auto_parsing_encoding_title
+:text> Detectar Codificação
+
+:name> set_group_basics
+:text> Básico
+
+:name> set_group_data
+:text> Dados
+
+:name> set_group_others
+:text> Outros
+
+:name> common_set_security_applock_enable_sub
+:text> Após a ativação, será necessário realizar uma verificação de identidade ao reabrir o aplicativo.
+
+:name> common_set_security_security_questions_sub
+:text> A pergunta de segurança pode ser usada para verificar sua identidade caso você esqueça sua senha.
+
+:name> set_encrypt_key_desc
+:text> Antes de definir sua senha, recomendamos que você:\n\n
+1. A chave e o esquema de criptografia deste aplicativo são projetados com base no pressuposto de que o usuário gerencia seus próprios dados; as informações criptografadas e as anotações são armazenadas exclusivamente no disco local do seu dispositivo móvel.\n\n
+2. Para garantir a segurança dos seus dados, após definir sua chave, guarde-a com cuidado. Caso perca sua chave, os dados não poderão ser recuperados. Recomendamos fortemente que você sempre defina uma frase mnemônica (lembrete), podendo ser qualquer texto que o ajude a lembrar-se da sua chave.\n\n
+3. Ao desinstalar o aplicativo, o sistema excluirá todas as informações relacionadas ao aplicativo, incluindo as informações criptografadas. Por isso, recomendamos fortemente que você sempre faça um backup de sua chave. Para tal finalidade, disponibilizamos a funcionalidade de exportação de informações criptografadas. Você pode usar essa função para exportar suas informações criptografadas (sem incluir a chave).\n\n
+4. Cada vez que você modificar sua chave, o aplicativo recriptografará automaticamente as anotações criptografadas anteriores. Portanto, recomendamos que você defina sua chave apenas uma única vez.\n\n
+5. As novas versões (5.3.0 ou posteriores) utilizam um esquema padrão de derivação de chaves e criptografia, oferecendo maior segurança. Recomendamos que você atualize para esta versão.
+
+:name> folder_create_succeed
+:text> Diretório "%s" criado com sucesso!
+
+:name> flomo_import_zip_require
+:text> Por favor, selecione o arquivo a ser importado!
+
+:name> flomo_import_target_require
+:text> Por favor, especifique um diretório de importação!
+
+:name> flomo_import_memo_empty
+:text> Nenhuma nota importável encontrada. Verifique se o arquivo selecionado contém notas!
+
+:name> flomo_import_succeed
+:text> Importação de dados concluída!
+
+:name> flomo_import_failed
+:text> Falha na importação de dados: é possível que a importação de algumas notas ou imagens tenha falhado!
+
+:name> image_save_success
+:text> A imagem já foi armazenada em "%s"
+
+:name> notes_empty_title
+:text> Nenhuma Nota Encontrada
+
+:name> notes_empty_subtitle
+:text> Experimente clicar na caixa de entrada na parte inferior da página inicial para criar rapidamente uma nota!
+
+:name> search_placeholder_desc
+:text> Pesquise a palavra-chave desejada e experimente o poderoso recurso de pesquisa do «Leaf Note»!
+
+:name> search_placeholder_title
+:text> Iniciar Pesquisa
+
+:name> search_empty_title
+:text> Nenhuma Nota Correspondente Encontrada
+
+:name> search_result_count_tip
+:text> Foram encontrados %d resultados correspondentes
+
+:name> search_show_left_count_tip
+:text> Mostrar os %d resultados restantes
+
+:name> batch_delete_items_tip
+:text> Preparando para excluir %d entradas. Confirmar a execução?
+
+:name> batch_delete_succeed_tip
+:text> %d entradas foram excluídas!
+
+:name> premium_only
+:text> Premium
+
+:name> note_setting_group_basic
+:text> Básico
+
+:name> compose_note_setting_links
+:text> links bidirecionais
+
+:name> copy_from
+:text> Copiado de:
+
+:name> share_from
+:text> Compartilhado por:
+
+:name> share_by_file
+:text> Compartilhar Como Arquivo
+
+:name> note_not_editable_tip
+:text> Esta nota não pode ser editada!
+
+:name> set_list_settings
+:text> Configurações da lista
+
+:name> set_all_settings
+:text> Todas as configurações
+
+:name> list_bottom_slogan_1
+:text> Bem-vindo ao «Leaf Note»!
+
+:name> list_bottom_slogan_2
+:text> Leaf Note é incrível!
+
+:name> file_not_found_with
+:text> Por favor, verifique se o arquivo existe: %s
+
+:name> route_failed_with
+:text> Não é possível processar: %s
+
+:name> trash_box_empty_desc
+:text> Após limpar, este conteúdo será permanentemente excluído. Tem certeza de que deseja limpar?
+
+:name> trash_empty_title
+:text> Lixeira vazia
+
+:name> trash_empty_desc
+:text> Os arquivos excluídos serão movidos para a lixeira.
+
+:name> snippet_list_empty_title
+:text> Sem fragmentos de notas
+
+:name> snippet_list_empty_sub
+:text> Você pode criar notas fragmentadas tanto na caixa de edição na parte inferior da página inicial quanto na página de gerenciamento de notas fragmentadas.
+
+:name> folder_desc_title
+:text> Uso da Pasta
+
+:name> folder_desc_detail
+:text> A gerência de «Pastas» é uma funcionalidade central deste software, capaz de ajudá-lo a organizar e gerir suas notas de forma eficiente.\n\n
+Nossas pastas baseiam-se no sistema de arquivos local e são salvas em formatos de arquivo universais, seguindo o princípio de design de que «a soberania dos dados pertence ao usuário». Você pode criar livremente pastas de notas com múltiplos níveis hierárquicos.\n\n
+Operações comuns na lista de pastas:\n\n
+1. Clique na seta à esquerda: recolher ou expandir a pasta;\n
+2. Clique em «Mais», no lado mais à direita: adicionar subpastas, excluir, renomear, entre outras operações de gerenciamento;\n
+3. Clique na área central: selecionar e definir como «Pasta de trabalho».\n\n
+👉 O que é uma Pasta de trabalho?\n\n
+A lista de notas exibida na página inicial provém da pasta de trabalho atual. As novas notas são salvas por padrão nessa pasta; funções como gravação de áudio e conversão de páginas web em notas permitem personalizar, nas configurações, a pasta padrão para armazenamento.\n\n
+Se você tiver dúvidas ou sugestões durante o uso, entre em contato conosco!
+
+:name> login_account_help_tip
+:text> Se precisar de qualquer ajuda, entre em contato conosco através de %s!
+
+:name> login_subtitle
+:text> Restaurar os benefícios de membro fazendo login
+
+:name> premium_dialog_free_trial_tip
+:text> Uma versão de teste gratuita está disponível.
+
+:name> compose_history_not_found_sub
+:text> O histórico de notas será salvo automaticamente aqui enquanto você edita.
+
+:name> empty_image_title
+:text> Sem Imagens
+
+:name> empty_image_subtitle
+:text> Todas as imagens locais serão exibidas aqui. Tente adicionar uma imagem!
+
+:name> set_report_no_conflict_sub
+:text> Parabéns! Todos os seus arquivos foram sincronizados com sucesso no servidor!
+
+:name> note_set_double_edit_desc
+:text> Você também pode entrar no modo de edição ao dar um duplo clique na página da nota!
+
+:name> set_sync_done_with_time
+:text> Última sincronização concluída em %s.
+
+:name> set_sync_done_without_error
+:text> Última sincronização concluída em %s, sem problemas de sincronização detectados.
+
+:name> set_sync_not_yet
+:text> Ainda não sincronizado
+
+:name> set_sync_strict
+:text> Modo Estrito
+
+:name> set_sync_strict_sub
+:text> Desativar o modo estrito pode reduzir significativamente a probabilidade de ocorrerem problemas de sincronização. Para obter mais informações detalhadas sobre o «modo estrito», consulte nossa documentação.
+
+:name> sync_network_not_connect
+:text> Não é possível sincronizar os dados: sem conexão à rede!
+
+:name> sync_server_unavailable
+:text> Não é possível sincronizar os dados: o servidor está indisponível!
+
+:name> sync_network_type_unavailable
+:text> Não é possível sincronizar os dados: tipo de rede indisponível!
+
+:name> sync_confirm_title
+:text> Começar a sincronizar?
+
+:name> sync_fail_network_type_title
+:text> Ambiente de rede não corresponde
+
+:name> sync_fail_network_type_message
+:text> Atualmente não está conectado à rede Wi-Fi, portanto, a sincronização de dados não é possível. Você pode alterar essa configuração nas Configurações ou desativar a sincronização.
+
+:name> sync_fail_server_title
+:text> Servidor de sincronização indisponível
+
+:name> sync_fail_server_message
+:text> O servidor de sincronização não está disponível. Recomenda-se modificar a configuração do servidor nas definições e tentar novamente.
+
+:name> set_sync_notification_title
+:text> Notificação da tarefa de sincronização
+
+:name> set_sync_notification_message
+:text> Ative as notificações de tarefas de sincronização para obter melhor o status de execução das tarefas.
+
+:name> sync_desc_title
+:text> Instruções de utilização da sincronização
+
+:name> text_remove
+:text> Remover
+
+:name> sync_force_diff_sub
+:text> Ao comparar, identifique as diferenças entre as modificações locais e remotas, faça as alterações necessárias e resolva o problema.
+
+:name> sync_force_upload_sub
+:text> Forçar o uso do arquivo local para substituir o arquivo remoto; é necessário garantir que o arquivo local seja a versão mais recente, caso contrário, os registros de edição remotos poderão ser perdidos.
+
+:name> sync_force_download_sub
+:text> Forçar a substituição do arquivo local pelo arquivo remoto; é necessário garantir que o arquivo remoto seja uma versão atualizada, caso contrário, as alterações feitas localmente podem ser perdidas.
+
+:name> sync_force_remove_sub
+:text> Remover diretamente este erro da lista de erros.
+
+:name> sync_force_remove_tip
+:text> Tem certeza de que deseja remover diretamente esse problema de sincronização?
+
+:name> sync_export_log
+:text> Exportar log de sincronização
+
+:name> sync_log_empty_tip
+:text> Nenhum registro de sincronização encontrado.
+
+:name> sync_fail_fix_strict_tip
+:text> Muitos problemas de sincronização; tentar desativar "%s"?
+
+:name> sync_fail_options
+:text> Selecionar operação
+
+:name> export_image_slogan_1
+:text> Sua biblioteca de conhecimento pessoal!
+
+:name> export_image_slogan_2
+:text> Seu segundo cérebro, crescendo a partir do seu smartphone
+
+:name> export_image_slogan_3
+:text> Markdown no seu bolso. Criptografado por design.
+
+:name> export_image_slogan_4
+:text> Não apenas notas — um sistema de pensamento, sincronizado silenciosamente.
+
+:name> review_read_continue
+:text> Clique para continuar lendo
+
+:name> note_review_intro
+:text> Olá! Bem-vindo à funcionalidade «Revisão»!\n\n
+Você costuma registrar rotineiramente suas anotações? No entanto, a grande maioria dessas anotações chega ao seu fim no exato momento em que você clica em «Salvar». Com o passar do tempo, as ideias vivas e frescas daquele momento vão gradualmente se desvanecendo, e todo o esforço investido na escrita acaba sendo submergido pelo volume crescente de anotações. Assim, o ato de registrar perde seu propósito de reflexão e consolidação.\n\n
+A funcionalidade «Revisão» foi criada justamente para superar esse impasse. Ela reexibe, periodicamente, as anotações que você criou anteriormente, convidando-o a relê-las e refletir sobre elas novamente.\n\n
+Que tal, em meio à correria do dia a dia, redescobrir aquelas ideias brilhantes que já lhe ocorreram no passado?\n\n
+Vamos lá!
+
+:name> note_review_intro_title
+:text> Saiba mais sobre a função «Revisão»
+
+:name> review_empty_title
+:text> Nenhuma nota para revisar
+
+:name> review_empty_subtitle
+:text> Clique na caixa de entrada na parte inferior da página inicial para criar algumas notas e experimente novamente!
+
+:name> share_by_short_image
+:text> Compartilhar captura de tela do artigo
+
+:name> export_by_short_image
+:text> Exportar captura de tela do artigo
+
+:name> export_by_file
+:text> Exportar como arquivo
+
+:name> premium_review_subtitle
+:text> No ar há 6 anos, nosso aplicativo recebeu elogios generalizados dos usuários.
+
+:name> premium_privilege_devices
+:text> Vários dispositivos: pague uma única vez e aproveite os benefícios da assinatura nos quatro plataformas: Android, tablet, iPhone e iPad.
+
+:name> premium_payway_switch_tip
+:text> Método de liquidação: %s
+
+:name> premium_payment_trail_gift_title
+:text> Versão De Teste Gratuita Disponível
+
+:name> premium_usage_desc
+:text> Termos
+
+:name> process_text_empty
+:text> O texto pendente está vazio!
+
+:name> process_text_saving
+:text> Armazenando, por favor aguarde
+…
+
+:name> process_text_saved
+:text> Leaf Note · Texto salvo em: %s!
+
+:name> process_text_dlg_title
+:text> Editar nota
+
+:name> process_text_dlg_hint
+:text> Edite o texto e, em seguida, salve-o.
+
+:name> text_less
+:text> Menos
+
+:name> text_more
+:text> Mais
+
+:name> text_not_exported
+:text> Não exportado
+
+:name> logout_confirm_title
+:text> Tem certeza de que deseja sair da sessão?
+
+:name> logout_confirm_message
+:text> Após sair, você precisará fazer login novamente para usar os benefícios de membro. Tem certeza de que deseja sair?
+

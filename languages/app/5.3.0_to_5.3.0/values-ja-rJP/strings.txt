@@ -1,0 +1,745 @@
+:name> register
+:text> 登録
+
+:name> bind
+:text> ログイン
+
+:name> binding
+:text> ログイン中
+…
+
+:name> unbind
+:text> ログアウト
+
+:name> data_statistics
+:text> 統計
+
+:name> please_select_items
+:text> 処理するノートを選択してください！
+
+:name> common_set_security_security_questions_added
+:text> セキュリティ質問がすでに追加されました
+
+:name> common_set_security_biometric_summary
+:text> 設定後、すぐに生体情報による本人確認が可能です。
+
+:name> common_app_intro_subtitle
+:text> あなたを再認識する
+
+:name> share_by_html
+:text> HTMLとして共有
+
+:name> share_by_image
+:text> 長文のスクリーンショットを共有
+
+:name> export_by_html
+:text> HTML としてエクスポート
+
+:name> export_by_image
+:text> 長い文章のスクリーンショットをエクスポート
+
+:name> select_folder_move_to
+:text> ターゲットフォルダー
+
+:name> login_title
+:text> ログイン
+
+:name> login_account_bind_tip
+:text> アカウントは会員特典の紐付け専用です
+
+:name> login_bind_state
+:text> アカウント情報
+
+:name> login_unbind_success_message
+:text> 正常に終了しました！
+再度ログインして、ご利用の特典をお楽しみください。ご使用ありがとうございます！
+
+:name> audio_store_folder
+:text> 音声ノート
+
+:name> capture_web_folder
+:text> Webページのクリップノート
+
+:name> image_name_not_support
+:text> この形式の画像はまだサポートされていません：「設定-ファイル-画像拡張子」で設定を変更してサポートできるようにできます。
+
+:name> image_pictures
+:text> ギャラリー
+
+:name> premium_privilege_basic
+:text> すべての基本機能：Markdown、音声録音、マルチレベルディレクトリ、復習、検索など。
+
+:name> premium_privilege_themes
+:text> パーソナライズされた外観：%d+ アプリケーションテーマ、%d+ エディターテーマ、%d+ コードスタイル、カスタムCSS、カスタムフォントなど
+
+:name> premium_privilege_image
+:text> 画像処理：画像管理、撮影、画像の切り取り、フィルターの追加、自由変形など
+
+:name> premium_privilege_export
+:text> エクスポートと共有：ノートをPDF、スクリーンショット、HTMLなどに変換して共有またはエクスポート
+
+:name> premium_privilege_appwidgets
+:text> プラットフォーム機能：デスクトップウィジェットの追加、ノートのショートカットアイコン、クイックレコーディングなど。
+
+:name> premium_privilege_sync
+:text> クラウド同期：複数のクラウドストレージとの同期（WebDAV、DropBox、OneDrive）、フルディスク同期、データの変更は即座にクラウドサーバーに同期されます。
+
+:name> premium_privilege_multi_data_sources
+:text> 複数のデータソース：ローカルのデータソースを複数作成でき、それらの間で自由に切り替えることができます。
+
+:name> premium_privilege_image_upload
+:text> ノート画像ホスティング：ノート編集時に追加された画像が自動的に画像ホスティングサービスにアップロードされ、画像リンクの形式でノートに挿入されます。
+
+:name> premium_privilege_webnote
+:text> Webページをノートに変換：任意のWebページをMarkdown形式で切り取り、ローカルに保存します。これにより、あらゆるネット上の記事を簡単に収集・保存できます。
+
+:name> premium_privilege_encryption
+:text> データセキュリティ：アプリロックおよびノートのエンドツーエンド暗号化により、あなたのデータセキュリティを全方位的に保護します。
+
+:name> premium_privilege_ai
+:text> ライティングアシスタント：AIを活用したライティング支援ツールで、ライティングの内容やAIとの対話に対応しています。
+
+:name> premium_privilege_future
+:text> 今後の開発機能はすべて追加料金なしでご利用いただけます。
+
+:name> premium_payway_others
+:text> その他の取得方法
+
+:name> premium_payway_others_sub_title
+:text> 無料トライアルまたはクーポンコードでも会員になることができます。
+
+:name> premium_contact_us_sub_title
+:text> 会員についてご不明な点やお手伝いが必要な場合は、以下のいずれかの方法でご連絡ください：
+
+:name> premium_payment_continue_content
+:text> すでに支払いが完了しましたか？注文番号を送信するだけで、支払いプロセスを完了できます。
+
+:name> premium_payment_login_first_content
+:text> 当社の会員特典はアカウントに紐付けられています。他のプラットフォームでも会員特典を享受できるようにするため、会員特典を紐付けるためにアカウントにログインすることをお勧めします。このアカウントは、会員特典を紐付ける目的でのみ使用されます。
+
+:name> premium_payment_trail_gift_content
+:text> あなたには、このソフトウェアの有料機能を無料で試用する権利があります！  \n
+この試用は、ユーザーが有料機能を体験することを目的としており、期限が切れると自動的にキャンセルされ、一切の費用は発生しません。
+
+:name> premium_account_state_not_logged_in_tip
+:text> アカウントにログインすることで、会員特典を復元できます！
+
+:name> search_empty_tip
+:text> 別のキーワードに変えてみるか、検索条件を緩めてみてください？
+
+:name> search_on_given_folder
+:text> 目録内を検索
+
+:name> compose_history_not_found
+:text> 履歴がありません
+
+:name> note_links_outgoing_title
+:text> 参照ノート
+
+:name> note_links_incoming_title
+:text> 参照されています
+
+:name> note_links_empty_outgoing
+:text> 他のノートを参照していません
+
+:name> note_links_empty_incoming
+:text> 他のノートからの参照はまだありません
+
+:name> compose_edit_option_name_H1
+:text> ヘッダー
+
+:name> compose_edit_option_name_H2
+:text> ヘッダー
+
+:name> compose_edit_option_name_H3
+:text> ヘッダー
+
+:name> compose_edit_option_name_H4
+:text> ヘッダー
+
+:name> compose_edit_option_name_H5
+:text> ヘッダー
+
+:name> compose_edit_option_name_H6
+:text> ヘッダー
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> リスト
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 数値リスト
+
+:name> compose_edit_option_name_CHECKBOX
+:text> チェックボックス
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> チェックボックス
+
+:name> compose_edit_option_name_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> インライン コード
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> コードをブロック
+
+:name> compose_edit_option_name_STRIKE
+:text> ストライク
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> リネン
+
+:name> compose_edit_option_name_ITALIC
+:text> 斜体
+
+:name> compose_edit_option_name_BOLD
+:text> 太字
+
+:name> compose_edit_option_name_MARK
+:text> マーク
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 数学
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> サブスクリプト
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> スーパー スクリプト
+
+:name> compose_edit_option_name_IMAGE
+:text> 画像
+
+:name> compose_edit_option_name_LINK
+:text> リンク
+
+:name> compose_edit_option_name_TABLE
+:text> テーブル
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> フローチャート
+
+:name> compose_setting_quick_note_folder
+:text> クイックノート
+
+:name> note_encrypt_key_summary
+:text> 鍵はノートの暗号化および復号化に使用されます。
+
+:name> note_encrypt_mnemonic
+:text> 語呂合わせ
+
+:name> note_encrypt_mnemonic_desc
+:text> 語呂合わせ（ニーモニック）は、暗号化キーを思い出すのに役立ちます。思い出しづらいキーに関連付けた何かを書き留めて、思い出せるようにすることもできます。これはデバイス上に平文で保存されます。
+
+:name> note_encrypt_preview_summary
+:text> 有効化すると、ノート一覧で暗号化されたノートのプレビュー情報が非表示になります。
+
+:name> note_encrypt_export_info
+:text> エクスポート暗号化復旧情報
+
+:name> note_encrypt_export_no_key
+:text> エクスポートする前に、暗号化キーを設定してください。
+
+:name> note_encrypt_export_succeed
+:text> 暗号化復旧情報のエクスポートが正常に完了しました！エクスポートされたファイルを安全に保管してください。
+
+:name> note_encrypt_export_failed
+:text> エクスポートに失敗しました: %s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_暗号化復旧_
+
+:name> note_encrypt_export_notice
+:text> <b>【重要なセキュリティ通知】</b><br/>このファイルには、あなたの暗号化された語呂合わせ（メンモニック）と鍵検証情報が含まれています。<br/>適切に保管し、絶対に第三者に漏らしたり、いかなるパブリックネットワークにもアップロードしないでください。<br/><br/>パスワードを忘れた場合：<br/>1. ファイル内の<b>語呂合わせ（メンモニック）</b>を活用して、思い出してください。<br/>2. 正しいパスワードを使用することで、すべての暗号化ノートを復号できます。
+
+:name> note_encrypt_export_info_summary
+:text> ファイルにパスワードを思い出させるための語呂合わせ用語と暗号化された復旧情報をエクスポートします。ステータス：%s。
+
+:name> set_ai
+:text> AIアシスタント
+
+:name> set_encrypt_note
+:text> ノートの暗号化
+
+:name> set_theme_and_style
+:text> 外観
+
+:name> set_note_mathjax
+:text> Mathjaxを有効にする
+
+:name> set_note_title_sub
+:text> 有効化すると、ノート編集ページでタイトル入力ボックスを有効化できます。ただし、タイトルの処理は大きな曖昧さを引き起こしやすいため、強く推奨しません。タイトルを入力したい場合は、Markdown の見出しフォーマットを直接使用するか、1 行目のテキストをタイトルとして使用することをおすすめします。
+
+:name> set_note_snippet_summary
+:text> ノートスニペットは、再利用可能なカスタムテキスト段落であり、ノートのテンプレートとして使用できます。
+
+:name> note_snippet_drag_to_reorder
+:text> ヒント：左側の横線をクリックしてドラッグすると、ノートの断片を並べ替えることができます。
+
+:name> set_illegal_charset
+:text> 不正な文字
+
+:name> set_illegal_charset_sub
+:text> ファイル名の設定時に無効な文字が使用された場合、アプリケーションはユーザーの設定に基づいて自動的に置換します。
+
+:name> set_note_edit_directly_sub
+:text> 有効化すると、ノートをクリックした際に表示ページではなく編集ページに直接移動します。
+
+:name> set_note_auto_parsing_encoding
+:text> 有効にした場合、ノートを読み込むときに、ノートのエンコーディング形式が自動的に分析されます。
+
+:name> set_note_hide_folders_sub
+:text> 非表示にしたいディレクトリを選択してください。選択されたディレクトリはディレクトリ一覧に表示されません。
+
+:name> set_note_folders_selection
+:text> ディレクトリ
+の選択
+
+:name> set_note_folders
+:text> ストレージ場所
+
+:name> set_note_display_image_sub
+:text> 有効化すると、画像がノート一覧に表示されます。無効の場合は表示されません。
+
+:name> set_note_image_default_name
+:text> 画像ディレクトリ名
+
+:name> set_note_image_compress_sub
+:text> 有効にした場合、アプリケーションに新しく追加された画像は、保存前に圧縮されます。
+
+:name> set_sync_universal
+:text> 設定
+
+:name> set_sync_enable
+:text> 同期を有効化
+
+:name> set_sync_enable_sub
+:text> 閉じた後、アプリ全体の受動的同期ロジックが無効になります。
+
+:name> set_sync_server_change
+:text> クラウドサーバーの変更
+
+:name> set_note_image_compress_quality_sub
+:text> 画像圧縮の品質。数値が大きいほど鮮明度が高くなり、占有するスペースも大きくなります。現在の値は：%d
+
+:name> set_sync_delay
+:text> 同期遅延
+
+:name> set_sync_delay_sub
+:text> 一部のサーバーでは、リクエスト頻度が制限されます。この設定は、各リクエスト間に遅延を挿入することでリクエスト頻度を低下させます。現在：%dms。
+
+:name> set_sync_info
+:text> 状態
+
+:name> set_sync_last_info
+:text> 課題対応
+
+:name> set_sync_done_with_error
+:text> %d件の問題を確認する必要があります。
+
+:name> set_sync_clear_status
+:text> 同期キャッシュをクリア
+
+:name> set_sync_clear_status_summary
+:text> 同期キャッシュは、ローカルおよびリモートファイルの状態を記録します。キャッシュにより同期速度が向上します。
+
+:name> set_sync_clear_status_message
+:text> %d件の同期キャッシュが検出されました。すべてクリアしてもよろしいですか？\nこれにより、次回の同期にかかる時間が長くなる可能性があります。
+
+:name> sync_unable_to_handle_locally_yip
+:text> このエラーはネットワークの問題によって発生している可能性があり、ローカルでは処理できません。この問題を解決するには、エラーを直接削除するか、再試行してください。
+
+:name> sync_confirm_message
+:text> 同期タスクはバックグラウンドで実行され、通常の使用に影響を与えません。
+
+:name> set_report_no_conflict
+:text> 問題が見つかりません
+
+:name> set_conflict_resolve
+:text> 同期問題
+
+:name> datasource_external_tip
+:text> プラットフォームの審査規定に基づき、現在のバージョンでは外部ストレージへの読み書き機能はサポートされていません。詳細については、ヘルプドキュメントをご覧ください。
+
+:name> set_import_flomo
+:text> Flomo からインポート
+
+:name> import_flomo_title
+:text> Flomo からインポート
+
+:name> note_setting_group_file_opt
+:text> ファイル操作
+
+:name> note_setting_group_sync
+:text> クラウド同期
+
+:name> create_child_folder
+:text> サブディレクトリを作成
+
+:name> text_got_it
+:text> 了解しました
+
+:name> set_note_list_cell_style_card_summary
+:text> ホームページのノート一覧のカードスタイルを設定します。現在：%s
+
+:name> set_note_list_show_folders_sub
+:text> 有効化すると、ディレクトリもノート一覧に表示されます。無効の場合は表示されません。
+
+:name> set_file_naming_summary
+:text> ファイル作成時のファイル名の命名規則：現在は「%s」
+
+:name> set_file_extensions_group
+:text> ファイル拡張子
+
+:name> set_file_extensions_group_summary
+:text> ファイル拡張子設定の説明：当アプリケーションでは、ディスク上のファイルをノートの媒体として使用しています。そのため、これは単なるノートソフトウェアであるだけでなく、ほぼファイル管理ソフトウェアでもあります。当ソフトウェアでは、ファイルの拡張子をファイルタイプの識別子として使用します。これにより、ファイルが画像、テキスト、またはノートとして処理されるかが決定されます。この設定はユーザーがカスタマイズ可能であり、ユーザーが設定したファイルの拡張子によって、ソフトウェアがそのファイルをどのように処理するかが決まります。
+
+:name> text_explain
+:text> 説明
+
+:name> set_explain_sub
+:text> 機能説明
+
+:name> set_note_image_default_name_sub
+:text> ノートに追加された画像は、このディレクトリに保存されます。現在：%s
+
+:name> note_snippet_option_title
+:text> 操作の選択
+
+:name> note_snippet_delete_confirm_message
+:text> ノートの断片を削除すると、復元できなくなります。本当に削除しますか？
+
+:name> set_note_auto_parsing_encoding_title
+:text> エンコーディングの検出
+
+:name> set_group_basics
+:text> 基本
+
+:name> set_group_data
+:text> データ
+
+:name> set_group_others
+:text> その他
+
+:name> common_set_security_applock_enable_sub
+:text> 有効化すると、アプリを再起動する際に身元確認が必要になります。
+
+:name> common_set_security_security_questions_sub
+:text> パスワードを忘れた場合に身元を確認するために、セキュリティ質問を使用できます。
+
+:name> set_encrypt_key_desc
+:text> パスワードを設定する前に、以下の点をご確認ください。  \n\n
+1. 本アプリの暗号化キーおよび暗号化方式は、ユーザー自身がデータを管理することを前提として設計されています。暗号化された情報およびノートは、スマートフォンのローカルストレージ上にのみ保存されます。  \n\n
+2. データのセキュリティを確保するため、暗号化キーを設定した後は、必ずそのキーを安全に保管してください。万が一キーを紛失した場合、データは一切復元できません。そのため、必ず「助記語（マネモニック）」を設定することをお勧めします。これは任意のテキストで構いませんが、キーを思い出すための手がかりとなるような内容にしてください。  \n\n
+3. アプリをアンインストールすると、システムによってアプリの全データ（暗号化情報も含む）が削除されます。このため、常に暗号化キーのバックアップを取っておくことをお勧めします。この目的のために、アプリでは暗号化情報をエクスポートする機能を提供しています。この機能を使用すれば、暗号化情報を（キーを含まずに）エクスポートできます。  \n\n
+4. 暗号化キーを変更するたびに、アプリは自動的にそれ以前の暗号化ノートを再暗号化します。このため、暗号化キーは一度だけ設定することをお勧めします。  \n\n
+5. 新バージョン（5.3.0以降）では、標準的なキー派生および暗号化方式を採用しており、セキュリティレベルが向上しています。このバージョンへのアップグレードを強く推奨します。
+
+:name> folder_create_succeed
+:text> ディレクトリ「%s」の作成に成功しました！
+
+:name> flomo_import_zip_require
+:text> インポートするファイルを選択してください！
+
+:name> flomo_import_target_require
+:text> インポートディレクトリを指定してください！
+
+:name> flomo_import_memo_empty
+:text> インポート可能なノートが見つかりません。選択したファイルにノートが含まれているか確認してください！
+
+:name> flomo_import_succeed
+:text> データのインポートが完了しました！
+
+:name> flomo_import_failed
+:text> データのインポートに失敗しました：一部のノートまたは画像のインポートに失敗している可能性があります！
+
+:name> image_save_success
+:text> 画像は「%s」に保存されました。
+
+:name> notes_empty_title
+:text> ノートが見つかりません
+
+:name> notes_empty_subtitle
+:text> トップページの下部にある入力ボックスをクリックして、すぐにノートを作成してみてください！
+
+:name> search_placeholder_desc
+:text> 検索したいキーワードを入力し、「言葉」の強力な検索機能を試してみてください！
+
+:name> search_placeholder_title
+:text> 検索を開始
+
+:name> search_empty_title
+:text> 一致するノートが見つかりません
+
+:name> search_result_count_tip
+:text> 合計 %d 件の一致結果が見つかりました
+
+:name> search_show_left_count_tip
+:text> 残り %d 件の結果を表示
+
+:name> batch_delete_items_tip
+:text> %d 個のエントリを削除しようとしています。実行しますか？
+
+:name> batch_delete_succeed_tip
+:text> %d 個のエントリが削除されました！
+
+:name> premium_only
+:text> プレミアム
+
+:name> note_setting_group_basic
+:text> 基本
+
+:name> compose_note_setting_links
+:text> 双方向リンク
+
+:name> copy_from
+:text> コピー元：
+
+:name> share_from
+:text> 共有元：
+
+:name> share_by_file
+:text> ファイルとして共有
+
+:name> note_not_editable_tip
+:text> このノートは編集できません！
+
+:name> set_list_settings
+:text> リスト設定
+
+:name> set_all_settings
+:text> すべての設定
+
+:name> list_bottom_slogan_1
+:text> 「言葉」へようこそ！
+
+:name> list_bottom_slogan_2
+:text> Leaf Noteは素晴らしい！
+
+:name> file_not_found_with
+:text> ファイルが存在するか確認してください：%s
+
+:name> route_failed_with
+:text> 処理できません：%s
+
+:name> trash_box_empty_desc
+:text> 空にした後、これらのコンテンツは完全に削除されます。本当に空にしますか？
+
+:name> trash_empty_title
+:text> ごみ箱は空です
+
+:name> trash_empty_desc
+:text> 削除されたファイルはごみ箱に移動されます
+
+:name> snippet_list_empty_title
+:text> ノートスニペットがありません
+
+:name> snippet_list_empty_sub
+:text> ホーム画面の下部編集ボックスおよびノートスニペット管理ページのいずれでも、ノートスニペットを作成できます。
+
+:name> folder_desc_title
+:text> フォルダーの使用状況
+
+:name> folder_desc_detail
+:text> 「フォルダー」管理は本ソフトウェアのコア機能であり、ノートを効率的に整理・管理するためのサポートを行います。\n\n
+当社のフォルダーはローカルファイルシステムに基づいて実装されており、汎用的なファイル形式で保存されます。「データの所有権はユーザーに帰属する」という設計理念を貫いています。また、任意の階層構造を持つノートフォルダーを自由に作成できます。\n\n
+フォルダーリストの主な操作：\n\n
+1. 左側の矢印をクリック：フォルダーの折りたたみ／展開  \n
+2. 最右側の「その他」をクリック：サブフォルダーの追加、削除、名前の変更など、各種管理操作\n
+3. 中央部分をクリック：選択して「作業フォルダー」に設定  \n\n
+👉 作業フォルダーとは？\n\n
+ホーム画面に表示されるノート一覧は、現在の作業フォルダーから取得されます。新規ノートはデフォルトでこのフォルダーに保存されます。また、音声録音やWebページからのノート作成などの機能については、設定からデフォルトの保存先フォルダーをカスタマイズ可能です。\n\n
+ご使用中に何か疑問やご意見がございましたら、お気軽にお問い合わせください！
+
+:name> login_account_help_tip
+:text> ご支援が必要な場合は、%s までお問い合わせください！
+
+:name> login_subtitle
+:text> ログインして会員特典を復元します
+
+:name> premium_dialog_free_trial_tip
+:text> 無料トライアルをご利用いただけます。
+
+:name> compose_history_not_found_sub
+:text> ノートの履歴は、編集中に自動的にここに保存されます。
+
+:name> empty_image_title
+:text> 画像がありません
+
+:name> empty_image_subtitle
+:text> ローカルに保存されたすべての画像がここに表示されます。画像を1枚追加してみてください！
+
+:name> set_report_no_conflict_sub
+:text> おめでとうございます。すべてのファイルがサーバーに正常に同期されました！
+
+:name> note_set_double_edit_desc
+:text> ノートページをダブルクリックしても編集モードに入ることができます！
+
+:name> set_sync_done_with_time
+:text> 前回の同期は %s に完了しました。
+
+:name> set_sync_done_without_error
+:text> 前回の同期は %s に完了しました。同期に関する問題は検出されませんでした。
+
+:name> set_sync_not_yet
+:text> まだ同期されていません
+
+:name> set_sync_strict
+:text> 厳格モード
+
+:name> set_sync_strict_sub
+:text> 厳格モードを無効にすると、同期の問題が発生する確率を大幅に低減できます。「厳格モード」の詳細については、当社のドキュメントをご参照ください。
+
+:name> sync_network_not_connect
+:text> データを同期できません：ネットワークに接続されていません！
+
+:name> sync_server_unavailable
+:text> データを同期できません：サーバーが利用できません！
+
+:name> sync_network_type_unavailable
+:text> データを同期できません：ネットワークタイプが利用できません！
+
+:name> sync_confirm_title
+:text> 同期を開始しますか？
+
+:name> sync_fail_network_type_title
+:text> ネットワーク環境が一致しません
+
+:name> sync_fail_network_type_message
+:text> 現在はWi-Fi環境ではありません。データの同期ができません。設定でこの設定を変更するか、同期をキャンセルできます。
+
+:name> sync_fail_server_title
+:text> 同期サーバーが利用できません
+
+:name> sync_fail_server_message
+:text> 同期サーバーが使用できません。設定でサーバーの設定を変更し、再度お試しください。
+
+:name> set_sync_notification_title
+:text> 同期タスク通知
+
+:name> set_sync_notification_message
+:text> 同期タスク通知を有効化して、タスクの実行状態をよりよく把握します。
+
+:name> sync_desc_title
+:text> 同期の使用説明
+
+:name> text_remove
+:text> 削除
+
+:name> sync_force_diff_sub
+:text> ローカルとリモートの変更の違いを比較することで発見し、修正して問題を解決します。
+
+:name> sync_force_upload_sub
+:text> ローカルファイルを強制的に使用してリモートファイルを上書きします。ローカルファイルが最新のバージョンであることを確認してください。そうでないと、リモートでの編集記録が失われる可能性があります。
+
+:name> sync_force_download_sub
+:text> リモートファイルを強制的に使用してローカルファイルを上書きします。リモートファイルが最新のバージョンであることを確認してください。そうでないと、ローカルでの編集記録が失われる可能性があります。
+
+:name> sync_force_remove_sub
+:text> エラー一覧からこのエラーを直接削除します。
+
+:name> sync_force_remove_tip
+:text> この同期の問題を直接削除してもよろしいですか？
+
+:name> sync_export_log
+:text> 同期ログをエクスポート
+
+:name> sync_log_empty_tip
+:text> 同期ログが見つかりません。
+
+:name> sync_fail_fix_strict_tip
+:text> 同期の問題が多すぎます。「%s」を閉じて試してみますか？
+
+:name> sync_fail_options
+:text> 操作の選択
+
+:name> export_image_slogan_1
+:text> あなたのプライベートな知識ベース！
+
+:name> export_image_slogan_2
+:text> あなたの第二の脳、スマートフォンから成長を始めます
+
+:name> export_image_slogan_3
+:text> ポケットの中のMarkdown。設計段階から暗号化されています。
+
+:name> export_image_slogan_4
+:text> ノートだけではない——静かに同期される思考システム。
+
+:name> review_read_continue
+:text> 続きを読むをクリックしてください
+
+:name> note_review_intro
+:text> こんにちは、ようこそ「リビュー」機能へ！\n\n
+日常の記録を一つひとつノートに書き込んでいますか？しかし、ほとんどのノートは「保存」ボタンを押した瞬間に、そこで終わりを迎えてしまいます。時間の経過とともに、当時は鮮やかだったアイデアは次第に薄れていき、苦心して書き記した内容も、他のノートの海に埋もれていきます。こうして、記録は「振り返り」と「蓄積」の意味を失ってしまうのです。\n\n
+「リビュー」機能は、この課題を打破するために設計されました。過去の一時期に作成したノートを、再びあなたのもとに届け、改めて読み直し・振り返る機会を提供します。\n\n
+忙しい日々の中で、かつて輝いていたあのアイデアを、もう一度見つけ出しましょう。\n\n
+さあ、始めましょう～
+
+:name> note_review_intro_title
+:text> 「レビュー」機能について詳しく知る
+
+:name> review_empty_title
+:text> 見直せるノートがありません
+
+:name> review_empty_subtitle
+:text> ホーム画面の下部にある入力ボックスをクリックして、いくつかのメモを作成してから、もう一度試してみてください～
+
+:name> share_by_short_image
+:text> 短文のスクリーンショットを共有
+
+:name> export_by_short_image
+:text> 短文のスクリーンショットをエクスポート
+
+:name> export_by_file
+:text> ファイルとしてエクスポート
+
+:name> premium_review_subtitle
+:text> 上線6年、当アプリはユーザーから広く高い評価を受けています。
+
+:name> premium_privilege_devices
+:text> マルチデバイス：一度の有料購入で、Android、タブレット、iPhone、iPad の4つのプラットフォームで会員特典をご利用いただけます。
+
+:name> premium_payway_switch_tip
+:text> 支払い方法：%s
+
+:name> premium_payment_trail_gift_title
+:text> 無料トライアル利用可能
+
+:name> premium_usage_desc
+:text> 利用規約
+
+:name> process_text_empty
+:text> 処理待ちのテキストが空です！
+
+:name> process_text_saving
+:text> 保存中です。しばらくお待ちください
+…
+
+:name> process_text_saved
+:text> 言葉・テキストが「%s」に保存されました！
+
+:name> process_text_dlg_title
+:text> ノートを編集
+
+:name> process_text_dlg_hint
+:text> テキストを編集して保存するだけでOKです。
+
+:name> text_less
+:text> 少ない
+
+:name> text_more
+:text> もっと
+
+:name> text_not_exported
+:text> 未エクスポート
+
+:name> logout_confirm_title
+:text> ログアウトしてよろしいですか？
+
+:name> logout_confirm_message
+:text> ログアウト後、会員特典を利用するには再度ログインする必要があります。本当にログアウトしますか？
+

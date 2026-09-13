@@ -1,0 +1,776 @@
+:name> register
+:text> Registrieren
+
+:name> bind
+:text> Anmelden
+
+:name> binding
+:text> Anmeldung läuft
+…
+
+:name> unbind
+:text> Abmelden
+
+:name> datasource_internal
+:text> Interne Datenquelle Verwenden
+
+:name> data_statistics
+:text> Statistik
+
+:name> set_image_host_enable
+:text> Bildhoster Aktivieren
+
+:name> set_image_host_config
+:text> Konfiguration Des Bildhosts
+
+:name> please_select_items
+:text> Bitte wählen Sie die zu verarbeitende Notiz aus!
+
+:name> common_set_security_security_questions_added
+:text> Sicherheitsfrage bereits hinzugefügt
+
+:name> common_set_security_biometric_summary
+:text> Nach der Einrichtung kann die biometrische Authentifizierung direkt verwendet werden.
+
+:name> common_app_intro_subtitle
+:text> Neu kennenlernen
+
+:name> share_by_html
+:text> Als HTML freigeben
+
+:name> share_by_image
+:text> Langen Artikel als Screenshot teilen
+
+:name> export_by_html
+:text> Als HTML exportieren
+
+:name> export_by_image
+:text> Langen Artikel als Screenshot exportieren
+
+:name> select_folder_move_to
+:text> Zielordner
+
+:name> login_title
+:text> Anmelden
+
+:name> login_account_bind_tip
+:text> Das Konto dient ausschließlich der Bindung von Mitgliedsleistungen.
+
+:name> login_bind_state
+:text> Kontoinformationen
+
+:name> login_unbind_success_message
+:text> Erfolgreich abgemeldet!
+Sie können sich erneut anmelden, um Ihre Rechte in Anspruch zu nehmen. Vielen Dank für die Nutzung!
+
+:name> audio_store_folder
+:text> Audio-Notiz
+
+:name> capture_web_folder
+:text> Webseiten-Ausschnitt-Notiz
+
+:name> image_name_not_support
+:text> Dieses Bildformat wird derzeit nicht unterstützt: Sie können die Konfiguration in „Einstellungen → Dateien → Bild-Dateierweiterungen“ ändern, um es zu unterstützen.
+
+:name> image_pictures
+:text> Galerie
+
+:name> premium_privilege_basic
+:text> Alle grundlegenden Funktionen: Markdown, Audioaufnahmen, mehrstufige Verzeichnisse, Wiederholung, Suche usw.
+
+:name> premium_privilege_themes
+:text> Individuelles Aussehen: %d+ Anwendungsthemen, %d+ Editor-Themen, %d+ Code-Stile, benutzerdefiniertes CSS, benutzerdefinierte Schriftarten usw.
+
+:name> premium_privilege_image
+:text> Bildverarbeitung: Bildverwaltung, Fotografieren, Bildzuschneiden, Filter hinzufügen, freie Transformation usw.
+
+:name> premium_privilege_export
+:text> Exportieren und Teilen: Notizen in PDF, Screenshots, HTML usw. umwandeln und teilen oder exportieren
+
+:name> premium_privilege_appwidgets
+:text> Plattformfunktionen: Desktop-Widgets hinzufügen, Notiz-Schnellzugriffssymbole und schnelle Aufzeichnung usw.
+
+:name> premium_privilege_sync
+:text> Cloud-Synchronisierung: Verschiedene Cloud-Speicher-Synchronisationsmethoden (WebDAV, Dropbox und OneDrive), vollständige Synchronisierung, Datenänderungen werden sofort mit dem Cloud-Server synchronisiert.
+
+:name> premium_privilege_multi_data_sources
+:text> Mehrere Datenquellen: Erlaubt das Erstellen mehrerer lokaler Datenquellen und das freie Wechseln zwischen diesen.
+
+:name> premium_privilege_image_upload
+:text> Bildhosting für Notizen: Bilder, die beim Bearbeiten von Notizen hinzugefügt werden, werden automatisch auf das Bildhosting hochgeladen und als Bild-Link in die Notiz eingefügt.
+
+:name> premium_privilege_webnote
+:text> Webseite in Notiz umwandeln: Schneiden Sie beliebige Webseiten als Markdown aus und speichern Sie sie lokal, um beliebige Online-Artikel problemlos zu sammeln.
+
+:name> premium_privilege_encryption
+:text> Datensicherheit: App-Sperre und Ende-zu-Ende-Verschlüsselung für Notizen – umfassender Schutz Ihrer Datensicherheit.
+
+:name> premium_privilege_ai
+:text> Schreibassistent: KI-basierter Schreibassistent zur Interaktion mit KI im Hinblick auf den Inhalt des Textes.
+
+:name> premium_privilege_future
+:text> Alle zukünftigen Entwicklungsfeatures erfordern keine erneute Zahlung.
+
+:name> premium_payway_others
+:text> Andere Bezugsmöglichkeiten
+
+:name> premium_payway_others_sub_title
+:text> Sie können die Mitgliedschaft auch über eine kostenlose Testversion oder einen Aktivierungscode erhalten.
+
+:name> premium_contact_us_sub_title
+:text> Falls Sie Fragen zu Ihrer Mitgliedschaft haben oder Hilfe benötigen, kontaktieren Sie uns bitte über eine der folgenden Methoden:
+
+:name> premium_payment_continue_content
+:text> Zahlung bereits abgeschlossen? Geben Sie einfach die Bestellnummer ein, um den Zahlungsvorgang abzuschließen.
+
+:name> premium_payment_login_first_content
+:text> Unsere Mitgliedschaftsleistungen sind an das Konto gebunden. Um die Mitgliedschaftsleistungen auch auf anderen Plattformen in Anspruch nehmen zu können, empfehlen wir Ihnen, sich mit Ihrem Konto anzumelden, um die Mitgliedschaftsleistungen zu binden. Dieses Konto dient ausschließlich der Bindung der Mitgliedschaftsleistungen.
+
+:name> premium_payment_trail_gift_content
+:text> Sie haben das Recht, die kostenpflichtigen Funktionen dieser Software kostenlos zu testen!  \n
+Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustellen; er wird nach Ablauf automatisch gekündigt und verursacht keinerlei Kosten.
+
+:name> premium_account_state_not_logged_in_tip
+:text> Mit Ihrem Anmeldenkonto können Sie Ihre Mitgliedsrechte wiederherstellen!
+
+:name> search_empty_tip
+:text> Probieren Sie es mit einem anderen Suchbegriff oder weniger strengen Suchkriterien?
+
+:name> search_on_given_folder
+:text> In Verzeichnis suchen
+
+:name> compose_history_not_found
+:text> Kein Verlauf Vorhanden
+
+:name> note_links_outgoing_title
+:text> Zitierter Notiz
+
+:name> note_links_incoming_title
+:text> zitiert
+
+:name> note_links_empty_outgoing
+:text> Keine anderen Notizen referenziert
+
+:name> note_links_empty_incoming
+:text> Keine weiteren Notizen verweisen darauf
+
+:name> compose_edit_option_name_H1
+:text> Kopfzeile
+
+:name> compose_edit_option_name_H2
+:text> Kopfzeile
+
+:name> compose_edit_option_name_H3
+:text> Kopfzeile
+
+:name> compose_edit_option_name_H4
+:text> Kopfzeile
+
+:name> compose_edit_option_name_H5
+:text> Kopfzeile
+
+:name> compose_edit_option_name_H6
+:text> Kopfzeile
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> Liste
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> Numerische Liste
+
+:name> compose_edit_option_name_CHECKBOX
+:text> Kontrollkästchen
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> Aktiviertes Kästchen
+
+:name> compose_edit_option_name_QUOTE
+:text> Zitat
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> Inline-Code
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> Blockcode
+
+:name> compose_edit_option_name_STRIKE
+:text> Schlag
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> Leine
+
+:name> compose_edit_option_name_ITALIC
+:text> Kursiv
+
+:name> compose_edit_option_name_BOLD
+:text> Fett
+
+:name> compose_edit_option_name_MARK
+:text> Mark
+
+:name> compose_edit_option_name_MATH_JAX
+:text> Mathe
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> Unterskript
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> Super Script
+
+:name> compose_edit_option_name_IMAGE
+:text> Bild
+
+:name> compose_edit_option_name_LINK
+:text> Link
+
+:name> compose_edit_option_name_TABLE
+:text> Tabelle
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> Zitat
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> Flussdiagramm
+
+:name> compose_setting_quick_note_folder
+:text> Schnellnotiz
+
+:name> note_encrypt_key_summary
+:text> Der Schlüssel wird zum Verschlüsseln und Entschlüsseln von Notizen verwendet.
+
+:name> note_encrypt_mnemonic
+:text> Mnemonik
+
+:name> note_encrypt_mnemonic_desc
+:text> Ein Merksatz hilft Ihnen dabei, Ihren Verschlüsselungsschlüssel zu merken. Sie können etwas aufschreiben, das mit dem Schlüssel in Verbindung steht, um die Erinnerung zu unterstützen. Er wird als Klartext auf dem Gerät gespeichert.
+
+:name> note_encrypt_preview_summary
+:text> Nach Aktivierung werden die Vorschauinformationen verschlüsselter Notizen in der Notizenliste ausgeblendet.
+
+:name> note_encrypt_export_info
+:text> Verschlüsselungs-Wiederherstellungsinfo exportieren
+
+:name> note_encrypt_export_no_key
+:text> Bitte konfigurieren Sie den Verschlüsselungsschlüssel vor dem Export.
+
+:name> note_encrypt_export_succeed
+:text> Verschlüsselungswiederherstellungs-Informationen erfolgreich exportiert! Bitte bewahren Sie die exportierte Datei sicher auf.
+
+:name> note_encrypt_export_failed
+:text> Export fehlgeschlagen: %s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_Verschlüsselung_Wiederherstellung_
+
+:name> note_encrypt_export_notice
+:text> <b>[Wichtiger Sicherheitshinweis
+]</b><br/>Diese Datei enthält Ihre verschlüsselten Mnemonikwörter und Schlüsselprüfungsdaten.<br/>Bewahren Sie sie sorgfältig auf und geben Sie sie niemals preis oder laden Sie sie in irgendein öffentliches Netzwerk hoch.<br/><br/>Falls Sie Ihr Passwort vergessen:<br/>1. Verwenden Sie die <b>Mnemonikwörter</b> aus dieser Datei, um sich an das Passwort zu erinnern.<br/>2. Das korrekte Passwort ermöglicht die Entschlüsselung all Ihrer verschlüsselten Notizen.
+
+:name> note_encrypt_export_info_summary
+:text> Exportieren Sie die Mnemonik und die verschlüsselten Wiederherstellungsdaten in eine Datei, um sich an Ihr Passwort zu erinnern. Status: %s.
+
+:name> set_ai
+:text> KI-Assistent
+
+:name> set_encrypt_note
+:text> Notizverschlüsselung
+
+:name> set_theme_and_style
+:text> Darstellung
+
+:name> set_note_mathjax
+:text> Mathjax Aktivieren
+
+:name> set_note_mermaid
+:text> Mermaid Aktivieren
+
+:name> set_note_yaml
+:text> Verwenden sie präfixinformationen
+
+:name> set_note_title
+:text> Verwenden Sie Die Titeleingabe
+
+:name> set_note_title_sub
+:text> Nach Aktivierung kann das Titelfeld auf der Notizbearbeitungsseite aktiviert werden. Wir raten jedoch dringend davon ab, es zu aktivieren, da die Verarbeitung von Titeln leicht zu erheblichen Mehrdeutigkeiten führen kann. Falls Sie einen Titel eingeben möchten, empfehlen wir, direkt das Markdown-Titelformat zu verwenden oder die erste Textzeile als Titel zu nutzen.
+
+:name> set_note_extensions
+:text> Beachten Sie Die Dateierweiterung
+
+:name> set_note_snippet_summary
+:text> Notizfragmente sind benutzerdefinierte Textabsätze, die gespeichert und wiederverwendet werden können und als Notizvorlagen verwendet werden können.
+
+:name> note_snippet_drag_to_reorder
+:text> Hinweis: Um Notizfragmente neu anzuordnen, klicken und ziehen Sie die horizontale Linie auf der linken Seite.
+
+:name> set_illegal_charset
+:text> Ungültige Zeichen
+
+:name> set_illegal_charset_sub
+:text> Ungültige Zeichen beim Konfigurieren von Dateinamen; die Anwendung ersetzt sie automatisch entsprechend Ihrer Konfiguration.
+
+:name> set_note_edit_directly_sub
+:text> Wenn diese Funktion aktiviert ist, gelangen Sie beim Klicken auf eine Notiz direkt zur Bearbeitungsseite (und nicht zur Anzeigeseite).
+
+:name> set_note_auto_parsing_encoding
+:text> Wenn aktiviert, wird beim Laden von Notizen automatisch die Codierungsart der Notizen analysiert.
+
+:name> set_note_hide_folders
+:text> Einige Verzeichnisse Ausblenden
+
+:name> set_note_hide_folders_sub
+:text> Wählen Sie das Verzeichnis aus, das Sie ausblenden möchten. Das ausgewählte Verzeichnis wird nicht in der Verzeichnisliste angezeigt.
+
+:name> set_note_folders
+:text> Speicherort
+
+:name> set_camera_type_title
+:text> Kameratyp Auswählen
+
+:name> set_note_display_image
+:text> Bilder Anzeigen
+
+:name> set_note_display_image_sub
+:text> Nach Aktivierung werden Bilder in der Notizliste angezeigt, andernfalls nicht.
+
+:name> set_note_image_default_name
+:text> Bildverzeichnisname
+
+:name> set_note_image_compress
+:text> Bilder Komprimieren
+
+:name> set_note_image_compress_sub
+:text> Wenn aktiviert, werden neue Bilder, die der Anwendung hinzugefügt werden, vor dem Speichern komprimiert.
+
+:name> set_sync_universal
+:text> Einstellungen
+
+:name> set_sync_enable
+:text> Synchronisierung aktivieren
+
+:name> set_sync_enable_sub
+:text> Nach dem Schließen wird die passive
+Synchronisierungslogik in der gesamten Anwendung beendet.
+
+:name> set_note_image_compress_quality_sub
+:text> Qualität der Bildkomprimierung. Je höher der Wert, desto schärfer das Bild und desto mehr Speicherplatz wird benötigt. Aktueller Wert: %d
+
+:name> set_sync_delay
+:text> Synchronisationsverzögerung
+
+:name> set_sync_delay_sub
+:text> Einige Server beschränken die Anfragshäufigkeit. Diese Einstellung reduziert die Anfragshäufigkeit durch eine Verzögerung bei jeder Anfrage. Aktuell: %d ms.
+
+:name> set_sync_single_sub
+:text> Synchronisieren Sie sofort, nachdem der Dateiinhalt geändert wurde
+
+:name> set_sync_info
+:text> Status
+
+:name> set_sync_last_info
+:text> Problembehandlung
+
+:name> set_sync_done_with_error
+:text> %d Fragen müssen beachtet werden.
+
+:name> set_sync_clear_status
+:text> Synchronisierungscache löschen
+
+:name> set_sync_clear_status_summary
+:text> Die Synchronisierungscache-Datensätze dokumentieren den Status der lokalen und entfernten Dateien; der Cache kann die Synchronisierungsgeschwindigkeit erhöhen.
+
+:name> set_sync_clear_status_message
+:text> Es wurden %d Synchronisierungscaches erkannt. Möchten Sie diese wirklich alle löschen?\nDies kann dazu führen, dass die nächste Synchronisation länger dauert.
+
+:name> sync_unable_to_handle_locally_yip
+:text> Dieser Fehler könnte durch ein Netzwerkproblem verursacht sein und kann lokal nicht behoben werden. Sie können diesen Fehler entweder direkt entfernen oder erneut versuchen, um das Problem zu beheben.
+
+:name> sync_confirm_message
+:text> Die Synchronisationsaufgabe wird im Hintergrund ausgeführt und beeinträchtigt Ihre normale Nutzung nicht.
+
+:name> set_report_no_conflict
+:text> Kein Problem Festgestellt
+
+:name> set_conflict_resolve
+:text> Synchronisationsproblem
+
+:name> datasource_external_tip
+:text> Gemäß den Überprüfungsrichtlinien der Plattform wird die Funktion zum Lesen und Schreiben externer Speicher in der aktuellen Version nicht unterstützt. Sie können die Hilfedokumentation lesen, um weitere Informationen zu erhalten.
+
+:name> set_import_flomo
+:text> Aus Flomo Importieren
+
+:name> import_flomo_title
+:text> Aus Flomo Importieren
+
+:name> note_setting_group_file_opt
+:text> Dateioperationen
+
+:name> note_setting_group_sync
+:text> Cloud-Synchronisierung
+
+:name> create_child_folder
+:text> Unterverzeichnis erstellen
+
+:name> text_got_it
+:text> Verstanden
+
+:name> set_note_list_cell_style_card_summary
+:text> Legen Sie den Kartenstil für die Notizliste auf der Startseite fest. Aktuell: %s
+
+:name> set_note_list_show_folders_sub
+:text> Nach Aktivierung wird das Verzeichnis ebenfalls in der Notizliste angezeigt, andernfalls wird es nicht angezeigt.
+
+:name> set_file_naming_summary
+:text> Namenskonvention für Dateien beim Erstellen, aktuell: %s
+
+:name> set_file_extensions_group
+:text> Dateierweiterung
+
+:name> set_file_extensions_group_summary
+:text> Beschreibung der Einstellungen für Dateierweiterungen: Unsere Anwendung verwendet Datenträgerdateien als Träger für Notizen. Daher ist sie nicht nur eine Notizanwendung, sondern auch nahezu eine Dateiverwaltungssoftware. Unsere Software verwendet die Dateierweiterung als Kennzeichnung für den Dateityp. Diese bestimmt, ob eine Datei als Bild, Text oder Notiz verarbeitet wird. Sie können diese Einstellung anpassen; gleichzeitig bestimmt Ihre Konfiguration für die Dateien, wie die Software mit diesen Dateien umgeht.
+
+:name> text_explain
+:text> Anleitung
+
+:name> set_explain_sub
+:text> Funktionsbeschreibung
+
+:name> set_note_image_default_name_sub
+:text> Bilder, die zu Notizen hinzugefügt werden, werden in diesem Verzeichnis gespeichert. Aktuell: %s
+
+:name> note_snippet_option_title
+:text> Aktion Auswählen
+
+:name> note_snippet_delete_confirm_message
+:text> Nach dem Löschen des Notizfragments kann es nicht wiederhergestellt werden. Möchten Sie wirklich löschen?
+
+:name> set_note_auto_parsing_encoding_title
+:text> Codierung Erkennen
+
+:name> set_group_basics
+:text> Grundlagen
+
+:name> set_group_data
+:text> Daten
+
+:name> set_group_others
+:text> Sonstiges
+
+:name> common_set_security_applock_enable_sub
+:text> Nach Aktivierung ist bei jedem erneuten Öffnen der Anwendung eine Identitätsüberprüfung erforderlich.
+
+:name> common_set_security_security_questions_sub
+:text> Die Sicherheitsfrage kann zur Identitätsüberprüfung verwendet werden, falls Sie Ihr Passwort vergessen haben.
+
+:name> set_encrypt_key_desc
+:text> Bevor Sie ein Passwort festlegen, empfehlen wir Ihnen Folgendes:  \n\n
+1. Der Schlüssel und die Verschlüsselung dieser App basieren auf der Annahme, dass der Benutzer seine eigenen Daten verwaltet. Verschlüsselte Informationen und Notizen werden ausschließlich auf dem lokalen Speicher Ihres Mobilgeräts gespeichert.  \n\n
+2. Um Ihre Datensicherheit zu gewährleisten, bewahren Sie Ihren Schlüssel nach dessen Festlegung sorgfältig auf. Sollten Sie Ihren Schlüssel verlieren, können Ihre Daten nicht wiederhergestellt werden. Wir empfehlen daher dringend, stets einen Merksatz (Mnemonik) festzulegen – dabei kann es sich um beliebigen Text handeln, solange er Ihnen hilft, sich an Ihren Schlüssel zu erinnern.  \n\n
+3. Beim Deinstallieren der App löscht das System sämtliche App-Daten, einschließlich der verschlüsselten Informationen. Daher empfehlen wir Ihnen, stets eine Sicherungskopie Ihres Schlüssels anzufertigen. Zu diesem Zweck stellen wir Ihnen die Möglichkeit zum Export verschlüsselter Informationen zur Verfügung. Über diese Funktion können Sie verschlüsselte Informationen (ohne den Schlüssel) exportieren.  \n\n
+4. Nach jeder Änderung des Schlüssels verschlüsselt die App automatisch alle vorherigen verschlüsselten Notizen neu. Daher empfehlen wir Ihnen, den Schlüssel nur einmal festzulegen.  \n\n
+5. Neuere Versionen (ab 5.3.0) verwenden standardisierte Schlüsselableitung und Verschlüsselungsverfahren, was eine höhere Sicherheit gewährleistet. Wir empfehlen Ihnen daher dringend, auf diese Version zu aktualisieren.
+
+:name> folder_create_succeed
+:text> Verzeichnis „%s“ erfolgreich erstellt!
+
+:name> flomo_import_zip_require
+:text> Bitte wählen Sie die Datei aus, die importiert werden soll!
+
+:name> flomo_import_target_require
+:text> Bitte geben Sie ein Importverzeichnis an!
+
+:name> flomo_import_memo_empty
+:text> Keine importierbaren Notizen gefunden. Bitte überprüfen Sie, ob die ausgewählten Dateien Notizen enthalten!
+
+:name> flomo_import_succeed
+:text> Datenimport abgeschlossen!
+
+:name> flomo_import_failed
+:text> Datenimport fehlgeschlagen: Möglicherweise ist der Import einiger Notizen oder Bilder fehlgeschlagen!
+
+:name> image_save_success
+:text> Das Bild wurde bereits in „%s“ gespeichert.
+
+:name> notes_empty_title
+:text> Keine Notizen Gefunden
+
+:name> notes_empty_subtitle
+:text> Probieren Sie doch aus, im Eingabefeld am unteren Rand der Startseite zu klicken, um schnell eine Notiz zu erstellen!
+
+:name> search_placeholder_desc
+:text> Suchen Sie nach dem gewünschten Stichwort und probieren Sie die leistungsstarke Suchfunktion von „Leaf Note“ aus!
+
+:name> search_placeholder_title
+:text> Suchen Starten
+
+:name> search_empty_title
+:text> Keine Passende Notiz Gefunden
+
+:name> search_result_count_tip
+:text> Insgesamt %d Übereinstimmungen gefunden
+
+:name> search_show_left_count_tip
+:text> Zeige die restlichen %d Ergebnisse an
+
+:name> batch_delete_items_tip
+:text> Bereit, %d Einträge zu löschen. Fortsetzen?
+
+:name> batch_delete_succeed_tip
+:text> %d Einträge wurden gelöscht!
+
+:name> premium_only
+:text> Premium
+
+:name> note_setting_group_basic
+:text> Grundlagen
+
+:name> compose_note_setting_links
+:text> Bidirektionale Verknüpfung
+
+:name> copy_from
+:text> Kopiert von:
+
+:name> share_from
+:text> Geteilt von:
+
+:name> share_by_file
+:text> Als Datei Freigeben
+
+:name> note_not_editable_tip
+:text> Diese Notiz kann nicht bearbeitet werden!
+
+:name> set_list_settings
+:text> Listeneinstellungen
+
+:name> set_all_settings
+:text> Alle Einstellungen
+
+:name> list_bottom_slogan_1
+:text> Willkommen bei „Leaf Note“!
+
+:name> list_bottom_slogan_2
+:text> Leaf Note ist großartig!
+
+:name> file_not_found_with
+:text> Bitte überprüfen Sie, ob die Datei existiert: %s
+
+:name> route_failed_with
+:text> Konnte nicht verarbeitet werden: %s
+
+:name> trash_box_empty_desc
+:text> Nach dem Leeren werden diese Inhalte endgültig gelöscht. Möchten Sie wirklich leeren?
+
+:name> trash_empty_title
+:text> Papierkorb ist leer
+
+:name> trash_empty_desc
+:text> Die gelöschten Dateien werden in den Papierkorb verschoben.
+
+:name> snippet_list_empty_title
+:text> Keine Notiz-Snippets
+
+:name> snippet_list_empty_sub
+:text> Notiz-Snippets können sowohl im Eingabefeld am unteren Rand der Startseite als auch auf der Verwaltungsseite für Notiz-Snippets erstellt werden.
+
+:name> folder_desc_title
+:text> Ordnerverwendung
+
+:name> folder_desc_detail
+:text> Die „Ordner“-Verwaltung ist die zentrale Funktion dieser Software und hilft Ihnen dabei, Ihre Notizen effizient zu organisieren und zu verwalten.\n\n
+Unsere Ordner basieren auf dem lokalen Dateisystem und werden in gängigen Dateiformaten gespeichert – im Einklang mit unserem Designprinzip „Datenhoheit gehört ausschließlich dem Nutzer“. Sie können beliebig tiefe, mehrstufige Notizordner erstellen.\n\n
+Häufig verwendete Aktionen in der Ordnerliste:\n\n
+1. Klicken Sie auf den Pfeil links: um den Ordner einzuklappen oder auszuklappen;\n
+2. Klicken Sie rechts auf „Mehr“: um Unterordner hinzuzufügen, den Ordner zu löschen oder umzubenennen – allgemeine Verwaltungsfunktionen;\n
+3. Klicken Sie auf den mittleren Bereich: um den Ordner auszuwählen und als „Arbeitsordner“ festzulegen.  \n\n
+👉 Was ist ein Arbeitsordner?\n\n
+Die Notizliste auf der Startseite stammt aus dem aktuellen Arbeitsordner. Neu erstellte Notizen werden standardmäßig dort gespeichert; Funktionen wie Audioaufnahme oder Konvertierung von Webseiten in Notizen unterstützen in den Einstellungen die individuelle Festlegung eines Standard-Speicherordners.  \n\n
+Falls Sie während der Nutzung Fragen haben oder Anregungen geben möchten, kontaktieren Sie uns gerne!
+
+:name> login_account_help_tip
+:text> Falls Sie Hilfe benötigen, kontaktieren Sie uns bitte über %s!
+
+:name> login_subtitle
+:text> Mit der Anmeldung werden die Mitgliedsrechte wiederhergestellt
+
+:name> premium_dialog_free_trial_tip
+:text> Eine kostenlose Testversion ist verfügbar.
+
+:name> compose_history_not_found_sub
+:text> Der Verlauf der Notizen wird automatisch hier gespeichert, während Sie bearbeiten.
+
+:name> empty_image_title
+:text> Kein Bild
+
+:name> empty_image_subtitle
+:text> Alle lokalen Bilder werden hier angezeigt – probieren Sie doch aus, ein Bild hinzuzufügen!
+
+:name> set_report_no_conflict_sub
+:text> Glückwunsch! Alle Ihre Dateien wurden erfolgreich mit dem Server synchronisiert!
+
+:name> note_set_double_edit_desc
+:text> Doppelklicken Sie auch auf die Notizseite, um den Bearbeitungsmodus zu aktivieren!
+
+:name> set_sync_done_with_time
+:text> Letzte Synchronisierung abgeschlossen am %s.
+
+:name> set_sync_done_without_error
+:text> Letzte Synchronisierung abgeschlossen am %s, keine Synchronisierungsprobleme festgestellt.
+
+:name> set_sync_not_yet
+:text> Noch nicht synchronisiert
+
+:name> set_sync_strict
+:text> Strenger Modus
+
+:name> set_sync_strict_sub
+:text> Das Deaktivieren des strengen Modus kann die Wahrscheinlichkeit von Synchronisationsproblemen erheblich verringern. Weitere Informationen zum „strikten Modus“ finden Sie in unserer Dokumentation.
+
+:name> sync_network_not_connect
+:text> Kann Daten nicht synchronisieren: Keine Netzwerkverbindung!
+
+:name> sync_server_unavailable
+:text> Daten können nicht synchronisiert werden: Der Server ist nicht verfügbar!
+
+:name> sync_network_type_unavailable
+:text> Daten können nicht synchronisiert werden: Netzwerktyp nicht verfügbar!
+
+:name> sync_confirm_title
+:text> Synchronisierung starten?
+
+:name> sync_fail_network_type_title
+:text> Netzwerkumgebung stimmt nicht überein
+
+:name> sync_fail_network_type_message
+:text> Derzeit befinden Sie sich nicht in einem WLAN-Netzwerk, daher ist keine Datensynchronisierung möglich. Sie können diese Einstellung in den Einstellungen ändern oder die Synchronisierung deaktivieren.
+
+:name> sync_fail_server_title
+:text> Synchronisierungsserver nicht verfügbar
+
+:name> sync_fail_server_message
+:text> Der Synchronisierungsserver ist nicht verfügbar. Wir empfehlen, die Serverkonfiguration in den Einstellungen zu ändern und es erneut zu versuchen.
+
+:name> set_sync_notification_title
+:text> Synchronisationsaufgabenbenachrichtigung
+
+:name> set_sync_notification_message
+:text> Synchronisationsaufgabenbenachrichtigung aktivieren, um den Ausführungsstatus der Aufgaben besser zu verfolgen.
+
+:name> sync_desc_title
+:text> Anleitung zur Synchronisierung
+
+:name> text_remove
+:text> Entfernen
+
+:name> sync_force_diff_sub
+:text> Durch den Vergleich werden Unterschiede zwischen lokalen und Remote-Änderungen ermittelt, die Änderungen werden vorgenommen und das Problem behoben.
+
+:name> sync_force_upload_sub
+:text> Erzwingt die Verwendung der lokalen Datei zum Überschreiben der Remote-Datei. Stellen Sie sicher, dass die lokale Datei die aktuellere Version ist, da andernfalls möglicherweise die Remote-Bearbeitungsprotokolle verloren gehen.
+
+:name> sync_force_download_sub
+:text> Erzwingt die Verwendung der entfernten Datei, um die lokale Datei zu überschreiben. Stellen Sie sicher, dass die entfernte Datei eine aktuellere Version ist, da andernfalls möglicherweise lokale Bearbeitungsdaten verloren gehen.
+
+:name> sync_force_remove_sub
+:text> Entfernen Sie diesen Fehler direkt aus der Fehlerliste.
+
+:name> sync_force_remove_tip
+:text> Möchten Sie dieses Synchronisationsproblem wirklich direkt entfernen?
+
+:name> sync_export_log
+:text> Synchronisationsprotokoll exportieren
+
+:name> sync_log_empty_tip
+:text> Keine Synchronisationsprotokolle gefunden.
+
+:name> sync_fail_fix_strict_tip
+:text> Zu viele Synchronisationsprobleme – möchten Sie „%s“ deaktivieren, um es zu versuchen?
+
+:name> sync_fail_options
+:text> Aktion auswählen
+
+:name> export_image_slogan_1
+:text> Ihre private Wissensdatenbank!
+
+:name> export_image_slogan_2
+:text> Ihr zweites Gehirn, das ab dem Smartphone wächst
+
+:name> export_image_slogan_3
+:text> Markdown in Ihrer Tasche. Von Anfang an verschlüsselt.
+
+:name> export_image_slogan_4
+:text> Nicht nur Notizen – ein Denksystem, das stumm synchronisiert wird.
+
+:name> review_read_continue
+:text> Klicken Sie hier, um weiterzulesen
+
+:name> note_review_intro
+:text> Hallo, willkommen zur Funktion „Rückblick“!\n\n
+Schreibst du deine alltäglichen Notizen oft Stück für Stück in dein Notizbuch? Doch die meisten Notizen enden bereits im Moment des Speicherns. Mit der Zeit verblassen die damals lebendigen Gedanken allmählich und die mühevoll verfassten Inhalte versinken in der Masse deiner Notizen. So verliert das Aufzeichnen seine Bedeutung für Reflexion und Vertiefung.\n\n
+Die Funktion „Rückblick“ wurde entwickelt, um dieses Dilemma zu durchbrechen. Sie zeigt dir erneut Notizen an, die du in einer vergangenen Zeitspanne erstellt hast, und lädt dich ein, sie noch einmal zu lesen und zu reflektieren.\n\n
+Entdecken wir gemeinsam in unserem hektischen Alltag jene funkelnden Gedanken von einst.\n\n
+Los geht’s!
+
+:name> note_review_intro_title
+:text> Erfahren Sie mehr über die Funktion „Rückblick“
+
+:name> review_empty_title
+:text> Keine Notizen zum Zurückblicken vorhanden
+
+:name> review_empty_subtitle
+:text> Klicken Sie auf das Eingabefeld am unteren Rand der Startseite, um einige Notizen zu erstellen und es erneut auszuprobieren!
+
+:name> share_by_short_image
+:text> Kurzartikel-Screenshot teilen
+
+:name> export_by_short_image
+:text> Kurzartikel-Screenshot exportieren
+
+:name> export_by_file
+:text> Als Datei exportieren
+
+:name> premium_review_subtitle
+:text> Seit 6 Jahren online und unsere Anwendung erhält von den Nutzern breite Anerkennung.
+
+:name> premium_privilege_devices
+:text> Mehrere Geräte: Einmal bezahlen und die Mitgliedsleistungen auf vier Plattformen nutzen – Android, Tablet, iPhone und iPad.
+
+:name> premium_payway_switch_tip
+:text> Zahlungsmethode: %s
+
+:name> premium_payment_trail_gift_title
+:text> Kostenlose Testversion Verfügbar
+
+:name> premium_usage_desc
+:text> Details
+
+:name> process_text_empty
+:text> Der zu verarbeitende Text ist leer!
+
+:name> process_text_saving
+:text> Wird gespeichert, bitte warten
+…
+
+:name> process_text_saved
+:text> Leaf Note · Text wurde gespeichert unter: %s!
+
+:name> process_text_dlg_title
+:text> Notiz bearbeiten
+
+:name> process_text_dlg_hint
+:text> Bearbeiten Sie den Text und speichern Sie ihn dann.
+
+:name> text_less
+:text> Weniger
+
+:name> text_more
+:text> Mehr
+
+:name> text_not_exported
+:text> Nicht exportiert
+
+:name> logout_confirm_title
+:text> Möchten Sie sich wirklich abmelden?
+
+:name> logout_confirm_message
+:text> Nach dem Abmelden müssen Sie sich erneut anmelden, um Ihre Mitgliedsleistungen nutzen zu können. Möchten Sie sich wirklich abmelden?
+

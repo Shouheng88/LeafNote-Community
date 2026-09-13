@@ -1,0 +1,736 @@
+:name> register
+:text> 회원가입
+
+:name> bind
+:text> 로그인
+
+:name> binding
+:text> 로그인 중
+…
+
+:name> unbind
+:text> 로그아웃
+
+:name> data_statistics
+:text> 통계
+
+:name> please_select_items
+:text> 처리할 메모를 선택하세요!
+
+:name> common_set_security_security_questions_added
+:text> 보안 질문이 이미 추가되었습니다.
+
+:name> common_set_security_biometric_summary
+:text> 설정 후 바로 생체 정보를 사용하여 신원을 인증할 수 있습니다.
+
+:name> common_app_intro_subtitle
+:text> 당신을 다시 알아가기
+
+:name> share_by_html
+:text> HTML로 공유하기
+
+:name> share_by_image
+:text> 긴 글 스크린샷 공유
+
+:name> export_by_html
+:text> HTML로 내보내기
+
+:name> export_by_image
+:text> 긴 글 스크린샷 내보내기
+
+:name> select_folder_move_to
+:text> 대상 폴더
+
+:name> login_title
+:text> 로그인
+
+:name> login_account_bind_tip
+:text> 계정은 멤버십 혜택을 연동하는 데만 사용됩니다.
+
+:name> login_bind_state
+:text> 계정 정보
+
+:name> login_unbind_success_message
+:text> 종료 성공!
+다시 로그인하여 혜택을 누리세요. 사용해 주셔서 감사합니다!
+
+:name> audio_store_folder
+:text> 오디오 노트
+
+:name> capture_web_folder
+:text> 웹 페이지 클리핑 노트
+
+:name> image_name_not_support
+:text> 이 형식의 이미지는 아직 지원되지 않습니다. 「설정-파일-이미지 확장자」에서 설정을 수정하여 지원하도록 할 수 있습니다.
+
+:name> image_pictures
+:text> 갤러리
+
+:name> premium_privilege_basic
+:text> 모든 기본 기능: Markdown, 음성 녹음, 다단계 디렉토리, 복습, 검색 등.
+
+:name> premium_privilege_themes
+:text> 개인화된 외관: %d+ 앱 테마, %d+ 편집기 테마, %d+ 코드 스타일, 사용자 정의 CSS, 사용자 정의 폰트 등
+
+:name> premium_privilege_image
+:text> 이미지 처리: 이미지 관리, 사진 촬영, 이미지 자르기, 필터 추가, 자유 변형 등
+
+:name> premium_privilege_export
+:text> 내보내기 및 공유: 노트를 PDF, 스크린샷, HTML 등으로 변환하여 공유하거나 내보내기
+
+:name> premium_privilege_appwidgets
+:text> 플랫폼 기능: 데스크톱 위젯 추가, 메모 바로가기 아이콘, 빠른 기록 등.
+
+:name> premium_privilege_sync
+:text> 클라우드 동기화: 다양한 클라우드 저장소 동기화 방식(WebDAV, Dropbox 및 OneDrive), 전체 디스크 동기화, 데이터 변경 사항은 즉시 클라우드 서버에 동기화됩니다.
+
+:name> premium_privilege_multi_data_sources
+:text> 여러 데이터 소스: 여러 개의 로컬 데이터 소스를 생성할 수 있으며, 여러 데이터 소스 간을 자유롭게 전환할 수 있습니다.
+
+:name> premium_privilege_image_upload
+:text> 노트 이미지 호스팅: 노트 편집 시 추가한 이미지가 자동으로 이미지 호스팅 서비스에 업로드되고, 노트 내에는 이미지 링크 형태로 삽입됩니다.
+
+:name> premium_privilege_webnote
+:text> 웹 페이지를 노트로 변환: 임의의 웹 페이지를 Markdown 형식으로 잘라내어 로컬에 저장하여, 어떤 온라인 기사든 쉽게 저장할 수 있습니다.
+
+:name> premium_privilege_encryption
+:text> 데이터 보안: 앱 잠금 및 노트의 엔드투엔드 암호화로 귀하의 데이터 보안을 종합적으로 보호합니다.
+
+:name> premium_privilege_ai
+:text> 작성 어시스턴트: AI 기반의 작문 보조 도구로, 작성 중인 콘텐츠 및 AI와의 상호작용을 지원합니다.
+
+:name> premium_privilege_future
+:text> 모든 향후 개발 기능에 대해 추가 요금이 부과되지 않습니다.
+
+:name> premium_payway_others
+:text> 기타 획득 방법
+
+:name> premium_payway_others_sub_title
+:text> 무료 체험 또는 교환 코드를 통해 멤버십을 얻을 수도 있습니다.
+
+:name> premium_contact_us_sub_title
+:text> 회원 관련하여 궁금한 사항이 있거나 도움이 필요하시면, 아래의 방법 중 하나로 문의해 주세요:
+
+:name> premium_payment_continue_content
+:text> 이미 결제를 완료하셨습니까? 주문 번호를 제출하기만 하면 결제 절차가 완료됩니다.
+
+:name> premium_payment_login_first_content
+:text> 당사의 멤버십 혜택은 계정에 바인딩됩니다. 다른 플랫폼에서도 멤버십 혜택을 이용하려면 계정에 로그인하여 멤버십 혜택을 바인딩하시기 바랍니다. 이 계정은 멤버십 혜택 바인딩 용도로만 사용됩니다.
+
+:name> premium_payment_trail_gift_content
+:text> 당신은 이 소프트웨어의 유료 기능을 무료로 체험할 수 있는 권한이 있습니다! \n
+이 체험은 사용자가 유료 기능을 경험해 볼 수 있도록 제공되며, 만료 시 자동으로 해지되어 어떤 비용도 발생하지 않습니다.
+
+:name> premium_account_state_not_logged_in_tip
+:text> 계정에 로그인하면 멤버십 혜택을 복구할 수 있습니다!
+
+:name> search_empty_tip
+:text> 다른 키워드를 사용하거나 검색 조건을 완화해 보시겠어요?
+
+:name> search_on_given_folder
+:text> 디렉토리 내에서 검색
+
+:name> compose_history_not_found
+:text> 기록 없음
+
+:name> note_links_outgoing_title
+:text> 참고 노트
+
+:name> note_links_incoming_title
+:text> 참조됨
+
+:name> note_links_empty_outgoing
+:text> 다른 노트를 참조하지 않음
+
+:name> note_links_empty_incoming
+:text> 현재 다른 노트에서의 참조가 없습니다.
+
+:name> compose_edit_option_name_H1
+:text> 헤더
+
+:name> compose_edit_option_name_H2
+:text> 헤더
+
+:name> compose_edit_option_name_H3
+:text> 헤더
+
+:name> compose_edit_option_name_H4
+:text> 헤더
+
+:name> compose_edit_option_name_H5
+:text> 헤더
+
+:name> compose_edit_option_name_H6
+:text> 헤더
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> 목록
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 숫자 목록
+
+:name> compose_edit_option_name_CHECKBOX
+:text> 확인란
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> 확인란을 선택했습니다.
+
+:name> compose_edit_option_name_QUOTE
+:text> 견적
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> 인라인 코드
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> 블록 코드
+
+:name> compose_edit_option_name_STRIKE
+:text> 공격
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> 리넨
+
+:name> compose_edit_option_name_ITALIC
+:text> 기울임체
+
+:name> compose_edit_option_name_BOLD
+:text> 굵게
+
+:name> compose_edit_option_name_MARK
+:text> 마크
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 수학
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> 하위 스크립트
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> 슈퍼 스크립트
+
+:name> compose_edit_option_name_IMAGE
+:text> 이미지
+
+:name> compose_edit_option_name_LINK
+:text> 링크
+
+:name> compose_edit_option_name_TABLE
+:text> 테이블
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 인용문
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> 플로차트
+
+:name> compose_setting_quick_note_folder
+:text> 빠른 메모
+
+:name> note_encrypt_key_summary
+:text> 키는 메모의 암호화 및 복호화에 사용됩니다.
+
+:name> note_encrypt_mnemonic
+:text> 기억법
+
+:name> note_encrypt_mnemonic_desc
+:text> 기억법은 암호화 키를 기억하는 데 도움을 줍니다. 키와 연관된 내용을 적어두어 기억을 돕습니다. 이 정보는 기기에 평문으로 저장됩니다.
+
+:name> note_encrypt_preview_summary
+:text> 활성화 후 암호화된 노트의 미리 보기 정보가 노트 목록에서 숨겨집니다.
+
+:name> note_encrypt_export_info
+:text> 암호화 복구 정보 내보내기
+
+:name> note_encrypt_export_no_key
+:text> 암호화 키를 내보내기 전에 구성해 주세요.
+
+:name> note_encrypt_export_succeed
+:text> 암호화 복구 정보 내보내기 성공! 내보낸 파일을 안전하게 보관해 주세요.
+
+:name> note_encrypt_export_failed
+:text> 내보내기 실패: %s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_암호화_복구_
+
+:name> note_encrypt_export_notice
+:text> <b>【중요 보안 안내】</b><br/>이 파일에는 귀하의 암호화된 암기 문구(마스터 키)와 키 검증 정보가 포함되어 있습니다.<br/>신중하게 보관하시고, 절대 타인에게 누설하거나 공용 네트워크에 업로드하지 마십시오.<br/><br/>비밀번호를 잊어버린 경우:<br/>1. 파일 내의 <b>암기 문구</b>를 사용하여 비밀번호를 떠올리십시오.<br/>2. 올바른 비밀번호를 입력하면 암호화된 모든 메모를 해독할 수 있습니다.
+
+:name> note_encrypt_export_info_summary
+:text> 암호를 기억하는 데 도움을 주기 위해 암기용 단어와 암호화 복구 정보를 파일로 내보내기. 상태: %s.
+
+:name> set_ai
+:text> AI 어시스턴트
+
+:name> set_theme_and_style
+:text> 외관
+
+:name> set_note_mathjax
+:text> Mathjax 활성화
+
+:name> set_note_title_sub
+:text> 활성화 후에는 메모 편집 페이지에서 제목 입력 상자를 사용할 수 있습니다. 그러나 제목 처리 방식이 큰 모호성을 유발하기 쉬우므로, 이 기능을 활성화하는 것을 강력히 권장하지 않습니다. 제목을 입력하려면 마크다운 제목 형식을 직접 사용하거나, 첫 번째 줄 텍스트를 제목으로 사용하는 것을 권장합니다.
+
+:name> set_note_snippet_summary
+:text> 노트 조각은 사용자 정의 문단으로, 재사용 가능하게 저장할 수 있으며 노트 템플릿으로 사용할 수 있습니다.
+
+:name> note_snippet_drag_to_reorder
+:text> 참고: 왼쪽의 가로선을 클릭하여 드래그하면 메모 조각을 정렬할 수 있습니다.
+
+:name> set_illegal_charset
+:text> 불법 문자
+
+:name> set_illegal_charset_sub
+:text> 파일 이름 구성 시 허용되지 않는 문자입니다. 앱은 사용자의 설정에 따라 자동으로 이를 대체합니다.
+
+:name> set_note_edit_directly_sub
+:text> 활성화 후 메모를 클릭하면 바로 편집 페이지로 이동합니다(보기 페이지가 아님).
+
+:name> set_note_auto_parsing_encoding
+:text> 활성화된 경우, 메모를 로드할 때 자동으로 메모의 인코딩 형식을 분석합니다.
+
+:name> set_note_hide_folders_sub
+:text> 숨기고 싶은 디렉토리를 선택하세요. 선택된 디렉토리는 디렉토리 목록에 표시되지 않습니다.
+
+:name> set_note_folders
+:text> 저장 위치
+
+:name> set_note_display_image_sub
+:text> 활성화 후에는 이미지가 노트 목록에 표시되며, 그렇지 않으면 표시되지 않습니다.
+
+:name> set_note_image_default_name
+:text> 이미지 디렉토리 이름
+
+:name> set_note_image_compress_sub
+:text> 활성화된 경우, 앱에 새로 추가된 이미지는 저장 전에 압축됩니다.
+
+:name> set_sync_universal
+:text> 설정
+
+:name> set_sync_enable
+:text> 동기화 사용
+
+:name> set_sync_enable_sub
+:text> 종료 후에는 전체 애플리케이션의 수동 동기화 로직이 종료됩니다.
+
+:name> set_note_image_compress_quality_sub
+:text> 이미지 압축 품질입니다. 값이 클수록 선명도가 높아지고 차지하는 공간도 커집니다. 현재 값: %d
+
+:name> set_sync_delay
+:text> 동기화 지연
+
+:name> set_sync_delay_sub
+:text> 일부 서버에서는 요청 빈도를 제한합니다. 이 설정은 각 요청 사이의 지연을 통해 요청 빈도를 낮춥니다. 현재: %dms.
+
+:name> set_sync_info
+:text> 상태
+
+:name> set_sync_last_info
+:text> 이슈 처리
+
+:name> set_sync_done_with_error
+:text> %d개의 문제가 주의가 필요합니다.
+
+:name> set_sync_clear_status
+:text> 동기화 캐시 지우기
+
+:name> set_sync_clear_status_summary
+:text> 동기화 캐시는 로컬 및 원격 파일의 상태를 기록하며, 캐시를 사용하면 동기화 속도를 높일 수 있습니다.
+
+:name> set_sync_clear_status_message
+:text> %d개의 동기화 캐시가 감지되었습니다. 모두 삭제하시겠습니까?
+이 작업으로 인해 다음 동기화 시간이 더 길어질 수 있습니다.
+
+:name> sync_unable_to_handle_locally_yip
+:text> 이 오류는 네트워크 문제로 인해 발생했을 수 있으며, 로컬에서 처리할 수 없습니다. 이 오류를 직접 제거하거나 다시 시도하여 문제를 해결할 수 있습니다.
+
+:name> sync_confirm_message
+:text> 동기화 작업은 백그라운드에서 실행되며, 정상적인 사용에 영향을 주지 않습니다.
+
+:name> set_report_no_conflict
+:text> 문제 없음
+
+:name> set_conflict_resolve
+:text> 동기화 문제
+
+:name> datasource_external_tip
+:text> 플랫폼 심사 규정에 따라 현재 버전은 외부 저장소의 읽기/쓰기 기능을 지원하지 않습니다. 자세한 정보는 도움말 문서를 참조하십시오.
+
+:name> set_import_flomo
+:text> Flomo에서 가져오기
+
+:name> import_flomo_title
+:text> Flomo에서 가져오기
+
+:name> note_setting_group_file_opt
+:text> 파일 작업
+
+:name> note_setting_group_sync
+:text> 클라우드 동기화
+
+:name> create_child_folder
+:text> 하위 디렉토리 생성
+
+:name> text_got_it
+:text> 알겠습니다
+
+:name> set_note_list_cell_style_card_summary
+:text> 홈페이지 노트 목록의 카드 스타일을 설정합니다. 현재: %s
+
+:name> set_note_list_show_folders_sub
+:text> 활성화 후에는 디렉토리도 노트 목록에 표시되며, 그렇지 않으면 표시되지 않습니다.
+
+:name> set_file_naming_summary
+:text> 파일 생성 시 파일명 지정 규칙, 현재: %s
+
+:name> set_file_extensions_group
+:text> 파일 확장명
+
+:name> set_file_extensions_group_summary
+:text> 파일 확장명 설정에 대한 설명: 당사 애플리케이션은 디스크 파일을 노트의 매체로 사용합니다. 따라서 이 애플리케이션은 단순한 노트 소프트웨어일 뿐만 아니라 거의 파일 관리 소프트웨어에 가깝습니다. 당사 소프트웨어는 파일의 확장명을 파일 유형 식별자로 사용합니다. 이 확장명은 해당 파일을 이미지, 텍스트 또는 노트로 처리할지를 결정합니다. 사용자는 이를 직접 맞춤 설정할 수 있으며, 사용자가 설정한 파일 확장명에 따라 소프트웨어가 해당 파일을 어떻게 처리할지가 결정됩니다.
+
+:name> text_explain
+:text> 설명
+
+:name> set_explain_sub
+:text> 기능 설명
+
+:name> set_note_image_default_name_sub
+:text> 노트에 추가된 이미지는 이 디렉토리에 저장됩니다. 현재: %s
+
+:name> note_snippet_option_title
+:text> 작업 선택
+
+:name> note_snippet_delete_confirm_message
+:text> 노트 조각을 삭제하면 복구할 수 없습니다. 삭제하시겠습니까?
+
+:name> set_note_auto_parsing_encoding_title
+:text> 인코딩 감지
+
+:name> set_group_basics
+:text> 기초
+
+:name> set_group_data
+:text> 데이터
+
+:name> set_group_others
+:text> 기타
+
+:name> common_set_security_applock_enable_sub
+:text> 활성화 후, 앱을 다시 열 때 신원 확인이 필요합니다.
+
+:name> common_set_security_security_questions_sub
+:text> 보안 질문은 비밀번호를 잊어버렸을 때 신원을 확인하는 데 사용됩니다.
+
+:name> set_encrypt_key_desc
+:text> 비밀번호를 설정하기 전에 다음 사항을 권장합니다:  \n\n
+1. 본 애플리케이션의 키 및 암호화 설계는 사용자가 자신의 데이터를 직접 관리한다는 전제 하에 이루어졌으며, 암호화된 정보와 메모는 스마트폰의 로컬 디스크에만 저장됩니다.  \n\n
+2. 귀하의 데이터 보안을 위해 키를 설정한 후에는 반드시 해당 키를 안전하게 보관해 주십시오. 키를 분실할 경우 데이터를 복구할 수 없습니다. 따라서 기억을 돕기 위해 임의의 텍스트로 구성된 암기 문구(Mnemonic)를 항상 설정해 두는 것을 권장합니다.  \n\n
+3. 애플리케이션을 제거할 경우 시스템에서 암호화된 정보를 포함한 모든 애플리케이션 데이터가 삭제되므로, 반드시 키를 백업해 두는 것이 좋습니다. 이에 따라 암호화된 정보를 내보내는 기능을 제공하고 있습니다. 이 기능을 통해 암호화된 정보(키는 포함되지 않음)를 내보낼 수 있습니다.  \n\n
+4. 키를 수정할 때마다 애플리케이션은 자동으로 기존 암호화 메모를 재암호화하므로, 키는 한 번만 설정하는 것을 권장합니다.  \n\n
+5. 신규 버전(5.3.0 이상)에서는 표준 키 파생 및 암호화 방식을 채택하여 보안성이 향상되었으므로, 이 버전으로 업그레이드하시기를 권장합니다.
+
+:name> folder_create_succeed
+:text> 디렉토리 "%s" 생성에 성공했습니다!
+
+:name> flomo_import_zip_require
+:text> 가져올 파일을 선택하세요!
+
+:name> flomo_import_target_require
+:text> 가져올 디렉토리를 지정해 주세요!
+
+:name> flomo_import_memo_empty
+:text> 가져올 수 있는 노트를 찾지 못했습니다. 선택한 파일에 노트가 포함되어 있는지 확인해 주세요!
+
+:name> flomo_import_succeed
+:text> 데이터 가져오기 완료!
+
+:name> flomo_import_failed
+:text> 데이터 가져오기 실패: 일부 노트 또는 이미지가 가져오기에 실패했을 수 있습니다!
+
+:name> image_save_success
+:text> 이미지가 "%s"에 저장되었습니다.
+
+:name> notes_empty_title
+:text> 노트를 찾을 수 없습니다
+
+:name> notes_empty_subtitle
+:text> 홈페이지 하단의 입력 상자에서 클릭하여 노트를 빠르게 생성해 보세요!
+
+:name> search_placeholder_desc
+:text> 원하는 키워드를 검색해 보세요. 「Leaf Note」의 강력한 검색 기능을 시험해 보세요!
+
+:name> search_placeholder_title
+:text> 검색 시작
+
+:name> search_empty_title
+:text> 일치하는 노트를 찾을 수 없습니다.
+
+:name> search_result_count_tip
+:text> 총 %d개의 일치 결과를 찾았습니다.
+
+:name> search_show_left_count_tip
+:text> 나머지 %d개 결과 표시
+
+:name> batch_delete_items_tip
+:text> %d개의 항목을 삭제하려고 합니다. 실행하시겠습니까?
+
+:name> batch_delete_succeed_tip
+:text> %d개의 항목이 삭제되었습니다!
+
+:name> premium_only
+:text> 프리미엄
+
+:name> note_setting_group_basic
+:text> 기초
+
+:name> compose_note_setting_links
+:text> 양방향 링크
+
+:name> copy_from
+:text> 복사 출처:
+
+:name> share_from
+:text> 공유자:
+
+:name> share_by_file
+:text> 파일로 공유하기
+
+:name> note_not_editable_tip
+:text> 이 노트는 편집할 수 없습니다!
+
+:name> set_list_settings
+:text> 목록 설정
+
+:name> set_all_settings
+:text> 모든 설정
+
+:name> list_bottom_slogan_1
+:text> 「Leaf Note」을 사용해 주셔서 감사합니다!
+
+:name> list_bottom_slogan_2
+:text> Leaf Note 대단합니다!
+
+:name> file_not_found_with
+:text> 파일이 존재하는지 확인하세요: %s
+
+:name> route_failed_with
+:text> 처리할 수 없음: %s
+
+:name> trash_box_empty_desc
+:text> 비우면 이 콘텐츠가 완전히 삭제됩니다. 정말 비우시겠습니까?
+
+:name> trash_empty_title
+:text> 휴지통이 비어 있습니다.
+
+:name> trash_empty_desc
+:text> 삭제된 파일은 휴지통으로 이동합니다.
+
+:name> snippet_list_empty_title
+:text> 노트 스니펫이 없습니다
+
+:name> snippet_list_empty_sub
+:text> 홈페이지 하단의 편집 창과 노트 스니펫 관리 페이지에서 모두 노트 스니펫을 생성할 수 있습니다.
+
+:name> folder_desc_title
+:text> 폴더 사용량
+
+:name> folder_desc_detail
+:text> 「폴더」 관리는 본 소프트웨어의 핵심 기능으로, 노트를 효율적으로 정리하고 관리할 수 있도록 도와줍니다.\n\n
+당사의 폴더는 로컬 파일 시스템을 기반으로 구현되며, 일반적인 파일 형식으로 저장되어 「데이터 소유권은 사용자에게 귀속된다」는 설계 철학을 실현합니다. 사용자는 자유롭게 다중 계층의 노트 폴더를 생성할 수 있습니다.\n\n
+폴더 목록에서 자주 사용하는 조작 방법:\n\n
+1. 왼쪽 화살표 클릭: 폴더 접기 또는 펼치기  \n
+2. 가장 오른쪽의 「더 보기」 클릭: 하위 폴더 추가, 삭제, 이름 변경 등 관리 작업 수행\n
+3. 중앙 영역 클릭: 해당 폴더를 선택하여 「작업 폴더」로 설정  \n\n
+👉 작업 폴더란 무엇인가요?\n\n
+홈 화면에 표시되는 노트 목록은 현재 작업 폴더에서 가져옵니다. 새 노트는 기본적으로 이곳에 저장되며, 음성 녹음, 웹페이지를 노트로 변환하는 등의 기능은 설정에서 기본 저장 폴더를 사용자 정의할 수 있습니다.\n\n
+사용 중 궁금한 점이나 개선 제안이 있으시면 언제든지 문의해 주세요!
+
+:name> login_account_help_tip
+:text> 어떤 도움이 필요하시면 %s로 연락해 주세요!
+
+:name> login_subtitle
+:text> 로그인을 통해 멤버십 혜택 복구
+
+:name> premium_dialog_free_trial_tip
+:text> 무료 체험판을 사용할 수 있습니다.
+
+:name> compose_history_not_found_sub
+:text> 노트의 역사 기록은 편집할 때 자동으로 여기에 저장됩니다.
+
+:name> empty_image_title
+:text> 이미지 없음
+
+:name> empty_image_subtitle
+:text> 로컬에 있는 모든 이미지가 여기에 표시됩니다. 이미지를 한 장 추가해 보세요!
+
+:name> set_report_no_conflict_sub
+:text> 축하합니다! 모든 파일이 서버로 성공적으로 동기화되었습니다!
+
+:name> note_set_double_edit_desc
+:text> 노트 페이지를 더블클릭하면 편집 모드로 진입할 수 있습니다!
+
+:name> set_sync_done_with_time
+:text> 마지막 동기화는 %s에 완료되었습니다.
+
+:name> set_sync_done_without_error
+:text> 마지막 동기화는 %s에 완료되었으며, 동기화 문제는 발견되지 않았습니다.
+
+:name> set_sync_not_yet
+:text> 동기화되지 않음
+
+:name> set_sync_strict
+:text> 엄격한 모드
+
+:name> set_sync_strict_sub
+:text> 엄격한 모드를 비활성화하면 동기화 문제 발생 확률이 크게 줄어듭니다. 「엄격한 모드」에 대한 자세한 설명은 당사 문서를 참조하십시오.
+
+:name> sync_network_not_connect
+:text> 데이터 동기화 불가: 네트워크에 연결되어 있지 않습니다!
+
+:name> sync_server_unavailable
+:text> 데이터 동기화 불가: 서버를 사용할 수 없습니다!
+
+:name> sync_network_type_unavailable
+:text> 데이터 동기화 불가: 네트워크 유형을 사용할 수 없습니다!
+
+:name> sync_confirm_title
+:text> 동기화를 시작하시겠습니까?
+
+:name> sync_fail_network_type_title
+:text> 네트워크 환경이 일치하지 않음
+
+:name> sync_fail_network_type_message
+:text> 현재 Wi-Fi 환경이 아닙니다. 데이터 동기화를 수행할 수 없습니다. 설정에서 이 설정을 변경하거나 동기화를 취소할 수 있습니다.
+
+:name> sync_fail_server_title
+:text> 동기화 서버를 사용할 수 없습니다.
+
+:name> sync_fail_server_message
+:text> 동기화 서버를 사용할 수 없습니다. 설정에서 서버 구성을 수정한 후 다시 시도하시기 바랍니다.
+
+:name> set_sync_notification_title
+:text> 동기화 작업 알림
+
+:name> set_sync_notification_message
+:text> 동기화 작업 알림을 활성화하여 작업 실행 상태를 더 잘 확인하세요.
+
+:name> sync_desc_title
+:text> 동기화 사용 설명
+
+:name> text_remove
+:text> 제거
+
+:name> sync_force_diff_sub
+:text> 로컬 및 원격 수정 사항 간의 차이를 비교하여 수정하고 문제를 해결합니다.
+
+:name> sync_force_upload_sub
+:text> 로컬 파일을 강제로 사용하여 원격 파일을 덮어씁니다. 로컬 파일이 최신 버전임을 확인해야 하며, 그렇지 않으면 원격 편집 기록이 손실될 수 있습니다.
+
+:name> sync_force_download_sub
+:text> 원격 파일을 강제로 사용하여 로컬 파일을 덮어씁니다. 원격 파일이 최신 버전임을 반드시 확인해야 하며, 그렇지 않으면 로컬에서 편집한 기록이 손실될 수 있습니다.
+
+:name> sync_force_remove_sub
+:text> 오류 목록에서 이 오류를 바로 제거합니다.
+
+:name> sync_force_remove_tip
+:text> 해당 동기화 문제를 직접 제거하시겠습니까?
+
+:name> sync_export_log
+:text> 동기화 로그 내보내기
+
+:name> sync_log_empty_tip
+:text> 동기화 로그를 찾을 수 없습니다.
+
+:name> sync_fail_fix_strict_tip
+:text> 동기화 문제 너무 많음. "%s"을(를) 비활성화해 보시겠습니까?
+
+:name> sync_fail_options
+:text> 작업 선택
+
+:name> export_image_slogan_1
+:text> 당신의 개인 지식 저장소!
+
+:name> export_image_slogan_2
+:text> 당신의 두 번째 뇌, 휴대폰에서 자라기 시작합니다
+
+:name> export_image_slogan_3
+:text> 주머니 속의 마크다운. 기본적으로 암호화됨.
+
+:name> export_image_slogan_4
+:text> 단순한 메모가 아니라 — 조용히 동기화되는 사고 시스템.
+
+:name> review_read_continue
+:text> 계속 읽기 클릭
+
+:name> note_review_intro
+:text> 안녕하세요! 「리뷰」 기능에 오신 것을 환영합니다!\n\n
+여러분은 매일의 기록을 하나하나 노트에 적어내는 경우가 많으신가요? 하지만 대부분의 노트는 저장 버튼을 누르는 순간, 그 이야기가 끝나버립니다. 시간이 지나면서 당시 생생했던 아이디어는 점점 흐릿해지고, 정성스럽게 작성한 내용은 수많은 노트 속에 묻혀 사라지게 됩니다. 이렇게 기록은 되돌아보며 성찰하고 축적하는 의미를 잃어버리게 됩니다.\n\n
+「리뷰」 기능은 이러한 상황을 타개하기 위해 설계되었습니다. 이 기능은 여러분이 과거 일정 기간 동안 작성한 노트를 다시 추천해 주며, 다시 읽고 성찰할 수 있도록 초대합니다.\n\n
+바쁜 일상 속에서 우리가 과거에 빛났던 아이디어들을 다시 발견해 보세요.\n\n
+출발하세요~
+
+:name> note_review_intro_title
+:text> 「리뷰」 기능 알아보기
+
+:name> review_empty_title
+:text> 되돌아볼 수 있는 메모가 없습니다.
+
+:name> review_empty_subtitle
+:text> 홈페이지 하단의 입력 상자에서 클릭하여 몇 가지 메모를 만들어 보세요~
+
+:name> share_by_short_image
+:text> 짧은 글 스크린샷 공유
+
+:name> export_by_short_image
+:text> 짧은 글 스크린샷 내보내기
+
+:name> export_by_file
+:text> 파일로 내보내기
+
+:name> premium_review_subtitle
+:text> 출시 6년, 우리 애플리케이션은 사용자들로부터 광범위한 호평을 받았습니다.
+
+:name> premium_privilege_devices
+:text> 멀티디바이스: 한 번 결제하면 Android, 태블릿, iPhone, iPad 등 4개 플랫폼에서 멤버십 혜택을 이용할 수 있습니다.
+
+:name> premium_payway_switch_tip
+:text> 결제 방식: %s
+
+:name> premium_payment_trail_gift_title
+:text> 무료 체험판 이용 가능
+
+:name> premium_usage_desc
+:text> 약관
+
+:name> process_text_empty
+:text> 처리 대기 중인 텍스트가 비어 있습니다!
+
+:name> process_text_saving
+:text> 저장 중입니다. 잠시만 기다려 주세요
+…
+
+:name> process_text_saved
+:text> 리프 노트 · 텍스트가 %s에 저장되었습니다!
+
+:name> process_text_dlg_title
+:text> 노트 편집
+
+:name> process_text_dlg_hint
+:text> 텍스트를 편집한 후 저장하면 됩니다.
+
+:name> text_less
+:text> 적게
+
+:name> text_more
+:text> 더 보기
+
+:name> text_not_exported
+:text> 미내보내기
+
+:name> logout_confirm_title
+:text> 로그아웃하시겠습니까?
+
+:name> logout_confirm_message
+:text> 로그아웃 후에는 멤버십 혜택을 사용하려면 다시 로그인해야 합니다. 정말 로그아웃하시겠습니까?
+

@@ -1,0 +1,740 @@
+:name> register
+:text> 註冊
+
+:name> bind
+:text> 登入
+
+:name> binding
+:text> 正在登入
+…
+
+:name> unbind
+:text> 登出
+
+:name> data_statistics
+:text> 統計
+
+:name> please_select_items
+:text> 請選擇要處理嘅筆記！
+
+:name> common_set_security_security_questions_added
+:text> 已加入保安問題
+
+:name> common_set_security_biometric_summary
+:text> 設定後可直接使用生物特徵進行身份核證。
+
+:name> common_app_intro_subtitle
+:text> 重新認識你
+
+:name> share_by_html
+:text> 分享為 HTML
+
+:name> share_by_image
+:text> 分享長文截圖
+
+:name> export_by_html
+:text> 匯出為 HTML
+
+:name> export_by_image
+:text> 導出長文截圖
+
+:name> select_folder_move_to
+:text> 目標資料夾
+
+:name> login_title
+:text> 登入
+
+:name> login_account_bind_tip
+:text> 帳號僅用於綁定會員權益
+
+:name> login_bind_state
+:text> 帳戶資訊
+
+:name> login_unbind_success_message
+:text> 成功登出！\n你可以再次登入以享用你的權益。多謝使用！
+
+:name> audio_store_folder
+:text> 音頻筆記
+
+:name> capture_web_folder
+:text> 網頁剪輯筆記
+
+:name> image_name_not_support
+:text> 呢種格式嘅圖片暫時未支援：你可以喺「設定-檔案-圖片副檔名」入面修改設定嚟支援。
+
+:name> image_pictures
+:text> 圖庫
+
+:name> premium_privilege_basic
+:text> 所有基本功能：Markdown、錄音、多級目錄、回顧、搜尋等。
+
+:name> premium_privilege_themes
+:text> 個性化外觀：%d+ 應用程式主題、%d+ 編輯器主題、%d+ 程式碼樣式、自訂 CSS、自訂字體等
+
+:name> premium_privilege_image
+:text> 圖像處理：圖片管理、拍照、圖片裁剪、添加濾鏡、自由變換等
+
+:name> premium_privilege_export
+:text> 匯出同分享：將筆記轉換為 PDF、截圖、HTML 等格式並分享或匯出
+
+:name> premium_privilege_appwidgets
+:text> 平台特性：加入桌面小工具、筆記快捷圖示及快速記錄等功能。
+
+:name> premium_privilege_sync
+:text> 雲同步：多種雲盤同步方式（WebDAV、DropBox 及 OneDrive），全盤同步，數據更改即時同步至雲伺服器。
+
+:name> premium_privilege_multi_data_sources
+:text> 多數據源：容許建立多個本地數據源，並可於不同數據源之間自由切換。
+
+:name> premium_privilege_image_upload
+:text> 筆記圖床：編輯筆記時加入的圖片會自動上傳至圖床，並以圖片連結形式插入筆記中。
+
+:name> premium_privilege_webnote
+:text> 網頁轉筆記：將任何網頁剪輯為 Markdown 並儲存至本地，方便你收藏任何網絡文章。
+
+:name> premium_privilege_encryption
+:text> 數據安全：應用程式鎖及筆記端對端加密，全方位保障你的數據安全。
+
+:name> premium_privilege_ai
+:text> 寫作助手：基於 AI 的寫作助理，針對寫作內容及與 AI 交流。
+
+:name> premium_privilege_future
+:text> 所有未來開發的功能，毋須再次付費。
+
+:name> premium_payway_others
+:text> 其他獲取方式
+
+:name> premium_payway_others_sub_title
+:text> 你亦可以透過免費試用或兌換碼獲取會員資格。
+
+:name> premium_contact_us_sub_title
+:text> 如果你對會員有任何疑問，或者需要任何協助，請透過以下任何一種方式聯絡我們：
+
+:name> premium_payment_continue_content
+:text> 已經完成付款？提交訂單流水號即可完成支付流程。
+
+:name> premium_payment_login_first_content
+:text> 我哋嘅會員權益係同帳號綁定嘅。為咗喺其他平台享受會員權益，我哋建議你登入帳號嚟綁定會員權益。呢個帳號只用嚟綁定會員權益。
+
+:name> premium_payment_trail_gift_content
+:text> 你有免費試用本軟件付費功能的權益！\n該試用旨在讓用戶體驗付費功能，到期自動取消，不會產生任何費用。
+
+:name> premium_account_state_not_logged_in_tip
+:text> 可透過登入帳戶恢復會員權益！
+
+:name> search_empty_tip
+:text> 換個關鍵詞或者放寬搜尋條件試下？
+
+:name> search_on_given_folder
+:text> 在目錄內搜尋
+
+:name> compose_history_not_found
+:text> 無歷史記錄
+
+:name> note_links_outgoing_title
+:text> 引用筆記
+
+:name> note_links_incoming_title
+:text> 被引用
+
+:name> note_links_empty_outgoing
+:text> 未有引用其他筆記
+
+:name> note_links_empty_incoming
+:text> 暫時無其他筆記引用
+
+:name> compose_edit_option_name_H1
+:text> 標題
+
+:name> compose_edit_option_name_H2
+:text> 標題
+
+:name> compose_edit_option_name_H3
+:text> 標題
+
+:name> compose_edit_option_name_H4
+:text> 標題
+
+:name> compose_edit_option_name_H5
+:text> 標題
+
+:name> compose_edit_option_name_H6
+:text> 標題
+
+:name> compose_edit_option_name_NORMAL_LIST
+:text> 列表
+
+:name> compose_edit_option_name_NUMBER_LIST
+:text> 數字列表
+
+:name> compose_edit_option_name_CHECKBOX
+:text> 複選框
+
+:name> compose_edit_option_name_CHECKBOX_FILLED
+:text> 選取框
+
+:name> compose_edit_option_name_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_CODE_INLINE
+:text> 內聯代碼
+
+:name> compose_edit_option_name_CODE_BLOCK
+:text> 區塊代碼
+
+:name> compose_edit_option_name_STRIKE
+:text> 橫劃
+
+:name> compose_edit_option_name_HORIZONTAL_LINE
+:text> 橫線
+
+:name> compose_edit_option_name_ITALIC
+:text> 傾斜
+
+:name> compose_edit_option_name_BOLD
+:text> 加粗
+
+:name> compose_edit_option_name_MARK
+:text> 標記
+
+:name> compose_edit_option_name_MATH_JAX
+:text> 數學公式
+
+:name> compose_edit_option_name_SUB_SCRIPT
+:text> 下角標
+
+:name> compose_edit_option_name_SUPER_SCRIPT
+:text> 上角標
+
+:name> compose_edit_option_name_IMAGE
+:text> 圖片
+
+:name> compose_edit_option_name_LINK
+:text> 連結
+
+:name> compose_edit_option_name_TABLE
+:text> 表格
+
+:name> compose_edit_option_name_FORMAT_ID_QUOTE
+:text> 引用
+
+:name> compose_edit_option_name_FORMAT_ID_MERMAID
+:text> 流程圖
+
+:name> compose_setting_quick_note_folder
+:text> 快速筆記
+
+:name> note_encrypt_key_summary
+:text> 密鑰用於加密及解密筆記
+
+:name> note_encrypt_mnemonic
+:text> 助記詞
+
+:name> note_encrypt_mnemonic_desc
+:text> 助記詞用於幫助您記住加密密鑰。您可以記錄與密鑰相關的提示資訊以便回憶。助記詞將以明文形式儲存在裝置上。
+
+:name> note_encrypt_preview_summary
+:text> 啟用後將於筆記列表中隱藏加密筆記的預覽資訊。
+
+:name> note_encrypt_export_info
+:text> 匯出加密復原資訊
+
+:name> note_encrypt_export_no_key
+:text> 請於匯出前設定加密密鑰。
+
+:name> note_encrypt_export_succeed
+:text> 加密恢復資訊已成功匯出！請妥善保存已匯出的檔案。
+
+:name> note_encrypt_export_failed
+:text> 匯出失敗：%s
+
+:name> note_encrypt_export_file_name_prefix
+:text> LeafNote_加密_復原_
+
+:name> note_encrypt_export_notice
+:text> <b>【重要安全提示】</b><br/>本檔案包含您的加密助記詞及密鑰驗證資訊。<br/>請妥善保管，切勿外洩或上載至任何公共網絡。<br/><br/>如果您遺忘密碼：<br/>1. 請使用檔案內的<b>助記詞</b>協助回憶。<br/>2. 正確的密碼可解密您所有已加密的筆記。
+
+:name> note_encrypt_export_info_summary
+:text> 將助記詞及加密恢復資訊匯出至檔案，協助你記起密碼。狀態：%s。
+
+:name> set_ai
+:text> AI 助理
+
+:name> set_theme_and_style
+:text> 外觀
+
+:name> set_note_mathjax
+:text> 啟用 Mathjax
+
+:name> set_note_title_sub
+:text> 啟用後可在筆記編輯頁面啟用標題輸入框。但強烈不建議啟用，因為標題的處理容易引起很大的歧義。如果想要輸入標題，建議直接使用 Markdown 標題格式，或將第一行文字作為標題。
+
+:name> set_note_snippet_summary
+:text> 筆記片段是自訂文字段落，能夠儲存及重用，可用作筆記範本。
+
+:name> note_snippet_drag_to_reorder
+:text> 提示：按住左側的橫線並拖曳可對筆記片段進行排序。
+
+:name> set_illegal_charset
+:text> 非法字元
+
+:name> set_illegal_charset_sub
+:text> 設定命名檔案時的非法字元，應用程式會根據你的設定自動將其取代。
+
+:name> set_note_edit_directly_sub
+:text> 啟用後，點擊筆記時將直接進入編輯頁面（而非展示頁面）。
+
+:name> set_note_auto_parsing_encoding
+:text> 如已啟用，載入筆記時會自動分析筆記的編碼格式。
+
+:name> set_note_hide_folders_sub
+:text> 選擇你想隱藏的目錄，被選中的目錄將不會出現在目錄列表中。
+
+:name> set_note_folders
+:text> 儲存位置
+
+:name> set_note_display_image_sub
+:text> 啟用後，圖片會顯示於筆記列表中，否則不會顯示。
+
+:name> set_note_image_default_name
+:text> 圖片目錄名稱
+
+:name> set_note_image_compress_sub
+:text> 如已啟用，新加入應用程式的圖片將會先被壓縮，然後才儲存。
+
+:name> set_sync_universal
+:text> 設定
+
+:name> set_sync_enable
+:text> 啟用同步
+
+:name> set_sync_enable_sub
+:text> 關閉後將會關閉整個應用程式中的被動同步邏輯。
+
+:name> set_note_image_compress_quality_sub
+:text> 圖片壓縮的質素。數值越大，清晰度越高，佔用空間越大。目前數值為：%d
+
+:name> set_sync_interval
+:text> 同步間隔
+
+:name> set_sync_delay
+:text> 同步延遲
+
+:name> set_sync_delay_sub
+:text> 部分伺服器會限制請求的頻率。此設定透過每次請求的延遲來降低請求頻率。現時：%d毫秒。
+
+:name> set_sync_info
+:text> 狀態
+
+:name> set_sync_last_info
+:text> 處理問題
+
+:name> set_sync_done_with_error
+:text> 有 %d 個問題需要關注。
+
+:name> set_sync_clear_status
+:text> 清除同步快取
+
+:name> set_sync_clear_status_summary
+:text> 同步快取記錄了本地同遠端檔案嘅狀態，快取可以加快同步速度。
+
+:name> set_sync_clear_status_message
+:text> 檢測到 %d 條同步緩存，確定全部清空嗎？\n這可能會令下次同步時間變長。
+
+:name> sync_unable_to_handle_locally_yip
+:text> 此錯誤可能由網絡問題引起，無法於本地處理。你可以直接移除此錯誤，或重試以解決此問題。
+
+:name> sync_confirm_message
+:text> 同步任務於後台執行，不會影響你正常使用。
+
+:name> set_export_import_done_with_error
+:text> 資料導入
+完成，%d 檔案需要手動處理
+
+:name> set_report_no_conflict
+:text> 未發現問題
+
+:name> set_conflict_resolve
+:text> 同步問題
+
+:name> datasource_external_tip
+:text> 根據平台審核規定，目前版本不支援外部儲存裝置的讀取及寫入功能。你可以閱讀說明文件以了解更多信息。
+
+:name> set_import_flomo
+:text> 從 Flomo 匯入
+
+:name> import_flomo_title
+:text> 從 Flomo 匯入
+
+:name> note_setting_group_file_opt
+:text> 檔案操作
+
+:name> note_setting_group_sync
+:text> 雲端同步
+
+:name> create_child_folder
+:text> 建立子目錄
+
+:name> text_got_it
+:text> 知喇
+
+:name> set_note_list_cell_style_card_summary
+:text> 設定首頁筆記列表的卡片樣式，目前：%s
+
+:name> set_note_list_show_folders_sub
+:text> 啟用後，目錄亦會顯示於筆記列表中，否則不會顯示。
+
+:name> set_file_naming_summary
+:text> 建立檔案時的檔案名稱命名規則，目前：%s
+
+:name> set_file_extensions_group
+:text> 檔案副檔名
+
+:name> set_file_extensions_group_summary
+:text> 檔案副檔名設定說明：本應用程式以磁碟檔案作為筆記載體。因此，它不僅是一款筆記軟體，同時亦近乎一款檔案管理軟體。本軟體以檔案的副檔名作為檔案類型的識別標誌。這將決定一個檔案是被當作圖片、文字還是筆記來處理。你可以對此進行自訂；同時，你對檔案的設定將決定軟體如何處理這些檔案。
+
+:name> text_explain
+:text> 說明
+
+:name> set_explain_sub
+:text> 功能說明
+
+:name> set_note_image_default_name_sub
+:text> 加入筆記的圖片將會儲存至該目錄。目前：%s
+
+:name> note_snippet_option_title
+:text> 選擇操作
+
+:name> note_snippet_delete_confirm_message
+:text> 刪除筆記片段後無法復原，確定要刪除嗎？
+
+:name> set_note_auto_parsing_encoding_title
+:text> 偵測編碼
+
+:name> set_group_basics
+:text> 基礎
+
+:name> set_group_data
+:text> 數據
+
+:name> set_group_others
+:text> 其他
+
+:name> common_set_security_applock_enable_sub
+:text> 啟用後，重新開啟應用程式時需要進行身份核實。
+
+:name> common_set_security_security_questions_sub
+:text> 密保問題可在忘記密碼時核實身份。
+
+:name> set_encrypt_key_desc
+:text> 在你設定密碼之前，我們建議你：  \n\n
+1. 本應用程式的密鑰及加密設計，是基於用戶自行管理數據的前提，加密資訊及筆記只儲存於手機本地磁碟。  \n\n
+2. 為保障你的數據安全，設定密鑰後，請妥善保管自己的密鑰；如密鑰遺失，數據將無法恢復。我們建議你務必設定一個助記詞，你可以輸入任何文字，只要有助你記起密鑰即可。  \n\n
+3. 卸載應用程式時，系統會刪除該應用的所有資訊（包括加密資訊），因此我們建議你務必備份好自己的密鑰。為此，我們提供加密資訊匯出功能，你可透過此功能匯出加密資訊（不包含密鑰）。  \n\n
+4. 每次修改密鑰後，應用程式會自動對先前的加密筆記重新加密，因此我們建議你只設定一次密鑰。  \n\n
+5. 新版本（5.3.0 或以上）採用標準的密鑰派生及加密方案，安全性更高，我們推薦你升級至該版本。
+
+:name> folder_create_succeed
+:text> 成功建立目錄「%s」！
+
+:name> flomo_import_zip_require
+:text> 請選擇要匯入的檔案！
+
+:name> flomo_import_target_require
+:text> 請指定一個匯入目錄！
+
+:name> flomo_import_memo_empty
+:text> 未發現可匯入筆記，請檢查所選檔案是否包含筆記！
+
+:name> flomo_import_succeed
+:text> 數據匯入完成！
+
+:name> flomo_import_failed
+:text> 數據匯入失敗：可能有部分筆記或圖片匯入失敗！
+
+:name> image_save_success
+:text> 圖片已經儲存到「%s」
+
+:name> notes_empty_title
+:text> 未找到筆記
+
+:name> notes_empty_subtitle
+:text> 試下點擊首頁底部嘅輸入框，快速建立一條筆記啦！
+
+:name> search_placeholder_desc
+:text> 搜尋你想找的關鍵字，試試「言葉」強大的搜尋功能！
+
+:name> search_placeholder_title
+:text> 開始搜尋
+
+:name> search_empty_title
+:text> 未找到匹配的筆記
+
+:name> search_result_count_tip
+:text> 共找到 %d 個匹配結果
+
+:name> search_show_left_count_tip
+:text> 顯示其餘 %d 個結果
+
+:name> batch_delete_items_tip
+:text> 準備刪除 %d 個項目，確定執行？
+
+:name> batch_delete_succeed_tip
+:text> %d 個項目已被刪除！
+
+:name> premium_only
+:text> 僅限高級版
+
+:name> note_setting_group_basic
+:text> 基礎
+
+:name> compose_note_setting_links
+:text> 雙向連結
+
+:name> copy_from
+:text> 複製自：
+
+:name> share_from
+:text> 分享自：
+
+:name> share_by_file
+:text> 分享為檔案
+
+:name> note_not_editable_tip
+:text> 呢份筆記不可編輯！
+
+:name> set_list_settings
+:text> 列表設定
+
+:name> set_all_settings
+:text> 全部設定
+
+:name> list_bottom_slogan_1
+:text> 歡迎使用「言葉」！
+
+:name> list_bottom_slogan_2
+:text> 「言葉」好酷！
+
+:name> file_not_found_with
+:text> 請檢查檔案是否存在：%s
+
+:name> route_failed_with
+:text> 無法處理：%s
+
+:name> trash_box_empty_desc
+:text> 清空後，這些內容將會被徹底刪除，確定清空嗎？
+
+:name> trash_empty_title
+:text> 垃圾桶為空
+
+:name> trash_empty_desc
+:text> 已刪除嘅檔案將會被放入垃圾箱
+
+:name> snippet_list_empty_title
+:text> 無筆記碎片
+
+:name> snippet_list_empty_sub
+:text> 你可以在首頁底部的編輯框及筆記碎片管理頁面建立筆記碎片。
+
+:name> folder_desc_title
+:text> 目錄使用說明
+
+:name> folder_desc_detail
+:text> 「資料夾」管理係本軟件嘅核心功能，可以幫你高效咁組織同管理筆記。\n\n
+我哋嘅資料夾建基於本地檔案系統實現，採用通用檔案格式儲存，貫徹「數據主權歸用戶所有」嘅設計原則。你可以自由創建多層級嘅筆記資料夾。\n\n
+資料夾列表嘅常用操作：\n\n
+1. 點擊左側箭頭：收疊或展開資料夾；\n
+2. 點擊最右側「更多」：進行添加子資料夾、刪除、重新命名等管理操作；\n
+3. 點擊中間區域：選中並設定為「工作資料夾」。\n\n
+👉 乜嘢係工作資料夾？\n\n
+首頁展示嘅筆記列表就嚟自而家嘅工作資料夾。新建筆記會預設儲存喺呢度；錄音、網頁轉筆記等功能，支援喺設定入面自訂預設儲存資料夾。\n\n
+如果你喺使用過程中有任何疑問或者建議，可以聯絡我哋！
+
+:name> login_account_help_tip
+:text> 如果你需要任何協助，請透過 %s 聯絡我們！
+
+:name> login_subtitle
+:text> 透過登入恢復會員權益
+
+:name> premium_dialog_free_trial_tip
+:text> 可以免費使用，無需訂閱，到期自動取消
+
+:name> compose_history_not_found_sub
+:text> 筆記的歷史記錄會喺你編輯時自動儲存到呢度
+
+:name> empty_image_title
+:text> 沒有圖片
+
+:name> empty_image_subtitle
+:text> 本地所有圖片會顯示在此，試試添加一張圖片吧！
+
+:name> set_report_no_conflict_sub
+:text> 恭喜，你嘅所有檔案已經成功同步到伺服器！
+
+:name> note_set_double_edit_desc
+:text> 雙擊筆記頁面亦可進入編輯模式呀！
+
+:name> set_sync_done_with_time
+:text> 上次同步於 %s 完成。
+
+:name> set_sync_done_without_error
+:text> 上次同步於 %s 完成，未發現同步問題。
+
+:name> set_sync_not_yet
+:text> 尚未同步過
+
+:name> set_sync_strict
+:text> 嚴格模式
+
+:name> set_sync_strict_sub
+:text> 關閉嚴格模式可大幅降低出現同步問題的機會。關於「嚴格模式」的詳細說明，請參閱我們的文件。
+
+:name> sync_network_not_connect
+:text> 無法同步數據：網絡未連接！
+
+:name> sync_server_unavailable
+:text> 無法同步數據：伺服器不可用！
+
+:name> sync_network_type_unavailable
+:text> 無法同步數據：網絡類型不可用！
+
+:name> sync_confirm_title
+:text> 開始同步？
+
+:name> sync_fail_network_type_title
+:text> 網絡環境不匹配
+
+:name> sync_fail_network_type_message
+:text> 目前並非 Wi-Fi 環境，無法同步資料。你可在設定中修改此設定，或取消同步。
+
+:name> sync_fail_server_title
+:text> 同步伺服器不可用
+
+:name> sync_fail_server_message
+:text> 同步伺服器無法使用，建議到設定中修改伺服器配置，然後再次嘗試。
+
+:name> set_sync_notification_title
+:text> 同步任務通知
+
+:name> set_sync_notification_message
+:text> 啟用同步任務通知，更佳地獲取任務的執行狀態。
+
+:name> sync_desc_title
+:text> 同步的使用說明
+
+:name> text_remove
+:text> 移除
+
+:name> sync_force_diff_sub
+:text> 透過比較，發現本地及遠端修改的差異，然後作出修改並解決問題。
+
+:name> sync_force_upload_sub
+:text> 強制使用本地檔案覆蓋遠端檔案，需要確保本地檔案是更新的版本，否則可能導致遠端的編輯記錄遺失。
+
+:name> sync_force_download_sub
+:text> 強制使用遠端檔案覆蓋本地檔案，須確保遠端檔案為最新版本，否則可能導致本地編輯記錄遺失。
+
+:name> sync_force_remove_sub
+:text> 直接將該錯誤從錯誤列表中移除。
+
+:name> sync_force_remove_tip
+:text> 確定直接移除該同步問題嗎？
+
+:name> sync_export_log
+:text> 匯出同步日誌
+
+:name> sync_log_empty_tip
+:text> 未發現同步日誌。
+
+:name> sync_fail_fix_strict_tip
+:text> 同步問題太多，關閉「%s」試下？
+
+:name> sync_fail_options
+:text> 選擇操作
+
+:name> export_image_slogan_1
+:text> 你嘅私人知識庫！
+
+:name> export_image_slogan_2
+:text> 你嘅第二個大腦，由手機開始生長
+
+:name> export_image_slogan_3
+:text> Markdown 在你口袋中。天生加密。
+
+:name> export_image_slogan_4
+:text> 唔止係筆記——而係一套思考系統，靜默同步。
+
+:name> review_read_continue
+:text> 按此繼續閱讀
+
+:name> note_review_intro
+:text> 嗨，你好，歡迎來到「回顧」功能！\n\n
+你是否常常把日常記錄一一寫進筆記？但絕大多數筆記，在按下儲存的那一刻，就畫上了句號。隨著時間推移，當時鮮活的想法慢慢模糊，辛苦寫下的內容被淹沒在筆記之中。記錄失去了復盤與沉澱的意義。\n\n
+「回顧」功能為打破這個困境而設計。它會將你過去一段時間創建的筆記重新推送出來，邀請你再次閱讀和復盤。\n\n
+讓我們在忙碌的日子裡發現那些曾經的熠熠閃光的想法。\n\n
+出發吧～
+
+:name> note_review_intro_title
+:text> 了解「回顧」功能
+
+:name> review_empty_title
+:text> 沒有可回顧的筆記
+
+:name> review_empty_subtitle
+:text> 按一下首頁底部嘅輸入框，建立一啲筆記再試下啦～
+
+:name> share_by_short_image
+:text> 分享短文截圖
+
+:name> export_by_short_image
+:text> 導出短文截圖
+
+:name> export_by_file
+:text> 匯出為檔案
+
+:name> premium_review_subtitle
+:text> 上線 6 年，我哋嘅應用程式獲得用戶廣泛嘅好評
+
+:name> premium_privilege_devices
+:text> 多裝置：付費一次，即可於 Android、平板電腦、iPhone 及 iPad 四個平台享用會員權益。
+
+:name> premium_payway_switch_tip
+:text> 結算方式：%s
+
+:name> premium_payment_trail_gift_title
+:text> 免費試用可使用
+
+:name> premium_usage_desc
+:text> 條款
+
+:name> process_text_empty
+:text> 待處理的文本為空！
+
+:name> process_text_saving
+:text> 正在儲存，請稍候
+…
+
+:name> process_text_saved
+:text> 言葉 · 文本已儲存至：%s！
+
+:name> process_text_dlg_title
+:text> 編輯筆記
+
+:name> process_text_dlg_hint
+:text> 編輯文本然後儲存即可。
+
+:name> text_less
+:text> 少
+
+:name> text_more
+:text> 更多
+
+:name> text_not_exported
+:text> 未匯出
+
+:name> logout_confirm_title
+:text> 確定退出登入？
+
+:name> logout_confirm_message
+:text> 登出後，你需要重新登入先可以使用會員權益。確定退出登入嗎？
+
