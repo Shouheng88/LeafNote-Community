@@ -1122,4 +1122,8 @@ C’est parti !</string>
     <string name="text_not_exported">Non exporté</string>
     <string name="logout_confirm_title">Confirmer la déconnexion ?</string>
     <string name="logout_confirm_message">Après vous être déconnecté, vous devrez vous reconnecter pour bénéficier des avantages de votre abonnement. Êtes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="baidu_auth_title">Autorisation Baidu Wangpan</string>
+    <string name="baidu_pan_name">Baidu Wangpan</string>
+    <string name="baidu_token_success">Autorisation du disque réseau Baidu réussie !</string>
+    <string name="baidu_token_failed">Échec de l’autorisation du disque réseau Baidu : %s !</string>
 </resources>

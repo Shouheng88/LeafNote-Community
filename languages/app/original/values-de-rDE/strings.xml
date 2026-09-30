@@ -1119,4 +1119,8 @@ Los geht’s!</string>
     <string name="text_not_exported">Nicht exportiert</string>
     <string name="logout_confirm_title">Möchten Sie sich wirklich abmelden?</string>
     <string name="logout_confirm_message">Nach dem Abmelden müssen Sie sich erneut anmelden, um Ihre Mitgliedsleistungen nutzen zu können. Möchten Sie sich wirklich abmelden?</string>
+    <string name="baidu_auth_title">Baidu-Netzlaufwerk-Autorisierung</string>
+    <string name="baidu_pan_name">Baidu Cloud</string>
+    <string name="baidu_token_success">Baidu Cloud-Speicher-Autorisierung erfolgreich!</string>
+    <string name="baidu_token_failed">Autorisierung von Baidu Netdisk fehlgeschlagen: %s!</string>
 </resources>

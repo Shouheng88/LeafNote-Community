@@ -1128,4 +1128,8 @@ Partiamo!</string>
     <string name="text_not_exported">Non esportato</string>
     <string name="logout_confirm_title">Confermare l\'uscita dal login?</string>
     <string name="logout_confirm_message">Dopo aver effettuato il logout, dovrai accedere nuovamente per utilizzare i vantaggi dell\'abbonamento. Sei sicuro di voler effettuare il logout?</string>
+    <string name="baidu_auth_title">Autorizzazione Baidu Wangpan</string>
+    <string name="baidu_pan_name">Baidu Wangpan</string>
+    <string name="baidu_token_success">Autorizzazione di Baidu Wangpan riuscita!</string>
+    <string name="baidu_token_failed">Autorizzazione di Baidu Wangpan non riuscita: %s!</string>
 </resources>

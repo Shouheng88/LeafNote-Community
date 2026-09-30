@@ -1127,4 +1127,8 @@ Vamos lá!</string>
     <string name="text_not_exported">Não exportado</string>
     <string name="logout_confirm_title">Tem certeza de que deseja sair da sessão?</string>
     <string name="logout_confirm_message">Após sair, você precisará fazer login novamente para usar os benefícios de membro. Tem certeza de que deseja sair?</string>
+    <string name="baidu_auth_title">Autorização do Baidu Wangpan</string>
+    <string name="baidu_pan_name">Baidu Wangpan</string>
+    <string name="baidu_token_success">Autorização do Baidu Wangpan bem-sucedida!</string>
+    <string name="baidu_token_failed">Falha na autorização do Baidu Netdisk: %s!</string>
 </resources>

@@ -1124,4 +1124,8 @@ Descubramos juntos, incluso en medio de nuestros días más ajetreados, esas ide
     <string name="text_not_exported">No exportado</string>
     <string name="logout_confirm_title">¿Confirmar salir de la sesión?</string>
     <string name="logout_confirm_message">Después de cerrar la sesión, deberá iniciarla nuevamente para poder disfrutar de los beneficios de membresía. ¿Está seguro de que desea cerrar la sesión?</string>
+    <string name="baidu_auth_title">Autorización de Baidu Wangpan</string>
+    <string name="baidu_pan_name">Baidu Wangpan</string>
+    <string name="baidu_token_success">¡Autorización de Baidu Wangpan exitosa!</string>
+    <string name="baidu_token_failed">Error de autorización de Baidu Netdisk: %s!</string>
 </resources>

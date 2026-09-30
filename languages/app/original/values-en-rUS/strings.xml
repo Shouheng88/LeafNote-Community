@@ -1130,4 +1130,8 @@ Let’s begin!</string>
     <string name="text_not_exported">Not Exported</string>
     <string name="logout_confirm_title">Confirm logout?</string>
     <string name="logout_confirm_message">After logging out, you need to log in again to use your membership benefits. Are you sure you want to log out?</string>
+    <string name="baidu_auth_title">Baidu Netdisk Authorization</string>
+    <string name="baidu_pan_name">Baidu Netdisk</string>
+    <string name="baidu_token_success">Baidu Netdisk authorization successful!</string>
+    <string name="baidu_token_failed">Baidu Netdisk authorization failed: %s!</string>
 </resources>

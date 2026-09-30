@@ -1115,4 +1115,8 @@
     <string name="text_not_exported">未匯出</string>
     <string name="logout_confirm_title">確定登出？</string>
     <string name="logout_confirm_message">登出後，您需要重新登入才能使用會員權益。確定退出登入嗎？</string>
+    <string name="baidu_auth_title">百度網盤授權</string>
+    <string name="baidu_pan_name">百度網盤</string>
+    <string name="baidu_token_success">百度網盤授權成功！</string>
+    <string name="baidu_token_failed">百度網盤授權失敗：%s！</string>
 </resources>
