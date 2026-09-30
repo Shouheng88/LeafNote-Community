@@ -1,3 +1,17 @@
+## 5.4.0 
+ - cb94b875 百度授权页面适配问题
+- 85e2f1d3 百度网盘授权信息浏览器缓存清理
+- 2a55e15f 授权页面调整
+- 9f265eb0 百度网盘账号信息获取
+- f999e306 文案
+- 78f391dd 百度网盘集成
+- 84d2dded 拓展
+- 10bb9e67 百度网盘授权
+- 4d5767d4 百度网盘授权
+- 8580bac0 同步服务器测试页面分离
+- 4ecf7640 添加同步服务器测试
+- fc5279f5 Merge pull request #202 from Shouheng88/feature-v5.3.0
+- 09f85c14 Merge pull request #200 from Shouheng88/feature-v5.3.0
 ## 5.3.3 
  - 4e22c80e 修复并发修改问题
 ## 5.3.2 
