@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> 바이두 네트워크 드라이브 권한 부여
+
+:name> baidu_pan_name
+:text> 바이두 네트워크 디스크
+
+:name> baidu_token_success
+:text> 바이두 네트워크 드라이브 인증 성공!
+
+:name> baidu_token_failed
+:text> 바이두 네트워크 드라이브 인증 실패: %s!
+

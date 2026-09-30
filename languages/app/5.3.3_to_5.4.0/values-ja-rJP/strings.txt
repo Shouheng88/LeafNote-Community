@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> 百度ネットディスクの承認
+
+:name> baidu_pan_name
+:text> 百度ネットディスク
+
+:name> baidu_token_success
+:text> 百度ネットディスクの認証が成功しました！
+
+:name> baidu_token_failed
+:text> 百度ネットディスクの認証に失敗しました：%s！
+

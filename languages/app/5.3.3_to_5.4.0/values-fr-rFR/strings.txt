@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> Autorisation Baidu Wangpan
+
+:name> baidu_pan_name
+:text> Baidu Wangpan
+
+:name> baidu_token_success
+:text> Autorisation du disque réseau Baidu réussie !
+
+:name> baidu_token_failed
+:text> Échec de l’autorisation du disque réseau Baidu : %s !
+

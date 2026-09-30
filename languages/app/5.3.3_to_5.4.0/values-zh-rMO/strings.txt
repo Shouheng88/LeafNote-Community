@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> 百度網盤授權
+
+:name> baidu_pan_name
+:text> 百度網盤
+
+:name> baidu_token_success
+:text> 百度網盤授權成功！
+
+:name> baidu_token_failed
+:text> 百度網盤授權失敗：%s！
+

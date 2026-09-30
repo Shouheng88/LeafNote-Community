@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> Baidu-Netzlaufwerk-Autorisierung
+
+:name> baidu_pan_name
+:text> Baidu Cloud
+
+:name> baidu_token_success
+:text> Baidu Cloud-Speicher-Autorisierung erfolgreich!
+
+:name> baidu_token_failed
+:text> Autorisierung von Baidu Netdisk fehlgeschlagen: %s!
+

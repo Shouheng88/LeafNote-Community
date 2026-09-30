@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> Autorização do Baidu Wangpan
+
+:name> baidu_pan_name
+:text> Baidu Wangpan
+
+:name> baidu_token_success
+:text> Autorização do Baidu Wangpan bem-sucedida!
+
+:name> baidu_token_failed
+:text> Falha na autorização do Baidu Netdisk: %s!
+

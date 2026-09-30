@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> Autorizzazione Baidu Wangpan
+
+:name> baidu_pan_name
+:text> Baidu Wangpan
+
+:name> baidu_token_success
+:text> Autorizzazione di Baidu Wangpan riuscita!
+
+:name> baidu_token_failed
+:text> Autorizzazione di Baidu Wangpan non riuscita: %s!
+

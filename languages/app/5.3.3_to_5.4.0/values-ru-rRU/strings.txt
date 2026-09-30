@@ -1,0 +1,12 @@
+:name> baidu_auth_title
+:text> Авторизация Baidu Netdisk
+
+:name> baidu_pan_name
+:text> Baidu Netdisk
+
+:name> baidu_token_success
+:text> Авторизация Baidu Netdisk прошла успешно!
+
+:name> baidu_token_failed
+:text> Не удалось получить авторизацию Baidu Netdisk: %s!
+
