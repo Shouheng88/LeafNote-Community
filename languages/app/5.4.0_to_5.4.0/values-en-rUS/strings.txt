@@ -1,0 +1,294 @@
+:name> set_export_sub
+:text> This feature has been migrated to the \"Sync - External Storage\" type. The new feature is integrated with the sync logic, providing a better user experience.
+
+:name> set_sync_cloudflare_r2
+:text> CloudFlare R2
+
+:name> set_sync_cloudflare_r2_account_id
+:text> Account ID
+
+:name> set_sync_cloudflare_r2_access_key_id
+:text> Access Key ID
+
+:name> set_sync_cloudflare_r2_access_key
+:text> Access Key
+
+:name> set_sync_cloudflare_r2_path
+:text> Sync Directory
+
+:name> set_sync_git_server
+:text> Git Repository
+
+:name> set_sync_git_url
+:text> Remote Repository URL (HTTPS)
+
+:name> set_sync_git_account
+:text> Git Username
+
+:name> set_sync_git_token
+:text> Personal Access Token (PAT)
+
+:name> set_sync_git_branch
+:text> Branch Name
+
+:name> set_sync_git_advanced_options
+:text> Advanced Options
+
+:name> set_sync_git_test_connection
+:text> Test Connection
+
+:name> set_sync_git_enable
+:text> Enable
+
+:name> set_sync_git_testing
+:text> Testing connection
+…
+
+:name> set_sync_git_enabling
+:text> Enabling Git Sync
+…
+
+:name> set_sync_git_connection_ok
+:text> Connection normal
+
+:name> set_sync_git_error_invalid_url
+:text> Connection failed: Invalid repository URL or repository does not exist.
+
+:name> set_sync_git_error_auth_failed
+:text> Connection failed: Authentication failed. Please check your username and token, and confirm that the token has access permission to this repository.
+
+:name> set_sync_git_error_network
+:text> Connection failed: Network error. Please check your network connection and try again.
+
+:name> set_sync_git_enable_failed
+:text> Failed to enable Git sync: %s
+
+:name> set_sync_git_info_entry
+:text> Git Information and Operations
+
+:name> set_sync_git_info_entry_sub
+:text> View Git status and perform quick actions.
+
+:name> set_sync_git_info_title
+:text> Git Information
+
+:name> set_sync_git_group_status
+:text> Git Status
+
+:name> set_sync_git_group_actions
+:text> Quick Actions
+
+:name> set_sync_git_repo_path
+:text> Repository Path
+
+:name> set_sync_git_status_branch
+:text> Current Branch
+
+:name> set_sync_git_remote_url
+:text> Remote Address
+
+:name> set_sync_git_last_commit
+:text> Latest Commit
+
+:name> set_sync_git_workspace
+:text> Workspace Change
+
+:name> set_sync_git_ahead_behind
+:text> Local / Remote Differences
+
+:name> set_sync_git_exec_status
+:text> Execution Status
+
+:name> set_sync_git_action_refresh
+:text> Refresh Status
+
+:name> set_sync_git_action_fetch
+:text> Fetch Remote Updates
+
+:name> set_sync_git_action_pull
+:text> Pull
+
+:name> set_sync_git_action_commit
+:text> Commit Local Changes
+
+:name> set_sync_git_action_push
+:text> Push to Remote
+
+:name> set_sync_git_action_sync
+:text> One-Click Sync (Pull + Commit + Push)
+
+:name> set_sync_git_action_log
+:text> View Commit History
+
+:name> set_sync_git_action_changes
+:text> View Changed Files
+
+:name> set_sync_git_not_initialized
+:text> The notes directory is not a Git repository yet.
+
+:name> set_sync_git_no_commit
+:text> No submissions yet
+
+:name> set_sync_git_no_changes
+:text> Workspace is clean, no local changes
+
+:name> set_sync_git_ahead_behind_hint
+:text> Please obtain remote updates first before comparison.
+
+:name> set_sync_git_no_remote_branch
+:text> Remote branch not yet fetched
+
+:name> set_sync_git_running
+:text> Executing
+…
+
+:name> set_sync_git_idle
+:text> Idle
+
+:name> set_sync_git_sync_running
+:text> A synchronization task is already in progress. Please wait.
+
+:name> set_sync_git_workspace_summary
+:text> Modified %1$d, Added %2$d, Deleted %3$d, Missing %4$d, Untracked %5$d, Conflicted %6$d
+
+:name> set_sync_git_ahead_behind_summary
+:text> Leading %1$d, trailing %2$d (tracking %3$s)
+
+:name> set_sync_git_last_commit_summary
+:text> %1$s · %2$s · %3$s
+
+:name> set_sync_git_action_done
+:text> %1$s succeeded
+
+:name> set_sync_git_action_failed
+:text> %1$s failed: %2$s
+
+:name> set_sync_git_commit_nothing
+:text> No changes to commit, the working directory is clean.
+
+:name> set_sync_git_commit_done
+:text> Submitted %1$s
+
+:name> set_sync_git_push_ok
+:text> Push succeeded
+
+:name> set_sync_git_push_rejected
+:text> Push rejected: %1$s
+
+:name> set_sync_git_merge_conflict
+:text> There are %1$d file merge conflicts. Please resolve the conflicts before pushing.
+
+:name> set_sync_git_pull_ok
+:text> Pull successful (%1$s)
+
+:name> set_sync_git_pull_no_remote
+:text> Remote branch does not exist yet, nothing to pull.
+
+:name> set_sync_git_fetch_ok
+:text> Successfully retrieved remote updates
+
+:name> set_sync_git_sync_ok
+:text> Sync successful
+
+:name> set_sync_git_commit_message
+:text> LeafNote Manual Sync
+
+:name> set_sync_git_changes_title
+:text> Change File
+
+:name> set_sync_git_log_title
+:text> Commit History
+
+:name> set_sync_git_no_changes_detail
+:text> No local changes
+
+:name> set_sync_git_log_empty
+:text> No submissions yet
+
+:name> set_sync_git_changes_added
+:text> New
+
+:name> set_sync_git_changes_changed
+:text> Changed
+
+:name> set_sync_git_changes_modified
+:text> Modified
+
+:name> set_sync_git_changes_removed
+:text> Deleted
+
+:name> set_sync_git_changes_missing
+:text> Missing
+
+:name> set_sync_git_changes_untracked
+:text> Untracked
+
+:name> set_sync_git_changes_conflicting
+:text> Conflict
+
+:name> set_sync_cloudflare_r2_path_desc
+:text> The synchronization directory is the name of the bucket. When applying for the above credentials, ensure that the credentials have read and write permissions for the specified bucket.
+
+:name> set_sync_last_time
+:text> Last Sync
+
+:name> sync_server_external_storage
+:text> External Storage
+
+:name> sync_git_conflict_keep_local
+:text> Keep Local
+
+:name> sync_git_conflict_keep_local_sub
+:text> Keep the local content and discard the remote changes.
+
+:name> sync_git_conflict_keep_remote
+:text> Keep Remote
+
+:name> sync_git_conflict_keep_remote_sub
+:text> Keep the remote content and discard the local changes.
+
+:name> sync_git_conflict_keep_both
+:text> Keep Both
+
+:name> sync_git_conflict_keep_both_sub
+:text> Merge both versions together; suitable when the same note was extended separately.
+
+:name> sync_git_conflict_manual_edit
+:text> Manual Edit
+
+:name> sync_git_conflict_manual_edit_sub
+:text> Merge both versions, then edit the note to adjust the result.
+
+:name> sync_git_conflict_keep_local_tip
+:text> This will overwrite the remote file with the local content. Continue?
+
+:name> sync_git_conflict_keep_remote_tip
+:text> This will overwrite the local file with the remote content. Continue?
+
+:name> sync_git_conflict_resolved
+:text> Conflict resolved.
+
+:name> sync_git_conflict_remote_updated
+:text> Remote received new commits while resolving conflicts, causing new conflicts. Please sync again and re-resolve.
+
+:name> sync_git_sync_in_progress
+:text> A sync task is running, please try again later.
+
+:name> sync_git_conflict_files
+:text> Conflicted Files
+
+:name> set_sync_server_help
+:text> Common server configuration methods
+
+:name> set_sync_server_help_title
+:text> Document
+
+:name> compose_note_info_encrypt
+:text> Encrypted
+
+:name> text_yes
+:text> Yes
+
+:name> text_no
+:text> No
+

@@ -1,0 +1,294 @@
+:name> set_export_sub
+:text> 此功能已移至「同步－外部儲存」類型。新功能與同步邏輯整合，提供更佳的使用體驗。
+
+:name> set_sync_last_time
+:text> 上次同步
+
+:name> set_sync_cloudflare_r2
+:text> CloudFlare R2
+
+:name> set_sync_cloudflare_r2_account_id
+:text> Account ID
+
+:name> set_sync_cloudflare_r2_access_key_id
+:text> Access Key ID
+
+:name> set_sync_cloudflare_r2_access_key
+:text> Access Key
+
+:name> set_sync_cloudflare_r2_path
+:text> 同步目錄
+
+:name> set_sync_git_server
+:text> Git 倉庫
+
+:name> set_sync_git_url
+:text> 遠端儲存庫位址（HTTPS）
+
+:name> set_sync_git_account
+:text> Git 使用者名稱
+
+:name> set_sync_git_token
+:text> 個人存取權杖（PAT）
+
+:name> set_sync_git_branch
+:text> 分支名稱
+
+:name> set_sync_git_advanced_options
+:text> 進階選項
+
+:name> set_sync_git_test_connection
+:text> 測試連線
+
+:name> set_sync_git_enable
+:text> 啟用
+
+:name> set_sync_git_testing
+:text> 正在測試連線
+…
+
+:name> set_sync_git_enabling
+:text> 正在啟用 Git 同步
+…
+
+:name> set_sync_git_connection_ok
+:text> 連線正常
+
+:name> set_sync_git_error_invalid_url
+:text> 連接失敗：倉庫地址無效，或倉庫不存在。
+
+:name> set_sync_git_error_auth_failed
+:text> 連線失敗：驗證失敗。請檢查使用者名稱與權杖，並確認該權杖具有存取此儲存庫的權限。
+
+:name> set_sync_git_error_network
+:text> 連線失敗：網路錯誤。請檢查網路後再試一次。
+
+:name> set_sync_git_enable_failed
+:text> 啟用 Git 同步失敗：%s
+
+:name> set_sync_git_info_entry
+:text> Git 資訊與操作
+
+:name> set_sync_git_info_entry_sub
+:text> 查看 Git 狀態並執行快速操作。
+
+:name> set_sync_git_info_title
+:text> Git 資訊
+
+:name> set_sync_git_group_status
+:text> Git 狀態
+
+:name> set_sync_git_group_actions
+:text> 快速操作
+
+:name> set_sync_git_repo_path
+:text> 儲存庫路徑
+
+:name> set_sync_git_status_branch
+:text> 目前分支
+
+:name> set_sync_git_remote_url
+:text> 遠端地址
+
+:name> set_sync_git_last_commit
+:text> 最新提交
+
+:name> set_sync_git_workspace
+:text> 工作區變更
+
+:name> set_sync_git_ahead_behind
+:text> 本機 / 遠端差異
+
+:name> set_sync_git_exec_status
+:text> 執行狀態
+
+:name> set_sync_git_action_refresh
+:text> 重新整理狀態
+
+:name> set_sync_git_action_fetch
+:text> 擷取遠端更新（Fetch）
+
+:name> set_sync_git_action_pull
+:text> 拉取並合併（Pull）
+
+:name> set_sync_git_action_commit
+:text> 提交本機變更（Commit）
+
+:name> set_sync_git_action_push
+:text> 推送到遠端（Push）
+
+:name> set_sync_git_action_sync
+:text> 一鍵同步（拉取 ＋ 提交 ＋ 推送）
+
+:name> set_sync_git_action_log
+:text> 查看提交歷史
+
+:name> set_sync_git_action_changes
+:text> 查看變更檔案
+
+:name> set_sync_git_not_initialized
+:text> 筆記目錄還不是 Git 倉庫
+
+:name> set_sync_git_no_commit
+:text> 暫無提交
+
+:name> set_sync_git_no_changes
+:text> 工作區乾淨，沒有本機變更
+
+:name> set_sync_git_ahead_behind_hint
+:text> 請先取得遠端更新後再進行比對
+
+:name> set_sync_git_no_remote_branch
+:text> 尚未取得遠端分支
+
+:name> set_sync_git_running
+:text> 執行中
+…
+
+:name> set_sync_git_idle
+:text> 閒置
+
+:name> set_sync_git_sync_running
+:text> 已有同步任務正在執行，請稍候
+
+:name> set_sync_git_workspace_summary
+:text> 已修改 %1$d，新增 %2$d，刪除 %3$d，遺失 %4$d，未追蹤 %5$d，衝突 %6$d
+
+:name> set_sync_git_ahead_behind_summary
+:text> 領先 %1$d，落後 %2$d（追蹤 %3$s）
+
+:name> set_sync_git_last_commit_summary
+:text> %1$s · %2$s · %3$s
+
+:name> set_sync_git_action_done
+:text> %1$s 成功
+
+:name> set_sync_git_action_failed
+:text> %1$s 失敗：%2$s
+
+:name> set_sync_git_commit_nothing
+:text> 沒有需要提交的變更，工作區是乾淨的
+
+:name> set_sync_git_commit_done
+:text> 已提交 %1$s
+
+:name> set_sync_git_push_ok
+:text> 推送成功
+
+:name> set_sync_git_push_rejected
+:text> 推送被拒絕：%1$s
+
+:name> set_sync_git_merge_conflict
+:text> 有 %1$d 個檔案合併衝突，請先解決衝突再推送
+
+:name> set_sync_git_pull_ok
+:text> 拉取成功（%1$s）
+
+:name> set_sync_git_pull_no_remote
+:text> 遠端分支尚不存在，無可拉取內容
+
+:name> set_sync_git_fetch_ok
+:text> 成功取得遠端更新
+
+:name> set_sync_git_sync_ok
+:text> 同步成功
+
+:name> set_sync_git_commit_message
+:text> LeafNote 手動同步
+
+:name> set_sync_git_changes_title
+:text> 變更檔案
+
+:name> set_sync_git_log_title
+:text> 提交歷史
+
+:name> set_sync_git_no_changes_detail
+:text> 沒有本機變更
+
+:name> set_sync_git_log_empty
+:text> 暫無提交
+
+:name> set_sync_git_changes_added
+:text> 新增
+
+:name> set_sync_git_changes_changed
+:text> 已變更
+
+:name> set_sync_git_changes_modified
+:text> 已修改
+
+:name> set_sync_git_changes_removed
+:text> 已刪除
+
+:name> set_sync_git_changes_missing
+:text> 缺失
+
+:name> set_sync_git_changes_untracked
+:text> 未追蹤
+
+:name> set_sync_git_changes_conflicting
+:text> 衝突
+
+:name> set_sync_cloudflare_r2_path_desc
+:text> 同步目錄即為儲存桶的名稱。申請上述憑證的時候需要確保該憑證有指定的桶的讀寫權限。
+
+:name> sync_server_external_storage
+:text> 外部儲存
+
+:name> sync_git_conflict_keep_local
+:text> 採用本機
+
+:name> sync_git_conflict_keep_local_sub
+:text> 保留本機內容，捨棄遠端修改。
+
+:name> sync_git_conflict_keep_remote
+:text> 採用遠端
+
+:name> sync_git_conflict_keep_remote_sub
+:text> 保留遠端內容，丟棄本地修改。
+
+:name> sync_git_conflict_keep_both
+:text> 兩者都保留
+
+:name> sync_git_conflict_keep_both_sub
+:text> 將兩段內容合併，適合筆記分別新增不同段落的情況。
+
+:name> sync_git_conflict_manual_edit
+:text> 手動編輯
+
+:name> sync_git_conflict_manual_edit_sub
+:text> 先合併兩段內容，再進入編輯器手動調整結果。
+
+:name> sync_git_conflict_keep_local_tip
+:text> 將使用本機內容覆蓋遠端檔案，確定繼續嗎？
+
+:name> sync_git_conflict_keep_remote_tip
+:text> 將使用遠端內容覆蓋本地檔案，確定繼續嗎？
+
+:name> sync_git_conflict_resolved
+:text> 衝突已解決。
+
+:name> sync_git_conflict_remote_updated
+:text> 解決衝突期間遠端有新提交且產生新的衝突，請重新同步後再處理。
+
+:name> sync_git_sync_in_progress
+:text> 同步任務正在執行，請稍後再試。
+
+:name> sync_git_conflict_files
+:text> 衝突檔案
+
+:name> set_sync_server_help
+:text> 常見伺服器設定方式
+
+:name> set_sync_server_help_title
+:text> 幫助
+
+:name> compose_note_info_encrypt
+:text> 加密
+
+:name> text_yes
+:text> 是
+
+:name> text_no
+:text> 否
+

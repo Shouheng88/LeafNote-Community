@@ -1,0 +1,306 @@
+:name> set_export_sub
+:text> Эта функция была перенесена в тип «Синхронизация — внешнее хранилище». Новая функция интегрирована с логикой синхронизации и обеспечивает лучший пользовательский опыт.
+
+:name> set_sync_last_time
+:text> Последняя Синхронизация
+
+:name> set_sync_cloudflare_r2
+:text> CloudFlare R2
+
+:name> set_sync_cloudflare_r2_account_id
+:text> Account ID
+
+:name> set_sync_cloudflare_r2_access_key_id
+:text> Access Key ID
+
+:name> set_sync_cloudflare_r2_access_key
+:text> Access Key
+
+:name> set_sync_cloudflare_r2_path
+:text> Синхронизировать каталог
+
+:name> set_sync_git_server
+:text> Git-репозиторий
+
+:name> set_sync_git_url
+:text> Адрес удалённого репозитория (HTTPS)
+
+:name> set_sync_git_account
+:text> Имя пользователя Git
+
+:name> set_sync_git_token
+:text> Персональный токен доступа (PAT)
+
+:name> set_sync_git_branch
+:text> Название ветки
+
+:name> set_sync_git_advanced_options
+:text> Дополнительные параметры
+
+:name> set_sync_git_test_connection
+:text> Проверка подключения
+
+:name> set_sync_git_enable
+:text> Включить
+
+:name> set_sync_git_testing
+:text> Тестирование подключения
+…
+
+:name> set_sync_git_enabling
+:text> Включение синхронизации Git
+…
+
+:name> set_sync_git_connection_ok
+:text> Соединение установлено
+
+:name> set_sync_git_error_invalid_url
+:text> Ошибка подключения: недопустимый адрес репозитория или репозиторий не существует.
+
+:name> set_sync_git_error_auth_failed
+:text> Ошибка подключения: аутентификация не удалась. Проверьте имя пользователя и токен, а также убедитесь, что токен имеет доступ к данному репозиторию.
+
+:name> set_sync_git_error_network
+:text> Ошибка подключения: сетевая ошибка. Проверьте подключение к сети и повторите попытку.
+
+:name> set_sync_git_enable_failed
+:text> Не удалось включить синхронизацию через Git: %s
+
+:name> set_sync_git_info_entry
+:text> Информация и операции Git
+
+:name> set_sync_git_info_entry_sub
+:text> Просмотр состояния Git и выполнение быстрых операций.
+
+:name> set_sync_git_info_title
+:text> Информация Git
+
+:name> set_sync_git_group_status
+:text> Git-статус
+
+:name> set_sync_git_group_actions
+:text> Быстрые действия
+
+:name> set_sync_git_repo_path
+:text> Путь к репозиторию
+
+:name> set_sync_git_status_branch
+:text> Текущая ветка
+
+:name> set_sync_git_remote_url
+:text> Адрес удалённого сервера
+
+:name> set_sync_git_last_commit
+:text> Последняя отправка
+
+:name> set_sync_git_workspace
+:text> Изменение рабочей области
+
+:name> set_sync_git_ahead_behind
+:text> Локальные / удалённые различия
+
+:name> set_sync_git_exec_status
+:text> Статус выполнения
+
+:name> set_sync_git_action_refresh
+:text> Обновить состояние
+
+:name> set_sync_git_action_fetch
+:text> Получить удалённые обновления (Fetch)
+
+:name> set_sync_git_action_pull
+:text> Извлечь и объединить (Pull)
+
+:name> set_sync_git_action_commit
+:text> Зафиксировать локальные изменения (Commit)
+
+:name> set_sync_git_action_push
+:text> Отправить на удалённый сервер (Push)
+
+:name> set_sync_git_action_sync
+:text> Одним щелчком синхронизировать (извлечь + зафиксировать + отправить)
+
+:name> set_sync_git_action_log
+:text> Просмотр истории коммитов
+
+:name> set_sync_git_action_changes
+:text> Просмотр изменённых файлов
+
+:name> set_sync_git_not_initialized
+:text> Каталог заметок ещё не является репозиторием Git.
+
+:name> set_sync_git_no_commit
+:text> Нет отправленных данных
+
+:name> set_sync_git_no_changes
+:text> Рабочая область чистая, локальных изменений нет
+
+:name> set_sync_git_ahead_behind_hint
+:text> Сначала получите обновления с удалённого сервера, а затем выполните сравнение.
+
+:name> set_sync_git_no_remote_branch
+:text> Удалённая ветка ещё не получена
+
+:name> set_sync_git_running
+:text> Выполняется
+…
+
+:name> set_sync_git_idle
+:text> простой
+
+:name> set_sync_git_sync_running
+:text> Синхронизация уже выполняется, подождите немного.
+
+:name> set_sync_git_workspace_summary
+:text> Изменено %1$d, добавлено %2$d, удалено %3$d, отсутствует %4$d, не отслеживается %5$d, конфликт %6$d
+
+:name> set_sync_git_ahead_behind_summary
+:text> Впереди на %1$d, отстает на %2$d (отслеживается %3$s)
+
+:name> set_sync_git_last_commit_summary
+:text> %1$s · %2$s · %3$s
+
+:name> set_sync_git_action_done
+:text> %1$s успешно
+
+:name> set_sync_git_action_failed
+:text> Сбой %1$s: %2$s
+
+:name> set_sync_git_commit_nothing
+:text> Нет изменений, требующих отправки; рабочая область чиста.
+
+:name> set_sync_git_commit_done
+:text> Отправлено %1$s
+
+:name> set_sync_git_push_ok
+:text> Успешно отправлено
+
+:name> set_sync_git_push_rejected
+:text> Отправка отклонена: %1$s
+
+:name> set_sync_git_merge_conflict
+:text> Обнаружено %1$d конфликтов при объединении файлов. Разрешите конфликты перед отправкой.
+
+:name> set_sync_git_pull_ok
+:text> Извлечение выполнено успешно (%1$s)
+
+:name> set_sync_git_pull_no_remote
+:text> Удалённая ветка ещё не существует, из неё нечего извлекать.
+
+:name> set_sync_git_fetch_ok
+:text> Успешно получено обновление с удалённого сервера
+
+:name> set_sync_git_sync_ok
+:text> Синхронизация выполнена успешно
+
+:name> set_sync_git_commit_message
+:text> LeafNote Ручная синхронизация
+
+:name> set_sync_git_changes_title
+:text> Изменить файл
+
+:name> set_sync_git_log_title
+:text> История отправок
+
+:name> set_sync_git_no_changes_detail
+:text> Нет локальных изменений
+
+:name> set_sync_git_log_empty
+:text> Нет отправленных данных
+
+:name> set_sync_git_changes_added
+:text> Добавить
+
+:name> set_sync_git_changes_changed
+:text> Изменено
+
+:name> set_sync_git_changes_modified
+:text> Изменено
+
+:name> set_sync_git_changes_removed
+:text> Удалено
+
+:name> set_sync_git_changes_missing
+:text> отсутствует
+
+:name> set_sync_git_changes_untracked
+:text> Не отслеживается
+
+:name> set_sync_git_changes_conflicting
+:text> Конфликт
+
+:name> set_sync_cloudflare_r2_path_desc
+:text> Синхронизируемая директория — это имя хранилища (бакета). При получении указанных выше учётных данных необходимо убедиться, что они имеют права на чтение и запись в указанный бакет.
+
+:name> sync_server_external_storage
+:text> Внешнее хранилище
+
+:name> set_encrypt_key_desc
+:text> Перед тем как задать пароль, мы рекомендуем вам:  \n\n
+1. Архитектура ключей и шифрования данного приложения основана на предпосылке, что пользователь самостоятельно управляет своими данными; зашифрованная информация и заметки хранятся исключительно на локальном диске вашего смартфона.  \n\n
+2. Для обеспечения безопасности ваших данных после задания ключа сохраняйте его в надёжном месте. В случае утери ключа восстановить данные будет невозможно. Мы рекомендуем всегда задавать мнемоническую фразу (парольную фразу); вы можете указать любой текст, который поможет вам вспомнить ваш ключ.  \n\n
+3. При удалении приложения система удаляет всю информацию приложения, включая зашифрованные данные. Поэтому мы настоятельно рекомендуем регулярно создавать резервные копии ва
+шего ключа. Для этой цели мы предоставляем функцию экспорта зашифрованных данных. С её помощью вы можете экспортировать зашифрованную информацию (без ключа).  \n\n
+4. После каждого изменения ключа приложение автоматически повторно шифрует все ранее зашифрованные заметки. Поэтому мы рекомендуем задавать ключ лишь один раз.  \n\n
+5. В новых версиях (5.3.0 и выше) используется стандартная схема вывода ключей и шифрования, обеспечивающая более высокий уровень безопасности. Мы рекомендуем обновиться до этой версии.
+
+:name> set_sync_done_without_error
+:text> Последняя синхронизация завершена %s, проблем со синхронизацией не обнаружено.
+
+:name> sync_git_conflict_keep_local
+:text> Использование локального
+
+:name> sync_git_conflict_keep_local_sub
+:text> Сохранить локальное содержимое, отбросить удалённые изменения.
+
+:name> sync_git_conflict_keep_remote
+:text> Использование удалённого
+
+:name> sync_git_conflict_keep_remote_sub
+:text> Сохранить удалённое содержимое, отменить локальные изменения.
+
+:name> sync_git_conflict_keep_both
+:text> Оба сохраняются
+
+:name> sync_git_conflict_keep_both_sub
+:text> Объединить два фрагмента содержимого, что удобно при добавлении разных абзацев в заметку.
+
+:name> sync_git_conflict_manual_edit
+:text> Редактирование вручную
+
+:name> sync_git_conflict_manual_edit_sub
+:text> Сначала объедините два абзаца, затем вручную отредактируйте результат в редакторе.
+
+:name> sync_git_conflict_keep_local_tip
+:text> Локальное содержимое будет использовано для перезаписи удалённого файла. Продолжить?
+
+:name> sync_git_conflict_keep_remote_tip
+:text> Будут использованы удалённые данные для перезаписи локального файла. Продолжить?
+
+:name> sync_git_conflict_resolved
+:text> Конфликт разрешён.
+
+:name> sync_git_conflict_remote_updated
+:text> Во время разрешения конфликта на удалённом устройстве появились новые коммиты, вызвавшие новые конфликты. Повторно выполните синхронизацию, а затем обработайте конфликты.
+
+:name> sync_git_sync_in_progress
+:text> Задача синхронизации выполняется, попробуйте позже.
+
+:name> sync_git_conflict_files
+:text> Конфликтующие файлы
+
+:name> set_sync_server_help
+:text> Распространённые способы настройки сервера
+
+:name> set_sync_server_help_title
+:text> Документ
+
+:name> compose_note_info_encrypt
+:text> Шифрование
+
+:name> text_yes
+:text> Да
+
+:name> text_no
+:text> Нет
+

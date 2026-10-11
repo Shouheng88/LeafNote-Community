@@ -1,0 +1,297 @@
+:name> set_export_sub
+:text> この機能は「同期 - 外部ストレージ」タイプに移行されました。新しい機能は同期ロジックと統合されており、より優れた使いやすさを実現しています。
+
+:name> set_note_folders_selection
+:text> ディレクトリの選択
+
+:name> set_sync_last_time
+:text> 前回の同期
+
+:name> set_sync_cloudflare_r2
+:text> CloudFlare R2
+
+:name> set_sync_cloudflare_r2_account_id
+:text> Account ID
+
+:name> set_sync_cloudflare_r2_access_key_id
+:text> Access Key ID
+
+:name> set_sync_cloudflare_r2_access_key
+:text> Access Key
+
+:name> set_sync_cloudflare_r2_path
+:text> 同期ディレクトリ
+
+:name> set_sync_git_server
+:text> Gitリポジトリ
+
+:name> set_sync_git_url
+:text> リモートリポジトリのアドレス（HTTPS）
+
+:name> set_sync_git_account
+:text> Git ユーザー名
+
+:name> set_sync_git_token
+:text> 個人アクセストークン（PAT）
+
+:name> set_sync_git_branch
+:text> ブランチ名
+
+:name> set_sync_git_advanced_options
+:text> 上級オプション
+
+:name> set_sync_git_test_connection
+:text> 接続テスト
+
+:name> set_sync_git_enable
+:text> 有効化
+
+:name> set_sync_git_testing
+:text> 接続のテスト中
+…
+
+:name> set_sync_git_enabling
+:text> Git同期を有効化しています
+…
+
+:name> set_sync_git_connection_ok
+:text> 接続正常
+
+:name> set_sync_git_error_invalid_url
+:text> 接続失敗：リポジトリのアドレスが無効であるか、リポジトリが存在しません。
+
+:name> set_sync_git_error_auth_failed
+:text> 接続失敗：認証に失敗しました。ユーザー名とトークンを確認し、そのトークンが該当のリポジトリへのアクセス権限を持っているかをご確認ください。
+
+:name> set_sync_git_error_network
+:text> 接続失敗：ネットワークエラー。ネットワークを確認してから再試行してください。
+
+:name> set_sync_git_enable_failed
+:text> Git同期の有効化に失敗しました：%s
+
+:name> set_sync_git_info_entry
+:text> Git情報と操作
+
+:name> set_sync_git_info_entry_sub
+:text> Gitステータスを表示し、ショートカット操作を実行します。
+
+:name> set_sync_git_info_title
+:text> Git情報
+
+:name> set_sync_git_group_status
+:text> Git 状態
+
+:name> set_sync_git_group_actions
+:text> クイック操作
+
+:name> set_sync_git_repo_path
+:text> リポジトリパス
+
+:name> set_sync_git_status_branch
+:text> 現在のブランチ
+
+:name> set_sync_git_remote_url
+:text> リモートアドレス
+
+:name> set_sync_git_last_commit
+:text> 最新のコミット
+
+:name> set_sync_git_workspace
+:text> ワークスペースの変更
+
+:name> set_sync_git_ahead_behind
+:text> ローカル／リモートの差分
+
+:name> set_sync_git_exec_status
+:text> 実行ステータス
+
+:name> set_sync_git_action_refresh
+:text> 状態を更新
+
+:name> set_sync_git_action_fetch
+:text> リモート更新の取得（Fetch）
+
+:name> set_sync_git_action_pull
+:text> プルしてマージ（Pull）
+
+:name> set_sync_git_action_commit
+:text> ローカル変更をコミットする（Commit）
+
+:name> set_sync_git_action_push
+:text> リモートへプッシュ（Push）
+
+:name> set_sync_git_action_sync
+:text> ワンクリック同期（プル＋コミット＋プッシュ）
+
+:name> set_sync_git_action_log
+:text> コミット履歴を表示
+
+:name> set_sync_git_action_changes
+:text> 変更ファイルを表示
+
+:name> set_sync_git_not_initialized
+:text> ノートのディレクトリはまだ Git リポジトリではありません
+
+:name> set_sync_git_no_commit
+:text> 提出されていません
+
+:name> set_sync_git_no_changes
+:text> ワークスペースはクリーンで、ローカルの変更はありません
+
+:name> set_sync_git_ahead_behind_hint
+:text> まずリモート更新を取得してから比較してください。
+
+:name> set_sync_git_no_remote_branch
+:text> リモートブランチがまだ取得されていません
+
+:name> set_sync_git_running
+:text> 実行中
+…
+
+:name> set_sync_git_idle
+:text> アイドル
+
+:name> set_sync_git_sync_running
+:text> 既に同期タスクが実行中です。しばらくお待ちください。
+
+:name> set_sync_git_workspace_summary
+:text> 変更済み %1$d、新規追加 %2$d、削除済み %3$d、欠落 %4$d、追跡対象外 %5$d、競合 %6$d
+
+:name> set_sync_git_ahead_behind_summary
+:text> リード %1$d、遅れ %2$d（追跡中 %3$s）
+
+:name> set_sync_git_last_commit_summary
+:text> %1$s ・ %2$s ・ %3$s
+
+:name> set_sync_git_action_done
+:text> %1$s が成功しました
+
+:name> set_sync_git_action_failed
+:text> %1$s に失敗しました：%2$s
+
+:name> set_sync_git_commit_nothing
+:text> 提出する変更はなく、作業領域はクリーンです。
+
+:name> set_sync_git_commit_done
+:text> %1$s が送信されました
+
+:name> set_sync_git_push_ok
+:text> プッシュ成功
+
+:name> set_sync_git_push_rejected
+:text> プッシュが拒否されました：%1$s
+
+:name> set_sync_git_merge_conflict
+:text> %1$d 個のファイルでマージ衝突が発生しています。まず衝突を解決してからプッシュしてください。
+
+:name> set_sync_git_pull_ok
+:text> プル成功（%1$s）
+
+:name> set_sync_git_pull_no_remote
+:text> リモートブランチがまだ存在しないため、プル可能なコンテンツはありません。
+
+:name> set_sync_git_fetch_ok
+:text> リモート更新の取得に成功しました
+
+:name> set_sync_git_sync_ok
+:text> 同期成功
+
+:name> set_sync_git_commit_message
+:text> LeafNote 手動同期
+
+:name> set_sync_git_changes_title
+:text> ファイルの変更
+
+:name> set_sync_git_log_title
+:text> コミット履歴
+
+:name> set_sync_git_no_changes_detail
+:text> ローカル変更がありません
+
+:name> set_sync_git_log_empty
+:text> 提出されていません
+
+:name> set_sync_git_changes_added
+:text> 新規追加
+
+:name> set_sync_git_changes_changed
+:text> 変更済み
+
+:name> set_sync_git_changes_modified
+:text> 変更済み
+
+:name> set_sync_git_changes_removed
+:text> 削除済み
+
+:name> set_sync_git_changes_missing
+:text> 欠落
+
+:name> set_sync_git_changes_untracked
+:text> 未追跡
+
+:name> set_sync_git_changes_conflicting
+:text> 衝突
+
+:name> set_sync_cloudflare_r2_path_desc
+:text> 同期ディレクトリとは、ストレージバケットの名称です。上記の認証情報を申請する際には、その認証情報が指定されたバケットに対する読み書き権限を持っていることを確認してください。
+
+:name> sync_server_external_storage
+:text> 外部ストレージ
+
+:name> sync_git_conflict_keep_local
+:text> ローカルを採用
+
+:name> sync_git_conflict_keep_local_sub
+:text> ローカルのコンテンツを保持し、リモートの変更を破棄します。
+
+:name> sync_git_conflict_keep_remote
+:text> リモートを使用
+
+:name> sync_git_conflict_keep_remote_sub
+:text> リモートのコンテンツを保持し、ローカルの変更を破棄します。
+
+:name> sync_git_conflict_keep_both
+:text> 両方とも保持されます
+
+:name> sync_git_conflict_keep_both_sub
+:text> 2つの段落を結合します。これは、ノートにそれぞれ異なる段落を新たに追加する場合に適しています。
+
+:name> sync_git_conflict_manual_edit
+:text> 手動編集
+
+:name> sync_git_conflict_manual_edit_sub
+:text> まず2つの段落をマージし、その後エディタで手動で結果を調整してください。
+
+:name> sync_git_conflict_keep_local_tip
+:text> ローカルのコンテンツでリモートファイルを上書きします。続行しますか？
+
+:name> sync_git_conflict_keep_remote_tip
+:text> リモートの内容でローカルファイルを上書きします。続行してもよろしいですか？
+
+:name> sync_git_conflict_resolved
+:text> 競合は解決されました。
+
+:name> sync_git_conflict_remote_updated
+:text> 競合解決中にリモート側で新しいコミットが行われ、さらに新たな競合が発生しました。再度同期してから処理してください。
+
+:name> sync_git_sync_in_progress
+:text> 同期タスクが実行中です。しばらくしてから再度お試しください。
+
+:name> sync_git_conflict_files
+:text> 競合ファイル
+
+:name> set_sync_server_help
+:text> 一般的サーバー設定方法
+
+:name> set_sync_server_help_title
+:text> ドキュメント
+
+:name> compose_note_info_encrypt
+:text> 暗号化
+
+:name> text_yes
+:text> は
+
+:name> text_no
+:text> いいえ
+

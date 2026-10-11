@@ -1,0 +1,320 @@
+:name> set_export_sub
+:text> 该功能已经被迁移到"同步-外部存储"类型。新的功能与同步逻辑整合，具备更好的使用体验。
+
+:name> set_sync_server_choose
+:text> 选择
+
+:name> sync_server_webdav_desc
+:text> 通过 WebDAV 协议同步，兼容 Nextcloud、ownCloud、群晖 NAS 等多种网盘与存储服务。
+
+:name> sync_server_dropbox_desc
+:text> 将笔记同步到 Dropbox，登录 Dropbox 账号并授权即可使用。
+
+:name> sync_server_onedrive_desc
+:text> 将笔记同步到 OneDrive（个人账号），登录微软账号并授权即可使用。
+
+:name> sync_server_baidu_desc
+:text> 将笔记同步到百度网盘。
+
+:name> sync_server_cloudflare_r2_desc
+:text> 通过 Cloudflare R2 对象存储同步，采用兼容 S3 的 API，需要提供账号 ID 与访问密钥。
+
+:name> sync_server_git_desc
+:text> 将笔记同步到远端 Git 仓库，保留完整的提交历史，暂不支持单条笔记同步。
+
+:name> sync_server_external_storage_desc
+:text> 将笔记同步到本地外部存储目录，无需网络，适合通过 U 盘或 SD 卡进行备份。
+
+:name> set_sync_cloudflare_r2
+:text> CloudFlare R2
+
+:name> set_sync_git_server
+:text> Git 仓库
+
+:name> set_sync_git_url
+:text> 远端仓库地址（HTTPS）
+
+:name> set_sync_git_account
+:text> Git 用户名
+
+:name> set_sync_git_token
+:text> 个人访问令牌（PAT）
+
+:name> set_sync_git_branch
+:text> 分支名称
+
+:name> set_sync_git_advanced_options
+:text> 高级选项
+
+:name> set_sync_git_test_connection
+:text> 测试连接
+
+:name> set_sync_git_enable
+:text> 启用
+
+:name> set_sync_git_testing
+:text> 正在测试连接
+…
+
+:name> set_sync_git_enabling
+:text> 正在启用 Git 同步
+…
+
+:name> set_sync_git_connection_ok
+:text> 连接正常
+
+:name> set_sync_git_error_invalid_url
+:text> 连接失败：仓库地址无效，或仓库不存在。
+
+:name> set_sync_git_error_auth_failed
+:text> 连接失败：认证失败。请检查用户名和令牌，并确认令牌具有该仓库的访问权限。
+
+:name> set_sync_git_error_network
+:text> 连接失败：网络错误。请检查网络后重试。
+
+:name> set_sync_git_enable_failed
+:text> 启用 Git 同步失败：%s
+
+:name> set_sync_git_info_entry
+:text> Git 信息与操作
+
+:name> set_sync_git_info_entry_sub
+:text> 查看 Git 状态并执行快捷操作。
+
+:name> set_sync_git_info_title
+:text> Git 信息
+
+:name> set_sync_git_group_status
+:text> Git 状态
+
+:name> set_sync_git_group_actions
+:text> 快捷操作
+
+:name> set_sync_git_repo_path
+:text> 仓库路径
+
+:name> set_sync_git_status_branch
+:text> 当前分支
+
+:name> set_sync_git_remote_url
+:text> 远端地址
+
+:name> set_sync_git_last_commit
+:text> 最新提交
+
+:name> set_sync_git_workspace
+:text> 工作区变更
+
+:name> set_sync_git_ahead_behind
+:text> 本地 / 远端差异
+
+:name> set_sync_git_exec_status
+:text> 执行状态
+
+:name> set_sync_git_action_refresh
+:text> 刷新状态
+
+:name> set_sync_git_action_fetch
+:text> 获取远端更新（Fetch）
+
+:name> set_sync_git_action_pull
+:text> 拉取并合并（Pull）
+
+:name> set_sync_git_action_commit
+:text> 提交本地变更（Commit）
+
+:name> set_sync_git_action_push
+:text> 推送到远端（Push）
+
+:name> set_sync_git_action_sync
+:text> 一键同步（拉取 + 提交 + 推送）
+
+:name> set_sync_git_action_log
+:text> 查看提交历史
+
+:name> set_sync_git_action_changes
+:text> 查看变更文件
+
+:name> set_sync_git_not_initialized
+:text> 笔记目录还不是 Git 仓库
+
+:name> set_sync_git_no_commit
+:text> 暂无提交
+
+:name> set_sync_git_no_changes
+:text> 工作区干净，没有本地变更
+
+:name> set_sync_git_ahead_behind_hint
+:text> 请先获取远端更新后再对比
+
+:name> set_sync_git_no_remote_branch
+:text> 尚未获取到远端分支
+
+:name> set_sync_git_running
+:text> 执行中…
+
+:name> set_sync_git_idle
+:text> 空闲
+
+:name> set_sync_git_sync_running
+:text> 已有同步任务正在执行，请稍候
+
+:name> set_sync_git_workspace_summary
+:text> 已修改 %1$d，新增 %2$d，删除 %3$d，缺失 %4$d，未跟踪 %5$d，冲突 %6$d
+
+:name> set_sync_git_ahead_behind_summary
+:text> 领先 %1$d，落后 %2$d（跟踪 %3$s）
+
+:name> set_sync_git_last_commit_summary
+:text> %1$s · %2$s · %3$s
+
+:name> set_sync_git_action_done
+:text> %1$s 成功
+
+:name> set_sync_git_action_failed
+:text> %1$s 失败：%2$s
+
+:name> set_sync_git_commit_nothing
+:text> 没有需要提交的变更，工作区是干净的
+
+:name> set_sync_git_commit_done
+:text> 已提交 %1$s
+
+:name> set_sync_git_push_ok
+:text> 推送成功
+
+:name> set_sync_git_push_rejected
+:text> 推送被拒绝：%1$s
+
+:name> set_sync_git_merge_conflict
+:text> 有 %1$d 个文件合并冲突，请先解决冲突再推送
+
+:name> set_sync_git_pull_ok
+:text> 拉取成功（%1$s）
+
+:name> set_sync_git_pull_no_remote
+:text> 远端分支尚不存在，无可拉取内容
+
+:name> set_sync_git_fetch_ok
+:text> 获取远端更新成功
+
+:name> set_sync_git_sync_ok
+:text> 同步成功
+
+:name> set_sync_git_commit_message
+:text> LeafNote 手动同步
+
+:name> set_sync_git_changes_title
+:text> 变更文件
+
+:name> set_sync_git_log_title
+:text> 提交历史
+
+:name> set_sync_git_no_changes_detail
+:text> 没有本地变更
+
+:name> set_sync_git_log_empty
+:text> 暂无提交
+
+:name> set_sync_git_changes_added
+:text> 新增
+
+:name> set_sync_git_changes_changed
+:text> 已更改
+
+:name> set_sync_git_changes_modified
+:text> 已修改
+
+:name> set_sync_git_changes_removed
+:text> 已删除
+
+:name> set_sync_git_changes_missing
+:text> 缺失
+
+:name> set_sync_git_changes_untracked
+:text> 未跟踪
+
+:name> set_sync_git_changes_conflicting
+:text> 冲突
+
+:name> set_sync_cloudflare_r2_account_id
+:text> Account ID
+
+:name> set_sync_cloudflare_r2_access_key_id
+:text> Access Key ID
+
+:name> set_sync_cloudflare_r2_access_key
+:text> Access Key
+
+:name> set_sync_cloudflare_r2_path
+:text> 同步目录
+
+:name> set_sync_cloudflare_r2_path_desc
+:text> 同步目录即为存储桶的名称。申请上述凭证的时候需要确保该凭证有指定的桶的读写权限。
+
+:name> set_sync_last_time
+:text> 上次同步
+
+:name> sync_server_external_storage
+:text> 外部存储
+
+:name> set_export_export_done_with_error
+:text> 数据导出完成，%d 文件需要手动处理
+
+:name> sync_git_conflict_keep_local
+:text> 采用本地
+
+:name> sync_git_conflict_keep_local_sub
+:text> 保留本地内容，丢弃远端修改。
+
+:name> sync_git_conflict_keep_remote
+:text> 采用远端
+
+:name> sync_git_conflict_keep_remote_sub
+:text> 保留远端内容，丢弃本地修改。
+
+:name> sync_git_conflict_keep_both
+:text> 两者都保留
+
+:name> sync_git_conflict_keep_both_sub
+:text> 将两段内容合并，适合笔记分别新增不同段落的情况。
+
+:name> sync_git_conflict_manual_edit
+:text> 手动编辑
+
+:name> sync_git_conflict_manual_edit_sub
+:text> 先合并两段内容，再进入编辑器手动调整结果。
+
+:name> sync_git_conflict_keep_local_tip
+:text> 将使用本地内容覆盖远端文件，确定继续吗？
+
+:name> sync_git_conflict_keep_remote_tip
+:text> 将使用远端内容覆盖本地文件，确定继续吗？
+
+:name> sync_git_conflict_resolved
+:text> 冲突已解决。
+
+:name> sync_git_conflict_remote_updated
+:text> 解决冲突期间远端有新提交且产生新的冲突，请重新同步后再处理。
+
+:name> sync_git_sync_in_progress
+:text> 同步任务正在执行，请稍后再试。
+
+:name> sync_git_conflict_files
+:text> 冲突文件
+
+:name> set_sync_server_help
+:text> 常见服务器配置方式
+
+:name> set_sync_server_help_title
+:text> 文档
+
+:name> compose_note_info_encrypt
+:text> 加密
+
+:name> text_yes
+:text> 是
+
+:name> text_no
+:text> 否
+
