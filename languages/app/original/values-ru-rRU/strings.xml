@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">После настройки можно сразу использовать биометрические данные для проверки личности.</string>
     <string name="common_app_intro_subtitle">Новое знакомство с вами</string>
     <string name="common_app_intro_title_2">Синхронизация с облаком</string>
-    <string name="common_app_intro_detail_2">Поддерживает методы синхронизации OneDrive, DropBox и WebDAV. Изменения в заметках могут быть немедленно синхронизированы с сервером.</string>
+    <string name="common_app_intro_detail_2">Поддержка 7 способов синхронизации: OneDrive, Dropbox, Cloudflare R2, Git, Облако Baidu, WebDAV и внешние каталоги хранилища; изменения заметок мгновенно синхронизируются с сервером.</string>
     <string name="common_app_intro_title_3">Безопасность</string>
     <string name="common_app_intro_detail_3">Блокировка приложений и сквозное шифрование заметок для защиты ваших данных и конфиденциальности</string>
     <string name="common_app_intro_title_4">Начните свое путешествие в мир знаний</string>
@@ -749,6 +749,14 @@ Otsu</string>
     <string name="set_sunc_dropbox_configured_tip">Вы уже настроили Dropbox. Если вам нужно обновить конфигурацию, сначала очистите текущие настройки, а затем настройте их заново.</string>
     <string name="set_sync_onedrive_connected_message">OneDrive подключен!\nВы можете нажать кнопку ниже, чтобы выйти.</string>
     <string name="set_sync_onedrive_sign_out">Вышел из OneDrive!</string>
+    <string name="set_sync_server_choose">Выбрать</string>
+    <string name="sync_server_webdav_desc">Синхронизация по протоколу WebDAV, совместима с облачными хранилищами и сервисами хранения данных Nextcloud, ownCloud, NAS-системами Synology и другими.</string>
+    <string name="sync_server_dropbox_desc">Синхронизируйте заметки с Dropbox: для этого войдите в свою учётную запись Dropbox и предоставьте соответствующие разрешения.</string>
+    <string name="sync_server_onedrive_desc">Синхронизируйте заметки с OneDrive (личная учетная запись). Для этого войдите в свою учетную запись Microsoft и предоставьте соответствующие разрешения.</string>
+    <string name="sync_server_baidu_desc">Синхронизировать заметки с облаком Baidu.</string>
+    <string name="sync_server_cloudflare_r2_desc">Синхронизация через облачное хранилище объектов Cloudflare R2 с использованием API, совместимого с S3; требуется указать идентификатор учётной записи и ключ доступа.</string>
+    <string name="sync_server_git_desc">Синхронизация заметок с удалённым репозиторием Git с сохранением полной истории коммитов. Синхронизация отдельных заметок пока не поддерживается.</string>
+    <string name="sync_server_external_storage_desc">Синхронизация заметок с локальной внешней директорией хранилища без подключения к сети. Подходит для резервного копирования с помощью USB-накопителя или карты памяти SD.</string>
     <string name="set_sync_onedrive_root_tip">Приложение синхронизирует заметки с каталогом \"%s\" в корне вашего OneDrive. Вы можете нажать кнопку ниже, чтобы изменить его.</string>
     <string name="set_sync_onedrive_root_change">Изменить каталог синхронизации</string>
     <string name="set_sync_interval">Интервал синхронизации</string>
@@ -1221,4 +1229,5 @@ Otsu</string>
     <string name="compose_note_info_encrypt">Шифрование</string>
     <string name="text_yes">Да</string>
     <string name="text_no">Нет</string>
+    <string name="config_new_version_default_desc">Оптимизированы детали приложения.</string>
 </resources>

@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">设置之后可以直接使用生物信息进行身份校验。</string>
     <string name="common_app_intro_subtitle">重新认识你</string>
     <string name="common_app_intro_title_2">云同步</string>
-    <string name="common_app_intro_detail_2">支持 OneDrive、DropBox 和 WebDAV 三种同步方式，笔记修改可以立即同步到服务器</string>
+    <string name="common_app_intro_detail_2">支持 OneDrive、DropBox、CloudFlare R2、Git、百度网盘、WebDAV 和外部存储目录 7 种同步方式，笔记修改可以立即同步到服务器</string>
     <string name="common_app_intro_title_3">安全</string>
     <string name="common_app_intro_detail_3">应用锁和笔记端到端加密，保障你的数据和隐私安全</string>
     <string name="common_app_intro_title_4">开启你的知识之旅</string>
@@ -1222,4 +1222,5 @@
     <string name="compose_note_info_encrypt">加密</string>
     <string name="text_yes">是</string>
     <string name="text_no">否</string>
+    <string name="config_new_version_default_desc">对应用的细节进行了优化</string>
 </resources>

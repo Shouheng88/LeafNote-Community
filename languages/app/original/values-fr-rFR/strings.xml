@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">Une fois la configuration effectuée, vous pouvez directement utiliser les données biométriques pour vérifier votre identité.</string>
     <string name="common_app_intro_subtitle">Redécouvrez-vous</string>
     <string name="common_app_intro_title_2">Synchronisation dans le cloud</string>
-    <string name="common_app_intro_detail_2">Prise en charge des méthodes de synchronisation OneDrive, DropBox et WebDAV. Les modifications de notes peuvent être synchronisées immédiatement sur le serveur.</string>
+    <string name="common_app_intro_detail_2">Prend en charge 7 méthodes de synchronisation : OneDrive, Dropbox, Cloudflare R2, Git, le disque cloud Baidu, WebDAV et les répertoires de stockage externes ; les modifications apportées aux notes sont immédiatement synchronisées avec le serveur.</string>
     <string name="common_app_intro_title_3">Sécurité</string>
     <string name="common_app_intro_detail_3">Verrouillage des applications et cryptage de bout en bout des notes pour protéger vos données et votre confidentialité</string>
     <string name="common_app_intro_title_4">Commencez votre voyage de connaissances</string>
@@ -751,6 +751,14 @@ Cet essai vise à permettre aux utilisateurs de découvrir les fonctionnalités 
     <string name="set_sunc_dropbox_configured_tip">Vous avez déjà configuré Dropbox. Si vous devez mettre à jour la configuration, effacez d\'abord les paramètres actuels, puis reconfigurez-la.</string>
     <string name="set_sync_onedrive_connected_message">OneDrive est connecté !\nVous pouvez cliquer sur le bouton ci-dessous pour vous déconnecter.</string>
     <string name="set_sync_onedrive_sign_out">OneDrive déconnecté !</string>
+    <string name="set_sync_server_choose">Sélectionner</string>
+    <string name="sync_server_webdav_desc">Synchronisation via le protocole WebDAV, compatible avec plusieurs services de stockage en ligne et disques réseau, tels que Nextcloud, ownCloud et les NAS Synology.</string>
+    <string name="sync_server_dropbox_desc">Synchronisez vos notes avec Dropbox : connectez-vous à votre compte Dropbox et accordez les autorisations nécessaires pour commencer à l’utiliser.</string>
+    <string name="sync_server_onedrive_desc">Synchronisez vos notes avec OneDrive (compte personnel) : connectez-vous à votre compte Microsoft et accordez les autorisations nécessaires pour commencer à l’utiliser.</string>
+    <string name="sync_server_baidu_desc">Synchroniser les notes avec Baidu Wangpan.</string>
+    <string name="sync_server_cloudflare_r2_desc">Synchronisation via le stockage d’objets Cloudflare R2, en utilisant une API compatible avec S3 ; vous devez fournir l’ID du compte et la clé d’accès.</string>
+    <string name="sync_server_git_desc">Synchroniser les notes avec un dépôt Git distant, en conservant l’historique complet des validations ; la synchronisation d’une seule note n’est pas prise en charge pour le moment.</string>
+    <string name="sync_server_external_storage_desc">Synchroniser les notes vers un répertoire de stockage externe local, sans nécessiter de connexion réseau, adapté aux sauvegardes via une clé USB ou une carte SD.</string>
     <string name="set_sync_onedrive_root_tip">L\'application synchronisera les notes avec le répertoire « %s » à la racine de votre OneDrive. Vous pouvez cliquer sur le bouton ci-dessous pour le modifier.</string>
     <string name="set_sync_onedrive_root_change">Modifier le répertoire de synchronisation</string>
     <string name="set_sync_interval">Intervalle de synchronisation</string>
@@ -1221,4 +1229,5 @@ C’est parti !</string>
     <string name="compose_note_info_encrypt">Chiffrement</string>
     <string name="text_yes">Est</string>
     <string name="text_no">Non</string>
+    <string name="config_new_version_default_desc">Des optimisations ont été apportées aux détails de l’application.</string>
 </resources>

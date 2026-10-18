@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">설정 후 바로 생체 정보를 사용하여 신원을 인증할 수 있습니다.</string>
     <string name="common_app_intro_subtitle">당신을 다시 알아가기</string>
     <string name="common_app_intro_title_2">클라우드 동기화</string>
-    <string name="common_app_intro_detail_2">OneDrive, DropBox 및 WebDAV 동기화 방식을 지원합니다. 메모 변경 사항은 서버에 즉시 동기화됩니다.</string>
+    <string name="common_app_intro_detail_2">OneDrive, Dropbox, Cloudflare R2, Git, 바이두 웹디스크(Baidu Netdisk), WebDAV 및 외부 저장 디렉터리 등 7가지 동기화 방식을 지원하며, 메모를 수정하면 즉시 서버에 동기화됩니다.</string>
     <string name="common_app_intro_title_3">안전</string>
     <string name="common_app_intro_detail_3">데이터와 개인 정보를 보호하기 위한 앱 잠금 및 메모 종단 간 암호화</string>
     <string name="common_app_intro_title_4">지식 여정을 시작하세요</string>
@@ -747,6 +747,14 @@
     <string name="set_sunc_dropbox_configured_tip">Dropbox를 이미 구성했습니다. 구성을 업데이트해야 하는 경우 먼저 현재 설정을 삭제한 후 다시 구성하세요.</string>
     <string name="set_sync_onedrive_connected_message">OneDrive가 연결되었습니다!\n아래 버튼을 클릭하면 로그아웃할 수 있습니다.</string>
     <string name="set_sync_onedrive_sign_out">OneDrive에서 로그아웃되었습니다!</string>
+    <string name="set_sync_server_choose">선택</string>
+    <string name="sync_server_webdav_desc">WebDAV 프로토콜을 통한 동기화로 Nextcloud, ownCloud, 시놀로지(Synology) NAS 등 다양한 클라우드 저장소 서비스와 호환됩니다.</string>
+    <string name="sync_server_dropbox_desc">Dropbox에 노트를 동기화하려면 Dropbox 계정에 로그인하고 권한을 부여하기만 하면 됩니다.</string>
+    <string name="sync_server_onedrive_desc">노트를 OneDrive(개인 계정)로 동기화합니다. 마이크로소프트 계정에 로그인하고 권한을 부여하기만 하면 사용할 수 있습니다.</string>
+    <string name="sync_server_baidu_desc">노트를 바이두 네트워크 디스크(Baidu Netdisk)에 동기화합니다.</string>
+    <string name="sync_server_cloudflare_r2_desc">Cloudflare R2 객체 저장소를 통한 동기화로, S3 호환 API를 사용하며 계정 ID와 액세스 키를 제공해야 합니다.</string>
+    <string name="sync_server_git_desc">노트를 원격 Git 저장소로 동기화하여 전체 커밋 기록을 보존합니다. 단일 노트 동기화는 현재 지원되지 않습니다.</string>
+    <string name="sync_server_external_storage_desc">노트를 로컬 외부 저장 디렉터리로 동기화합니다. 네트워크가 필요 없으며, USB 드라이브 또는 SD 카드를 통한 백업에 적합합니다.</string>
     <string name="set_sync_onedrive_root_tip">앱은 OneDrive 루트 아래의 \"%s\" 디렉터리에 메모를 동기화합니다. 아래 버튼을 클릭하여 동기화 설정을 변경할 수 있습니다.</string>
     <string name="set_sync_onedrive_root_change">동기화 디렉토리 변경</string>
     <string name="set_sync_interval">동기화 간격</string>
@@ -1219,4 +1227,5 @@
     <string name="compose_note_info_encrypt">암호화</string>
     <string name="text_yes">는</string>
     <string name="text_no">아니요</string>
+    <string name="config_new_version_default_desc">앱의 세부 사항을 최적화했습니다.</string>
 </resources>

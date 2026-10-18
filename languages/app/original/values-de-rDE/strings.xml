@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">Nach der Einrichtung kann die biometrische Authentifizierung direkt verwendet werden.</string>
     <string name="common_app_intro_subtitle">Neu kennenlernen</string>
     <string name="common_app_intro_title_2">Cloud-Synchronisierung</string>
-    <string name="common_app_intro_detail_2">Unterstützt die Synchronisierungsmethoden OneDrive, DropBox und WebDAV. Änderungen an Notizen können sofort mit dem Server synchronisiert werden.</string>
+    <string name="common_app_intro_detail_2">Unterstützt 7 Synchronisationsmethoden: OneDrive, Dropbox, Cloudflare R2, Git, Baidu Netdisk, WebDAV und externe Speicherverzeichnisse; Änderungen an Notizen werden sofort mit dem Server synchronisiert.</string>
     <string name="common_app_intro_title_3">Sicherheit</string>
     <string name="common_app_intro_detail_3">App-Sperre und Ende-zu-Ende-Verschlüsselung für Notizen zum Schutz Ihrer Daten und Privatsphäre</string>
     <string name="common_app_intro_title_4">Beginnen Sie Ihre Wissensreise</string>
@@ -747,6 +747,14 @@ Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustelle
     <string name="set_sunc_dropbox_configured_tip">Sie haben Dropbox bereits konfiguriert. Wenn Sie die Konfiguration aktualisieren müssen, löschen Sie zunächst die aktuellen Einstellungen und konfigurieren Sie Dropbox anschließend neu.</string>
     <string name="set_sync_onedrive_connected_message">OneDrive ist verbunden!\nSie können auf die Schaltfläche unten klicken, um sich abzumelden.</string>
     <string name="set_sync_onedrive_sign_out">OneDrive abgemeldet!</string>
+    <string name="set_sync_server_choose">Auswählen</string>
+    <string name="sync_server_webdav_desc">Synchronisierung über das WebDAV-Protokoll; kompatibel mit verschiedenen Cloud-Speicherdiensten wie Nextcloud, ownCloud und Synology NAS.</string>
+    <string name="sync_server_dropbox_desc">Notizen mit Dropbox synchronisieren: Melden Sie sich bei Ihrem Dropbox-Konto an und erteilen Sie die erforderliche Berechtigung, um diese Funktion nutzen zu können.</string>
+    <string name="sync_server_onedrive_desc">Notizen mit OneDrive (persönliches Konto) synchronisieren – einfach ein Microsoft-Konto anmelden und die erforderliche Berechtigung erteilen.</string>
+    <string name="sync_server_baidu_desc">Notizen mit Baidu Cloud synchronisieren.</string>
+    <string name="sync_server_cloudflare_r2_desc">Synchronisierung über Cloudflare R2-Objektspeicher mit einer S3-kompatiblen API; es müssen die Kontoidentifikationsnummer und der Zugriffsschlüssel bereitgestellt werden.</string>
+    <string name="sync_server_git_desc">Notizen mit einem entfernten Git-Repository synchronisieren, wobei der vollständige Commit-Verlauf erhalten bleibt; die Synchronisierung einzelner Notizen wird vorerst nicht unterstützt.</string>
+    <string name="sync_server_external_storage_desc">Notizen in das lokale externe Speicherverzeichnis synchronisieren – ohne Internetverbindung; geeignet für Backups per USB-Stick oder SD-Karte.</string>
     <string name="set_sync_onedrive_root_tip">Die App synchronisiert Notizen mit dem Verzeichnis „%s“ im Stammverzeichnis Ihres OneDrive. Klicken Sie auf die Schaltfläche unten, um dies zu ändern.</string>
     <string name="set_sync_onedrive_root_change">Synchronisierungsverzeichnis ändern</string>
     <string name="set_sync_interval">Synchronisationsintervall</string>
@@ -1218,4 +1226,5 @@ Los geht’s!</string>
     <string name="compose_note_info_encrypt">Verschlüsselung</string>
     <string name="text_yes">Ist</string>
     <string name="text_no">Nein</string>
+    <string name="config_new_version_default_desc">Die Details der Anwendung wurden optimiert.</string>
 </resources>

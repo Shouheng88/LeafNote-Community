@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">設定後可直接使用生物特徵進行身份核證。</string>
     <string name="common_app_intro_subtitle">重新認識你</string>
     <string name="common_app_intro_title_2">雲端同步</string>
-    <string name="common_app_intro_detail_2">支援OneDrive、DropBox 和WebDAV 三種同步方式，筆記修改可以立即同步到伺服器</string>
+    <string name="common_app_intro_detail_2">支援 OneDrive、DropBox、CloudFlare R2、Git、百度網盤、WebDAV 及外部儲存目錄共 7 種同步方式，筆記修改可即時同步至伺服器。</string>
     <string name="common_app_intro_title_3">安全</string>
     <string name="common_app_intro_detail_3">應用鎖定和筆記端對端加密，保障你的資料和隱私安全</string>
     <string name="common_app_intro_title_4">開啟你的知識之旅</string>
@@ -745,6 +745,14 @@
     <string name="set_sunc_dropbox_configured_tip">您已設定 Dropbox。如果需要更新配置，請先清除目前設置，然後重新配置。</string>
     <string name="set_sync_onedrive_connected_message">OneDrive 已連線！ \n您可以點選下方按鈕退出。</string>
     <string name="set_sync_onedrive_sign_out">OneDrive 已退出！</string>
+    <string name="set_sync_server_choose">選擇</string>
+    <string name="sync_server_webdav_desc">透過 WebDAV 協議同步，兼容 Nextcloud、ownCloud、Synology NAS 等多種網盤與儲存服務。</string>
+    <string name="sync_server_dropbox_desc">將筆記同步至 Dropbox，登入 Dropbox 帳戶並授權即可使用。</string>
+    <string name="sync_server_onedrive_desc">將筆記同步至 OneDrive（個人帳戶），登入 Microsoft 帳戶並授權即可使用。</string>
+    <string name="sync_server_baidu_desc">將筆記同步至百度網盤。</string>
+    <string name="sync_server_cloudflare_r2_desc">透過 Cloudflare R2 物件儲存同步，採用相容 S3 的 API，需要提供帳戶 ID 與存取密鑰。</string>
+    <string name="sync_server_git_desc">將筆記同步至遠端 Git 倉庫，保留完整提交歷史，暫不支援單條筆記同步。</string>
+    <string name="sync_server_external_storage_desc">將筆記同步至本地外部儲存目錄，毋須網絡，適合透過 U 盤或 SD 卡進行備份。</string>
     <string name="set_sync_onedrive_root_tip">該應用程式會將筆記同步到 OneDrive 根目錄下的「%s」目錄。您可以點擊下方按鈕進行更改。</string>
     <string name="set_sync_onedrive_root_change">變更同步目錄</string>
     <string name="set_sync_interval">同步間隔</string>
@@ -1214,4 +1222,5 @@
     <string name="compose_note_info_encrypt">加密</string>
     <string name="text_yes">係</string>
     <string name="text_no">否</string>
+    <string name="config_new_version_default_desc">已優化應用程式的細節</string>
 </resources>

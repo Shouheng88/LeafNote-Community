@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">設定後、すぐに生体情報による本人確認が可能です。</string>
     <string name="common_app_intro_subtitle">あなたを再認識する</string>
     <string name="common_app_intro_title_2">クラウド同期</string>
-    <string name="common_app_intro_detail_2">OneDrive、DropBox、WebDAVの同期方法をサポートしています。メモの変更はすぐにサーバーに同期されます。</string>
+    <string name="common_app_intro_detail_2">OneDrive、DropBox、CloudFlare R2、Git、百度網盤、WebDAV、および外部ストレージディレクトリの7種類の同期方式をサポート。ノートの変更は即座にサーバーに同期されます。</string>
     <string name="common_app_intro_title_3">安全性</string>
     <string name="common_app_intro_detail_3">アプリをロックし、エンドツーエンドの暗号化でデータとプライバシーを保護します</string>
     <string name="common_app_intro_title_4">知識の旅を始めましょう</string>
@@ -747,6 +747,14 @@
     <string name="set_sunc_dropbox_configured_tip">Dropboxはすでに設定されています。設定を更新する必要がある場合は、まず現在の設定をクリアしてから再設定してください。</string>
     <string name="set_sync_onedrive_connected_message">OneDrive が接続されました。\nサインアウトするには下のボタンをクリックしてください。</string>
     <string name="set_sync_onedrive_sign_out">OneDrive からサインアウトしました。</string>
+    <string name="set_sync_server_choose">選択</string>
+    <string name="sync_server_webdav_desc">WebDAV プロトコルによる同期をサポートし、Nextcloud、ownCloud、Synology NAS など、さまざまなクラウドストレージサービスと互換性があります。</string>
+    <string name="sync_server_dropbox_desc">Dropbox にノートを同期します。Dropbox アカウントにログインして承認するだけで使用できます。</string>
+    <string name="sync_server_onedrive_desc">ノートをOneDrive（個人アカウント）に同期します。Microsoftアカウントにログインし、権限を付与するだけで使用できます。</string>
+    <string name="sync_server_baidu_desc">ノートを百度ネットディスクに同期します。</string>
+    <string name="sync_server_cloudflare_r2_desc">Cloudflare R2 オブジェクトストレージを通じた同期（S3 互換 API を使用）、アカウント ID およびアクセスキーの入力が必要です。</string>
+    <string name="sync_server_git_desc">ノートをリモートの Git リポジトリに同期し、完全なコミット履歴を保持します。ただし、単一のノートを個別に同期することは現時点ではサポートされていません。</string>
+    <string name="sync_server_external_storage_desc">ノートをローカルの外部ストレージディレクトリに同期します。ネットワーク接続は不要で、USBメモリやSDカードによるバックアップに適しています。</string>
     <string name="set_sync_onedrive_root_tip">アプリはOneDriveのルート下の「%s」ディレクトリにメモを同期します。変更するには下のボタンをクリックしてください。</string>
     <string name="set_sync_onedrive_root_change">同期ディレクトリの変更</string>
     <string name="set_sync_interval">同期間隔</string>
@@ -1216,4 +1224,5 @@
     <string name="compose_note_info_encrypt">暗号化</string>
     <string name="text_yes">は</string>
     <string name="text_no">いいえ</string>
+    <string name="config_new_version_default_desc">アプリケーションの詳細を最適化しました。</string>
 </resources>

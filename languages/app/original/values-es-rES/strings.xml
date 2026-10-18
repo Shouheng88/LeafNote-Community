@@ -142,7 +142,7 @@
     <string name="common_set_security_biometric_summary">Tras configurarlo, se puede utilizar directamente la información biométrica para la verificación de identidad.</string>
     <string name="common_app_intro_subtitle">Volver a conocerte</string>
     <string name="common_app_intro_title_2">Sincronización en la nube</string>
-    <string name="common_app_intro_detail_2">Compatible con los métodos de sincronización OneDrive, DropBox y WebDAV. Los cambios en las notas se sincronizan con el servidor inmediatamente.</string>
+    <string name="common_app_intro_detail_2">Admite 7 métodos de sincronización: OneDrive, Dropbox, Cloudflare R2, Git, Baidu Netdisk, WebDAV y directorios de almacenamiento externo; las modificaciones en las notas se sincronizan inmediatamente con el servidor.</string>
     <string name="common_app_intro_title_3">Seguridad</string>
     <string name="common_app_intro_detail_3">Bloqueo de aplicaciones y cifrado de extremo a extremo de notas para proteger sus datos y privacidad</string>
     <string name="common_app_intro_title_4">Comienza tu viaje de conocimiento</string>
@@ -752,6 +752,14 @@ Esta prueba tiene como objetivo permitir a los usuarios experimentar las funcion
     <string name="set_sunc_dropbox_configured_tip">Ya configuraste Dropbox. Si necesitas actualizar la configuración, borra primero la configuración actual y luego vuelve a configurarlo.</string>
     <string name="set_sync_onedrive_connected_message">¡OneDrive está conectado!\nPuede hacer clic en el botón a continuación para cerrar sesión.</string>
     <string name="set_sync_onedrive_sign_out">¡OneDrive cerró sesión!</string>
+    <string name="set_sync_server_choose">Seleccionar</string>
+    <string name="sync_server_webdav_desc">Sincronización mediante el protocolo WebDAV, compatible con múltiples servicios de almacenamiento en la nube y NAS, como Nextcloud, ownCloud y Synology NAS.</string>
+    <string name="sync_server_dropbox_desc">Sincronice sus notas con Dropbox; simplemente inicie sesión en su cuenta de Dropbox y otorgue los permisos necesarios para usar esta función.</string>
+    <string name="sync_server_onedrive_desc">Sincronice sus notas con OneDrive (cuenta personal); inicie sesión con su cuenta de Microsoft y otorgue los permisos necesarios para usar esta función.</string>
+    <string name="sync_server_baidu_desc">Sincronizar las notas con Baidu Wangpan.</string>
+    <string name="sync_server_cloudflare_r2_desc">Sincronización mediante el almacenamiento de objetos Cloudflare R2, que utiliza una API compatible con S3; se requiere proporcionar el ID de la cuenta y la clave de acceso.</string>
+    <string name="sync_server_git_desc">Sincronizar las notas con un repositorio remoto de Git, conservando el historial completo de commits; actualmente no se admite la sincronización de notas individuales.</string>
+    <string name="sync_server_external_storage_desc">Sincronice las notas con el directorio de almacenamiento externo local sin necesidad de conexión a Internet; ideal para realizar copias de seguridad mediante una unidad USB o una tarjeta SD.</string>
     <string name="set_sync_onedrive_root_tip">La aplicación sincronizará las notas con el directorio \"%s\" en la raíz de tu OneDrive. Puedes hacer clic en el botón de abajo para cambiarlo.</string>
     <string name="set_sync_onedrive_root_change">Cambiar directorio de sincronización</string>
     <string name="set_sync_interval">Intervalo de sincronización</string>
@@ -1223,4 +1231,5 @@ Descubramos juntos, incluso en medio de nuestros días más ajetreados, esas ide
     <string name="compose_note_info_encrypt">Cifrado</string>
     <string name="text_yes">Es</string>
     <string name="text_no">No</string>
+    <string name="config_new_version_default_desc">Se han optimizado los detalles de la aplicación.</string>
 </resources>

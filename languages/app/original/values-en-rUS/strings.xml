@@ -143,7 +143,7 @@
     <string name="common_set_security_biometric_summary">After configuration, biometric information can be directly used for identity verification.</string>
     <string name="common_app_intro_subtitle">Rediscover You</string>
     <string name="common_app_intro_title_2">Cloud Synchronization</string>
-    <string name="common_app_intro_detail_2">Supports three synchronization methods: OneDrive, DropBox and WebDAV. Note modifications can be synchronized to the server immediately</string>
+    <string name="common_app_intro_detail_2">Supports 7 synchronization methods: OneDrive, Dropbox, Cloudflare R2, Git, Baidu Netdisk, WebDAV, and external storage directories; note modifications are immediately synchronized to the server.</string>
     <string name="common_app_intro_title_3">Security</string>
     <string name="common_app_intro_detail_3">App lock and notes are end-to-end encrypted to protect your data and privacy</string>
     <string name="common_app_intro_title_4">Start your journey of knowledge</string>
@@ -746,6 +746,14 @@ This trial is designed to let users experience the premium features; it will be 
     <string name="set_sync_server_clear">Clear Server Configurations</string>
     <string name="set_sync_server_clear_message">Are you sure you want to clear server configurations? This will also delete sync cache data, which may cause longer sync times.</string>
     <string name="set_sync_server_summary">Configure cloud sync servers, supporting WebDAV, Dropbox, and OneDrive synchronization.</string>
+    <string name="set_sync_server_choose">Select</string>
+    <string name="sync_server_webdav_desc">Synchronize via the WebDAV protocol, compatible with various cloud storage services such as Nextcloud, ownCloud, and Synology NAS.</string>
+    <string name="sync_server_dropbox_desc">Sync notes to Dropbox; log in to your Dropbox account and authorize to use.</string>
+    <string name="sync_server_onedrive_desc">Sync notes to OneDrive (personal account); simply log in with your Microsoft account and grant authorization to use.</string>
+    <string name="sync_server_baidu_desc">Sync notes to Baidu Netdisk.</string>
+    <string name="sync_server_cloudflare_r2_desc">Synchronize via Cloudflare R2 object storage, using S3-compatible APIs; account ID and access key are required.</string>
+    <string name="sync_server_git_desc">Sync notes to a remote Git repository, preserving the complete commit history; syncing individual notes is not supported yet.</string>
+    <string name="sync_server_external_storage_desc">Sync notes to the local external storage directory without requiring network connectivity—ideal for backups via USB flash drive or SD card.</string>
     <string name="set_sync_webdav_server">WebDAV Server</string>
     <string name="set_sync_webdav_server_host">Host</string>
     <string name="set_sync_webdav_server_path">Folder to Synchronize</string>
@@ -1229,4 +1237,5 @@ Let’s begin!</string>
     <string name="compose_note_info_encrypt">Encrypted</string>
     <string name="text_yes">Yes</string>
     <string name="text_no">No</string>
+    <string name="config_new_version_default_desc">Optimized the application details.</string>
 </resources>
