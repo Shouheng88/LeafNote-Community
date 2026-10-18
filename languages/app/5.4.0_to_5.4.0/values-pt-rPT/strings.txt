@@ -1,294 +1,34 @@
-:name> set_export_sub
-:text> Essa funcionalidade foi migrada para o tipo “Sincronização – Armazenamento Externo”. A nova funcionalidade está integrada à lógica de sincronização e oferece uma melhor experiência de uso.
+:name> common_app_intro_detail_2
+:text> Suporta 7 métodos de sincronização: OneDrive, Dropbox, Cloudflare R2, Git, Disco em Nuvem Baidu, WebDAV e diretórios de armazenamento externo; as alterações nas notas são sincronizadas imediatamente com o servidor.
 
-:name> set_sync_last_time
-:text> Última Sincronização
+:name> set_note_image_compress_quality_sub
+:text> Qualidade da compressão de imagens. Quanto maior o valo
+r, maior a nitidez e maior o espaço ocupado. Valor atual: %d
 
-:name> set_sync_cloudflare_r2
-:text> CloudFlare R2
+:name> set_sync_server_choose
+:text> Selecionar
 
-:name> set_sync_cloudflare_r2_account_id
-:text> Account ID
+:name> sync_server_webdav_desc
+:text> Sincronização via protocolo WebDAV, compatível com diversos serviços de armazenamento em nuvem e discos rígidos de rede, como Nextcloud, ownCloud e NAS Synology.
 
-:name> set_sync_cloudflare_r2_access_key_id
-:text> Access Key ID
+:name> sync_server_dropbox_desc
+:text> Sincronize suas notas com o Dropbox; basta fazer login na sua conta do Dropbox e conceder autorização para usar.
 
-:name> set_sync_cloudflare_r2_access_key
-:text> Access Key
+:name> sync_server_onedrive_desc
+:text> Sincronize suas notas com o OneDrive (conta pessoal); basta fazer login na sua conta da Microsoft e conceder a autorização para usar.
 
-:name> set_sync_cloudflare_r2_path
-:text> Sincronizar diretório
+:name> sync_server_baidu_desc
+:text> Sincronizar as notas com o Baidu Netdisk.
 
-:name> set_sync_git_server
-:text> Repositório Git
+:name> sync_server_cloudflare_r2_desc
+:text> Sincronização através do armazenamento de objetos Cloudflare R2, utilizando uma API compatível com S3; é necessário fornecer o ID da conta e a chave de acesso.
 
-:name> set_sync_git_url
-:text> Endereço do repositório remoto (HTTPS)
+:name> sync_server_git_desc
+:text> Sincronizar as notas para um repositório Git remoto, mantendo o histórico completo de commits; a sincronização de notas individuais ainda não é suportada.
 
-:name> set_sync_git_account
-:text> Nome de usuário do Git
+:name> sync_server_external_storage_desc
+:text> Sincronizar notas com o diretório de armazenamento externo local, sem necessidade de conexão à internet; ideal para fazer backup por meio de pen drive ou cartão SD.
 
-:name> set_sync_git_token
-:text> Token de acesso pessoal (PAT)
-
-:name> set_sync_git_branch
-:text> Nome do ramo
-
-:name> set_sync_git_advanced_options
-:text> Opções avançadas
-
-:name> set_sync_git_test_connection
-:text> Testar conexão
-
-:name> set_sync_git_enable
-:text> Ativar
-
-:name> set_sync_git_testing
-:text> Testando a conexão
-…
-
-:name> set_sync_git_enabling
-:text> Ativando a sincronização com Git
-…
-
-:name> set_sync_git_connection_ok
-:text> Conexão normal
-
-:name> set_sync_git_error_invalid_url
-:text> Falha na conexão: endereço do repositório inválido ou repositório inexistente.
-
-:name> set_sync_git_error_auth_failed
-:text> Falha na conexão: autenticação falhou. Verifique o nome de usuário e o token, e confirme se o token possui permissão de acesso a este repositório.
-
-:name> set_sync_git_error_network
-:text> Falha na conexão: erro de rede. Verifique sua conexão à internet e tente novamente.
-
-:name> set_sync_git_enable_failed
-:text> Falha ao ativar a sincronização Git: %s
-
-:name> set_sync_git_info_entry
-:text> Informações e operações do Git
-
-:name> set_sync_git_info_entry_sub
-:text> Ver o status do Git e executar operações rápidas.
-
-:name> set_sync_git_info_title
-:text> Informações do Git
-
-:name> set_sync_git_group_status
-:text> Estado do Git
-
-:name> set_sync_git_group_actions
-:text> Ações rápidas
-
-:name> set_sync_git_repo_path
-:text> Caminho do repositório
-
-:name> set_sync_git_status_branch
-:text> Ramo atual
-
-:name> set_sync_git_remote_url
-:text> Endereço remoto
-
-:name> set_sync_git_last_commit
-:text> Último commit
-
-:name> set_sync_git_workspace
-:text> Alteração na Área de Trabalho
-
-:name> set_sync_git_ahead_behind
-:text> Diferença local / remota
-
-:name> set_sync_git_exec_status
-:text> Estado de execução
-
-:name> set_sync_git_action_refresh
-:text> Atualizar estado
-
-:name> set_sync_git_action_fetch
-:text> Buscar atualizações remotas (Fetch)
-
-:name> set_sync_git_action_pull
-:text> Buscar e mesclar (Pull)
-
-:name> set_sync_git_action_commit
-:text> Enviar alterações locais (Commit)
-
-:name> set_sync_git_action_push
-:text> Enviar para o repositório remoto (Push)
-
-:name> set_sync_git_action_sync
-:text> Sincronização em um clique (puxar + enviar + empurrar)
-
-:name> set_sync_git_action_log
-:text> Ver histórico de commits
-
-:name> set_sync_git_action_changes
-:text> Ver arquivos alterados
-
-:name> set_sync_git_not_initialized
-:text> O diretório de notas ainda não é um repositório Git.
-
-:name> set_sync_git_no_commit
-:text> Nenhuma submissão ainda
-
-:name> set_sync_git_no_changes
-:text> Área de trabalho limpa, sem alterações locais
-
-:name> set_sync_git_ahead_behind_hint
-:text> Por favor, primeiro obtenha as atualizações remotas antes de comparar.
-
-:name> set_sync_git_no_remote_branch
-:text> Ramificação remota ainda não obtida
-
-:name> set_sync_git_running
-:text> Em execução
-…
-
-:name> set_sync_git_idle
-:text> ocioso
-
-:name> set_sync_git_sync_running
-:text> Já existe uma tarefa de sincronização em execução. Aguarde, por favor.
-
-:name> set_sync_git_workspace_summary
-:text> Modificado %1$d, adicionado %2$d, removido %3$d, ausente %4$d, não rastreado %5$d, conflito %6$d
-
-:name> set_sync_git_ahead_behind_summary
-:text> Liderando %1$d, atrasado %2$d (seguindo %3$s)
-
-:name> set_sync_git_last_commit_summary
-:text> %1$s · %2$s · %3$s
-
-:name> set_sync_git_action_done
-:text> %1$s concluído com sucesso
-
-:name> set_sync_git_action_failed
-:text> %1$s falhou: %2$s
-
-:name> set_sync_git_commit_nothing
-:text> Não há alterações a serem enviadas; o espaço de trabalho está limpo.
-
-:name> set_sync_git_commit_done
-:text> Enviado %1$s
-
-:name> set_sync_git_push_ok
-:text> Envio bem-sucedido
-
-:name> set_sync_git_push_rejected
-:text> Envio rejeitado: %1$s
-
-:name> set_sync_git_merge_conflict
-:text> Há %1$d conflitos de fusão de arquivos; resolva-os primeiro antes de enviar.
-
-:name> set_sync_git_pull_ok
-:text> Atualização bem-sucedida (%1$s)
-
-:name> set_sync_git_pull_no_remote
-:text> A ramificação remota ainda não existe, não há conteúdo para puxar.
-
-:name> set_sync_git_fetch_ok
-:text> Atualização remota obtida com sucesso
-
-:name> set_sync_git_sync_ok
-:text> Sincronização bem-sucedida
-
-:name> set_sync_git_commit_message
-:text> LeafNote Sincronização Manual
-
-:name> set_sync_git_changes_title
-:text> Alterar arquivo
-
-:name> set_sync_git_log_title
-:text> Histórico de envios
-
-:name> set_sync_git_no_changes_detail
-:text> Nenhuma alteração local
-
-:name> set_sync_git_log_empty
-:text> Nenhuma submissão ainda
-
-:name> set_sync_git_changes_added
-:text> Novo
-
-:name> set_sync_git_changes_changed
-:text> Alterado
-
-:name> set_sync_git_changes_modified
-:text> Modificado
-
-:name> set_sync_git_changes_removed
-:text> Eliminado
-
-:name> set_sync_git_changes_missing
-:text> ausente
-
-:name> set_sync_git_changes_untracked
-:text> Não rastreado
-
-:name> set_sync_git_changes_conflicting
-:text> Conflito
-
-:name> set_sync_cloudflare_r2_path_desc
-:text> O diretório de sincronização corresponde ao nome do bucket. Ao solicitar as credenciais acima, certifique-se de que essas credenciais tenham permissões de leitura e gravação para o bucket especificado.
-
-:name> sync_server_external_storage
-:text> Armazenamento externo
-
-:name> sync_git_conflict_keep_local
-:text> Usar localmente
-
-:name> sync_git_conflict_keep_local_sub
-:text> Manter o conteúdo local, descartar as alterações remotas.
-
-:name> sync_git_conflict_keep_remote
-:text> Usar remoto
-
-:name> sync_git_conflict_keep_remote_sub
-:text> Manter o conteúdo remoto e descartar as modificações locais.
-
-:name> sync_git_conflict_keep_both
-:text> Ambos são mantidos
-
-:name> sync_git_conflict_keep_both_sub
-:text> Mesclar dois trechos de conteúdo, adequado para situações em que as notas adicionam novos trechos separadamente.
-
-:name> sync_git_conflict_manual_edit
-:text> Edição manual
-
-:name> sync_git_conflict_manual_edit_sub
-:text> Primeiro, mescle os dois parágrafos e, em seguida, entre no editor para ajustar manualmente o resultado.
-
-:name> sync_git_conflict_keep_local_tip
-:text> Será usado o conteúdo local para substituir o arquivo remoto. Continuar?
-
-:name> sync_git_conflict_keep_remote_tip
-:text> Será usado o conteúdo remoto para substituir o arquivo local. Tem certeza de que deseja continuar?
-
-:name> sync_git_conflict_resolved
-:text> Conflito resolvido.
-
-:name> sync_git_conflict_remote_updated
-:text> Durante a resolução de conflitos, houve novos commits remotos que geraram novos conflitos; sincronize novamente antes de prosseguir.
-
-:name> sync_git_sync_in_progress
-:text> A tarefa de sincronização está em execução. Por favor, tente novamente mais tarde.
-
-:name> sync_git_conflict_files
-:text> Ficheiros em conflito
-
-:name> set_sync_server_help
-:text> Configurações comuns do servidor
-
-:name> set_sync_server_help_title
-:text> Documento
-
-:name> compose_note_info_encrypt
-:text> Criptografia
-
-:name> text_yes
-:text> É
-
-:name> text_no
-:text> Não
+:name> config_new_version_default_desc
+:text> Optimizou-se os detalhes da aplicação.
 
