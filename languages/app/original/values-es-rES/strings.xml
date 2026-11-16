@@ -89,10 +89,15 @@
     <string name="common_app_message">Mensajes de aplicación</string>
     <string name="data_statistics">Estadísticas</string>
     <string name="review">Revisar</string>
+    <string name="todo">Pendientes</string>
+    <string name="todo_empty_title">No hay tareas pendientes</string>
+    <string name="todo_empty_desc">Las tareas pendientes en Markdown con el formato - [ ] Tarea de tus notas se mostrarán aquí.</string>
+    <string name="todo_item_count">%1$d elementos</string>
     <string name="unit_day">días</string>
     <string name="unit_year">años</string>
     <string name="statistics_new_notes_this_month">Nuevas notas este mes</string>
     <string name="statistics_top_tags">5 etiquetas principales</string>
+    <string name="todo_filter_completed">Ocultar tareas completadas</string>
     <string name="statistics_storage">Almacenamiento</string>
     <string name="common_set_security">Seguridad</string>
     <string name="common_set_security_symmary">Bloqueo de aplicaciones, cifrado de huellas dactilares y notas, etc.</string>
@@ -140,7 +145,7 @@
     <string name="common_set_security_biometric_title">Por favor autentíquese</string>
     <string name="common_set_security_biometric_not_match">No coincide, queda %d tiempo(s).</string>
     <string name="common_set_security_biometric_summary">Tras configurarlo, se puede utilizar directamente la información biométrica para la verificación de identidad.</string>
-    <string name="common_app_intro_subtitle">Volver a conocerte</string>
+    <string name="common_app_intro_subtitle">Iniciar la Era Inteligente</string>
     <string name="common_app_intro_title_2">Sincronización en la nube</string>
     <string name="common_app_intro_detail_2">Admite 7 métodos de sincronización: OneDrive, Dropbox, Cloudflare R2, Git, Baidu Netdisk, WebDAV y directorios de almacenamiento externo; las modificaciones en las notas se sincronizan inmediatamente con el servidor.</string>
     <string name="common_app_intro_title_3">Seguridad</string>
@@ -534,7 +539,7 @@ Esta prueba tiene como objetivo permitir a los usuarios experimentar las funcion
     <string name="compose_edit_option_name_NOTE_SNIPPET">Fragmentos de notas</string>
     <string name="compose_edit_note_snippet_title">Seleccionar fragmento de nota</string>
     <string name="compose_edit_find_results">%d resultados</string>
-    <string name="compose_setting_quick_note_folder">Notas rápidas</string>
+    <string name="compose_setting_quick_note_folder">Directorio de almacenamiento</string>
     <string name="compose_setting_folder_change">Cambiar carpeta de notas</string>
     <string name="compose_setting_folder_clear">Borrar carpeta de notas</string>
     <string name="compose_setting_quick_note_folder_tip">Consejo: Puede cambiar la carpeta donde guardar la nota rápida en la configuración de notas en "%s\".</string>
@@ -607,7 +612,7 @@ Esta prueba tiene como objetivo permitir a los usuarios experimentar las funcion
     <string name="set_ai_provider_custom_tip">La IA personalizada debe cumplir con las especificaciones de la API de OpenAI. ¡Haz clic para obtener más información!</string>
     <string name="set_ai_model">Modelo de IA</string>
     <string name="set_ai_custom_input_rquire">Por favor, introduzca "%s".</string>
-    <string name="set_ai_prompt">Note Chat Context</string>
+    <string name="set_ai_prompt">Sugerencia del sistema</string>
     <string name="set_ai_prompt_tip">El marcador de posición \"%s\" será reemplazado por el contenido de tu nota cuando hables con IA.</string>
     <string name="set_security_applock">Bloqueo de aplicaciones</string>
     <string name="set_encrypt_note">Cifrado de notas</string>
@@ -615,12 +620,18 @@ Esta prueba tiene como objetivo permitir a los usuarios experimentar las funcion
     <string name="set_theme_and_style_summary">Temas de aplicaciones, temas de editor, fuentes, estilos de código y CSS, etc.</string>
     <string name="set_theme">Tema</string>
     <string name="set_theme_theme">Aplicar tema</string>
+    <string name="set_ai_auto_parse">Analizar notas automáticamente</string>
+    <string name="set_ai_auto_parse_summary">Si se activa, se iniciará el análisis de la información del título, resumen y etiquetas de las notas.</string>
     <string name="set_theme_title">Elige un tema</string>
     <string name="set_theme_theme_follow_system">Seguir el sistema</string>
     <string name="set_theme_theme_follow_system_tip">Siga el sistema para cambiar entre temas claros y oscuros.</string>
     <string name="set_theme_theme_warm">Amanecer · Naranja</string>
     <string name="set_theme_theme_cold">Vitalidad · Verde</string>
     <string name="set_theme_theme_christmas">Sueño de la noche de Navidad</string>
+    <string name="set_ai_max_steps">Número máximo de pasos del agente inteligente</string>
+    <string name="set_ai_max_steps_summary">Número máximo de rondas de razonamiento por tarea: %d</string>
+    <string name="set_ai_max_steps_tip">El agente inteligente dejará de razonar tras alcanzar este número de iteraciones. Rango configurable: %d–%d.</string>
+    <string name="set_ai_max_steps_invalid">Por favor, introduzca un número entre %d y %d.</string>
     <string name="set_theme_theme_lunar_new_year">Feliz año nuevo</string>
     <string name="set_theme_theme_dark">Elegante · negro</string>
     <string name="set_theme_theme_purple">Noble·Púrpura</string>
@@ -684,6 +695,7 @@ Esta prueba tiene como objetivo permitir a los usuarios experimentar las funcion
     <string name="note_snippet_content">Contenido</string>
     <string name="set_illegal_charset">Caracteres No Válidos</string>
     <string name="set_illegal_charset_sub">Caracteres no válidos al configurar el nombre del archivo; la aplicación los reemplazará automáticamente según su configuración.</string>
+    <string name="note_snippet_dynamic_datetime_tip">Sugerencia: Puede usar {{date}} y {{time}} como fecha y hora dinámicas; se sustituirán automáticamente por la fecha y hora actuales al insertar el fragmento.</string>
     <string name="set_note_show_date">Mostrar información de tiempo</string>
     <string name="set_note_edit_directly">Modo de selección de notas</string>
     <string name="set_note_edit_directly_sub">Una vez habilitado, al hacer clic en una nota se accederá directamente a la página de edición (en lugar de a la página de visualización).</string>
@@ -1232,4 +1244,54 @@ Descubramos juntos, incluso en medio de nuestros días más ajetreados, esas ide
     <string name="text_yes">Es</string>
     <string name="text_no">No</string>
     <string name="config_new_version_default_desc">Se han optimizado los detalles de la aplicación.</string>
+    <string name="note_snippet_create_title">Nuevo fragmento de nota</string>
+    <string name="ai_chat_group_name">Notas y chat</string>
+    <string name="set_ai_prompt_sub">Palabras clave del sistema en la página de chat de notas</string>
+    <string name="agent_empty_title">Decirle al agente qué quieres hacer</string>
+    <string name="agent_empty_subtitle">Crear, modificar y consultar notas, elaborar planes, gestionar notas&#8230;</string>
+    <string name="input_mode_note">Notas</string>
+    <string name="input_mode_agent">Agente</string>
+    <string name="input_mode_to_agent_toast">Se ha cambiado al modo Agente; el contenido introducido se tratará como una instrucción.</string>
+    <string name="input_mode_to_note_toast">Modo de notas activado. El contenido que escriba se guardará como una nota.</string>
+    <string name="agent_title">Agente</string>
+    <string name="agent_back">Volver</string>
+    <string name="agent_send">Enviar</string>
+    <string name="agent_input_hint">Decirle al agente qué quieres hacer&#8230;</string>
+    <string name="agent_input_empty_toast">Por favor, ingrese el comando</string>
+    <string name="agent_history">Tareas históricas</string>
+    <string name="agent_new_task">Nueva tarea</string>
+    <string name="agent_history_empty">No hay tareas históricas aún</string>
+    <string name="agent_thinking">Pensando&#8230;</string>
+    <string name="agent_status_running">En ejecución</string>
+    <string name="agent_status_completed">Completado</string>
+    <string name="agent_status_failed">Fallo</string>
+    <string name="agent_step_user">yo</string>
+    <string name="agent_step_thought">Reflexión</string>
+    <string name="agent_step_action">Invocar herramienta</string>
+    <string name="agent_step_observation">Observar</string>
+    <string name="agent_step_answer">Respuesta</string>
+    <string name="agent_step_error">Error</string>
+    <string name="agent_expand">Expandir</string>
+    <string name="agent_collapse">Contraer</string>
+    <string name="agent_ai_not_configured">Por favor, configure primero la IA antes de usar el agente.</string>
+    <string name="agent_ai_disabled">La IA ha sido desactivada; actívela primero en la configuración.</string>
+    <string name="agent_reached_max_steps">El agente ha alcanzado el número máximo de pasos de ejecución. Por favor, detalla más tus instrucciones.</string>
+    <string name="agent_parse_error">Error al analizar el contenido devuelto por la IA. Vuelva a intentarlo.</string>
+    <string name="agent_answer_notes">Notas implicadas</string>
+    <string name="agent_danger_confirm_title">Confirmar operación</string>
+    <string name="agent_danger_confirm_message">El agente va a realizar una operación que podría ser arriesgada.
+\n
+
+\n
+Herramienta: %1$s  
+\n
+Parámetros: %2$s  
+\n
+
+\n
+¿Desea continuar?</string>
+    <string name="common_app_intro_title_5">Inteligente</string>
+    <string name="common_app_intro_detail_5">Conversar con tus notas, ejecución integrada de agentes de IA, extracción automática de información de las notas&#8230;  
+\n
+Crea tu verdadero segundo cerebro</string>
 </resources>

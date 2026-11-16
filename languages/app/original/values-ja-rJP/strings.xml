@@ -89,10 +89,15 @@
     <string name="common_app_message">アプリケーションメッセージ</string>
     <string name="data_statistics">統計</string>
     <string name="review">レビュー</string>
+    <string name="todo">タスク</string>
+    <string name="todo_empty_title">未完了のタスクはありません</string>
+    <string name="todo_empty_desc">ノート内で「- [ ] タスク」という形式のMarkdown形式の未完了タスクがここに表示されます。</string>
+    <string name="todo_item_count">%1$d件</string>
     <string name="unit_day">日</string>
     <string name="unit_year">年</string>
     <string name="statistics_new_notes_this_month">今月の新規ノート</string>
     <string name="statistics_top_tags">上位5つのタグ</string>
+    <string name="todo_filter_completed">完了済みのタスクを非表示</string>
     <string name="statistics_storage">ストレージ</string>
     <string name="common_set_security">安全性</string>
     <string name="common_set_security_symmary">アプリロック、指紋、メモの暗号化など。</string>
@@ -140,7 +145,7 @@
     <string name="common_set_security_biometric_title">認証してください</string>
     <string name="common_set_security_biometric_not_match">一致しません。残り %d 回です。</string>
     <string name="common_set_security_biometric_summary">設定後、すぐに生体情報による本人確認が可能です。</string>
-    <string name="common_app_intro_subtitle">あなたを再認識する</string>
+    <string name="common_app_intro_subtitle">スマート時代の始まり</string>
     <string name="common_app_intro_title_2">クラウド同期</string>
     <string name="common_app_intro_detail_2">OneDrive、DropBox、CloudFlare R2、Git、百度網盤、WebDAV、および外部ストレージディレクトリの7種類の同期方式をサポート。ノートの変更は即座にサーバーに同期されます。</string>
     <string name="common_app_intro_title_3">安全性</string>
@@ -529,7 +534,7 @@
     <string name="compose_edit_option_name_NOTE_SNIPPET">ノートスニペット</string>
     <string name="compose_edit_note_snippet_title">ノートスニペットの選択</string>
     <string name="compose_edit_find_results">%d 件の結果</string>
-    <string name="compose_setting_quick_note_folder">クイックノート</string>
+    <string name="compose_setting_quick_note_folder">ストレージディレクトリ</string>
     <string name="compose_setting_folder_change">ノートフォルダの変更</string>
     <string name="compose_setting_folder_clear">クリアノートフォルダー</string>
     <string name="compose_setting_quick_note_folder_tip">ヒント: \"%s\" の下のノート設定で、クイックノートを保存するフォルダを変更できます。</string>
@@ -602,7 +607,7 @@
     <string name="set_ai_provider_custom_tip">カスタムAIはOpenAIのAPI仕様に準拠する必要があります。詳細についてはクリックしてください。</string>
     <string name="set_ai_model">AIモデル</string>
     <string name="set_ai_custom_input_rquire">\"%s\"を入力してください。</string>
-    <string name="set_ai_prompt">Note Chat Context</string>
+    <string name="set_ai_prompt">システムプロンプト</string>
     <string name="set_ai_prompt_tip">プレースホルダー「%s」は、AI と会話するときにメモの内容に置き換えられます。</string>
     <string name="set_security_applock">アプリロック</string>
     <string name="set_encrypt_note">ノートの暗号化</string>
@@ -610,12 +615,18 @@
     <string name="set_theme_and_style_summary">アプリのテーマ、エディターのテーマ、フォント、コード スタイル、CSS など。</string>
     <string name="set_theme">外観</string>
     <string name="set_theme_theme">トピックの適用</string>
+    <string name="set_ai_auto_parse">ノートの自動解析</string>
+    <string name="set_ai_auto_parse_summary">有効にした場合、ノートのタイトル、概要、タグなどの情報を解析します。</string>
     <string name="set_theme_title">トピックの選択</string>
     <string name="set_theme_theme_follow_system">フォローシステム</string>
     <string name="set_theme_theme_follow_system_tip">システムに従って、明るいテーマと暗いテーマを切り替えます。</string>
     <string name="set_theme_theme_warm">オーロラ・オレンジ</string>
     <string name="set_theme_theme_cold">活力・緑</string>
     <string name="set_theme_theme_christmas">クリスマスイブの夢</string>
+    <string name="set_ai_max_steps">エージェントの最大ステップ数</string>
+    <string name="set_ai_max_steps_summary">1回のタスクにおける最大推論ラウンド数：%d</string>
+    <string name="set_ai_max_steps_tip">エージェントはこの推論回数に達すると停止します。設定可能な範囲：%d–%d。</string>
+    <string name="set_ai_max_steps_invalid">%d から %d の間の数字を入力してください。</string>
     <string name="set_theme_theme_lunar_new_year">あけましておめでとう</string>
     <string name="set_theme_theme_dark">エレガント・ブラック</string>
     <string name="set_theme_theme_purple">高貴・紫</string>
@@ -679,6 +690,7 @@
     <string name="note_snippet_content">コンテンツ</string>
     <string name="set_illegal_charset">不正な文字</string>
     <string name="set_illegal_charset_sub">ファイル名の設定時に無効な文字が使用された場合、アプリケーションはユーザーの設定に基づいて自動的に置換します。</string>
+    <string name="note_snippet_dynamic_datetime_tip">ヒント：動的な日付および時刻として {{date}} および {{time}} を使用できます。スニペットを挿入する際に、現在の日付および時刻に自動的に置き換えられます。</string>
     <string name="set_note_show_date">時間情報を表示</string>
     <string name="set_note_edit_directly">メモ選択モード</string>
     <string name="set_note_edit_directly_sub">有効化すると、ノートをクリックした際に表示ページではなく編集ページに直接移動します。</string>
@@ -1225,4 +1237,54 @@
     <string name="text_yes">は</string>
     <string name="text_no">いいえ</string>
     <string name="config_new_version_default_desc">アプリケーションの詳細を最適化しました。</string>
+    <string name="note_snippet_create_title">新規ノートスニペット</string>
+    <string name="ai_chat_group_name">ノートチャット</string>
+    <string name="set_ai_prompt_sub">ノートチャットページ内のシステムプロンプト</string>
+    <string name="agent_empty_title">Agent にやりたいことを伝えてください</string>
+    <string name="agent_empty_subtitle">ノートの作成、編集、検索、計画の立案、ノートの管理&#8230;&#8230;</string>
+    <string name="input_mode_note">ノート</string>
+    <string name="input_mode_agent">Agent</string>
+    <string name="input_mode_to_agent_toast">エージェントモードに切り替えられました。入力された内容はコマンドとして処理されます。</string>
+    <string name="input_mode_to_note_toast">ノートモードに切り替わりました。入力した内容はノートとして保存されます。</string>
+    <string name="agent_title">エージェント</string>
+    <string name="agent_back">戻る</string>
+    <string name="agent_send">送信</string>
+    <string name="agent_input_hint">エージェントに何をしたいかを教えてください&#8230;</string>
+    <string name="agent_input_empty_toast">コマンドを入力してください</string>
+    <string name="agent_history">履歴タスク</string>
+    <string name="agent_new_task">新規タスク</string>
+    <string name="agent_history_empty">まだ履歴タスクがありません</string>
+    <string name="agent_thinking">思考中&#8230;</string>
+    <string name="agent_status_running">実行中</string>
+    <string name="agent_status_completed">完了しました</string>
+    <string name="agent_status_failed">失敗</string>
+    <string name="agent_step_user">私</string>
+    <string name="agent_step_thought">思考</string>
+    <string name="agent_step_action">ツールを呼び出す</string>
+    <string name="agent_step_observation">観察</string>
+    <string name="agent_step_answer">答え</string>
+    <string name="agent_step_error">エラー</string>
+    <string name="agent_expand">展開</string>
+    <string name="agent_collapse">折りたたむ</string>
+    <string name="agent_ai_not_configured">まずAIを設定してから、Agentを使用してください。</string>
+    <string name="agent_ai_disabled">AIは無効になっています。まず設定で有効化してください。</string>
+    <string name="agent_reached_max_steps">Agent が最大実行ステップ数に達しました。指示をより詳細に指定してください。</string>
+    <string name="agent_parse_error">AI からの返信内容の解析に失敗しました。再試行してください。</string>
+    <string name="agent_answer_notes">関連するノート</string>
+    <string name="agent_danger_confirm_title">操作を確認</string>
+    <string name="agent_danger_confirm_message">Agent がリスクを伴う可能性のある操作を実行しようとしています。
+\n
+
+\n
+ツール：%1$s
+\n
+パラメータ：%2$s
+\n
+
+\n
+続行しますか？</string>
+    <string name="common_app_intro_title_5">スマート</string>
+    <string name="common_app_intro_detail_5">ノートと対話、内蔵AIエージェントによる実行、ノート情報の自動抽出&#8230;  
+\n
+本物の「第二の脳」を構築</string>
 </resources>

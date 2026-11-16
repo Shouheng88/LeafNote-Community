@@ -89,10 +89,15 @@
     <string name="common_app_message">Bewerbungsnachrichten</string>
     <string name="data_statistics">Statistik</string>
     <string name="review">Überprüfung</string>
+    <string name="todo">Aufgaben</string>
+    <string name="todo_empty_title">Keine Aufgaben vorhanden</string>
+    <string name="todo_empty_desc">Aufgaben in Markdown-Format mit der Form „- [ ] Aufgabe“ in Notizen werden hier angezeigt.</string>
+    <string name="todo_item_count">%1$d Einträge</string>
     <string name="unit_day">Tage</string>
     <string name="unit_year">Jahre</string>
     <string name="statistics_new_notes_this_month">Neue Notizen diesen Monat</string>
     <string name="statistics_top_tags">Top 5 Tags</string>
+    <string name="todo_filter_completed">Abgeschlossene Aufgaben ausblenden</string>
     <string name="statistics_storage">Speicher</string>
     <string name="common_set_security">Sicherheit</string>
     <string name="common_set_security_symmary">App-Sperre, Fingerabdruck- und Notizverschlüsselung usw.</string>
@@ -140,7 +145,7 @@
     <string name="common_set_security_biometric_title">Bitte authentifizieren Sie sich</string>
     <string name="common_set_security_biometric_not_match">Keine Übereinstimmung, %d Zeit verbleibend.</string>
     <string name="common_set_security_biometric_summary">Nach der Einrichtung kann die biometrische Authentifizierung direkt verwendet werden.</string>
-    <string name="common_app_intro_subtitle">Neu kennenlernen</string>
+    <string name="common_app_intro_subtitle">Den Intelligenten Zeitalter Beginnen</string>
     <string name="common_app_intro_title_2">Cloud-Synchronisierung</string>
     <string name="common_app_intro_detail_2">Unterstützt 7 Synchronisationsmethoden: OneDrive, Dropbox, Cloudflare R2, Git, Baidu Netdisk, WebDAV und externe Speicherverzeichnisse; Änderungen an Notizen werden sofort mit dem Server synchronisiert.</string>
     <string name="common_app_intro_title_3">Sicherheit</string>
@@ -529,7 +534,7 @@ Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustelle
     <string name="compose_edit_option_name_NOTE_SNIPPET">Notiz-Snippets</string>
     <string name="compose_edit_note_snippet_title">Notiz-Auszug auswählen</string>
     <string name="compose_edit_find_results">%d Ergebnisse</string>
-    <string name="compose_setting_quick_note_folder">Schnellnotiz</string>
+    <string name="compose_setting_quick_note_folder">Speicherordner</string>
     <string name="compose_setting_folder_change">Notizordner ändern</string>
     <string name="compose_setting_folder_clear">Notizordner leeren</string>
     <string name="compose_setting_quick_note_folder_tip">Tipp: Sie können den Ordner zum Speichern von Schnellnotizen in den Notizeinstellungen unter \"%s\" ändern.</string>
@@ -602,7 +607,7 @@ Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustelle
     <string name="set_ai_provider_custom_tip">Benutzerdefinierte KI muss den API-Spezifikationen von OpenAI entsprechen. Klicken Sie hier, um mehr zu erfahren!</string>
     <string name="set_ai_model">KI-Modell</string>
     <string name="set_ai_custom_input_rquire">Bitte geben Sie \"%s\" ein.</string>
-    <string name="set_ai_prompt">Note Chat Context</string>
+    <string name="set_ai_prompt">System-Hinweiswort</string>
     <string name="set_ai_prompt_tip">Der Platzhalter \"%s\" wird durch den Inhalt Ihrer Notiz ersetzt, wenn Sie mit der KI sprechen.</string>
     <string name="set_security_applock">App-Sperre</string>
     <string name="set_encrypt_note">Notizverschlüsselung</string>
@@ -610,12 +615,18 @@ Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustelle
     <string name="set_theme_and_style_summary">App-Themen, Editor-Themen, Schriftarten, Code-Stile und CSS usw.</string>
     <string name="set_theme">Thema</string>
     <string name="set_theme_theme">Thema anwenden</string>
+    <string name="set_ai_auto_parse">Notizen automatisch analysieren</string>
+    <string name="set_ai_auto_parse_summary">Wenn aktiviert, werden Titel, Beschreibung und Tags der Notizen analysiert.</string>
     <string name="set_theme_title">Wähle ein Thema</string>
     <string name="set_theme_theme_follow_system">Folgen Sie dem System</string>
     <string name="set_theme_theme_follow_system_tip">Folgen Sie dem System, um zwischen hellen und dunklen Themen zu wechseln.</string>
     <string name="set_theme_theme_warm">Morgendämmerung · Orange</string>
     <string name="set_theme_theme_cold">Vitalität · Grün</string>
     <string name="set_theme_theme_christmas">Weihnachtsnachtstraum</string>
+    <string name="set_ai_max_steps">Maximale Schrittanzahl des Agenten</string>
+    <string name="set_ai_max_steps_summary">Maximale Anzahl an Schlussfolgerungsrunden pro Aufgabe: %d</string>
+    <string name="set_ai_max_steps_tip">Der Agent stoppt, sobald diese Anzahl an Schlussfolgerungsrunden erreicht ist. Einstellbarer Bereich: %d–%d.</string>
+    <string name="set_ai_max_steps_invalid">Bitte geben Sie eine Zahl zwischen %d und %d ein.</string>
     <string name="set_theme_theme_lunar_new_year">Frohes Neues Jahr</string>
     <string name="set_theme_theme_dark">Elegant · Schwarz</string>
     <string name="set_theme_theme_purple">Edel·Lila</string>
@@ -679,6 +690,7 @@ Dieser Test dient dazu, den Nutzern die kostenpflichtigen Funktionen vorzustelle
     <string name="note_snippet_content">Inhalt</string>
     <string name="set_illegal_charset">Ungültige Zeichen</string>
     <string name="set_illegal_charset_sub">Ungültige Zeichen beim Konfigurieren von Dateinamen; die Anwendung ersetzt sie automatisch entsprechend Ihrer Konfiguration.</string>
+    <string name="note_snippet_dynamic_datetime_tip">Hinweis: Sie können {{date}} und {{time}} als dynamische Datum- und Uhrzeitangaben verwenden. Bei der Einfügung eines Snippets werden diese automatisch durch das aktuelle Datum und die aktuelle Uhrzeit ersetzt.</string>
     <string name="set_note_show_date">Zeitinformationen anzeigen</string>
     <string name="set_note_edit_directly">Notenauswahlmodus</string>
     <string name="set_note_edit_directly_sub">Wenn diese Funktion aktiviert ist, gelangen Sie beim Klicken auf eine Notiz direkt zur Bearbeitungsseite (und nicht zur Anzeigeseite).</string>
@@ -1227,4 +1239,52 @@ Los geht’s!</string>
     <string name="text_yes">Ist</string>
     <string name="text_no">Nein</string>
     <string name="config_new_version_default_desc">Die Details der Anwendung wurden optimiert.</string>
+    <string name="note_snippet_create_title">Neues Notizfragment</string>
+    <string name="ai_chat_group_name">Notiz-Chat</string>
+    <string name="set_ai_prompt_sub">Systemaufforderungswort auf der Notiz-Chat-Seite</string>
+    <string name="agent_empty_title">Sagen Sie dem Agenten, was Sie tun möchten</string>
+    <string name="agent_empty_subtitle">Notizen erstellen, bearbeiten und abfragen, Pläne erstellen, Notizen verwalten &#8230;</string>
+    <string name="input_mode_note">Notizen</string>
+    <string name="input_mode_agent">Agent</string>
+    <string name="input_mode_to_agent_toast">Wechsel in den Agent-Modus abgeschlossen. Eingegebene Inhalte werden als Befehle verarbeitet.</string>
+    <string name="input_mode_to_note_toast">Sie haben in den Notizmodus gewechselt. Eingegebener Inhalt wird als Notiz gespeichert.</string>
+    <string name="agent_title">Agent</string>
+    <string name="agent_back">Zurück</string>
+    <string name="agent_send">Senden</string>
+    <string name="agent_input_hint">Sagen Sie dem Agenten, was Sie tun möchten&#8230;</string>
+    <string name="agent_input_empty_toast">Bitte geben Sie den Befehl ein</string>
+    <string name="agent_history">Verlaufsaufgaben</string>
+    <string name="agent_new_task">Neue Aufgabe</string>
+    <string name="agent_history_empty">Es gibt noch keine Verlaufsaufgaben.</string>
+    <string name="agent_thinking">Denkt nach&#8230;</string>
+    <string name="agent_status_running">Wird ausgeführt</string>
+    <string name="agent_status_completed">Abgeschlossen</string>
+    <string name="agent_status_failed">Fehlgeschlagen</string>
+    <string name="agent_step_user">ich</string>
+    <string name="agent_step_thought">Denken</string>
+    <string name="agent_step_action">Werkzeug aufrufen</string>
+    <string name="agent_step_observation">Beobachten</string>
+    <string name="agent_step_answer">Antwort</string>
+    <string name="agent_step_error">Fehler</string>
+    <string name="agent_expand">Ausklappen</string>
+    <string name="agent_collapse">Einklappen</string>
+    <string name="agent_ai_not_configured">Bitte konfigurieren Sie zunächst die KI, bevor Sie den Agenten verwenden.</string>
+    <string name="agent_ai_disabled">KI ist deaktiviert. Bitte aktivieren Sie sie zunächst in den Einstellungen.</string>
+    <string name="agent_reached_max_steps">Agent hat die maximale Anzahl an Ausführungsschritten erreicht. Bitte verfeinern Sie Ihre Anweisung.</string>
+    <string name="agent_parse_error">KI-Antwortanalyse fehlgeschlagen. Bitte versuchen Sie es erneut.</string>
+    <string name="agent_answer_notes">Betroffene Notizen</string>
+    <string name="agent_danger_confirm_title">Bestätigungsvorgang</string>
+    <string name="agent_danger_confirm_message">Der Agent wird eine möglicherweise riskante Aktion ausführen.  
+\n
+
+\n
+Werkzeug: %1$s  
+\n
+Parameter: %2$s  
+\n
+
+\n
+Möchten Sie fortfahren?</string>
+    <string name="common_app_intro_title_5">Intelligent</string>
+    <string name="common_app_intro_detail_5">Mit Notizen interagieren, eingebaute KI-Agenten zur Ausführung, automatische Extraktion von Notizinformationen &#8230;\nErstellen Sie ein echtes zweites Gehirn</string>
 </resources>

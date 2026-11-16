@@ -89,10 +89,15 @@
     <string name="common_app_message">애플리케이션 메시지</string>
     <string name="data_statistics">통계</string>
     <string name="review">검토</string>
+    <string name="todo">할 일</string>
+    <string name="todo_empty_title">할 일 없음</string>
+    <string name="todo_empty_desc">노트에서 \"- [ ] 작업\" 형식의 마크다운 할 일 항목이 여기에 표시됩니다.</string>
+    <string name="todo_item_count">%1$d개</string>
     <string name="unit_day">일</string>
     <string name="unit_year">년</string>
     <string name="statistics_new_notes_this_month">이번 달 새 노트</string>
     <string name="statistics_top_tags">상위 5개 태그</string>
+    <string name="todo_filter_completed">완료된 작업 숨기기</string>
     <string name="statistics_storage">저장소</string>
     <string name="common_set_security">안전</string>
     <string name="common_set_security_symmary">앱 잠금, 지문 인식, 메모 암호화 등</string>
@@ -140,7 +145,7 @@
     <string name="common_set_security_biometric_title">인증해주세요</string>
     <string name="common_set_security_biometric_not_match">일치하지 않습니다. %d회 남았습니다.</string>
     <string name="common_set_security_biometric_summary">설정 후 바로 생체 정보를 사용하여 신원을 인증할 수 있습니다.</string>
-    <string name="common_app_intro_subtitle">당신을 다시 알아가기</string>
+    <string name="common_app_intro_subtitle">지능형 시대 시작</string>
     <string name="common_app_intro_title_2">클라우드 동기화</string>
     <string name="common_app_intro_detail_2">OneDrive, Dropbox, Cloudflare R2, Git, 바이두 웹디스크(Baidu Netdisk), WebDAV 및 외부 저장 디렉터리 등 7가지 동기화 방식을 지원하며, 메모를 수정하면 즉시 서버에 동기화됩니다.</string>
     <string name="common_app_intro_title_3">안전</string>
@@ -529,7 +534,7 @@
     <string name="compose_edit_option_name_NOTE_SNIPPET">노트 스니펫</string>
     <string name="compose_edit_note_snippet_title">노트 조각 선택</string>
     <string name="compose_edit_find_results">%d개의 결과</string>
-    <string name="compose_setting_quick_note_folder">빠른 메모</string>
+    <string name="compose_setting_quick_note_folder">저장 디렉토리</string>
     <string name="compose_setting_folder_change">메모 폴더 변경</string>
     <string name="compose_setting_folder_clear">메모 폴더 지우기</string>
     <string name="compose_setting_quick_note_folder_tip">팁: \"%s\" 아래의 노트 설정에서 빠른 노트를 저장할 폴더를 변경할 수 있습니다.</string>
@@ -602,7 +607,7 @@
     <string name="set_ai_provider_custom_tip">맞춤형 AI는 OpenAI의 API 사양을 준수해야 합니다. 자세히 알아보려면 클릭하세요!</string>
     <string name="set_ai_model">AI 모델</string>
     <string name="set_ai_custom_input_rquire">\"%s\"를 입력하세요.</string>
-    <string name="set_ai_prompt">Note Chat Context</string>
+    <string name="set_ai_prompt">시스템 프롬프트</string>
     <string name="set_ai_prompt_tip">AI와 대화할 때 플레이스홀더 \"%s\"는 귀하의 메모 내용으로 대체됩니다.</string>
     <string name="set_security_applock">앱 잠금</string>
     <string name="set_encrypt_note">노트 암호화</string>
@@ -610,12 +615,18 @@
     <string name="set_theme_and_style_summary">앱 테마, 편집기 테마, 글꼴, 코드 스타일, CSS 등</string>
     <string name="set_theme">주제</string>
     <string name="set_theme_theme">주제 적용</string>
+    <string name="set_ai_auto_parse">자동 노트 분석</string>
+    <string name="set_ai_auto_parse_summary">활성화 시 노트의 제목, 소개 및 태그 등의 정보를 분석합니다.</string>
     <string name="set_theme_title">테마 선택</string>
     <string name="set_theme_theme_follow_system">팔로우 시스템</string>
     <string name="set_theme_theme_follow_system_tip">밝은 테마와 어두운 테마 사이를 전환하려면 시스템을 따르세요.</string>
     <string name="set_theme_theme_warm">서광·오렌지</string>
     <string name="set_theme_theme_cold">활력·녹색</string>
     <string name="set_theme_theme_christmas">크리스마스 이브의 꿈</string>
+    <string name="set_ai_max_steps">에이전트 최대 단계 수</string>
+    <string name="set_ai_max_steps_summary">단일 작업당 최대 추론 반복 횟수: %d</string>
+    <string name="set_ai_max_steps_tip">지능형 에이전트는 이 추론 횟수에 도달하면 중지됩니다. 설정 가능한 범위: %d–%d.</string>
+    <string name="set_ai_max_steps_invalid">%d에서 %d 사이의 숫자를 입력하세요.</string>
     <string name="set_theme_theme_lunar_new_year">새해 복 많이 받으세요</string>
     <string name="set_theme_theme_dark">우아·블랙</string>
     <string name="set_theme_theme_purple">고귀·자색</string>
@@ -679,6 +690,7 @@
     <string name="note_snippet_content">콘텐츠</string>
     <string name="set_illegal_charset">불법 문자</string>
     <string name="set_illegal_charset_sub">파일 이름 구성 시 허용되지 않는 문자입니다. 앱은 사용자의 설정에 따라 자동으로 이를 대체합니다.</string>
+    <string name="note_snippet_dynamic_datetime_tip">참고: 동적 날짜 및 시간으로 {{date}} 및 {{time}}을 사용할 수 있으며, 조각을 삽입할 때 현재 날짜 및 시간으로 자동 대체됩니다.</string>
     <string name="set_note_show_date">시간 정보 표시</string>
     <string name="set_note_edit_directly">메모 선택 모드</string>
     <string name="set_note_edit_directly_sub">활성화 후 메모를 클릭하면 바로 편집 페이지로 이동합니다(보기 페이지가 아님).</string>
@@ -1228,4 +1240,54 @@
     <string name="text_yes">는</string>
     <string name="text_no">아니요</string>
     <string name="config_new_version_default_desc">앱의 세부 사항을 최적화했습니다.</string>
+    <string name="note_snippet_create_title">새로운 메모 조각 만들기</string>
+    <string name="ai_chat_group_name">노트 채팅</string>
+    <string name="set_ai_prompt_sub">노트 채팅 페이지의 시스템 프롬프트</string>
+    <string name="agent_empty_title">에이전트에게 하고 싶은 일을 알려주세요</string>
+    <string name="agent_empty_subtitle">노트 생성, 수정 및 조회, 계획 수립, 노트 관리&#8230;</string>
+    <string name="input_mode_note">노트</string>
+    <string name="input_mode_agent">에이전트</string>
+    <string name="input_mode_to_agent_toast">에이전트 모드로 전환되었습니다. 입력한 내용은 명령어로 처리됩니다.</string>
+    <string name="input_mode_to_note_toast">노트 모드로 전환되었습니다. 입력한 내용은 노트로 저장됩니다.</string>
+    <string name="agent_title">에이전트</string>
+    <string name="agent_back">뒤로 가기</string>
+    <string name="agent_send">보내기</string>
+    <string name="agent_input_hint">에이전트에게 무엇을 하려는지 알려주세요&#8230;</string>
+    <string name="agent_input_empty_toast">명령어를 입력하세요</string>
+    <string name="agent_history">과거 작업</string>
+    <string name="agent_new_task">새 작업 만들기</string>
+    <string name="agent_history_empty">아직 역사적 작업이 없습니다</string>
+    <string name="agent_thinking">생각 중&#8230;</string>
+    <string name="agent_status_running">실행 중</string>
+    <string name="agent_status_completed">완료됨</string>
+    <string name="agent_status_failed">실패</string>
+    <string name="agent_step_user">저</string>
+    <string name="agent_step_thought">생각</string>
+    <string name="agent_step_action">도구 호출</string>
+    <string name="agent_step_observation">관찰</string>
+    <string name="agent_step_answer">답변</string>
+    <string name="agent_step_error">오류</string>
+    <string name="agent_expand">펼치기</string>
+    <string name="agent_collapse">접기</string>
+    <string name="agent_ai_not_configured">먼저 AI를 설정한 후 에이전트를 사용하세요.</string>
+    <string name="agent_ai_disabled">AI가 비활성화되었습니다. 먼저 설정에서 활성화해 주세요.</string>
+    <string name="agent_reached_max_steps">에이전트가 최대 실행 단계 수에 도달했습니다. 지시를 더 세밀하게 조정해 주세요.</string>
+    <string name="agent_parse_error">AI 반환 콘텐츠 파싱 실패, 다시 시도하세요.</string>
+    <string name="agent_answer_notes">관련된 메모</string>
+    <string name="agent_danger_confirm_title">작업 확인</string>
+    <string name="agent_danger_confirm_message">에이전트가 위험할 수 있는 작업을 수행하려고 합니다.  
+\n
+
+\n
+도구: %1$s  
+\n
+매개변수: %2$s  
+\n
+
+\n
+계속하시겠습니까?</string>
+    <string name="common_app_intro_title_5">지능형</string>
+    <string name="common_app_intro_detail_5">노트와 대화하기, 내장 AI 에이전트 실행, 노트 정보 자동 추출&#8230;  
+\n
+진정한 제2의 뇌 만들기</string>
 </resources>
