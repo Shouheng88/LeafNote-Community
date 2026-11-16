@@ -1,0 +1,172 @@
+:name> todo
+:text> Задачи
+
+:name> todo_empty_title
+:text> Нет текущих задач
+
+:name> todo_empty_desc
+:text> Здесь отображаются элементы Markdown с незавершёнными задачами вида «- [ ] Задача» из заметок.
+
+:name> todo_item_count
+:text> %1$d элементов
+
+:name> todo_filter_completed
+:text> Скрыть завершённые задачи
+
+:name> common_app_intro_subtitle
+:text> Начать Эпоху Интеллекта
+
+:name> compose_setting_quick_note_folder
+:text> Каталог хранения
+
+:name> comn_crash_tips
+:text> Вы можете нажать [Сообщить о проблеме
+], чтобы помочь нам решить эту проблему! Вы также можете оставить отзыв, присоединившись к <a href="https://t.me/joinchat/Sg_qURuSlZdU1Vi-106Z0w">Telegram</a> или отправив электронное письмо на адрес <a href="mailto:shouheng2020@gmail.com">shouheng2020@gmail.com</a>.
+
+:name> set_ai_prompt
+:text> Системное подсказочное слово
+
+:name> set_ai_auto_parse
+:text> Автоматический анализ заметок
+
+:name> set_ai_auto_parse_summary
+:text> Если включить, будет запущен анализ заголовков, описаний и тегов заметок.
+
+:name> set_ai_max_steps
+:text> Максимальное количество шагов агента
+
+:name> set_ai_max_steps_summary
+:text> Максимальное количество циклов вывода для одной задачи: %d
+
+:name> set_ai_max_steps_tip
+:text> Агент прекратит рассуждения после достижения указанного числа итераций. Диапазон настройки: %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Пожалуйста, введите число от %d до %d.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Подсказка: для динамической вставки текущей даты и времени можно использовать {{date}} и {{time}}; при вставке фрагмента они будут автоматически заменены на текущие дату и время.
+
+:name> set_file_naming_summary
+:text> Правила именования файлов при их
+создании, текущие: %s
+
+:name> note_snippet_create_title
+:text> Создать фрагмент заметки
+
+:name> ai_chat_group_name
+:text> Заметки и чат
+
+:name> set_ai_prompt_sub
+:text> Системные подсказки на странице чата заметок
+
+:name> agent_empty_title
+:text> Скажите агенту, что вы хотите сделать
+
+:name> agent_empty_subtitle
+:text> Создание, редактирование и поиск заметок, планирование, управление заметками
+…
+
+:name> input_mode_note
+:text> Заметки
+
+:name> input_mode_agent
+:text> Агент
+
+:name> input_mode_to_agent_toast
+:text> Переключено в режим агента. Введённое содержимое будет обрабатываться как команда.
+
+:name> input_mode_to_note_toast
+:text> Переключено в режим заметок. Введённое содержимое будет сохранено как заметка.
+
+:name> agent_title
+:text> Агент
+
+:name> agent_back
+:text> Вернуться
+
+:name> agent_send
+:text> Отправить
+
+:name> agent_input_hint
+:text> Скажите агенту, что вы хотите сделать
+…
+
+:name> agent_input_empty_toast
+:text> Пожалуйста, введите команду
+
+:name> agent_history
+:text> История задач
+
+:name> agent_new_task
+:text> Создать задачу
+
+:name> agent_history_empty
+:text> История задач ещё не ведётся
+
+:name> agent_thinking
+:text> Думаю
+…
+
+:name> agent_status_running
+:text> Выполняется
+
+:name> agent_status_completed
+:text> Завершено
+
+:name> agent_status_failed
+:text> Неудача
+
+:name> agent_step_user
+:text> я
+
+:name> agent_step_thought
+:text> мышление
+
+:name> agent_step_action
+:text> Вызов инструмента
+
+:name> agent_step_observation
+:text> наблюдение
+
+:name> agent_step_answer
+:text> Ответ
+
+:name> agent_step_error
+:text> Ошибка
+
+:name> agent_expand
+:text> Развернуть
+
+:name> agent_collapse
+:text> Свернуть
+
+:name> agent_ai_not_configured
+:text> Сначала настройте ИИ, затем используйте агента.
+
+:name> agent_ai_disabled
+:text> ИИ отключен. Сначала включите его в настройках.
+
+:name> agent_reached_max_steps
+:text> Агент достиг максимального количества шагов выполнения. Уточните вашу инструкцию.
+
+:name> agent_parse_error
+:text> Сбой анализа содержимого, возвращённого ИИ. Повторите попытку.
+
+:name> agent_answer_notes
+:text> Затронутые заметки
+
+:name> agent_danger_confirm_title
+:text> Подтвердить операцию
+
+:name> agent_danger_confirm_message
+:text> Агент собирается выполнить потенциально опасную операцию.\n\nИнструмент: %1$s\nПараметры: %2$s\n\nПродолжить?
+
+:name> common_app_intro_title_5
+:text> Интеллектуальный
+
+:name> common_app_intro_detail_5
+:text> Диалог с заметками, встроенные ИИ-агенты для выполнения задач, автоматическое извлечение информации из заметок
+…
+\nСоздайте по-настоящему второе мозговое хранилище.
+

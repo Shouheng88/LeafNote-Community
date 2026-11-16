@@ -1,0 +1,184 @@
+:name> todo
+:text> 待办
+
+:name> todo_empty_title
+:text> 暂无待办事项
+
+:name> todo_empty_desc
+:text> 笔记中形如 - [ ] 任务 的 Markdown 待办会展示在这里。
+
+:name> todo_item_count
+:text> %1$d 项
+
+:name> todo_filter_completed
+:text> 隐藏已完成任务
+
+:name> common_app_intro_subtitle
+:text> 开始智能时代
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> 笔记片段
+
+:name> compose_edit_note_snippet_title
+:text> 选择笔记片段
+
+:name> compose_setting_quick_note_folder
+:text> 存储目录
+
+:name> set_ai_auto_parse
+:text> 自动解析笔记
+
+:name> set_ai_auto_parse_summary
+:text> 若启用将启动解析笔记的标题、简介和标签等信息
+
+:name> set_ai_prompt
+:text> 系统提示词
+
+:name> set_ai_max_steps
+:text> 智能体最大步数
+
+:name> set_ai_max_steps_summary
+:text> 单次任务最多推理轮数：%d
+
+:name> set_ai_max_steps_tip
+:text> 智能体达到该推理轮数后将停止。可设置范围：%d–%d。
+
+:name> set_ai_max_steps_invalid
+:text> 请输入 %d 到 %d 之间的数字。
+
+:name> set_note_snippet
+:text> 笔记片段
+
+:name> note_snippet_dynamic_datetime_tip
+:text> 提示：可使用 {{date}} 和 {{time}} 作为动态日期和时间，插入片段时会自动替换为当前的日期和时间。
+
+:name> set_sync_git_merge_conflict
+:text> 有 %1$d 个文件合并冲突，请先解
+决冲突再推送
+
+:name> input_panel_save_as_snippet
+:text> 存储为“笔记片段”
+
+:name> input_panel_save_snippet_success
+:text> 笔记片段保存成功！
+
+:name> snippet_list_empty_title
+:text> 没有可用笔记片段
+
+:name> snippet_list_empty_sub
+:text> 在首页底部编辑框和笔记片段管理页面均可创建笔记片段
+
+:name> note_snippet_create_title
+:text> 新建笔记片段
+
+:name> ai_chat_group_name
+:text> 笔记聊天
+
+:name> set_ai_prompt_sub
+:text> 笔记聊天页面中的系统提示词
+
+:name> input_mode_note
+:text> 笔记
+
+:name> input_mode_agent
+:text> Agent
+
+:name> input_mode_to_agent_toast
+:text> 已切换到 Agent 模式，输入内容将作为指令处理。
+
+:name> input_mode_to_note_toast
+:text> 已切换到笔记模式，输入内容将保存为笔记。
+
+:name> agent_title
+:text> Agent
+
+:name> agent_back
+:text> 返回
+
+:name> agent_send
+:text> 发送
+
+:name> agent_input_hint
+:text> 告诉 Agent 你想做什么…
+
+:name> agent_input_empty_toast
+:text> 请输入指令
+
+:name> agent_history
+:text> 历史任务
+
+:name> agent_new_task
+:text> 新建任务
+
+:name> agent_history_empty
+:text> 还没有历史任务
+
+:name> agent_thinking
+:text> 思考中…
+
+:name> agent_status_running
+:text> 执行中
+
+:name> agent_status_completed
+:text> 已完成
+
+:name> agent_status_failed
+:text> 失败
+
+:name> agent_step_user
+:text> 我
+
+:name> agent_step_thought
+:text> 思考
+
+:name> agent_step_action
+:text> 调用工具
+
+:name> agent_step_observation
+:text> 观察
+
+:name> agent_step_answer
+:text> 答案
+
+:name> agent_step_error
+:text> 错误
+
+:name> agent_expand
+:text> 展开
+
+:name> agent_collapse
+:text> 收起
+
+:name> agent_ai_not_configured
+:text> 请先配置 AI 后再使用 Agent。
+
+:name> agent_ai_disabled
+:text> AI 已被禁用，请先在设置中开启。
+
+:name> agent_reached_max_steps
+:text> Agent 达到最大执行步数，请细化你的指令。
+
+:name> agent_parse_error
+:text> AI 返回内容解析失败，请重试。
+
+:name> agent_answer_notes
+:text> 涉及的笔记
+
+:name> agent_danger_confirm_title
+:text> 确认操作
+
+:name> agent_danger_confirm_message
+:text> Agent 将要执行一个可能有风险的操作。\n\n工具：%1$s\n参数：%2$s\n\n是否继续？
+
+:name> agent_empty_title
+:text> 告诉 Agent 你想做什么
+
+:name> agent_empty_subtitle
+:text> 创建、修改和查询笔记，制定计划，管理笔记……
+
+:name> common_app_intro_title_5
+:text> 智能
+
+:name> common_app_intro_detail_5
+:text> 与笔记对话、内置 AI 代理执行、自动提炼笔记信息…\n打造真正的第二大脑
+

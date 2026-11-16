@@ -1,0 +1,171 @@
+:name> todo
+:text> À faire
+
+:name> todo_empty_title
+:text> Aucune tâche en attente
+
+:name> todo_empty_desc
+:text> Les éléments de la liste de tâches Markdown au format « - [ ] Tâche » présents dans les notes s’affichent ici.
+
+:name> todo_item_count
+:text> %1$d éléments
+
+:name> todo_filter_completed
+:text> Masquer les tâches terminées
+
+:name> common_app_intro_subtitle
+:text> Démarrer L’Ère Intelligente
+
+:name> compose_setting_quick_note_folder
+:text> Répertoire de stockage
+
+:name> set_ai_prompt
+:text> Indicateur système
+
+:name> set_ai_auto_parse
+:text> Analyse automatique des notes
+
+:name> set_ai_auto_parse_summary
+:text> Si activé, cela lancera l’analyse des informations telles que le titre, la description et les étiquettes des notes.
+
+:name> set_ai_max_steps
+:text> Nombre maximal d\'étapes de l\'agent intelligent
+
+:name> set_ai_max_steps_summary
+:text> Nombre maximal de tours d’inférence par tâche : %d
+
+:name> set_ai_max_steps_tip
+:text> L’agent intelligent cessera après avoir atteint ce nombre d’itérations de raisonnement. Plage autorisée : %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Veuillez entrer un nombre compris entre %d et %d.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Indication : Vous pouvez utiliser {{date}} et {{time}} comme dates et heures dynamiques ; elles seront automatiquement remplacées par la date et l’heure actuelles lors de l’insertion du fragment.
+
+:name> set_image_ocr_source
+:text> Configurer la source de données d
+e l\'API OCR
+
+:name> set_camera_type_system
+:text> Caméra système
+
+:name> note_snippet_create_title
+:text> Nouveau fragment de note
+
+:name> ai_chat_group_name
+:text> Notes conversation
+
+:name> set_ai_prompt_sub
+:text> Mot-clé système dans la page de discussion des notes
+
+:name> agent_empty_title
+:text> Dire à l’Agent ce que vous souhaitez faire
+
+:name> agent_empty_subtitle
+:text> Créer, modifier et rechercher des notes, établir des plans, gérer des notes
+…
+
+:name> input_mode_note
+:text> Notes
+
+:name> input_mode_agent
+:text> Agent
+
+:name> input_mode_to_agent_toast
+:text> Mode Agent activé : les entrées seront traitées comme des commandes.
+
+:name> input_mode_to_note_toast
+:text> Mode « Notes » activé : le contenu saisi sera enregistré sous forme de note.
+
+:name> agent_title
+:text> Agent
+
+:name> agent_back
+:text> Retour
+
+:name> agent_send
+:text> Envoyer
+
+:name> agent_input_hint
+:text> Dire à l’Agent ce que vous souhaitez faire
+…
+
+:name> agent_input_empty_toast
+:text> Veuillez entrer la commande
+
+:name> agent_history
+:text> Tâches historiques
+
+:name> agent_new_task
+:text> Nouvelle tâche
+
+:name> agent_history_empty
+:text> Aucune tâche historique n’a encore été enregistrée.
+
+:name> agent_thinking
+:text> En train de réfléchir
+…
+
+:name> agent_status_running
+:text> En cours d\'exécution
+
+:name> agent_status_completed
+:text> Terminé
+
+:name> agent_status_failed
+:text> Échec
+
+:name> agent_step_user
+:text> je
+
+:name> agent_step_thought
+:text> Réflexion
+
+:name> agent_step_action
+:text> Appeler un outil
+
+:name> agent_step_observation
+:text> Observer
+
+:name> agent_step_answer
+:text> Réponse
+
+:name> agent_step_error
+:text> Erreur
+
+:name> agent_expand
+:text> Développer
+
+:name> agent_collapse
+:text> Réduire
+
+:name> agent_ai_not_configured
+:text> Veuillez d’abord configurer l’IA avant d’utiliser l’agent.
+
+:name> agent_ai_disabled
+:text> L’IA a été désactivée. Veuillez l’activer d’abord dans les paramètres.
+
+:name> agent_reached_max_steps
+:text> L’agent a atteint le nombre maximal d’étapes d’exécution. Veuillez affiner votre instruction.
+
+:name> agent_parse_error
+:text> Échec de l’analyse du contenu renvoyé par l’IA. Veuillez réessayer.
+
+:name> agent_answer_notes
+:text> Notes concernées
+
+:name> agent_danger_confirm_title
+:text> Confirmer l’opération
+
+:name> agent_danger_confirm_message
+:text> L’agent s’apprête à exécuter une opération potentiellement risquée.\n\nOutil : %1$s\nParamètres : %2$s\n\nContinuer ?
+
+:name> common_app_intro_title_5
+:text> Intelligent
+
+:name> common_app_intro_detail_5
+:text> Discutez avec vos notes, exécution intégrée par un agent IA, extraction automatique des informations contenues dans les notes
+…
+\nCréez véritablement un « deuxième cerveau ».
+

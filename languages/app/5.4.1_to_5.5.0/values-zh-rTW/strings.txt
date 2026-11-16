@@ -1,0 +1,183 @@
+:name> todo
+:text> 待辦
+
+:name> todo_empty_title
+:text> 暫無待辦事項
+
+:name> todo_empty_desc
+:text> 筆記中形如 - [ ] 任務 的 Markdown 待辦會展示在這裡。
+
+:name> todo_item_count
+:text> %1$d 項
+
+:name> todo_filter_completed
+:text> 隱藏已完成任務
+
+:name> common_app_intro_subtitle
+:text> 開啟智慧時代
+
+:name> compose_edit_option_name_NOTE_SNIPPET
+:text> 筆記片段
+
+:name> compose_edit_note_snippet_title
+:text> 選擇筆記片段
+
+:name> compose_setting_quick_note_folder
+:text> 儲存目錄
+
+:name> set_ai_prompt
+:text> 系統提示詞
+
+:name> set_ai_auto_parse
+:text> 自動解析筆記
+
+:name> set_ai_auto_parse_summary
+:text> 若啟用將啟動解析筆記的標題、簡介和標籤等資訊
+
+:name> set_ai_max_steps
+:text> 智能體最大步數
+
+:name> set_ai_max_steps_summary
+:text> 單次任務最多推理輪數：%d
+
+:name> set_ai_max_steps_tip
+:text> 智能體達到該推理輪數後將停止。可設定範圍：%d–%d。
+
+:name> set_ai_max_steps_invalid
+:text> 請輸入 %d 到 %d 之間的數字。
+
+:name> note_snippet_dynamic_datetime_tip
+:text> 提示：可使用 {{date}} 和 {{time}} 作為動態日期和時間，插入片段時會自動替換為目前的日期和時間。
+
+:name> input_panel_save_as_snippet
+:text> 儲存為「筆記片段」
+
+:name> input_panel_save_snippet_success
+:text> 筆記片段儲存成功！
+
+:name> snippet_list_empty_title
+:text> 沒有可用筆記片段
+
+:name> snippet_list_empty_sub
+:text> 可在首頁底部編輯框及筆記片段管理頁面建立筆記片段
+
+:name> note_snippet_create_title
+:text> 新建筆記片段
+
+:name> ai_chat_group_name
+:text> 筆記聊天
+
+:name> set_ai_prompt_sub
+:text> 筆記聊天頁面中的系統提示詞
+
+:name> agent_empty_title
+:text> 告訴 Agent 你想做什麼
+
+:name> agent_empty_subtitle
+:text> 建立、修改與查詢筆記，制定計畫，管理筆記
+…
+…
+
+:name> input_mode_note
+:text> 筆記
+
+:name> input_mode_agent
+:text> 代理
+
+:name> input_mode_to_agent_toast
+:text> 已切換到 Agent 模式，輸入內容將作為指令處理。
+
+:name> input_mode_to_note_toast
+:text> 已切換到筆記模式，輸入內容將儲存為筆記。
+
+:name> agent_title
+:text> 代理
+
+:name> agent_back
+:text> 返回
+
+:name> agent_send
+:text> 發送
+
+:name> agent_input_hint
+:text> 告訴 Agent 你想做什麼
+…
+
+:name> agent_input_empty_toast
+:text> 請輸入指令
+
+:name> agent_history
+:text> 歷史任務
+
+:name> agent_new_task
+:text> 新建任務
+
+:name> agent_history_empty
+:text> 還沒有歷史任務
+
+:name> agent_thinking
+:text> 思考中
+…
+
+:name> agent_status_running
+:text> 執行中
+
+:name> agent_status_completed
+:text> 已完成
+
+:name> agent_status_failed
+:text> 失敗
+
+:name> agent_step_user
+:text> 我
+
+:name> agent_step_thought
+:text> 思考
+
+:name> agent_step_action
+:text> 呼叫工具
+
+:name> agent_step_observation
+:text> 觀察
+
+:name> agent_step_answer
+:text> 答案
+
+:name> agent_step_error
+:text> 錯誤
+
+:name> agent_expand
+:text> 展開
+
+:name> agent_collapse
+:text> 收起
+
+:name> agent_ai_not_configured
+:text> 請先設定 AI 後再使用 Agent。
+
+:name> agent_ai_disabled
+:text> AI 已被停用，請先於設定中啟用。
+
+:name> agent_reached_max_steps
+:text> Agent 達到最大執行步數，請細化您的指令。
+
+:name> agent_parse_error
+:text> AI 回傳內容解析失敗，請重試。
+
+:name> agent_answer_notes
+:text> 涉及的筆記
+
+:name> agent_danger_confirm_title
+:text> 確認操作
+
+:name> agent_danger_confirm_message
+:text> Agent 即將執行一個可能具有風險的操作。\n\n工具：%1$s\n參數：%2$s\n\n是否繼續？
+
+:name> common_app_intro_title_5
+:text> 智慧
+
+:name> common_app_intro_detail_5
+:text> 與筆記對話、內建 AI 代理執行、自動提煉筆記資訊
+…
+\n打造真正的第二大腦
+

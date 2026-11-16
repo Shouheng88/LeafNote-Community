@@ -1,0 +1,180 @@
+:name> todo
+:text> Pendientes
+
+:name> todo_empty_title
+:text> No hay tareas pendientes
+
+:name> todo_empty_desc
+:text> Las tareas pendientes en Markdown con el formato - [ ] Tarea de tus notas se mostrarán aquí.
+
+:name> todo_item_count
+:text> %1$d elementos
+
+:name> todo_filter_completed
+:text> Ocultar tareas completadas
+
+:name> common_app_intro_subtitle
+:text> Iniciar la Era Inteligente
+
+:name> compose_setting_quick_note_folder
+:text> Directorio de almacenamiento
+
+:name> set_ai_prompt
+:text> Sugerencia del sistema
+
+:name> set_ai_auto_parse
+:text> Analizar notas automáticamente
+
+:name> set_ai_auto_parse_summary
+:text> Si se activa, se iniciará el análisis de la información del título, resumen y etiquetas de las notas.
+
+:name> set_ai_max_steps
+:text> Número máximo de pasos del agente inteligente
+
+:name> set_ai_max_steps_summary
+:text> Número máximo de rondas de razonamiento por tarea: %d
+
+:name> set_ai_max_steps_tip
+:text> El agente inteligente dejará de razonar tras alcanzar este número de iteraciones. Rango configurable: %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Por favor, introduzca un número entre %d y %d.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Sugerencia: Puede usar {{date}} y {{time}} como fecha y hora dinámicas; se sustituirán automáticamente por la fecha y hora actuales al insertar el fragmento.
+
+:name> set_note_display_image_sub
+:text> Una vez habilitad
+o, las imágenes se mostrarán en la lista de notas; de lo contrario, no se mostrarán.
+
+:name> set_sync_server_connect_failed
+:text> La prueba de conexión falló. Verifique su configuración y vuelva a intentarlo.
+
+:name> note_snippet_create_title
+:text> Nuevo fragmento de nota
+
+:name> ai_chat_group_name
+:text> Notas y chat
+
+:name> set_ai_prompt_sub
+:text> Palabras clave del sistema en la página de chat de notas
+
+:name> agent_empty_title
+:text> Decirle al agente qué quieres hacer
+
+:name> agent_empty_subtitle
+:text> Crear, modificar y consultar notas, elaborar planes, gestionar notas
+…
+
+:name> input_mode_note
+:text> Notas
+
+:name> input_mode_agent
+:text> Agente
+
+:name> input_mode_to_agent_toast
+:text> Se ha cambiado al modo Agente; el contenido introducido se tratará como una instrucción.
+
+:name> input_mode_to_note_toast
+:text> Modo de notas activado. El contenido que escriba se guardará como una nota.
+
+:name> agent_title
+:text> Agente
+
+:name> agent_back
+:text> Volver
+
+:name> agent_send
+:text> Enviar
+
+:name> agent_input_hint
+:text> Decirle al agente qué quieres hacer
+…
+
+:name> agent_input_empty_toast
+:text> Por favor, ingrese el comando
+
+:name> agent_history
+:text> Tareas históricas
+
+:name> agent_new_task
+:text> Nueva tarea
+
+:name> agent_history_empty
+:text> No hay tareas históricas aún
+
+:name> agent_thinking
+:text> Pensando
+…
+
+:name> agent_status_running
+:text> En ejecución
+
+:name> agent_status_completed
+:text> Completado
+
+:name> agent_status_failed
+:text> Fallo
+
+:name> agent_step_user
+:text> yo
+
+:name> agent_step_thought
+:text> Reflexión
+
+:name> agent_step_action
+:text> Invocar herramienta
+
+:name> agent_step_observation
+:text> Observar
+
+:name> agent_step_answer
+:text> Respuesta
+
+:name> agent_step_error
+:text> Error
+
+:name> agent_expand
+:text> Expandir
+
+:name> agent_collapse
+:text> Contraer
+
+:name> agent_ai_not_configured
+:text> Por favor, configure primero la IA antes de usar el agente.
+
+:name> agent_ai_disabled
+:text> La IA ha sido desactivada; actívela primero en la configuración.
+
+:name> agent_reached_max_steps
+:text> El agente ha alcanzado el número máximo de pasos de ejecución. Por favor, detalla más tus instrucciones.
+
+:name> agent_parse_error
+:text> Error al analizar el contenido devuelto por la IA. Vuelva a intentarlo.
+
+:name> agent_answer_notes
+:text> Notas implicadas
+
+:name> agent_danger_confirm_title
+:text> Confirmar operación
+
+:name> agent_danger_confirm_message
+:text> El agente va a realizar una operación que podría ser arriesgada.
+\n
+\n
+Herramienta: %1$s
+\n
+Parámetros: %2$s
+\n
+\n
+¿Desea continuar?
+
+:name> common_app_intro_title_5
+:text> Inteligente
+
+:name> common_app_intro_detail_5
+:text> Conversar con tus notas, ejecución integrada de agentes de IA, extracción automática de información de las notas
+…
+\n
+Crea tu verdadero segundo cerebro
+

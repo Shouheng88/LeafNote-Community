@@ -1,0 +1,172 @@
+:name> todo
+:text> Aufgaben
+
+:name> todo_empty_title
+:text> Keine Aufgaben vorhanden
+
+:name> todo_empty_desc
+:text> Aufgaben in Markdown-Format mit der Form „- [ ] Aufgabe“ in Notizen werden hier angezeigt.
+
+:name> todo_item_count
+:text> %1$d Einträge
+
+:name> todo_filter_completed
+:text> Abgeschlossene Aufgaben ausblenden
+
+:name> common_app_intro_subtitle
+:text> Den Intelligenten Zeitalter Beginnen
+
+:name> compose_setting_quick_note_folder
+:text> Speicherordner
+
+:name> set_ai_prompt
+:text> System-Hinweiswort
+
+:name> set_ai_auto_parse
+:text> Notizen automatisch analysieren
+
+:name> set_ai_auto_parse_summary
+:text> Wenn aktiviert, werden Titel, Beschreibung und Tags der Notizen analysiert.
+
+:name> set_ai_max_steps
+:text> Maximale Schrittanzahl des Agenten
+
+:name> set_ai_max_steps_summary
+:text> Maximale Anzahl an Schlussfolgerungsrunden pro Aufgabe: %d
+
+:name> set_ai_max_steps_tip
+:text> Der Agent stoppt, sobald diese Anzahl an Schlussfolgerungsrunden erreicht ist. Einstellbarer Bereich: %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Bitte geben Sie eine Zahl zwischen %d und %d ein.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Hinweis: Sie können {{date}} und {{time}} als dynamische Datum- und Uhrzeitangaben verwenden. Bei der Einfügung eines Snippets werden diese automatisch durch das aktuelle Datum und die aktuelle Uhrzeit ersetzt.
+
+:name> note_snippet_create_title
+:text> Neues Notizfragment
+
+:name> ai_chat_group_name
+:text> Notiz-Chat
+
+:name> set_ai_prompt_sub
+:text> Systemaufforderungswort auf der Notiz-Chat-Seite
+
+:name> agent_empty_title
+:text> Sagen Sie dem Agenten, was Sie tun möchten
+
+:name> agent_empty_subtitle
+:text> Notizen erstellen, bearbeiten und abfragen, Pläne erstellen, Notizen verwalten
+…
+
+:name> input_mode_note
+:text> Notizen
+
+:name> input_mode_agent
+:text> Agent
+
+:name> input_mode_to_agent_toast
+:text> Wechsel in den Agent-Modus abgeschlossen. Eingegebene Inhalte werden als Befehle verarbeitet.
+
+:name> input_mode_to_note_toast
+:text> Sie haben in den Notizmodus gewechselt. Eingegebener Inhalt wird als Notiz gespeichert.
+
+:name> agent_title
+:text> Agent
+
+:name> agent_back
+:text> Zurück
+
+:name> agent_send
+:text> Senden
+
+:name> agent_input_hint
+:text> Sagen Sie dem Agenten, was Sie tun möchten
+…
+
+:name> agent_input_empty_toast
+:text> Bitte geben Sie den Befehl ein
+
+:name> agent_history
+:text> Verlaufsaufgaben
+
+:name> agent_new_task
+:text> Neue Aufgabe
+
+:name> agent_history_empty
+:text> Es gibt noch keine Verlaufsaufgaben.
+
+:name> agent_thinking
+:text> Denkt nach
+…
+
+:name> agent_status_running
+:text> Wird ausgeführt
+
+:name> agent_status_completed
+:text> Abgeschlossen
+
+:name> agent_status_failed
+:text> Fehlgeschlagen
+
+:name> agent_step_user
+:text> ich
+
+:name> agent_step_thought
+:text> Denken
+
+:name> agent_step_action
+:text> Werkzeug aufrufen
+
+:name> agent_step_observation
+:text> Beobachten
+
+:name> agent_step_answer
+:text> Antwort
+
+:name> agent_step_error
+:text> Fehler
+
+:name> agent_expand
+:text> Ausklappen
+
+:name> agent_collapse
+:text> Einklappen
+
+:name> agent_ai_not_configured
+:text> Bitte konfigurieren Sie zunächst die KI, bevor Sie den Agenten verwenden.
+
+:name> agent_ai_disabled
+:text> KI ist deaktiviert. Bitte aktivieren Sie sie zunächst in den Einstellungen.
+
+:name> agent_reached_max_steps
+:text> Agent hat die maximale Anzahl an Ausführungsschritten erreicht. Bitte verfeinern Sie Ihre Anweisung.
+
+:name> agent_parse_error
+:text> KI-Antwortanalyse fehlgeschlagen. Bitte versuchen Sie es erneut.
+
+:name> agent_answer_notes
+:text> Betroffene Notizen
+
+:name> agent_danger_confirm_title
+:text> Bestätigungsvorgang
+
+:name> agent_danger_confirm_message
+:text> Der Agent wird eine möglicherweise riskante Aktion ausführen.
+\n
+\n
+Werkzeug: %1$s
+\n
+Parameter: %2$s
+\n
+\n
+Möchten Sie fortfahren?
+
+:name> common_app_intro_title_5
+:text> Intelligent
+
+:name> common_app_intro_detail_5
+:text> Mit Notizen interagieren, eingebaute KI-Agenten zur Ausführung, automatische Extraktion von Notizinformationen
+…
+\nErstellen Sie ein echtes zweites Gehirn
+

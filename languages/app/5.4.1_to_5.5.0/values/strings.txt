@@ -1,0 +1,163 @@
+:name> todo
+:text> TODO
+
+:name> todo_empty_title
+:text> No TODO items
+
+:name> todo_empty_desc
+:text> Markdown tasks such as - [ ] Task in your notes will be shown here.
+
+:name> todo_item_count
+:text> %1$d items
+
+:name> todo_filter_completed
+:text> Hide completed tasks
+
+:name> common_app_intro_subtitle
+:text> Start The Intelligent Era
+
+:name> compose_setting_quick_note_folder
+:text> Storage Directory
+
+:name> set_ai_auto_parse
+:text> Auto parse note
+
+:name> set_ai_auto_parse_summary
+:text> If enabled, the title, description and tags of a note will be parsed automatically after saving.
+
+:name> set_ai_prompt
+:text> System Prompt
+
+:name> set_ai_max_steps
+:text> Agent Max Steps
+
+:name> set_ai_max_steps_summary
+:text> Maximum reasoning rounds per task: %d
+
+:name> set_ai_max_steps_tip
+:text> The agent stops after reaching this number of reasoning rounds. Range: %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Please enter a number between %d and %d.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Tip: Use {{date}} and {{time}} as dynamic date and time. They will be automatically replaced with the current date and time when the snippet is inserted.
+
+:name> note_snippet_create_title
+:text> New Snippet
+
+:name> ai_chat_group_name
+:text> Notes Chat
+
+:name> set_ai_prompt_sub
+:text> System prompt words in the note chat page
+
+:name> input_mode_note
+:text> Note
+
+:name> input_mode_agent
+:text> Agent
+
+:name> input_mode_to_agent_toast
+:text> Switched to Agent mode. Your input will be handled as an instruction.
+
+:name> input_mode_to_note_toast
+:text> Switched to Note mode. Your input will be saved as a note.
+
+:name> agent_title
+:text> Agent
+
+:name> agent_back
+:text> Back
+
+:name> agent_send
+:text> Send
+
+:name> agent_input_hint
+:text> Tell the agent what to do…
+
+:name> agent_input_empty_toast
+:text> Please enter an instruction.
+
+:name> agent_history
+:text> History
+
+:name> agent_new_task
+:text> New task
+
+:name> agent_history_empty
+:text> No history tasks yet.
+
+:name> agent_thinking
+:text> Thinking…
+
+:name> agent_status_running
+:text> Running
+
+:name> agent_status_completed
+:text> Completed
+
+:name> agent_status_failed
+:text> Failed
+
+:name> agent_step_user
+:text> You
+
+:name> agent_step_thought
+:text> Thought
+
+:name> agent_step_action
+:text> Action
+
+:name> agent_step_observation
+:text> Observation
+
+:name> agent_step_answer
+:text> Answer
+
+:name> agent_step_error
+:text> Error
+
+:name> agent_expand
+:text> Expand
+
+:name> agent_collapse
+:text> Collapse
+
+:name> agent_ai_not_configured
+:text> Please configure AI before using the agent.
+
+:name> agent_ai_disabled
+:text> AI is disabled. Please enable it in settings.
+
+:name> agent_reached_max_steps
+:text> The agent reached the maximum number of steps. Please refine your instruction.
+
+:name> agent_parse_error
+:text> The AI response could not be parsed. Please try again.
+
+:name> agent_answer_notes
+:text> Related notes
+
+:name> agent_danger_confirm_title
+:text> Confirm action
+
+:name> agent_danger_confirm_message
+:text> The agent wants to perform a potentially dangerous action.\n\nTool: %1$s\nParameters: %2$s\n\nContinue?
+
+:name> agent_empty_title
+:text> Tell the Agent what you want to do
+
+:name> agent_empty_subtitle
+:text> Create, modify, and query notes; plan tasks; manage notes
+…
+
+:name> common_app_intro_title_5
+:text> Intelligent
+
+:name> common_app_intro_detail_5
+:text> Chat with notes, built-in AI agent execution, automatic note information distillation
+…
+\n
+Build a true second brain
+

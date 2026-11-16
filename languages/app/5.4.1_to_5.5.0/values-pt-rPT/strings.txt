@@ -1,0 +1,167 @@
+:name> todo
+:text> Tarefas pendentes
+
+:name> todo_empty_title
+:text> Nenhuma tarefa pendente
+
+:name> todo_empty_desc
+:text> As tarefas em Markdown no formato - [ ] Tarefa nas notas serão exibidas aqui.
+
+:name> todo_item_count
+:text> %1$d itens
+
+:name> todo_filter_completed
+:text> Ocultar tarefas concluídas
+
+:name> common_app_intro_subtitle
+:text> Iniciar a Era Inteligente
+
+:name> compose_setting_quick_note_folder
+:text> Diretório de armazenamento
+
+:name> set_ai_prompt
+:text> Sugestão do sistema
+
+:name> set_ai_auto_parse
+:text> Analisar notas automaticamente
+
+:name> set_ai_auto_parse_summary
+:text> Se ativado, iniciará a análise das informações do título, resumo e tags das notas.
+
+:name> set_ai_max_steps
+:text> Número máximo de etapas do agente inteligente
+
+:name> set_ai_max_steps_summary
+:text> Número máximo de iterações de raciocínio por tarefa: %d
+
+:name> set_ai_max_steps_tip
+:text> O agente inteligente interromperá após atingir este número de iterações de raciocínio. Intervalo configurável: %d–%d.
+
+:name> set_ai_max_steps_invalid
+:text> Por favor, insira um número entre %d e %d.
+
+:name> note_snippet_dynamic_datetime_tip
+:text> Dica: Você pode usar {{date}} e {{time}} como data e hora dinâmicas; elas serão automaticamente substituídas pela data e hora atuais ao inserir o trecho.
+
+:name> set_note_image_compress_quality_sub
+:text> Qualidade da compressão de imagens. Quanto maior o valor, maior a nitidez e maior o espaço ocupado. Valor atual: %d
+
+:name> note_snippet_create_title
+:text> Novo trecho de nota
+
+:name> ai_chat_group_name
+:text> Notas bate-papo
+
+:name> set_ai_prompt_sub
+:text> Palavras de prompt do sistema na página de bate-papo de notas
+
+:name> agent_empty_title
+:text> Diga ao Agente o que você quer fazer
+
+:name> agent_empty_subtitle
+:text> Criar, modificar e consultar notas, elaborar planos, gerenciar notas
+…
+
+:name> input_mode_note
+:text> Notas
+
+:name> input_mode_agent
+:text> Agente
+
+:name> input_mode_to_agent_toast
+:text> Modo Agente ativado. A entrada será tratada como um comando.
+
+:name> input_mode_to_note_toast
+:text> Modo de notas ativado. O conteúdo inserido será salvo como nota.
+
+:name> agent_title
+:text> Agente
+
+:name> agent_back
+:text> Voltar
+
+:name> agent_send
+:text> Enviar
+
+:name> agent_input_hint
+:text> Diga ao Agente o que você quer fazer
+…
+
+:name> agent_input_empty_toast
+:text> Por favor, insira o comando
+
+:name> agent_history
+:text> Tarefas históricas
+
+:name> agent_new_task
+:text> Nova tarefa
+
+:name> agent_history_empty
+:text> Ainda não há tarefas históricas
+
+:name> agent_thinking
+:text> Pensando
+…
+
+:name> agent_status_running
+:text> Em execução
+
+:name> agent_status_completed
+:text> Concluído
+
+:name> agent_status_failed
+:text> falha
+
+:name> agent_step_user
+:text> eu
+
+:name> agent_step_thought
+:text> Pensamento
+
+:name> agent_step_action
+:text> Chamar ferramenta
+
+:name> agent_step_observation
+:text> Observar
+
+:name> agent_step_answer
+:text> Resposta
+
+:name> agent_step_error
+:text> Erro
+
+:name> agent_expand
+:text> Expandir
+
+:name> agent_collapse
+:text> Recolher
+
+:name> agent_ai_not_configured
+:text> Por favor, configure a IA primeiro antes de usar o Agente.
+
+:name> agent_ai_disabled
+:text> A IA foi desativada. Ative-a primeiro nas configurações.
+
+:name> agent_reached_max_steps
+:text> Agente atingiu o número máximo de etapas de execução; por favor, refine sua instrução.
+
+:name> agent_parse_error
+:text> Falha na análise do conteúdo retornado pela IA. Tente novamente.
+
+:name> agent_answer_notes
+:text> Notas envolvidas
+
+:name> agent_danger_confirm_title
+:text> Confirmar operação
+
+:name> agent_danger_confirm_message
+:text> O Agente está prestes a executar uma operação potencialmente arriscada.\n\nFerramenta: %1$s\nParâmetros: %2$s\n\nDeseja continuar?
+
+:name> common_app_intro_title_5
+:text> Inteligente
+
+:name> common_app_intro_detail_5
+:text> Converse com suas notas, execute ações com agentes de IA integrados, destile automaticamente informações das notas
+…
+\nCrie um verdadeiro segundo cérebro
+

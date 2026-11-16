@@ -1,0 +1,178 @@
+:name> todo
+:text> タスク
+
+:name> todo_empty_title
+:text> 未完了のタスクはありません
+
+:name> todo_empty_desc
+:text> ノート内で「- [ ] タスク」という形式のMarkdown形式の未完了タスクがここに表示されます。
+
+:name> todo_item_count
+:text> %1$d件
+
+:name> todo_filter_completed
+:text> 完了済みのタスクを非表示
+
+:name> common_app_intro_subtitle
+:text> スマート時代の始まり
+
+:name> compose_setting_quick_note_folder
+:text> ストレージディレクトリ
+
+:name> set_ai_prompt
+:text> システムプロンプト
+
+:name> set_ai_auto_parse
+:text> ノートの自動解析
+
+:name> set_ai_auto_parse_summary
+:text> 有効にした場合、ノートのタイトル、概要、タグなどの情報を解析します。
+
+:name> set_ai_max_steps
+:text> エージェントの最大ステップ数
+
+:name> set_ai_max_steps_summary
+:text> 1回のタスクにおける最大推論ラウンド数：%d
+
+:name> set_ai_max_steps_tip
+:text> エージェントはこの推論回数に達すると停止します。設定可能な範囲：%d–%d。
+
+:name> set_ai_max_steps_invalid
+:text> %d から %d の間の数字を入力してください。
+
+:name> set_illegal_charset_sub
+:text> ファイル名の設定時に無効な文字が使用された場合、アプリケーションはユーザーの設定に基づいて自動的に置換し
+ます。
+
+:name> note_snippet_dynamic_datetime_tip
+:text> ヒント：動的な日付および時刻として {{date}} および {{time}} を使用できます。スニペットを挿入する際に、現在の日付および時刻に自動的に置き換えられます。
+
+:name> note_snippet_create_title
+:text> 新規ノートスニペット
+
+:name> ai_chat_group_name
+:text> ノートチャット
+
+:name> set_ai_prompt_sub
+:text> ノートチャットページ内のシステムプロンプト
+
+:name> agent_empty_title
+:text> Agent にやりたいことを伝えてください
+
+:name> agent_empty_subtitle
+:text> ノートの作成、編集、検索、計画の立案、ノートの管理
+…
+…
+
+:name> input_mode_note
+:text> ノート
+
+:name> input_mode_agent
+:text> Agent
+
+:name> input_mode_to_agent_toast
+:text> エージェントモードに切り替えられました。入力された内容はコマンドとして処理されます。
+
+:name> input_mode_to_note_toast
+:text> ノートモードに切り替わりました。入力した内容はノートとして保存されます。
+
+:name> agent_title
+:text> エージェント
+
+:name> agent_back
+:text> 戻る
+
+:name> agent_send
+:text> 送信
+
+:name> agent_input_hint
+:text> エージェントに何をしたいかを教えてください
+…
+
+:name> agent_input_empty_toast
+:text> コマンドを入力してください
+
+:name> agent_history
+:text> 履歴タスク
+
+:name> agent_new_task
+:text> 新規タスク
+
+:name> agent_history_empty
+:text> まだ履歴タスクがありません
+
+:name> agent_thinking
+:text> 思考中
+…
+
+:name> agent_status_running
+:text> 実行中
+
+:name> agent_status_completed
+:text> 完了しました
+
+:name> agent_status_failed
+:text> 失敗
+
+:name> agent_step_user
+:text> 私
+
+:name> agent_step_thought
+:text> 思考
+
+:name> agent_step_action
+:text> ツールを呼び出す
+
+:name> agent_step_observation
+:text> 観察
+
+:name> agent_step_answer
+:text> 答え
+
+:name> agent_step_error
+:text> エラー
+
+:name> agent_expand
+:text> 展開
+
+:name> agent_collapse
+:text> 折りたたむ
+
+:name> agent_ai_not_configured
+:text> まずAIを設定してから、Agentを使用してください。
+
+:name> agent_ai_disabled
+:text> AIは無効になっています。まず設定で有効化してください。
+
+:name> agent_reached_max_steps
+:text> Agent が最大実行ステップ数に達しました。指示をより詳細に指定してください。
+
+:name> agent_parse_error
+:text> AI からの返信内容の解析に失敗しました。再試行してください。
+
+:name> agent_answer_notes
+:text> 関連するノート
+
+:name> agent_danger_confirm_title
+:text> 操作を確認
+
+:name> agent_danger_confirm_message
+:text> Agent がリスクを伴う可能性のある操作を実行しようとしています。
+\n
+\n
+ツール：%1$s
+\n
+パラメータ：%2$s
+\n
+\n
+続行しますか？
+
+:name> common_app_intro_title_5
+:text> スマート
+
+:name> common_app_intro_detail_5
+:text> ノートと対話、内蔵AIエージェントによる実行、ノート情報の自動抽出
+…
+\n
+本物の「第二の脳」を構築
+
